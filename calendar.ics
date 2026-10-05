@@ -1,0 +1,1939 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-4eaa074cc3f15db7@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:OBI: Abertura das inscrições da OBI 2026
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: registration
+ \nEvidência: Dia 6: Abertura das inscrições\, Evento Geral.\nFonte ofic
+ ial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ed1d104c38a44a19@noic.com.br
+DTSTAMP:20261003T175335Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260326
+SUMMARY:Canguru de Matemática: Aplicação das Provas
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: Aplicação das Provas 19/03/26 a 25/03/26\nFonte oficial: https://ww
+ w.cangurudematematicabrasil.com.br/
+URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2ed36f2a47c1590d@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260511
+SUMMARY:OBECON: OBECON 2026 — inscrições
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: registration\nEv
+ idência: 08 de Abril a 10 de Maio — Inscrições 2026.\nFonte oficial: 
+ https://www.obecon.org.br/
+URL:https://www.obecon.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5a8feb0c07414bf2@noic.com.br
+DTSTAMP:20261003T175237Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260721
+SUMMARY:OBG: Inscrições
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: registration\nE
+ vidência: Inscrições 09/04 a 20/07/2026\nFonte oficial: https://obgeogr
+ afia.com.br/
+URL:https://obgeografia.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1bf5d9ad7a5e941e@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260511
+SUMMARY:OBECON: OBECON 2026 — primeira fase
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: round\nEvidênci
+ a: 4 a 10 de Maio — Primeira Fase.\nFonte oficial: https://www.obecon.or
+ g.br/
+URL:https://www.obecon.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a1f50cb8b888f92e@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260510
+SUMMARY:ONHB: ONHB 2026 — primeira fase
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: round\nEvidênc
+ ia: A primeira fase inicia no dia 04/05/2026 e finaliza no dia 09/05/2026.
+ \nFonte oficial: https://www.olimpiadadehistoria.com.br/noticias/ler/399
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/399
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-01c6335b9bfebc58@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260517
+SUMMARY:ONHB: ONHB 2026 — segunda fase
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: round\nEvidênc
+ ia: A segunda fase inicia no dia 11/05/2026 e finaliza no dia 16/05/2026.\
+ nFonte oficial: https://www.olimpiadadehistoria.com.br/noticias/ler/399
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/399
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-765608b6bf51d9da@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260519
+SUMMARY:EGOI: EGOI 2026 — período da competição
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: EGOI 2026 will take place from 12 to 18 May 2026. The competition 
+ days are Thursday 14 May and Saturday 16 May.\nFonte oficial: https://egoi
+ 2026.it/event/schedule/
+URL:https://egoi2026.it/event/schedule/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4d112661bfe091c8@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:EGOI: EGOI 2026 — prova 1
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: The competition days are Thursday 14 May and Saturday 16 May.\nFonte
+  oficial: https://egoi2026.it/event/schedule/
+URL:https://egoi2026.it/event/schedule/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-91893a53d46fba77@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:EGOI: EGOI 2026 — prova 2
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: The competition days are Thursday 14 May and Saturday 16 May.\nFonte
+  oficial: https://egoi2026.it/event/schedule/
+URL:https://egoi2026.it/event/schedule/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c075ede4fa7abf5f@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260524
+SUMMARY:ONHB: ONHB 2026 — terceira fase
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: round\nEvidênc
+ ia: A terceira fase inicia no dia 18/05/2026 e finaliza no dia 23/05/2026.
+ \nFonte oficial: https://www.olimpiadadehistoria.com.br/noticias/ler/399
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/399
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1ecabe3b1dd8adf8@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+SUMMARY:COPAS: Copa Nordeste de Foguetes 2026
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: 23 e 24 de maio de 2026.\nFonte oficial: https://estelareducacional.com
+ .br/copa-nordeste-2026/
+URL:https://estelareducacional.com.br/copa-nordeste-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-45ea88876f690bee@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260531
+SUMMARY:ONHB: ONHB 2026 — quarta fase
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: round\nEvidênc
+ ia: A quarta fase inicia no dia 25/05/2026 e finaliza no dia 30/05/2026.\n
+ Fonte oficial: https://www.olimpiadadehistoria.com.br/noticias/ler/399
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/399
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7064fe381f501380@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:OBI: OBI 2026 — prazo para cadastro de escolas (Iniciação)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Último dia para cadastro de escolas que participam da Modalidad
+ e Iniciação.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/
+ obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fc3e85bb663d01ac@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:OBI: OBI 2026 — prazo de inscrição dos competidores (Iniciaçã
+ o)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Último dia para inscrição de competidores da Modalidade Inici
+ ação.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_com
+ pleto
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b260c235bcd59e38@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260530
+SUMMARY:OBI: OBI 2026 — prova da Fase 1 (Iniciação)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Prova da Fase 1\, Modalidade Iniciação\; período de 27 a 29 de 
+ maio.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_compl
+ eto
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-48b6b9064d2d54c7@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260701
+SUMMARY:OBMF: Inscrições individuais - 1º período
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
+ Evidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5d116d3c0ad61680@noic.com.br
+DTSTAMP:20261003T175546Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260701
+SUMMARY:OBGP: Inscrições - 1º período (individual)
+DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
+ nEvidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFont
+ e oficial: https://www.seletaeducacao.com.br/obgp
+URL:https://www.seletaeducacao.com.br/obgp
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-766d87d302a18009@noic.com.br
+DTSTAMP:20261003T175242Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260910
+SUMMARY:OBGP: Inscrição de grupos de alunos feita por Escolas
+DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
+ nEvidência: Ocorre em período único: 01/06/2026 a 09/09/2026\nFonte ofi
+ cial: https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2
+ 2908675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
+URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
+ 8675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f585875c783c2270@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260924
+SUMMARY:OBMF: Inscrição de grupos de alunos feita por Escolas
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
+ Evidência: Ocorre em período único (01/06/2026 a 23/09/2026)\nFonte ofi
+ cial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a6782376b7a0791c@noic.com.br
+DTSTAMP:20261003T175335Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20261013
+SUMMARY:Canguru de Matemática: Venda de Medalhas
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: other\nEvidê
+ ncia: Venda de Medalhas 02/06/26 a 12/10/26\nFonte oficial: https://www.ca
+ ngurudematematicabrasil.com.br/
+URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-da4974c83b0c78bc@noic.com.br
+DTSTAMP:20261003T175335Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Canguru de Matemática: Resultados
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: results\nEvid
+ ência: Resultados 02/06/26\nFonte oficial: https://www.cangurudematematic
+ abrasil.com.br/
+URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-956fa0b627056881@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:OBQJr: OBQJr 2026 — prova da Fase 1
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
+ : A prova da Olimpíada Brasileira de Química Júnior (OBQJr) 2026 será 
+ realizada dia 03 de junho.\nFonte oficial: https://obquimica.org/noticias/
+ informacoes-importantes-prova-obqjr-2026
+URL:https://obquimica.org/noticias/informacoes-importantes-prova-obqjr-2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7ad338dcf7fedfa6@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:OBI: OBI 2026 — prazo para cadastro de escolas (Programação)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Último dia para cadastro de escolas que participam da Modalidad
+ e Programação.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendari
+ o/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b4f79711f4f29248@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260608
+SUMMARY:COPAS: Copa Sul de Foguetes 2026
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: 06 e 07 de junho de 2026.\nFonte oficial: https://estelareducacional.co
+ m.br/copa-sul-2026/
+URL:https://estelareducacional.com.br/copa-sul-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-88d188c4820e65ea@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:OBI: OBI 2026 — prazo de inscrição dos competidores (Programaç
+ ão)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Último dia para inscrição de competidores da Modalidade Progr
+ amação.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_c
+ ompleto
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b66a58182b055846@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260614
+SUMMARY:ONHB: ONHB 2026 — quinta fase (Final Estadual e Semifinal Naciona
+ l)
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: round\nEvidênc
+ ia: A quinta fase inicia no dia 08/06/2026 e finaliza no dia 13/06/2026.\n
+ Fonte oficial: https://www.olimpiadadehistoria.com.br/noticias/ler/399
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/399
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-25a10eda683a9479@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260613
+SUMMARY:OBI: OBI 2026 — prova da Fase 1 (Programação)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Prova da Fase 1\, Modalidade Programação\; período de 10 a 12 d
+ e junho.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_co
+ mpleto
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7b53a978ccb22d97@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:OBECON: OBECON 2026 — segunda fase
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: exam\nEvidência
+ : 14 de Junho — Segunda Fase.\nFonte oficial: https://www.obecon.org.br/
+URL:https://www.obecon.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-20ae44d225761a80@noic.com.br
+DTSTAMP:20261003T175245Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260623
+SUMMARY:openGeo: II Open International Geography Olympiad (openGeo 2026)
+DESCRIPTION:Departamento: Geografia\nEdição: 2\nMarco: exam\nEvidência: 
+ 19 – 22 June 2026\nFonte oficial: https://opengeo.msu.ru/
+URL:https://opengeo.msu.ru/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e6d8f3dac68b9312@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260622
+SUMMARY:COPAS: Copa Centro-Oeste de Foguetes 2026
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: 20 e 21 de junho de 2026.\nFonte oficial: https://estelareducacional.co
+ m.br/copa-centro-oeste-2026/
+URL:https://estelareducacional.com.br/copa-centro-oeste-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5b381116905d50fc@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:ONHB: ONHB 2026 — divulgação das medalhas estaduais
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: results\nEvidê
+ ncia: Divulgação do nome das equipes Medalhistas estaduais: Dia 26/06/20
+ 26.\nFonte oficial: https://www.olimpiadadehistoria.com.br/noticias/ler/39
+ 9
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/399
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9bf075d94db6bdcc@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260629
+SUMMARY:COPAS: Copa Sudeste de Foguetes 2026
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: 27 e 28 de junho de 2026.\nFonte oficial: https://estelareducacional.co
+ m.br/copa-sudeste-de-foguetes-2/
+URL:https://estelareducacional.com.br/copa-sudeste-de-foguetes-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4b1e32a81cc7e1e6@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:OBMF: Inscrições individuais - 2º período
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
+ Evidência: 2º período (R$ 35\,00/aluno): 01/07/2026 a 31/07/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9864dee7c267388a@noic.com.br
+DTSTAMP:20261003T175546Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:OBGP: Inscrições - 2º período (individual)
+DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
+ nEvidência: 2º período (R$ 35\,00/aluno): 01/07/2026 a 31/07/2026\nFont
+ e oficial: https://www.seletaeducacao.com.br/obgp
+URL:https://www.seletaeducacao.com.br/obgp
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-bd818501cf819462@noic.com.br
+DTSTAMP:20261003T175227Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260713
+SUMMARY:IPhO: 56th International Physics Olympiad
+DESCRIPTION:Departamento: Física\nEdição: 56th\nMarco: exam\nEvidência:
+  The 56th International Physics Olympiad will be held in Bucaramanga\, Col
+ ombia from 4 July to 12 July.\nFonte oficial: https://www.ipho-new.org/
+URL:https://www.ipho-new.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e13c08d733ebd8e7@noic.com.br
+DTSTAMP:20261003T175447Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20261024
+SUMMARY:OI: Abertura das inscrições para a 3ª Edição da OI
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
+ ion\nEvidência: 07 julho 2026 - 23 outubro 2026 Abertura das inscrições
+  para a 3ª Edição da OI.\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f29918b305f9ff3a@noic.com.br
+DTSTAMP:20261003T175539Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260722
+SUMMARY:Olimpíada Internacional de Matemática: IMO 2026
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: Most Recent IMO 2026 Shanghai\, People's Republic of China - July 10-
+ 21\, 2026\nFonte oficial: https://www.imo-official.org/
+URL:https://www.imo-official.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0fc0364b0fe2ddf9@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260721
+SUMMARY:IEO: IEO de Economia 2026 — período da competição
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: round\nEvidênci
+ a: July 12th – 20th\, 2026.\nFonte oficial: https://2026.ieo-official.or
+ g/
+URL:https://2026.ieo-official.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cdf5d7c01b0599a2@noic.com.br
+DTSTAMP:20261003T175546Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260910
+SUMMARY:OBGP: Inscrições - 3º período (individual)
+DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
+ nEvidência: 3º período (R$ 39\,00/aluno): 01/08/2026 a 09/09/2026\nFont
+ e oficial: https://www.seletaeducacao.com.br/obgp
+URL:https://www.seletaeducacao.com.br/obgp
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e8985475fed60d91@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260924
+SUMMARY:OBMF: Inscrições individuais - 3º período
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
+ Evidência: 3º período (R$ 39\,00/aluno): 01/08/2026 a 23/09/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e3992bc28286d79e@noic.com.br
+DTSTAMP:20261003T175326Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260809
+SUMMARY:IOAI: 3rd International Olympiad in Artificial Intelligence
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3rd\nMarco: e
+ xam\nEvidência: will be held in Astana\, Republic of Kazakhstan\, in 2026
+  from 2nd until 8th of August\nFonte oficial: https://ioai-official.org/
+URL:https://ioai-official.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cc7178f61c9d3c63@noic.com.br
+DTSTAMP:20261003T175237Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260807
+SUMMARY:OBG: Fase Online – Etapa 1
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: round\nEvidênc
+ ia: Fase Online – Etapa 1 04 a 06/08/2026\nFonte oficial: https://obgeog
+ rafia.com.br/
+URL:https://obgeografia.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3b0a2ccbd60a0ec1@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260808
+SUMMARY:OBI: OBI 2026 — prova da Fase 2 (Iniciação)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Prova da Fase 2\, Modalidade Iniciação\; período de 6 a 7 de ag
+ osto.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_compl
+ eto
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-00c522345cc3ec83@noic.com.br
+DTSTAMP:20261003T175551Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:ONIA: Início das Inscrições
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
+ egistration\nEvidência: Início das Inscrições : dia 08 de agosto de 20
+ 26\nFonte oficial: https://www.oniabrasil.com.br/
+URL:https://www.oniabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-de409126b6d46923@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:ONIA: ONIA 2026 — início das inscrições
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
+ egistration\nEvidência: Início das Inscrições: dia 08 de agosto de 202
+ 6.\nFonte oficial: https://www.oniabrasil.com.br/
+URL:https://www.oniabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3bd260522fea8cd8@noic.com.br
+DTSTAMP:20261003T175248Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260817
+SUMMARY:IOI: International Olympiad in Informatics 2026
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: International Olympiad in Informatics IOI 2026 - Uzbekistan The late
+ st Olympiad took place in Uzbekistan from August 9th to 16th.\nFonte ofici
+ al: https://ioinformatics.org/
+URL:https://ioinformatics.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-09031f1c763d57a2@noic.com.br
+DTSTAMP:20261003T175237Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260814
+SUMMARY:OBG: Fase Online – Etapa 2
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: round\nEvidênc
+ ia: Fase Online – Etapa 2 11 a 13/08/2026\nFonte oficial: https://obgeog
+ rafia.com.br/
+URL:https://obgeografia.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2543e21ad3aacaa7@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260824
+SUMMARY:OBOL: OBOL 2026 — 1ª fase (Lote 1)
+DESCRIPTION:Departamento: Linguística\nEdição: 2026\nMarco: round\nEvid
+ ência: Lote 1: 17/08–23/08\; OBOF\, OBOB\, OBOL e OBOR.\nFonte oficial:
+  https://www.instagram.com/p/DcJ9DxMAbge/
+URL:https://www.instagram.com/p/DcJ9DxMAbge/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-65393f0b89fa3d10@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260824
+SUMMARY:OBOB: OBOB 2026 — 1ª fase (Lote 1)
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: round\nEvidênci
+ a: Lote 1: 17/08–23/08\; OBOF\, OBOB\, OBOL e OBOR.\nFonte oficial: http
+ s://www.instagram.com/p/DcJ9DxMAbge/
+URL:https://www.instagram.com/p/DcJ9DxMAbge/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6d48db653c196007@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260928
+SUMMARY:OBOFog: OBOFog 2026 — envio de lançamentos\, medidas e vídeos d
+ a 1ª fase
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: submission\nEvid
+ ência: A data limite da primeira fase foi prorrogada até 27/09.\nFonte o
+ ficial: https://www.instagram.com/projetonoic/p/DdFOu2YnE7J/
+URL:https://www.instagram.com/projetonoic/p/DdFOu2YnE7J/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c30702c94edde464@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260824
+SUMMARY:OBOF: OBOF 2026 — 1ª fase (Lote 1)
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: round\nEvidência
+ : Lote 1: 17/08–23/08\; OBOF\, OBOB\, OBOL e OBOR.\nFonte oficial: https
+ ://www.instagram.com/p/DcJ9DxMAbge/
+URL:https://www.instagram.com/p/DcJ9DxMAbge/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ce9c78b86c2207ab@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260824
+SUMMARY:OBOR: OBOR 2026 — 1ª fase (Lote 1)
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: Lote 1: 17/08–23/08\; OBOF\, OBOB\, OBOL e OBOR.\nFonte oficial: htt
+ ps://www.instagram.com/p/DcJ9DxMAbge/
+URL:https://www.instagram.com/p/DcJ9DxMAbge/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-699e5517129e41ee@noic.com.br
+DTSTAMP:20261003T175237Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260820
+SUMMARY:OBG: Fase Online – Etapa 3
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: round\nEvidênc
+ ia: Fase Online – Etapa 3 18 a 19/08/2026\nFonte oficial: https://obgeog
+ rafia.com.br/
+URL:https://obgeografia.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-05f702eec17b86e5@noic.com.br
+DTSTAMP:20261003T175237Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:OBG: Divulgação dos Gabaritos
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: announcement\nE
+ vidência: Divulgação dos Gabaritos 20/08/2026\nFonte oficial: https://o
+ bgeografia.com.br/
+URL:https://obgeografia.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-15115563426c72f3@noic.com.br
+DTSTAMP:20261003T175237Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260822
+SUMMARY:OBG: Prazo para Recursos
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: deadline\nEvid
+ ência: Prazo para Recursos 20 a 21/08/2026\nFonte oficial: https://obgeog
+ rafia.com.br/
+URL:https://obgeografia.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-43a76099082cf45d@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260822
+SUMMARY:OBI: OBI 2026 — prova da Fase 2 (Programação)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Prova da Fase 2\, Modalidade Programação\; período de 20 a 21 d
+ e agosto.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_c
+ ompleto
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e4e77030b708dc9f@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART:20260821T110000Z
+DTEND:20260822T000000Z
+SUMMARY:OBQJr: OBQJr 2026 — prova da Fase 2 (janela de Brasília)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
+ : Data da prova: 21 de agosto de 2026 — online de 8h às 21h.\nFonte ofi
+ cial: https://obqjr.obquimica.org/noticias/segunda-fase-da-obq-jr-2026-aco
+ ntece-em-21-de-agosto
+URL:https://obqjr.obquimica.org/noticias/segunda-fase-da-obq-jr-2026-aconte
+ ce-em-21-de-agosto
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ad29687d77ca2650@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:OBOL: OBOL 2026 — prazo final de inscrição
+DESCRIPTION:Departamento: Linguística\nEdição: 2026\nMarco: deadline\nEv
+ idência: A inscrição da OBOL será possível até o término do períod
+ o de submissões (23/08).\nFonte oficial: https://noic.com.br/wp-content/u
+ ploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-89220ef4b26ec295@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260831
+SUMMARY:OBOM: OBOM 2026 — 1ª fase (Lote 2)
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: round\nEvidê
+ ncia: Lote 2 encerra em 30/08\; OBOI\, OBOM e OBOFE.\nFonte oficial: https
+ ://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
+URL:https://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8a1ee61d059151dd@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260831
+SUMMARY:OBOFE: OBOFE 2026 — 1ª fase (Lote 2)
+DESCRIPTION:Departamento: Física experimental\nEdição: 2026\nMarco: roun
+ d\nEvidência: Lote 2 encerra em 30/08\; OBOI\, OBOM e OBOFE.\nFonte ofici
+ al: https://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
+URL:https://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a76bca8df38bc527@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260831
+SUMMARY:OBOI: OBOI 2026 — 1ª fase (Lote 2)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Lote 2 encerra em 30/08\; OBOI\, OBOM e OBOFE.\nFonte oficial: htt
+ ps://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
+URL:https://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-00fecafcc535b467@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART:20260828T170000Z
+DTEND:20260828T210000Z
+SUMMARY:OBQ: OBQ 2026 — prova nacional da Fase III
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
+ : A prova será realizada no dia 28 de agosto de 2026\, às 14h\; polos e 
+ horários conforme aviso da organização estadual.\nFonte oficial: https:
+ //pb.obquimica.org/noticias/locais-de-prova-obq-2026
+URL:https://pb.obquimica.org/noticias/locais-de-prova-obq-2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-056ef0f39ccb8b06@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:ONHB: ONHB 2026 — prova da final nacional
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: exam\nEvidênci
+ a: Grande Final Presencial — Prova: Dia 29/08/2026.\nFonte oficial: http
+ s://www.olimpiadadehistoria.com.br/noticias/ler/410
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/410
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-73a2949715f23d55@noic.com.br
+DTSTAMP:20261003T175447Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20261024
+SUMMARY:OI: 2º Período de Inscrição da 3ª Edição da OI
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
+ ion\nEvidência: 29 agosto 2026 - 23 outubro 2026 2º Período de Inscriç
+ ão da 3ª Edição da OI.\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6a2c927fdf3db802@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:OBOA: OBOA 2026 — prazo final de inscrição
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: deadline\nEvid
+ ência: As inscrições para a OBOA terminam dia 30/08.\nFonte oficial: ht
+ tps://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8a1ea501f6b8ee22@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:ONHB: ONHB 2026 — cerimônia de premiação da final nacional
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: final\nEvidênc
+ ia: Cerimônia de Premiação: Dia 30/08/2026.\nFonte oficial: https://www
+ .olimpiadadehistoria.com.br/noticias/ler/410
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/410
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7b3bd22e0a0c2d68@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260907
+SUMMARY:OBOC: OBOC 2026 — 1ª fase (Lote 3)
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: round\nEvidênc
+ ia: Lote 3: OBOA\, OBOC\, OBOIA e OBOArt até 06/09.\nFonte oficial: https
+ ://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
+URL:https://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a361aa89a0d66916@noic.com.br
+DTSTAMP:20261003T184756Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260907
+SUMMARY:OBOArt: OBOArt 2026 — prova de fase única (janela do Lote 3)
+DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: exam\nEvidência: O
+ BOArt será realizada em fase única\; OBO de Artes aparece no Lote 3\, 31
+ /08–06/09.\nFonte oficial: https://noic.com.br/wp-content/uploads/2026/0
+ 5/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-bfcd32703c63f8b3@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260907
+SUMMARY:OBOA: OBOA 2026 — 1ª fase (Lote 3)
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: round\nEvidên
+ cia: Lote 3: OBOA\, OBOC\, OBOIA e OBOArt até 06/09.\nFonte oficial: http
+ s://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
+URL:https://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c49cb9f40669afcc@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260907
+SUMMARY:OBOIA: OBOIA 2026 — 1ª fase (Lote 3)
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco: 
+ round\nEvidência: Lote 3: OBOA\, OBOC\, OBOIA e OBOArt até 06/09.\nFonte
+  oficial: https://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
+URL:https://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fb3abc44a70ce85b@noic.com.br
+DTSTAMP:20261003T175237Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:OBG: Resultado Final (Online)
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: results\nEvidê
+ ncia: Resultado Final (Online) 01/09/2026\nFonte oficial: https://obgeogra
+ fia.com.br/
+URL:https://obgeografia.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-55787c4543d51879@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260914
+SUMMARY:OBOQ: OBOQ 2026 — 1ª fase (Lote 4)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: round\nEvidênci
+ a: Lote 4: OBOQ\, OBOCH e OBOEcon até 13/09.\nFonte oficial: https://www.
+ instagram.com/projetonoic/p/DdAIHUMmOmu/
+URL:https://www.instagram.com/projetonoic/p/DdAIHUMmOmu/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-87df51283ea71c55@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260914
+SUMMARY:OBOEcon: OBOEcon 2026 — 1ª fase (Lote 4)
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: round\nEvidênci
+ a: Lote 4: OBOQ\, OBOCH e OBOEcon até 13/09.\nFonte oficial: https://www.
+ instagram.com/projetonoic/p/DdAIHUMmOmu/
+URL:https://www.instagram.com/projetonoic/p/DdAIHUMmOmu/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-eedbbfe17ad92a1b@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260914
+SUMMARY:OBOCH: OBOCH 2026 — 1ª fase (Lote 4)
+DESCRIPTION:Departamento: Humanas\nEdição: 2026\nMarco: round\nEvidência
+ : Lote 4: OBOQ\, OBOCH e OBOEcon até 13/09.\nFonte oficial: https://www.i
+ nstagram.com/projetonoic/p/DdAIHUMmOmu/
+URL:https://www.instagram.com/projetonoic/p/DdAIHUMmOmu/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8d6694c581b6b964@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:OLITEF: OLITEF 2026 — realização da prova
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: exam\nEvidência
+ : Realização da Prova: 08/09/2026.\nFonte oficial: https://www.olitef.co
+ m.br/
+URL:https://www.olitef.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-017babfc99aae459@noic.com.br
+DTSTAMP:20261003T175546Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:OBGP: Término das Inscrições
+DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: deadline\nEvi
+ dência: Término das Inscrições: 09/09/2026\nFonte oficial: https://www
+ .seletaeducacao.com.br/obgp
+URL:https://www.seletaeducacao.com.br/obgp
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d5828cc2e71c86eb@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260913
+SUMMARY:OLITEF: OLITEF 2026 — datas alternativas da prova
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: exam\nEvidência
+ : Datas alternativas: 09 a 12/09/2026.\nFonte oficial: https://www.olitef.
+ com.br/
+URL:https://www.olitef.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a9f37d741371ced2@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20261008
+SUMMARY:ONIA: ONIA 2026 — prova da 1ª fase
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
+ ound\nEvidência: Prova da 1ª Fase: 15 de setembro (00:00) até 07 de out
+ ubro de 2026 (23:59).\nFonte oficial: https://www.oniabrasil.com.br/
+URL:https://www.oniabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-64226b496051768d@noic.com.br
+DTSTAMP:20261003T175242Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:OBGP: Aplicação da Prova
+DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: exam\nEvidên
+ cia: Aplicação da Prova: 16/09/2026\nFonte oficial: https://www.seletaed
+ ucacao.com.br/obgp?gad_source=1&gad_campaignid=22908675336&gbraid=0AAAABBA
+ MTFpzNlbPupFH84hEUFD0Ja3dh
+URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
+ 8675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0034214110035c00@noic.com.br
+DTSTAMP:20261003T175546Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260919
+SUMMARY:OBGP: Período de Recursos
+DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: other\nEvidê
+ ncia: Período de Recursos: 17/09/2026 a 18/09/2026\nFonte oficial: https:
+ //www.seletaeducacao.com.br/obgp
+URL:https://www.seletaeducacao.com.br/obgp
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-132dc8d5f93302da@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260928
+SUMMARY:OBOI: OBOI 2026 — 2ª fase (Lote 1)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Lote 1 da 2ª fase: 21/09–27/09\; OBOF\, OBOI\, OBOB e OBOL.\nFo
+ nte oficial: https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
+URL:https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5337b8e18d328b0b@noic.com.br
+DTSTAMP:20261003T191952Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260928
+SUMMARY:OBOL: OBOL 2026 — prova da 2ª fase
+DESCRIPTION:Departamento: Linguística\nEdição: 2026\nMarco: round\nEvid
+ ência: Lote 1 da 2ª fase: 21/09–27/09\; OBOF\, OBOI\, OBOB e OBOL.\nFo
+ nte oficial: https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
+URL:https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-69d217f787ef0dd2@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBOR: OBOR 2026 — envio dos projetos da 2ª fase
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: submission\nEvi
+ dência: OBOR: submissões contínuas de 21/09–11/10 para envio dos proj
+ etos.\nFonte oficial: https://noic.com.br/wp-content/uploads/2026/05/calen
+ dario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c273cb55255e5f3b@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260928
+SUMMARY:OBOB: OBOB 2026 — 2ª fase (Lote 1)
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: round\nEvidênci
+ a: Lote 1 da 2ª fase: 21/09–27/09\; OBOF\, OBOI\, OBOB e OBOL.\nFonte o
+ ficial: https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
+URL:https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cab76b5f2bd7734c@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260928
+SUMMARY:OBOF: OBOF 2026 — 2ª fase (Lote 1)
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: round\nEvidência
+ : Lote 1 da 2ª fase: 21/09–27/09\; OBOF\, OBOI\, OBOB e OBOL.\nFonte of
+ icial: https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
+URL:https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-88b84c7ee7b84463@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:OBMF: Término das Inscrições
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: deadline\nEvid
+ ência: Término das Inscrições: 23/09/2026\nFonte oficial: https://www.
+ seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a51d74a1a1a416c9@noic.com.br
+DTSTAMP:20261003T175546Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:OBGP: Divulgação dos Resultados e Certificados
+DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: results\nEvid
+ ência: Divulgação dos Resultados e Certificados: 23/09/2026\nFonte ofic
+ ial: https://www.seletaeducacao.com.br/obgp
+URL:https://www.seletaeducacao.com.br/obgp
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cc5d160f4d0d706a@noic.com.br
+DTSTAMP:20261003T175546Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:OBGP: Início da Solicitação de Medalhas na Loja
+DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: announcement\
+ nEvidência: Início da Solicitação de Medalhas na Loja: 24/09/2026\nFon
+ te oficial: https://www.seletaeducacao.com.br/obgp
+URL:https://www.seletaeducacao.com.br/obgp
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1efdae2bef204a7c@noic.com.br
+DTSTAMP:20261003T175418Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20261006
+SUMMARY:Astronomia: 19th IOAA 2026
+DESCRIPTION:Departamento: Astronomia\nEdição: 19th\nMarco: final\nEvidên
+ cia: 19th IOAA 2026 25.9. - 5.10. Hanoi\, Vietnam\nFonte oficial: https://
+ www.ioaastrophysics.org/
+URL:https://www.ioaastrophysics.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9b2695fde08e79c7@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:OBI: OBI 2026 — prova da Fase 3 (Iniciação)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: Prova da Fase 3\, Modalidade Iniciação\; Inic. Júnior\, Nível 1 
+ e Nível 2: 10:00–12:00 (horário de Brasília).\nFonte oficial: https:/
+ /olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-05441b5cfabf8b43@noic.com.br
+DTSTAMP:20261003T184756Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261005
+SUMMARY:OBOC: OBOC 2026 — aplicação da 2ª fase
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: exam\nEvidênci
+ a: OBOC 2026\, 2ª fase: a prova será realizada de 28/09 até 04/10.\nFon
+ te oficial: https://noic.com.br/wp-content/uploads/2026/05/regulamento_obo
+ c.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboc.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8be5ff5cadc3ca05@noic.com.br
+DTSTAMP:20261003T190001Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261005
+SUMMARY:OBOFE: OBOFE 2026 — janela da prova da 2ª fase
+DESCRIPTION:Departamento: Física experimental\nEdição: 2026\nMarco: roun
+ d\nEvidência: OBOFE 2026\, 2ª fase: a prova será realizada de 28/09 at
+ é 04/10.\nFonte oficial: https://noic.com.br/wp-content/uploads/2026/08/r
+ egulamento_obofe.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/08/regulamento_obofe.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a38096b2787d982e@noic.com.br
+DTSTAMP:20261003T184756Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261005
+SUMMARY:OBOM: OBOM 2026 — prova da 2ª fase
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: OBOM 2026\, 2ª fase: a prova será realizada de 28/09 até 04/10.\nF
+ onte oficial: https://noic.com.br/wp-content/uploads/2026/07/OBOs_2026.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/07/OBOs_2026.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d6d9945720480fd0@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261031
+SUMMARY:OBOFog: OBOFog 2026 — envio das apresentações da 2ª fase
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: submission\nEvid
+ ência: OBOFog: submissões contínuas de 28/09–30/10 para envio das apr
+ esentações.\nFonte oficial: https://noic.com.br/wp-content/uploads/2026/
+ 05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fdc1f8c0f7b1c920@noic.com.br
+DTSTAMP:20261003T191406Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261005
+SUMMARY:OBOIA: OBOIA 2026 — 2ª fase (Lote 2)
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco: 
+ round\nEvidência: O post associa OBOIA ao Lote 2. A arte enviada pelo usu
+ ário mostra 28/09–04/09\; o usuário confirmou 04/10 como a data final 
+ correta.\nFonte oficial: https://www.instagram.com/projetonoic/p/Dd2KbbbAY
+ aD/
+URL:https://www.instagram.com/projetonoic/p/Dd2KbbbAYaD/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2b24b8ee515a68be@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:OBMF: Aplicação da Prova
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: exam\nEvidênc
+ ia: Aplicação da Prova: 30/09/2026\nFonte oficial: https://www.seletaedu
+ cacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-973d491476bc7dd1@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:OLITEF: OLITEF 2026 — prazo para envio das respostas
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: Data limite para o envio do gabarito de respostas dos alunos é 30 d
+ e setembro.\nFonte oficial: https://www.olitef.com.br/
+URL:https://www.olitef.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fc5a71b9eda7422e@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:IEO (SOF): SOF IEO — prova nível 1 em 30 de setembro (a escola s
+ eleciona uma data)
+DESCRIPTION:Departamento: Inglês\nEdição: 2026–27\nMarco: exam\nEvidê
+ ncia: Select one exam date for the SOF International English Olympiad (IEO
+ ): 30th Sep.\, 27th Oct.\, or 17th Nov.\nFonte oficial: https://sofworld.o
+ rg/download/file/fid/73615
+URL:https://sofworld.org/download/file/fid/73615
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-94b79cdf373db69a@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261003
+SUMMARY:OBMF: Período de Recursos
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: other\nEvidên
+ cia: Período de Recursos: 01/10/2026 a 02/10/2026\nFonte oficial: https:/
+ /www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-500574023cfa2765@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART:20261003T110000Z
+DTEND:20261003T150000Z
+SUMMARY:OBI: OBI 2026 — prova da Fase 3 (Programação Júnior e Nível 1
+ )
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: Progr. Júnior e Progr. Nível 1: 8:00–12:00 (horário de Brasíli
+ a).\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_complet
+ o
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fa18753bbafe51e4@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART:20261003T160000Z
+DTEND:20261003T210000Z
+SUMMARY:OBI: OBI 2026 — prova da Fase 3 (Programação Nível 2 e Sênior
+ )
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: Progr. Nível 2 e Sênior: 13:00–18:00 (horário de Brasília).\nF
+ onte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-484775c2add6d620@noic.com.br
+DTSTAMP:20261003T191729Z
+DTSTART:20261003T183000Z
+DTEND:20261003T213000Z
+SUMMARY:OBOIA: OBOIA 2026 — prova da 2ª fase
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco: 
+ exam\nEvidência: Regulamento oficial fixa a prova em 03/10\; horário con
+ firmado pelo usuário: 15:30–18:30\, America/Sao_Paulo.\nFonte oficial: 
+ https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboia.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboia.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-68ec0b61d3e2d85a@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBOCH: OBOCH 2026 — 2ª fase (Lote 3)
+DESCRIPTION:Departamento: Humanas\nEdição: 2026\nMarco: round\nEvidência
+ : Lote 3 da 2ª fase: 05/10–11/10\; OBO de Astronomia\, Química e Ciên
+ cias Humanas.\nFonte oficial: https://noic.com.br/wp-content/uploads/2026/
+ 05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b08ededec620afee@noic.com.br
+DTSTAMP:20261003T184756Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBOEcon: OBOEcon 2026 — janela do Lote 3 (atividade intensiva de 
+ 24h)
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: round\nEvidênci
+ a: Entre 05/10 e 11/10\, os grupos terão 24 horas contínuas para respond
+ er a uma proposta de business case.\nFonte oficial: https://noic.com.br/wp
+ -content/uploads/2026/05/regulamento_oboecon.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboecon.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ddde06b4009e2c1f@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBOQ: OBOQ 2026 — 2ª fase (Lote 3)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: round\nEvidênci
+ a: Lote 3 da 2ª fase: 05/10–11/10\; OBO de Astronomia\, Química e Ciê
+ ncias Humanas.\nFonte oficial: https://noic.com.br/wp-content/uploads/2026
+ /05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e0dc8927465558b1@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBOA: OBOA 2026 — 2ª fase (Lote 3)
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: round\nEvidên
+ cia: Lote 3 da 2ª fase: 05/10–11/10\; OBO de Astronomia\, Química e Ci
+ ências Humanas.\nFonte oficial: https://noic.com.br/wp-content/uploads/20
+ 26/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7de54e7abe66fe0c@noic.com.br
+DTSTAMP:20261003T175237Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:OBG: Disponibilidade dos certificados
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: results\nEvidê
+ ncia: Certificados Os certificados estarão disponíveis até o dia 06/10.
+ \nFonte oficial: https://obgeografia.com.br/
+URL:https://obgeografia.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7b30f0ed10f4ed76@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:OBMF: Divulgação dos Resultados e Certificados
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: results\nEvid
+ ência: Divulgação dos Resultados e Certificados: 07/10/2026\nFonte ofic
+ ial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a5178975f8afd4e8@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART:20261008T025900Z
+DTEND:20261008T025900Z
+SUMMARY:ONIA: ONIA 2026 — prazo estendido de inscrição
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: d
+ eadline\nEvidência: Final das Inscrições (PRAZO ESTENDIDO): 07 de outub
+ ro de 2026 (23h59).\nFonte oficial: https://www.oniabrasil.com.br/
+URL:https://www.oniabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b05c2d829f4319b6@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBECON: OBECON 2026 — terceira fase
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: final\nEvidênci
+ a: 8 a 11 de Outubro — Terceira Fase.\nFonte oficial: https://www.obecon
+ .org.br/
+URL:https://www.obecon.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ce602ca4660a1c9c@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:OBMF: Início da Solicitação de Medalhas na Loja
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: announcement\n
+ Evidência: Início da Solicitação de Medalhas na Loja: 08/10/2026\nFont
+ e oficial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b63b0ac3f54c98b5@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:OBI: OBI 2026 — resultado preliminar da Fase 3
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
+ dência: Dia 13: Resultado preliminar da Fase 3.\nFonte oficial: https://o
+ limpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7deaf3059e9596c8@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:OBLI: OBLI 2026.2 — término das inscrições
+DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: deadline\nEvid
+ ência: Término das Inscrições: 14/10/2026.\nFonte oficial: https://www
+ .seletaeducacao.com.br/obli-regulamento
+URL:https://www.seletaeducacao.com.br/obli-regulamento
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-db92704601c6a595@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:ONHB: ONHB 2026 — início da disponibilização dos certificados 
+ estaduais
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: results\nEvidê
+ ncia: Os certificados oficiais de medalha serão disponibilizados digitalm
+ ente a partir do dia 15 de outubro.\nFonte oficial: https://www.olimpiadad
+ ehistoria.com.br/noticias/ler/413
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/413
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2422b53e2909a13d@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261101
+SUMMARY:ONIA: ONIA 2026 — prova da 1ª etapa da 2ª fase
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
+ ound\nEvidência: Prova da 1ª Etapa da 2ª Fase: 19 de outubro (00:00) at
+ é 31 de outubro (23:59).\nFonte oficial: https://www.oniabrasil.com.br/
+URL:https://www.oniabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ff7f0b63804df51d@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART:20261021T100000Z
+DTEND:20261022T020000Z
+SUMMARY:OBLI: OBLI 2026.2 — janela de aplicação da prova (horário de B
+ rasília)
+DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: exam\nEvidênci
+ a: Aplicação da Prova: 21/10/2026\; disponível entre 7h e 23h (horário
+  de Brasília).\nFonte oficial: https://www.seletaeducacao.com.br/obli-reg
+ ulamento
+URL:https://www.seletaeducacao.com.br/obli-regulamento
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f14d95959a4ff8a7@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261024
+SUMMARY:OBLI: OBLI 2026.2 — período de recursos
+DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: deadline\nEvid
+ ência: Período de Recursos: 22/10/2026 a 23/10/2026.\nFonte oficial: htt
+ ps://www.seletaeducacao.com.br/obli-regulamento
+URL:https://www.seletaeducacao.com.br/obli-regulamento
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f234c9a2a3768013@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:OBI: OBI 2026 — resultado final e quadro de medalhas
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
+ dência: Dia 22: Resultado Final da OBI2026 e Quadro de Medalhas.\nFonte o
+ ficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4d1b237908e49007@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:IEO (SOF): SOF IEO — prova nível 1 em 27 de outubro (a escola se
+ leciona uma data)
+DESCRIPTION:Departamento: Inglês\nEdição: 2026–27\nMarco: exam\nEvidê
+ ncia: Select one exam date for the SOF International English Olympiad (IEO
+ ): 30th Sep.\, 27th Oct.\, or 17th Nov.\nFonte oficial: https://sofworld.o
+ rg/download/file/fid/73615
+URL:https://sofworld.org/download/file/fid/73615
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-baee1508c2708900@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:OBLI: OBLI 2026.2 — divulgação dos resultados e certificados
+DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: results\nEvidê
+ ncia: Divulgação dos Resultados e Certificados: 28/10/2026.\nFonte ofici
+ al: https://www.seletaeducacao.com.br/obli-regulamento
+URL:https://www.seletaeducacao.com.br/obli-regulamento
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6aa83a417508dad8@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261128
+SUMMARY:OBLI: OBLI 2026.2 — solicitação de medalhas
+DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: deadline\nEvid
+ ência: Início da Solicitação de Medalhas na Loja: 29/10/2026\; prazo f
+ inal: 27/11/2026.\nFonte oficial: https://www.seletaeducacao.com.br/obli-r
+ egulamento
+URL:https://www.seletaeducacao.com.br/obli-regulamento
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-096aeb93ee8eafda@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:ONHB: ONHB 2026 — prazo para validar dados de certificados estadu
+ ais
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: deadline\nEvid
+ ência: Professores orientadores têm até 30 de outubro de 2026 para envi
+ ar os dados e documentos.\nFonte oficial: https://www.olimpiadadehistoria.
+ com.br/noticias/ler/419
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/419
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-40d30a784c6818f3@noic.com.br
+DTSTAMP:20261003T175449Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:ONHB: Prazo para preencher formulário de validação e envio de do
+ cumentos para certificados de medalhas estaduais
+DESCRIPTION:Departamento: Historia\nEdição: 18ª\nMarco: deadline\nEvidê
+ ncia: Professore(a)s orientadore(a)s das equipes que conquistaram medalhas
+  estaduais têm até 30 de outubro para preencher o formulário de valida
+ ção\nFonte oficial: https://www.olimpiadadehistoria.com.br/
+URL:https://www.olimpiadadehistoria.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-998aa02993fbdc59@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:OLITEF: OLITEF 2026 — divulgação dos resultados
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: results\nEvidên
+ cia: Resultados da Olimpíada: 30/10/2026.\nFonte oficial: https://www.oli
+ tef.com.br/
+URL:https://www.olitef.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-45524dfd15962c24@noic.com.br
+DTSTAMP:20261003T175418Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261109
+SUMMARY:Astronomia: 5th IOAA JUNIOR 2026
+DESCRIPTION:Departamento: Astronomia\nEdição: 5th\nMarco: final\nEvidênc
+ ia: 5th IOAA JUNIOR 2026 November 1-8\, 2026. Ubon Ratchathani\, Thailand\
+ nFonte oficial: https://www.ioaastrophysics.org/
+URL:https://www.ioaastrophysics.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-318768ed7e42e32b@noic.com.br
+DTSTAMP:20261003T175447Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:OI: Aplicação online das provas da 3ª Edição
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: exam\nEvi
+ dência: 05 novembro 2026 Aplicação online das provas da 3ª Edição.\n
+ Fonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1a38de659ea511a0@noic.com.br
+DTSTAMP:20261003T175341Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261112
+SUMMARY:International Brain Bee: 2026 IBB World Championship
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: round\nEvid
+ ência: The 2026 IBB World Championship will be held virtually from Novemb
+ er 6–11\nFonte oficial: https://thebrainbee.org/
+URL:https://thebrainbee.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-73a6883fc2d92cf9@noic.com.br
+DTSTAMP:20261003T175447Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:OI: Publicação dos gabaritos das provas da 2ª Edição
+DESCRIPTION:Departamento: Inglês\nEdição: 2ª Edição\nMarco: results\n
+ Evidência: 07 novembro 2026 Publicação dos gabaritos das provas da 2ª 
+ Edição.\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ccceebdca2f57603@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:IEO (SOF): SOF IEO — prova nível 1 em 17 de novembro (a escola s
+ eleciona uma data)
+DESCRIPTION:Departamento: Inglês\nEdição: 2026–27\nMarco: exam\nEvidê
+ ncia: Select one exam date for the SOF International English Olympiad (IEO
+ ): 30th Sep.\, 27th Oct.\, or 17th Nov.\nFonte oficial: https://sofworld.o
+ rg/download/file/fid/73615
+URL:https://sofworld.org/download/file/fid/73615
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cba5a85a9829d298@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:COPAS: Supercopa de Foguetes 2026
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: 20\, 21 e 22 de novembro de 2026.\nFonte oficial: https://estelareducac
+ ional.com.br/supercopa-26/
+URL:https://estelareducacional.com.br/supercopa-26/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-bb1d05a042ac00e2@noic.com.br
+DTSTAMP:20261003T175237Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+SUMMARY:OBG: Fase Presencial Nacional
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: round\nEvidênc
+ ia: Fase Presencial Nacional 23 a 27/11/2026\nFonte oficial: https://obgeo
+ grafia.com.br/
+URL:https://obgeografia.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-069ca0d183aff1cb@noic.com.br
+DTSTAMP:20261003T175447Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20270116
+SUMMARY:OI: Período para aquisição de medalhas
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: other\nEv
+ idência: 24 novembro 2026 - 15 janeiro 2027 Período para aquisição de 
+ medalhas\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-09f16fa2be676a99@noic.com.br
+DTSTAMP:20261003T175447Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:OI: Divulgação dos premiados com Ouro\, Prata\, Bronze e Menção
+  Honrosa
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: announcem
+ ent\nEvidência: 24 novembro 2026 Divulgação dos premiados com Ouro\, Pr
+ ata\, Bronze e Menção Honrosa.\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f45b61e67baf21e0@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:OBMF: Prazo Final para Solicitação de Medalhas
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: deadline\nEvid
+ ência: Prazo Final para Solicitação de Medalhas: 27/11/2026\nFonte ofic
+ ial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f64dbc4f19a3f5a6@noic.com.br
+DTSTAMP:20261003T175546Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:OBGP: Prazo Final para Solicitação de Medalhas
+DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: deadline\nEvi
+ dência: Prazo Final para Solicitação de Medalhas: 27/11/2026\nFonte ofi
+ cial: https://www.seletaeducacao.com.br/obgp
+URL:https://www.seletaeducacao.com.br/obgp
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0ae294ad9d8f1265@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOI: OBOI 2026 — prazo máximo para divulgação das premiaçõe
+ s
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
+ dência: As premiações sairão até dia 01/12.\nFonte oficial: https://n
+ oic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1c18c4cf44807ed0@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOC: OBOC 2026 — prazo máximo para divulgação das premiaçõe
+ s
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: results\nEvidê
+ ncia: As premiações sairão até dia 01/12.\nFonte oficial: https://noic
+ .com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-250191829d025ca3@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOQ: OBOQ 2026 — prazo máximo para divulgação das premiaçõe
+ s
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
+ cia: As premiações sairão até dia 01/12.\nFonte oficial: https://noic.
+ com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2abb7fb1e792ab82@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOCH: OBOCH 2026 — prazo máximo para divulgação das premiaç
+ ões
+DESCRIPTION:Departamento: Humanas\nEdição: 2026\nMarco: results\nEvidênc
+ ia: As premiações sairão até dia 01/12.\nFonte oficial: https://noic.c
+ om.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3aea7005812dabc9@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOEcon: OBOEcon 2026 — prazo máximo para divulgação das premi
+ ações
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: results\nEvidên
+ cia: As premiações sairão até dia 01/12.\nFonte oficial: https://noic.
+ com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-562bc9f3d9b0ef9e@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOIA: OBOIA 2026 — prazo máximo para divulgação das premiaç
+ ões
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco: 
+ results\nEvidência: As premiações sairão até dia 01/12.\nFonte oficia
+ l: https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-61f8554655151b23@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOR: OBOR 2026 — prazo máximo para divulgação das premiaçõe
+ s
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: results\nEvidê
+ ncia: As premiações sairão até dia 01/12.\nFonte oficial: https://noic
+ .com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-69a2a8b84ead70ca@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOF: OBOF 2026 — prazo máximo para divulgação das premiaçõe
+ s
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: As premiações sairão até dia 01/12.\nFonte oficial: https://noic.c
+ om.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-76864f0dfafcfdbd@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOFE: OBOFE 2026 — prazo máximo para divulgação das premiaç
+ ões
+DESCRIPTION:Departamento: Física experimental\nEdição: 2026\nMarco: resu
+ lts\nEvidência: As premiações sairão até dia 01/12.\nFonte oficial: h
+ ttps://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7c1d8893e8332433@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOFog: OBOFog 2026 — prazo máximo para divulgação das premia
+ ções
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: results\nEvidên
+ cia: As premiações sairão até dia 01/12.\nFonte oficial: https://noic.
+ com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-99b477cf744100fe@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOArt: OBOArt 2026 — prazo máximo para divulgação das premia
+ ções
+DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: results\nEvidência
+ : As premiações sairão até dia 01/12.\nFonte oficial: https://noic.com
+ .br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c2ad1620c1f86adc@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOM: OBOM 2026 — prazo máximo para divulgação das premiaçõe
+ s
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: results\nEvid
+ ência: As premiações sairão até dia 01/12.\nFonte oficial: https://no
+ ic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cae3c63a553e454d@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOL: OBOL 2026 — prazo máximo para divulgação das premiaçõe
+ s
+DESCRIPTION:Departamento: Linguística\nEdição: 2026\nMarco: results\nEvi
+ dência: As premiações sairão até dia 01/12.\nFonte oficial: https://n
+ oic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fcf5351c36464ef9@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOB: OBOB 2026 — prazo máximo para divulgação das premiaçõe
+ s
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: results\nEvidên
+ cia: As premiações sairão até dia 01/12.\nFonte oficial: https://noic.
+ com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-feb910eb4bb0a2d5@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOA: OBOA 2026 — prazo máximo para divulgação das premiaçõe
+ s
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: results\nEvid
+ ência: As premiações sairão até dia 01/12.\nFonte oficial: https://no
+ ic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0fea7cfec70387ac@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261213
+SUMMARY:OBI: OBI 2026 — Semana Olímpica
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: final\nEvid
+ ência: Semana Olímpica da OBI2026: 6 a 12 de dezembro.\nFonte oficial: h
+ ttps://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4a489dd2d71f81b1@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261214
+SUMMARY:ONIA: ONIA 2026 — prova da 2ª etapa da 2ª fase
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
+ ound\nEvidência: Prova da 2ª Etapa da 2ª Fase: 07 de dezembro (00:00) a
+ té 13 de dezembro (23:59).\nFonte oficial: https://www.oniabrasil.com.br/
+URL:https://www.oniabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9cf7d71d20d6a703@noic.com.br
+DTSTAMP:20261003T175326Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270711
+SUMMARY:IOAI: 4th International Olympiad in Artificial Intelligence
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 4th\nMarco: e
+ xam\nEvidência: July 4th – 10th 2027 Singapore\, Republic of Singapore 
+ 4th International Olympiad in AI (IOAI)\nFonte oficial: https://ioai-offic
+ ial.org/
+URL:https://ioai-official.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0212785b39e84fac@noic.com.br
+DTSTAMP:20261003T175539Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270727
+SUMMARY:Olimpíada Internacional de Matemática: IMO 2027
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: exam\nEvidên
+ cia: Upcoming IMO 2027 Budapest\, Hungary - July 16-26\, 2027\nFonte ofici
+ al: https://www.imo-official.org/
+URL:https://www.imo-official.org/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
