@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:EGOI — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-765608b6bf51d9da@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260519
+SUMMARY:EGOI: EGOI 2026 — período da competição
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: EGOI 2026 will take place from 12 to 18 May 2026. The competition
+  days are Thursday 14 May and Saturday 16 May.\nFonte oficial: https://ego
+ i2026.it/event/schedule/
+URL:https://egoi2026.it/event/schedule/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4d112661bfe091c8@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:EGOI: EGOI 2026 — prova 1
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: The competition days are Thursday 14 May and Saturday 16 May.\nFonte
+  oficial: https://egoi2026.it/event/schedule/
+URL:https://egoi2026.it/event/schedule/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-91893a53d46fba77@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:EGOI: EGOI 2026 — prova 2
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: The competition days are Thursday 14 May and Saturday 16 May.\nFonte
+  oficial: https://egoi2026.it/event/schedule/
+URL:https://egoi2026.it/event/schedule/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

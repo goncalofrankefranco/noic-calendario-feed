@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBOArt — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-a361aa89a0d66916@noic.com.br
+DTSTAMP:20261003T184756Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260907
+SUMMARY:OBOArt: OBOArt 2026 — prova de fase única (janela do Lote 3)
+DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: exam\nEvidência: O
+ BOArt será realizada em fase única\; OBO de Artes aparece no Lote 3\, 31
+ /08–06/09.\nFonte oficial: https://noic.com.br/wp-content/uploads/2026/0
+ 5/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-99b477cf744100fe@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOArt: OBOArt 2026 — prazo máximo para divulgação das premia
+ ções
+DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: results\nEvidência
+ : As premiações sairão até dia 01/12.\nFonte oficial: https://noic.com
+ .br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

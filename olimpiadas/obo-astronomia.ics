@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBOA — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-6a2c927fdf3db802@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:OBOA: OBOA 2026 — prazo final de inscrição
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: deadline\nEvid
+ ência: As inscrições para a OBOA terminam dia 30/08.\nFonte oficial: ht
+ tps://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-bfcd32703c63f8b3@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260907
+SUMMARY:OBOA: OBOA 2026 — 1ª fase (Lote 3)
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: round\nEvidên
+ cia: Lote 3: OBOA\, OBOC\, OBOIA e OBOArt até 06/09.\nFonte oficial: http
+ s://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
+URL:https://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e0dc8927465558b1@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBOA: OBOA 2026 — 2ª fase (Lote 3)
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: round\nEvidên
+ cia: Lote 3 da 2ª fase: 05/10–11/10\; OBO de Astronomia\, Química e Ci
+ ências Humanas.\nFonte oficial: https://noic.com.br/wp-content/uploads/20
+ 26/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-feb910eb4bb0a2d5@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOA: OBOA 2026 — prazo máximo para divulgação das premiaçõe
+ s
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: results\nEvid
+ ência: As premiações sairão até dia 01/12.\nFonte oficial: https://no
+ ic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

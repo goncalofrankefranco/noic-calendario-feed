@@ -1,0 +1,267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Olimpíada Brasileira de Matemática — Calendário Olímpico
+  do NOIC
+BEGIN:VEVENT
+UID:noic-3afb4f6999b9a4f3@noic.com.br
+DTSTAMP:20261004T145609Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20261003
+SUMMARY:Olimpíada Brasileira de Matemática: Divulgação dos convocados e
+  seleção dos polos de aplicação - 48ª OBM
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: selection\nEv
+ idência: Divulgação dos convocados e seleção dos polos de aplicação
+  7 de setembro a 2 de outubro\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6c39464f036e79b9@noic.com.br
+DTSTAMP:20261003T164454Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20261003
+SUMMARY:Olimpíada Brasileira de Matemática: Divulgação dos convocados e
+  seleção dos polos de aplicação
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: announcement\
+ nEvidência: Divulgação dos convocados e seleção dos polos de aplicaç
+ ão 7 de setembro a 2 de outubro\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-90fe918dbccb9e8a@noic.com.br
+DTSTAMP:20261003T162146Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20261003
+SUMMARY:Olimpíada Brasileira de Matemática: Divulgação dos convocados e
+  seleção dos polos de aplicação - 48ª Olimpíada Brasileira de Matem
+ ática (OBM)
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: announcement\
+ nEvidência: Divulgação dos convocados e seleção dos polos de aplicaç
+ ão 7 de setembro a 2 de outubro\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a9b49388415dc077@noic.com.br
+DTSTAMP:20260930T161402Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20261003
+SUMMARY:Olimpíada Brasileira de Matemática: Divulgação dos convocados e
+  seleção dos polos de aplicação
+DESCRIPTION:Departamento: Matemática\nEdição: 48\nMarco: selection\nEvid
+ ência: Divulgação dos convocados e seleção dos polos de aplicação 7
+  de setembro a 2 de outubro\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-09f034ddaef7176e@noic.com.br
+DTSTAMP:20261003T164454Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Olimpíada Brasileira de Matemática: Prazo final para o preenchime
+ nto do formulário de confirmação
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: deadline\nEvi
+ dência: Prazo final para o preenchimento do formulário de confirmação.
+  2 de outubro\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-296dda036bf98b14@noic.com.br
+DTSTAMP:20261003T162146Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Olimpíada Brasileira de Matemática: Prazo final para o preenchime
+ nto do formulário de confirmação - 48ª Olimpíada Brasileira de Matem
+ ática (OBM)
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: deadline\nEvi
+ dência: Prazo final para o preenchimento do formulário de confirmação.
+  2 de outubro\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9dde372095fe25f1@noic.com.br
+DTSTAMP:20260930T161402Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Olimpíada Brasileira de Matemática: Prazo final para o preenchime
+ nto do formulário de confirmação.
+DESCRIPTION:Departamento: Matemática\nEdição: 48\nMarco: deadline\nEvid
+ ência: Prazo final para o preenchimento do formulário de confirmação.
+  2 de outubro\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cbf0cf74e000eaec@noic.com.br
+DTSTAMP:20261004T145609Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Olimpíada Brasileira de Matemática: Prazo final para o preenchime
+ nto do formulário de confirmação - 48ª OBM
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: deadline\nEvi
+ dência: Prazo final para o preenchimento do formulário de confirmação.
+  2 de outubro\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4e8fa8c7a4772ab8@noic.com.br
+DTSTAMP:20261004T145609Z
+DTSTART:20261008T170000Z
+DTEND:20261008T170000Z
+SUMMARY:Olimpíada Brasileira de Matemática: Primeiro dia - níveis 1\, 2\
+ , 3 e universitário - 48ª OBM
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
+ cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
+  e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
+ w.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8d77dfd086626608@noic.com.br
+DTSTAMP:20261001T163800Z
+DTSTART:20261008T170000Z
+DTEND:20261008T170000Z
+SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
+  Matemática (OBM) - Primeiro dia - níveis 1\, 2\, 3 e universitário
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
+ cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
+  e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
+ w.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-da59aad3e449f1e8@noic.com.br
+DTSTAMP:20261003T164454Z
+DTSTART:20261008T170000Z
+DTEND:20261008T170000Z
+SUMMARY:Olimpíada Brasileira de Matemática: Primeiro dia - níveis 1\, 2\
+ , 3 e universitário
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
+ cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
+  e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
+ w.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-db4f389477f59d60@noic.com.br
+DTSTAMP:20261005T184028Z
+DTSTART:20261008T170000Z
+DTEND:20261008T170000Z
+SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
+  Matemática (OBM) - Primeiro dia
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
+ cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
+  e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
+ w.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-01c11ccd73deaafe@noic.com.br
+DTSTAMP:20261001T163800Z
+DTSTART:20261009T170000Z
+DTEND:20261009T170000Z
+SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
+  Matemática (OBM) - Segundo dia - níveis 2\, 3 e universitário
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
+ cia: 9 de outubro de 2026 (sexta-feira) Segundo dia - níveis 2\, 3 e univ
+ ersitário 14h00 (horário de Brasília)\nFonte oficial: https://www.obm.o
+ rg.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8ac02c880f6283d4@noic.com.br
+DTSTAMP:20261004T145609Z
+DTSTART:20261009T170000Z
+DTEND:20261009T170000Z
+SUMMARY:Olimpíada Brasileira de Matemática: Segundo dia - níveis 2\, 3 e
+  universitário - 48ª OBM
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
+ cia: 9 de outubro de 2026 (sexta-feira) Segundo dia - níveis 2\, 3 e univ
+ ersitário 14h00 (horário de Brasília)\nFonte oficial: https://www.obm.o
+ rg.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-905622f61261450d@noic.com.br
+DTSTAMP:20261005T184028Z
+DTSTART:20261009T170000Z
+DTEND:20261009T170000Z
+SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
+  Matemática (OBM) - Segundo dia
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
+ cia: 9 de outubro de 2026 (sexta-feira) Segundo dia - níveis 2\, 3 e univ
+ ersitário 14h00 (horário de Brasília)\nFonte oficial: https://www.obm.o
+ rg.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c828eb7d6de58ad9@noic.com.br
+DTSTAMP:20261003T164454Z
+DTSTART:20261009T170000Z
+DTEND:20261009T170000Z
+SUMMARY:Olimpíada Brasileira de Matemática: Segundo dia - níveis 2\, 3 e
+  universitário
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
+ cia: 9 de outubro de 2026 (sexta-feira) Segundo dia - níveis 2\, 3 e univ
+ ersitário 14h00 (horário de Brasília)\nFonte oficial: https://www.obm.o
+ rg.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-58833a608b067a18@noic.com.br
+DTSTAMP:20261002T160056Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Olimpíada Brasileira de Matemática: 13ª Iranian Geometry Olympia
+ d (IGO)
+DESCRIPTION:Departamento: Matemática\nEdição: 13\nMarco: exam\nEvidênci
+ a: 13ª Iranian Geometry Olympiad (IGO) 16 de outubro\nFonte oficial: http
+ s://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-79146347db7653f8@noic.com.br
+DTSTAMP:20261001T163800Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261025
+SUMMARY:Olimpíada Brasileira de Matemática: 6ª Pan-American Girls’ Mat
+ hematical Olympiad (PAGMO)
+DESCRIPTION:Departamento: Matemática\nEdição: 6ª\nMarco: exam\nEvidênc
+ ia: 6ª Pan-American Girls’ Mathematical Olympiad (PAGMO) 18 a 24 de out
+ ubro de 2026\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3f640db8fdddc59f@noic.com.br
+DTSTAMP:20261003T142845Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261101
+SUMMARY:Olimpíada Brasileira de Matemática: 18ª Competição Ibero-Ameri
+ cana Interuniversitária de Matemática (CIIM)
+DESCRIPTION:Departamento: Matemática\nEdição: 18\nMarco: exam\nEvidênci
+ a: 18ª Competição Ibero-Americana Interuniversitária de Matemática (C
+ IIM) 26 a 31 de outubro\, Manizales\, Colômbia\nFonte oficial: https://ww
+ w.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

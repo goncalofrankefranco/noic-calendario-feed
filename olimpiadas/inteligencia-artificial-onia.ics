@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:ONIA — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-00c522345cc3ec83@noic.com.br
+DTSTAMP:20261003T175551Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:ONIA: Início das Inscrições
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
+ egistration\nEvidência: Início das Inscrições : dia 08 de agosto de 20
+ 26\nFonte oficial: https://www.oniabrasil.com.br/
+URL:https://www.oniabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c0bbd804bc9c4956@noic.com.br
+DTSTAMP:20261001T163841Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:ONIA: Início das Inscrições
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
+ egistration\nEvidência: Início das Inscrições : dia 08 de agosto de 20
+ 26\;\nFonte oficial: https://www.oniabrasil.com.br/
+URL:https://www.oniabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-de409126b6d46923@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:ONIA: ONIA 2026 — início das inscrições
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
+ egistration\nEvidência: Início das Inscrições: dia 08 de agosto de 202
+ 6.\nFonte oficial: https://www.oniabrasil.com.br/
+URL:https://www.oniabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a9f37d741371ced2@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20261008
+SUMMARY:ONIA: ONIA 2026 — prova da 1ª fase
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
+ ound\nEvidência: Prova da 1ª Fase: 15 de setembro (00:00) até 07 de out
+ ubro de 2026 (23:59).\nFonte oficial: https://www.oniabrasil.com.br/
+URL:https://www.oniabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a5178975f8afd4e8@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART:20261008T025900Z
+DTEND:20261008T025900Z
+SUMMARY:ONIA: ONIA 2026 — prazo estendido de inscrição
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: d
+ eadline\nEvidência: Final das Inscrições (PRAZO ESTENDIDO): 07 de outub
+ ro de 2026 (23h59).\nFonte oficial: https://www.oniabrasil.com.br/
+URL:https://www.oniabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2422b53e2909a13d@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261101
+SUMMARY:ONIA: ONIA 2026 — prova da 1ª etapa da 2ª fase
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
+ ound\nEvidência: Prova da 1ª Etapa da 2ª Fase: 19 de outubro (00:00) at
+ é 31 de outubro (23:59).\nFonte oficial: https://www.oniabrasil.com.br/
+URL:https://www.oniabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4a489dd2d71f81b1@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261214
+SUMMARY:ONIA: ONIA 2026 — prova da 2ª etapa da 2ª fase
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
+ ound\nEvidência: Prova da 2ª Etapa da 2ª Fase: 07 de dezembro (00:00) a
+ té 13 de dezembro (23:59).\nFonte oficial: https://www.oniabrasil.com.br/
+URL:https://www.oniabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

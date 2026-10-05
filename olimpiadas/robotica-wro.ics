@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:World Robot Olympiad (WRO) — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-b30082862d6f20da@noic.com.br
+DTSTAMP:20261005T183915Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+SUMMARY:World Robot Olympiad (WRO): Open Championship Americas
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: Open Championship Americas 25 a 27 de setembro de 2026 Califórnia\, E
+ UA\nFonte oficial: https://www.wrobr.com.br/
+URL:https://www.wrobr.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-115dab719dfb5de7@noic.com.br
+DTSTAMP:20261003T163402Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261211
+SUMMARY:World Robot Olympiad (WRO): Final Mundial — Porto Rico
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: final\nEvidênc
+ ia: Final Mundial — Porto Rico 8 a 10 de dezembro de 2026\nFonte oficial
+ : https://www.wrobr.com.br/
+URL:https://www.wrobr.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

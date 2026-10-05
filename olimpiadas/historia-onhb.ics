@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:ONHB — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-a1f50cb8b888f92e@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260510
+SUMMARY:ONHB: ONHB 2026 — primeira fase
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: round\nEvidênc
+ ia: A primeira fase inicia no dia 04/05/2026 e finaliza no dia 09/05/2026.
+ \nFonte oficial: https://www.olimpiadadehistoria.com.br/noticias/ler/399
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/399
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-01c6335b9bfebc58@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260517
+SUMMARY:ONHB: ONHB 2026 — segunda fase
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: round\nEvidênc
+ ia: A segunda fase inicia no dia 11/05/2026 e finaliza no dia 16/05/2026.\
+ nFonte oficial: https://www.olimpiadadehistoria.com.br/noticias/ler/399
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/399
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c075ede4fa7abf5f@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260524
+SUMMARY:ONHB: ONHB 2026 — terceira fase
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: round\nEvidênc
+ ia: A terceira fase inicia no dia 18/05/2026 e finaliza no dia 23/05/2026.
+ \nFonte oficial: https://www.olimpiadadehistoria.com.br/noticias/ler/399
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/399
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-45ea88876f690bee@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260531
+SUMMARY:ONHB: ONHB 2026 — quarta fase
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: round\nEvidênc
+ ia: A quarta fase inicia no dia 25/05/2026 e finaliza no dia 30/05/2026.\n
+ Fonte oficial: https://www.olimpiadadehistoria.com.br/noticias/ler/399
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/399
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b66a58182b055846@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260614
+SUMMARY:ONHB: ONHB 2026 — quinta fase (Final Estadual e Semifinal Naciona
+ l)
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: round\nEvidênc
+ ia: A quinta fase inicia no dia 08/06/2026 e finaliza no dia 13/06/2026.\n
+ Fonte oficial: https://www.olimpiadadehistoria.com.br/noticias/ler/399
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/399
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5b381116905d50fc@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:ONHB: ONHB 2026 — divulgação das medalhas estaduais
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: results\nEvidê
+ ncia: Divulgação do nome das equipes Medalhistas estaduais: Dia 26/06/20
+ 26.\nFonte oficial: https://www.olimpiadadehistoria.com.br/noticias/ler/39
+ 9
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/399
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-056ef0f39ccb8b06@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:ONHB: ONHB 2026 — prova da final nacional
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: exam\nEvidênci
+ a: Grande Final Presencial — Prova: Dia 29/08/2026.\nFonte oficial: http
+ s://www.olimpiadadehistoria.com.br/noticias/ler/410
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/410
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8a1ea501f6b8ee22@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:ONHB: ONHB 2026 — cerimônia de premiação da final nacional
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: final\nEvidênc
+ ia: Cerimônia de Premiação: Dia 30/08/2026.\nFonte oficial: https://www
+ .olimpiadadehistoria.com.br/noticias/ler/410
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/410
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-db92704601c6a595@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:ONHB: ONHB 2026 — início da disponibilização dos certificados
+  estaduais
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: results\nEvidê
+ ncia: Os certificados oficiais de medalha serão disponibilizados digitalm
+ ente a partir do dia 15 de outubro.\nFonte oficial: https://www.olimpiadad
+ ehistoria.com.br/noticias/ler/413
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/413
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-096aeb93ee8eafda@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:ONHB: ONHB 2026 — prazo para validar dados de certificados estadu
+ ais
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: deadline\nEvid
+ ência: Professores orientadores têm até 30 de outubro de 2026 para envi
+ ar os dados e documentos.\nFonte oficial: https://www.olimpiadadehistoria.
+ com.br/noticias/ler/419
+URL:https://www.olimpiadadehistoria.com.br/noticias/ler/419
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-40d30a784c6818f3@noic.com.br
+DTSTAMP:20261003T175449Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:ONHB: Prazo para preencher formulário de validação e envio de do
+ cumentos para certificados de medalhas estaduais
+DESCRIPTION:Departamento: Historia\nEdição: 18ª\nMarco: deadline\nEvidê
+ ncia: Professore(a)s orientadore(a)s das equipes que conquistaram medalhas
+  estaduais têm até 30 de outubro para preencher o formulário de valida
+ ção\nFonte oficial: https://www.olimpiadadehistoria.com.br/
+URL:https://www.olimpiadadehistoria.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBOFE — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-8a1ee61d059151dd@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260831
+SUMMARY:OBOFE: OBOFE 2026 — 1ª fase (Lote 2)
+DESCRIPTION:Departamento: Física experimental\nEdição: 2026\nMarco: roun
+ d\nEvidência: Lote 2 encerra em 30/08\; OBOI\, OBOM e OBOFE.\nFonte ofici
+ al: https://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
+URL:https://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8be5ff5cadc3ca05@noic.com.br
+DTSTAMP:20261003T190001Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261005
+SUMMARY:OBOFE: OBOFE 2026 — janela da prova da 2ª fase
+DESCRIPTION:Departamento: Física experimental\nEdição: 2026\nMarco: roun
+ d\nEvidência: OBOFE 2026\, 2ª fase: a prova será realizada de 28/09 at
+ é 04/10.\nFonte oficial: https://noic.com.br/wp-content/uploads/2026/08/r
+ egulamento_obofe.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/08/regulamento_obofe.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-76864f0dfafcfdbd@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOFE: OBOFE 2026 — prazo máximo para divulgação das premiaç
+ ões
+DESCRIPTION:Departamento: Física experimental\nEdição: 2026\nMarco: resu
+ lts\nEvidência: As premiações sairão até dia 01/12.\nFonte oficial: h
+ ttps://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

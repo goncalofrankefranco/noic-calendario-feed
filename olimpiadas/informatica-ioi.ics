@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:IOI — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-3bd260522fea8cd8@noic.com.br
+DTSTAMP:20261003T175248Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260817
+SUMMARY:IOI: International Olympiad in Informatics 2026
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: International Olympiad in Informatics IOI 2026 - Uzbekistan The late
+ st Olympiad took place in Uzbekistan from August 9th to 16th.\nFonte ofici
+ al: https://ioinformatics.org/
+URL:https://ioinformatics.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-80555f428ed48450@noic.com.br
+DTSTAMP:20261004T145554Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260817
+SUMMARY:IOI: International Olympiad in Informatics 2026
+DESCRIPTION:Departamento: Informática\nEdição: 38th\nMarco: exam\nEvidê
+ ncia: The 38th International Olympiad in Informatics (IOI 2026) will be he
+ ld in Tashkent\, Uzbekistan from 9-16 of August\, 2026\nFonte oficial: htt
+ ps://www.ioi2026.uz/?locale=en
+URL:https://www.ioi2026.uz/?locale=en
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

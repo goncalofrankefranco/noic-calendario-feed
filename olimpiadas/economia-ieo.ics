@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:IEO — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-0fc0364b0fe2ddf9@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260721
+SUMMARY:IEO: IEO de Economia 2026 — período da competição
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: round\nEvidênci
+ a: July 12th – 20th\, 2026.\nFonte oficial: https://2026.ieo-official.or
+ g/
+URL:https://2026.ieo-official.org/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

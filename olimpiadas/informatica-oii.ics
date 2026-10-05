@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OII — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-9f7793a5ea963bd6@noic.com.br
+DTSTAMP:20260930T161233Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:OII: OII2026
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: OII2026 took place on June 20th.\nFonte oficial: https://www.ibero
+ informatica.org/
+URL:https://www.iberoinformatica.org/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

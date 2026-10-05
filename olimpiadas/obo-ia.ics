@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBOIA — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-c49cb9f40669afcc@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260907
+SUMMARY:OBOIA: OBOIA 2026 — 1ª fase (Lote 3)
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  round\nEvidência: Lote 3: OBOA\, OBOC\, OBOIA e OBOArt até 06/09.\nFont
+ e oficial: https://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
+URL:https://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fdc1f8c0f7b1c920@noic.com.br
+DTSTAMP:20261003T191406Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261005
+SUMMARY:OBOIA: OBOIA 2026 — 2ª fase (Lote 2)
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  round\nEvidência: O post associa OBOIA ao Lote 2. A arte enviada pelo us
+ uário mostra 28/09–04/09\; o usuário confirmou 04/10 como a data final
+  correta.\nFonte oficial: https://www.instagram.com/projetonoic/p/Dd2KbbbA
+ YaD/
+URL:https://www.instagram.com/projetonoic/p/Dd2KbbbAYaD/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-484775c2add6d620@noic.com.br
+DTSTAMP:20261003T191729Z
+DTSTART:20261003T183000Z
+DTEND:20261003T213000Z
+SUMMARY:OBOIA: OBOIA 2026 — prova da 2ª fase
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  exam\nEvidência: Regulamento oficial fixa a prova em 03/10\; horário co
+ nfirmado pelo usuário: 15:30–18:30\, America/Sao_Paulo.\nFonte oficial:
+  https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboia.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboia.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-562bc9f3d9b0ef9e@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOIA: OBOIA 2026 — prazo máximo para divulgação das premiaç
+ ões
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  results\nEvidência: As premiações sairão até dia 01/12.\nFonte ofici
+ al: https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,200 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBMF — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-0556e7b259d5d03b@noic.com.br
+DTSTAMP:20260930T160152Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260701
+SUMMARY:OBMF: Inscrições individuais - 1º período
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
+ Evidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-10e4717cd42f25e6@noic.com.br
+DTSTAMP:20261001T163402Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:OBMF: Início das Inscrições
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
+ Evidência: Inscrições: 01/06/2026 a 23/09/2026\nFonte oficial: https://
+ www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1f75e6b5e0e96c15@noic.com.br
+DTSTAMP:20260930T160152Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260924
+SUMMARY:OBMF: Inscrição de grupos de alunos feita por Escolas
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
+ Evidência: Ocorre em período único (01/06/2026 a 23/09/2026)\nFonte ofi
+ cial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-48b6b9064d2d54c7@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260701
+SUMMARY:OBMF: Inscrições individuais - 1º período
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
+ Evidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f585875c783c2270@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260924
+SUMMARY:OBMF: Inscrição de grupos de alunos feita por Escolas
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
+ Evidência: Ocorre em período único (01/06/2026 a 23/09/2026)\nFonte ofi
+ cial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4b1e32a81cc7e1e6@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:OBMF: Inscrições individuais - 2º período
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
+ Evidência: 2º período (R$ 35\,00/aluno): 01/07/2026 a 31/07/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ba5bf8bfa226899a@noic.com.br
+DTSTAMP:20261003T161803Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:OBMF: Inscrições Individuais - 2º Período
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
+ Evidência: 2º período (R$ 35\,00/aluno): 01/07/2026 a 31/07/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-194f4f1d033627d3@noic.com.br
+DTSTAMP:20260930T160152Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260924
+SUMMARY:OBMF: Inscrições individuais - 3º período
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
+ Evidência: 3º período (R$ 39\,00/aluno): 01/08/2026 a 23/09/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e8985475fed60d91@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260924
+SUMMARY:OBMF: Inscrições individuais - 3º período
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
+ Evidência: 3º período (R$ 39\,00/aluno): 01/08/2026 a 23/09/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-88b84c7ee7b84463@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:OBMF: Término das Inscrições
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: deadline\nEvid
+ ência: Término das Inscrições: 23/09/2026\nFonte oficial: https://www.
+ seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2b24b8ee515a68be@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:OBMF: Aplicação da Prova
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: exam\nEvidênc
+ ia: Aplicação da Prova: 30/09/2026\nFonte oficial: https://www.seletaedu
+ cacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-595fe51086a4a305@noic.com.br
+DTSTAMP:20261003T164105Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261003
+SUMMARY:OBMF: Período de Recursos
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: submission\nEv
+ idência: Período de Recursos: 01/10/2026 a 02/10/2026\nFonte oficial: ht
+ tps://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-94b79cdf373db69a@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261003
+SUMMARY:OBMF: Período de Recursos
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: other\nEvidên
+ cia: Período de Recursos: 01/10/2026 a 02/10/2026\nFonte oficial: https:/
+ /www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7b30f0ed10f4ed76@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:OBMF: Divulgação dos Resultados e Certificados
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: results\nEvid
+ ência: Divulgação dos Resultados e Certificados: 07/10/2026\nFonte ofic
+ ial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ce602ca4660a1c9c@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:OBMF: Início da Solicitação de Medalhas na Loja
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: announcement\n
+ Evidência: Início da Solicitação de Medalhas na Loja: 08/10/2026\nFont
+ e oficial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f45b61e67baf21e0@noic.com.br
+DTSTAMP:20261003T175130Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:OBMF: Prazo Final para Solicitação de Medalhas
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: deadline\nEvid
+ ência: Prazo Final para Solicitação de Medalhas: 27/11/2026\nFonte ofic
+ ial: https://www.seletaeducacao.com.br/obmf
+URL:https://www.seletaeducacao.com.br/obmf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

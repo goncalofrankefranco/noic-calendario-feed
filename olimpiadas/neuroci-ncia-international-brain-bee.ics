@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:International Brain Bee — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-1a38de659ea511a0@noic.com.br
+DTSTAMP:20261003T175341Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261112
+SUMMARY:International Brain Bee: 2026 IBB World Championship
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: round\nEvid
+ ência: The 2026 IBB World Championship will be held virtually from Novemb
+ er 6–11\nFonte oficial: https://thebrainbee.org/
+URL:https://thebrainbee.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5390386a047c9751@noic.com.br
+DTSTAMP:20260930T161501Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261112
+SUMMARY:International Brain Bee: 2026 IBB World Championship
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: exam\nEvid
+ ência: The 2026 IBB World Championship will be held virtually from Novemb
+ er 6–11\nFonte oficial: https://thebrainbee.org/
+URL:https://thebrainbee.org/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

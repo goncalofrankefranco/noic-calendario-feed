@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBECON — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-2ed36f2a47c1590d@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260511
+SUMMARY:OBECON: OBECON 2026 — inscrições
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: registration\nEv
+ idência: 08 de Abril a 10 de Maio — Inscrições 2026.\nFonte oficial:
+  https://www.obecon.org.br/
+URL:https://www.obecon.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1bf5d9ad7a5e941e@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260511
+SUMMARY:OBECON: OBECON 2026 — primeira fase
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: round\nEvidênci
+ a: 4 a 10 de Maio — Primeira Fase.\nFonte oficial: https://www.obecon.or
+ g.br/
+URL:https://www.obecon.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7b53a978ccb22d97@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:OBECON: OBECON 2026 — segunda fase
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: exam\nEvidência
+ : 14 de Junho — Segunda Fase.\nFonte oficial: https://www.obecon.org.br/
+URL:https://www.obecon.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b05c2d829f4319b6@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBECON: OBECON 2026 — terceira fase
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: final\nEvidênci
+ a: 8 a 11 de Outubro — Terceira Fase.\nFonte oficial: https://www.obecon
+ .org.br/
+URL:https://www.obecon.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

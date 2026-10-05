@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBOCH — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-eedbbfe17ad92a1b@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260914
+SUMMARY:OBOCH: OBOCH 2026 — 1ª fase (Lote 4)
+DESCRIPTION:Departamento: Humanas\nEdição: 2026\nMarco: round\nEvidência
+ : Lote 4: OBOQ\, OBOCH e OBOEcon até 13/09.\nFonte oficial: https://www.i
+ nstagram.com/projetonoic/p/DdAIHUMmOmu/
+URL:https://www.instagram.com/projetonoic/p/DdAIHUMmOmu/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-68ec0b61d3e2d85a@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBOCH: OBOCH 2026 — 2ª fase (Lote 3)
+DESCRIPTION:Departamento: Humanas\nEdição: 2026\nMarco: round\nEvidência
+ : Lote 3 da 2ª fase: 05/10–11/10\; OBO de Astronomia\, Química e Ciên
+ cias Humanas.\nFonte oficial: https://noic.com.br/wp-content/uploads/2026/
+ 05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2abb7fb1e792ab82@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOCH: OBOCH 2026 — prazo máximo para divulgação das premiaç
+ ões
+DESCRIPTION:Departamento: Humanas\nEdição: 2026\nMarco: results\nEvidênc
+ ia: As premiações sairão até dia 01/12.\nFonte oficial: https://noic.c
+ om.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

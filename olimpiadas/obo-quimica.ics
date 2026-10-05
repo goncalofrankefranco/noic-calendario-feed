@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBOQ — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-55787c4543d51879@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260914
+SUMMARY:OBOQ: OBOQ 2026 — 1ª fase (Lote 4)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: round\nEvidênci
+ a: Lote 4: OBOQ\, OBOCH e OBOEcon até 13/09.\nFonte oficial: https://www.
+ instagram.com/projetonoic/p/DdAIHUMmOmu/
+URL:https://www.instagram.com/projetonoic/p/DdAIHUMmOmu/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ddde06b4009e2c1f@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBOQ: OBOQ 2026 — 2ª fase (Lote 3)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: round\nEvidênci
+ a: Lote 3 da 2ª fase: 05/10–11/10\; OBO de Astronomia\, Química e Ciê
+ ncias Humanas.\nFonte oficial: https://noic.com.br/wp-content/uploads/2026
+ /05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-250191829d025ca3@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOQ: OBOQ 2026 — prazo máximo para divulgação das premiaçõe
+ s
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
+ cia: As premiações sairão até dia 01/12.\nFonte oficial: https://noic.
+ com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

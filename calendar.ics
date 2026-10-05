@@ -60,8 +60,8 @@ DTSTART;VALUE=DATE:20260408
 DTEND;VALUE=DATE:20260511
 SUMMARY:OBECON: OBECON 2026 — inscrições
 DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: registration\nEv
- idência: 08 de Abril a 10 de Maio — Inscrições 2026.\nFonte oficial: 
- https://www.obecon.org.br/
+ idência: 08 de Abril a 10 de Maio — Inscrições 2026.\nFonte oficial:
+  https://www.obecon.org.br/
 URL:https://www.obecon.org.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -156,9 +156,9 @@ DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260519
 SUMMARY:EGOI: EGOI 2026 — período da competição
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
- ência: EGOI 2026 will take place from 12 to 18 May 2026. The competition 
- days are Thursday 14 May and Saturday 16 May.\nFonte oficial: https://egoi
- 2026.it/event/schedule/
+ ência: EGOI 2026 will take place from 12 to 18 May 2026. The competition
+  days are Thursday 14 May and Saturday 16 May.\nFonte oficial: https://ego
+ i2026.it/event/schedule/
 URL:https://egoi2026.it/event/schedule/
 STATUS:CONFIRMED
 END:VEVENT
@@ -230,9 +230,9 @@ DTEND;VALUE=DATE:20260526
 SUMMARY:OBI: Último dia para cadastro de escolas que participam da Modalid
  ade Iniciação
 DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: deadline\nEvid
- ência: Último dia para cadastro de escolas que participam da Modalidade 
- Iniciação\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi
- _completo
+ ência: Último dia para cadastro de escolas que participam da Modalidade
+  Iniciação\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/ob
+ i_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -297,9 +297,9 @@ DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260530
 SUMMARY:OBI: OBI 2026 — prova da Fase 1 (Iniciação)
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
- ência: Prova da Fase 1\, Modalidade Iniciação\; período de 27 a 29 de 
- maio.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_compl
- eto
+ ência: Prova da Fase 1\, Modalidade Iniciação\; período de 27 a 29 de
+  maio.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_comp
+ leto
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -429,8 +429,8 @@ DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260701
 SUMMARY:OBLI: 1º período de inscrições individuais
 DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
- vidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFonte 
- oficial: https://www.seletaeducacao.com.br/obli
+ vidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/obli
 URL:https://www.seletaeducacao.com.br/obli
 STATUS:CONFIRMED
 END:VEVENT
@@ -525,9 +525,9 @@ DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:OBQJr: OBQJr 2026 — prova da Fase 1
 DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
- : A prova da Olimpíada Brasileira de Química Júnior (OBQJr) 2026 será 
- realizada dia 03 de junho.\nFonte oficial: https://obquimica.org/noticias/
- informacoes-importantes-prova-obqjr-2026
+ : A prova da Olimpíada Brasileira de Química Júnior (OBQJr) 2026 será
+  realizada dia 03 de junho.\nFonte oficial: https://obquimica.org/noticias
+ /informacoes-importantes-prova-obqjr-2026
 URL:https://obquimica.org/noticias/informacoes-importantes-prova-obqjr-2026
 STATUS:CONFIRMED
 END:VEVENT
@@ -552,9 +552,9 @@ DTEND;VALUE=DATE:20260607
 SUMMARY:OBI: Último dia para cadastro de escolas que participam da Modalid
  ade Programação
 DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: deadline\nEvid
- ência: Último dia para cadastro de escolas que participam da Modalidade 
- Programação\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/o
- bi_completo
+ ência: Último dia para cadastro de escolas que participam da Modalidade
+  Programação\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/
+ obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -679,8 +679,8 @@ DTSTAMP:20261003T175245Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260623
 SUMMARY:openGeo: II Open International Geography Olympiad (openGeo 2026)
-DESCRIPTION:Departamento: Geografia\nEdição: 2\nMarco: exam\nEvidência: 
- 19 – 22 June 2026\nFonte oficial: https://opengeo.msu.ru/
+DESCRIPTION:Departamento: Geografia\nEdição: 2\nMarco: exam\nEvidência:
+  19 – 22 June 2026\nFonte oficial: https://opengeo.msu.ru/
 URL:https://opengeo.msu.ru/
 STATUS:CONFIRMED
 END:VEVENT
@@ -739,9 +739,9 @@ DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:TFC: Resultados Preliminares Fase 1
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
- dência: Resultados Preliminares Fase 1 Estão disponíveis os Resultados 
- Preliminares da Fase 1. Postado por Coordenação em 22/Jun/2026\nFonte of
- icial: https://olimpiada.ic.unicamp.br/
+ dência: Resultados Preliminares Fase 1 Estão disponíveis os Resultados
+  Preliminares da Fase 1. Postado por Coordenação em 22/Jun/2026\nFonte o
+ ficial: https://olimpiada.ic.unicamp.br/
 URL:https://olimpiada.ic.unicamp.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -878,8 +878,8 @@ DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260801
 SUMMARY:OBLI: 2º período de inscrições individuais
 DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
- vidência: 2º período (R$ 35\,00/aluno): 01/07/2026 a 31/07/2026\nFonte 
- oficial: https://www.seletaeducacao.com.br/obli
+ vidência: 2º período (R$ 35\,00/aluno): 01/07/2026 a 31/07/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/obli
 URL:https://www.seletaeducacao.com.br/obli
 STATUS:CONFIRMED
 END:VEVENT
@@ -1002,8 +1002,8 @@ DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20261015
 SUMMARY:OBLI: 3º período de inscrições individuais
 DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
- vidência: 3º período (R$ 39\,00/aluno): 01/08/2026 a 14/10/2026\nFonte 
- oficial: https://www.seletaeducacao.com.br/obli
+ vidência: 3º período (R$ 39\,00/aluno): 01/08/2026 a 14/10/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/obli
 URL:https://www.seletaeducacao.com.br/obli
 STATUS:CONFIRMED
 END:VEVENT
@@ -1423,9 +1423,9 @@ DTSTART:20260828T170000Z
 DTEND:20260828T210000Z
 SUMMARY:OBQ: OBQ 2026 — prova nacional da Fase III
 DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
- : A prova será realizada no dia 28 de agosto de 2026\, às 14h\; polos e 
- horários conforme aviso da organização estadual.\nFonte oficial: https:
- //pb.obquimica.org/noticias/locais-de-prova-obq-2026
+ : A prova será realizada no dia 28 de agosto de 2026\, às 14h\; polos e
+  horários conforme aviso da organização estadual.\nFonte oficial: https
+ ://pb.obquimica.org/noticias/locais-de-prova-obq-2026
 URL:https://pb.obquimica.org/noticias/locais-de-prova-obq-2026
 STATUS:CONFIRMED
 END:VEVENT
@@ -1544,9 +1544,9 @@ DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260907
 SUMMARY:OBOIA: OBOIA 2026 — 1ª fase (Lote 3)
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco: 
- round\nEvidência: Lote 3: OBOA\, OBOC\, OBOIA e OBOArt até 06/09.\nFonte
-  oficial: https://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  round\nEvidência: Lote 3: OBOA\, OBOC\, OBOIA e OBOArt até 06/09.\nFont
+ e oficial: https://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
 URL:https://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1871,8 +1871,8 @@ UID:noic-d66ab914e0443bbe@noic.com.br
 DTSTAMP:20261005T184011Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-SUMMARY:OBI: Último dia para solicitação de recorreção\, Competição 
- Feminina
+SUMMARY:OBI: Último dia para solicitação de recorreção\, Competição
+  Feminina
 DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: deadline\nEvid
  ência: Último dia para solicitação de recorreção\, Competição Femi
  nina\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_comple
@@ -2062,9 +2062,9 @@ DTSTART:20260926T130000Z
 DTEND:20260926T150000Z
 SUMMARY:OBI: OBI 2026 — prova da Fase 3 (Iniciação)
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
- ncia: Prova da Fase 3\, Modalidade Iniciação\; Inic. Júnior\, Nível 1 
- e Nível 2: 10:00–12:00 (horário de Brasília).\nFonte oficial: https:/
- /olimpiada.ic.unicamp.br/calendario/obi_completo
+ ncia: Prova da Fase 3\, Modalidade Iniciação\; Inic. Júnior\, Nível 1
+  e Nível 2: 10:00–12:00 (horário de Brasília).\nFonte oficial: https:
+ //olimpiada.ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -2125,11 +2125,11 @@ DTSTAMP:20261003T191406Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20261005
 SUMMARY:OBOIA: OBOIA 2026 — 2ª fase (Lote 2)
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco: 
- round\nEvidência: O post associa OBOIA ao Lote 2. A arte enviada pelo usu
- ário mostra 28/09–04/09\; o usuário confirmou 04/10 como a data final 
- correta.\nFonte oficial: https://www.instagram.com/projetonoic/p/Dd2KbbbAY
- aD/
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  round\nEvidência: O post associa OBOIA ao Lote 2. A arte enviada pelo us
+ uário mostra 28/09–04/09\; o usuário confirmou 04/10 como a data final
+  correta.\nFonte oficial: https://www.instagram.com/projetonoic/p/Dd2KbbbA
+ YaD/
 URL:https://www.instagram.com/projetonoic/p/Dd2KbbbAYaD/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2242,8 +2242,8 @@ DTEND;VALUE=DATE:20261003
 SUMMARY:Olimpíada Brasileira de Matemática: Prazo final para o preenchime
  nto do formulário de confirmação.
 DESCRIPTION:Departamento: Matemática\nEdição: 48\nMarco: deadline\nEvid
- ência: Prazo final para o preenchimento do formulário de confirmação. 
- 2 de outubro\nFonte oficial: https://www.obm.org.br/
+ ência: Prazo final para o preenchimento do formulário de confirmação.
+  2 de outubro\nFonte oficial: https://www.obm.org.br/
 URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2291,8 +2291,8 @@ DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:OBI: Prova da Fase 3\, Modalidade Programação
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
- ência: Dia 3 (Sábado) Prova da Fase 3\, Modalidade Programação\nFonte 
- oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+ ência: Dia 3 (Sábado) Prova da Fase 3\, Modalidade Programação\nFonte
+  oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -2329,10 +2329,10 @@ DTSTAMP:20261003T191729Z
 DTSTART:20261003T183000Z
 DTEND:20261003T213000Z
 SUMMARY:OBOIA: OBOIA 2026 — prova da 2ª fase
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco: 
- exam\nEvidência: Regulamento oficial fixa a prova em 03/10\; horário con
- firmado pelo usuário: 15:30–18:30\, America/Sao_Paulo.\nFonte oficial: 
- https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboia.pdf
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  exam\nEvidência: Regulamento oficial fixa a prova em 03/10\; horário co
+ nfirmado pelo usuário: 15:30–18:30\, America/Sao_Paulo.\nFonte oficial:
+  https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboia.pdf
 URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboia.pdf
 STATUS:CONFIRMED
 END:VEVENT
@@ -2366,8 +2366,8 @@ UID:noic-b08ededec620afee@noic.com.br
 DTSTAMP:20261003T184756Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261012
-SUMMARY:OBOEcon: OBOEcon 2026 — janela do Lote 3 (atividade intensiva de 
- 24h)
+SUMMARY:OBOEcon: OBOEcon 2026 — janela do Lote 3 (atividade intensiva de
+  24h)
 DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: round\nEvidênci
  a: Entre 05/10 e 11/10\, os grupos terão 24 horas contínuas para respond
  er a uma proposta de business case.\nFonte oficial: https://noic.com.br/wp
@@ -2548,9 +2548,9 @@ DTEND:20261008T170000Z
 SUMMARY:Olimpíada Brasileira de Matemática: Primeiro dia - níveis 1\, 2\
  , 3 e universitário - 48ª OBM
 DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
- cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3 
- e universitário 14h00 (horário de Brasília)\nFonte oficial: https://www
- .obm.org.br/
+ cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
+  e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
+ w.obm.org.br/
 URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2562,9 +2562,9 @@ DTEND:20261008T170000Z
 SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
   Matemática (OBM) - Primeiro dia - níveis 1\, 2\, 3 e universitário
 DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
- cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3 
- e universitário 14h00 (horário de Brasília)\nFonte oficial: https://www
- .obm.org.br/
+ cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
+  e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
+ w.obm.org.br/
 URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2576,9 +2576,9 @@ DTEND:20261008T170000Z
 SUMMARY:Olimpíada Brasileira de Matemática: Primeiro dia - níveis 1\, 2\
  , 3 e universitário
 DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
- cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3 
- e universitário 14h00 (horário de Brasília)\nFonte oficial: https://www
- .obm.org.br/
+ cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
+  e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
+ w.obm.org.br/
 URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2590,9 +2590,9 @@ DTEND:20261008T170000Z
 SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
   Matemática (OBM) - Primeiro dia
 DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
- cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3 
- e universitário 14h00 (horário de Brasília)\nFonte oficial: https://www
- .obm.org.br/
+ cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
+  e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
+ w.obm.org.br/
 URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2705,8 +2705,8 @@ UID:noic-db92704601c6a595@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:ONHB: ONHB 2026 — início da disponibilização dos certificados 
- estaduais
+SUMMARY:ONHB: ONHB 2026 — início da disponibilização dos certificados
+  estaduais
 DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: results\nEvidê
  ncia: Os certificados oficiais de medalha serão disponibilizados digitalm
  ente a partir do dia 15 de outubro.\nFonte oficial: https://www.olimpiadad
@@ -2986,9 +2986,9 @@ DTSTAMP:20261004T145536Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:OI: Aplicação online das provas da 3ª Edição
-DESCRIPTION:Departamento: Inglês\nEdição: 3ª\nMarco: exam\nEvidência: 
- 05 novembro 2026 Aplicação online das provas da 3ª Edição.\nFonte ofi
- cial: https://oingles.com/
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª\nMarco: exam\nEvidência:
+  05 novembro 2026 Aplicação online das provas da 3ª Edição.\nFonte of
+ icial: https://oingles.com/
 URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
@@ -3035,8 +3035,8 @@ DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:OI: Publicação dos gabaritos das provas da 2ª Edição
 DESCRIPTION:Departamento: Inglês\nEdição: 2ª Edição\nMarco: results\n
- Evidência: 07 novembro 2026 Publicação dos gabaritos das provas da 2ª 
- Edição.\nFonte oficial: https://oingles.com/
+ Evidência: 07 novembro 2026 Publicação dos gabaritos das provas da 2ª
+  Edição.\nFonte oficial: https://oingles.com/
 URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
@@ -3047,8 +3047,8 @@ DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:OI: Publicação dos gabaritos das provas da 2ª Edição
 DESCRIPTION:Departamento: Inglês\nEdição: 2ª Edição\nMarco: results\n
- Evidência: 07 novembro 2026 Publicação dos gabaritos das provas da 2ª 
- Edição.\nFonte oficial: https://oingles.com/
+ Evidência: 07 novembro 2026 Publicação dos gabaritos das provas da 2ª
+  Edição.\nFonte oficial: https://oingles.com/
 URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
@@ -3121,8 +3121,8 @@ DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20270116
 SUMMARY:OI: Período para aquisição de medalhas
 DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: other\nEv
- idência: 24 novembro 2026 - 15 janeiro 2027 Período para aquisição de 
- medalhas\nFonte oficial: https://oingles.com/
+ idência: 24 novembro 2026 - 15 janeiro 2027 Período para aquisição de
+  medalhas\nFonte oficial: https://oingles.com/
 URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
@@ -3288,9 +3288,9 @@ DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:OBOIA: OBOIA 2026 — prazo máximo para divulgação das premiaç
  ões
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco: 
- results\nEvidência: As premiações sairão até dia 01/12.\nFonte oficia
- l: https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  results\nEvidência: As premiações sairão até dia 01/12.\nFonte ofici
+ al: https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
 URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
 STATUS:CONFIRMED
 END:VEVENT
@@ -3513,9 +3513,9 @@ DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270711
 SUMMARY:IOAI: 4th International Olympiad in Artificial Intelligence
 DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 4th\nMarco: e
- xam\nEvidência: July 4th – 10th 2027 Singapore\, Republic of Singapore 
- 4th International Olympiad in AI (IOAI)\nFonte oficial: https://ioai-offic
- ial.org/
+ xam\nEvidência: July 4th – 10th 2027 Singapore\, Republic of Singapore
+  4th International Olympiad in AI (IOAI)\nFonte oficial: https://ioai-offi
+ cial.org/
 URL:https://ioai-official.org/
 STATUS:CONFIRMED
 END:VEVENT
@@ -3526,9 +3526,9 @@ DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270711
 SUMMARY:IOAI: 4th International Olympiad in AI (IOAI)
 DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 4th\nMarco: e
- xam\nEvidência: July 4th – 10th 2027 Singapore\, Republic of Singapore 
- 4th International Olympiad in AI (IOAI)\nFonte oficial: https://ioai-offic
- ial.org/
+ xam\nEvidência: July 4th – 10th 2027 Singapore\, Republic of Singapore
+  4th International Olympiad in AI (IOAI)\nFonte oficial: https://ioai-offi
+ cial.org/
 URL:https://ioai-official.org/
 STATUS:CONFIRMED
 END:VEVENT

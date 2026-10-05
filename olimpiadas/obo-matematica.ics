@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBOM — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-89220ef4b26ec295@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260831
+SUMMARY:OBOM: OBOM 2026 — 1ª fase (Lote 2)
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: round\nEvidê
+ ncia: Lote 2 encerra em 30/08\; OBOI\, OBOM e OBOFE.\nFonte oficial: https
+ ://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
+URL:https://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a38096b2787d982e@noic.com.br
+DTSTAMP:20261003T184756Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261005
+SUMMARY:OBOM: OBOM 2026 — prova da 2ª fase
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: OBOM 2026\, 2ª fase: a prova será realizada de 28/09 até 04/10.\nF
+ onte oficial: https://noic.com.br/wp-content/uploads/2026/07/OBOs_2026.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/07/OBOs_2026.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c2ad1620c1f86adc@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOM: OBOM 2026 — prazo máximo para divulgação das premiaçõe
+ s
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: results\nEvid
+ ência: As premiações sairão até dia 01/12.\nFonte oficial: https://no
+ ic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

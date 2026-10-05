@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBOF — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-c30702c94edde464@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260824
+SUMMARY:OBOF: OBOF 2026 — 1ª fase (Lote 1)
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: round\nEvidência
+ : Lote 1: 17/08–23/08\; OBOF\, OBOB\, OBOL e OBOR.\nFonte oficial: https
+ ://www.instagram.com/p/DcJ9DxMAbge/
+URL:https://www.instagram.com/p/DcJ9DxMAbge/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cab76b5f2bd7734c@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260928
+SUMMARY:OBOF: OBOF 2026 — 2ª fase (Lote 1)
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: round\nEvidência
+ : Lote 1 da 2ª fase: 21/09–27/09\; OBOF\, OBOI\, OBOB e OBOL.\nFonte of
+ icial: https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
+URL:https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-69a2a8b84ead70ca@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOF: OBOF 2026 — prazo máximo para divulgação das premiaçõe
+ s
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: As premiações sairão até dia 01/12.\nFonte oficial: https://noic.c
+ om.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

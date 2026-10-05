@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBQ — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-00fecafcc535b467@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART:20260828T170000Z
+DTEND:20260828T210000Z
+SUMMARY:OBQ: OBQ 2026 — prova nacional da Fase III
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
+ : A prova será realizada no dia 28 de agosto de 2026\, às 14h\; polos e
+  horários conforme aviso da organização estadual.\nFonte oficial: https
+ ://pb.obquimica.org/noticias/locais-de-prova-obq-2026
+URL:https://pb.obquimica.org/noticias/locais-de-prova-obq-2026
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

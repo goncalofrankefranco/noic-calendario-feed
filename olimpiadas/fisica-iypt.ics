@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:IYPT — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-1ce32638d409c674@noic.com.br
+DTSTAMP:20261005T183724Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:IYPT: Lançamento do Regulamento
+DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: announcement\nEvi
+ dência: 05/10/2026 Lançamento do Regulamento\nFonte oficial: https://www
+ .iyptbrasil.com/
+URL:https://www.iyptbrasil.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d081e0d16f82e4d9@noic.com.br
+DTSTAMP:20261005T183724Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:IYPT: Encerramento das Inscrições
+DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: deadline\nEvidên
+ cia: 18/12/2026 Encerramento das Inscrições\nFonte oficial: https://www.
+ iyptbrasil.com/
+URL:https://www.iyptbrasil.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

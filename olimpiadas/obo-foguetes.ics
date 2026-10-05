@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBOFog — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-6d48db653c196007@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260928
+SUMMARY:OBOFog: OBOFog 2026 — envio de lançamentos\, medidas e vídeos d
+ a 1ª fase
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: submission\nEvid
+ ência: A data limite da primeira fase foi prorrogada até 27/09.\nFonte o
+ ficial: https://www.instagram.com/projetonoic/p/DdFOu2YnE7J/
+URL:https://www.instagram.com/projetonoic/p/DdFOu2YnE7J/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d6d9945720480fd0@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261031
+SUMMARY:OBOFog: OBOFog 2026 — envio das apresentações da 2ª fase
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: submission\nEvid
+ ência: OBOFog: submissões contínuas de 28/09–30/10 para envio das apr
+ esentações.\nFonte oficial: https://noic.com.br/wp-content/uploads/2026/
+ 05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7c1d8893e8332433@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOFog: OBOFog 2026 — prazo máximo para divulgação das premia
+ ções
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: results\nEvidên
+ cia: As premiações sairão até dia 01/12.\nFonte oficial: https://noic.
+ com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

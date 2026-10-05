@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:IOAI — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-6f7bd8e314857e8f@noic.com.br
+DTSTAMP:20261004T145442Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260809
+SUMMARY:IOAI: 3rd International Olympiad in Artificial Intelligence
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3rd\nMarco: e
+ xam\nEvidência: will be held in Astana\, Republic of Kazakhstan\, in 2026
+  from 2nd until 8th of August.\nFonte oficial: https://ioai-official.org/
+URL:https://ioai-official.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e3992bc28286d79e@noic.com.br
+DTSTAMP:20261003T175326Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260809
+SUMMARY:IOAI: 3rd International Olympiad in Artificial Intelligence
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3rd\nMarco: e
+ xam\nEvidência: will be held in Astana\, Republic of Kazakhstan\, in 2026
+  from 2nd until 8th of August\nFonte oficial: https://ioai-official.org/
+URL:https://ioai-official.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7e60b1c76d2319ca@noic.com.br
+DTSTAMP:20261002T160138Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270711
+SUMMARY:IOAI: 4th International Olympiad in Artificial Intelligence
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 4th\nMarco: e
+ xam\nEvidência: July 4th – 10th 2027 Singapore\, Republic of Singapore
+  4th International Olympiad in AI (IOAI)\nFonte oficial: https://ioai-offi
+ cial.org/
+URL:https://ioai-official.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9cf7d71d20d6a703@noic.com.br
+DTSTAMP:20261001T163835Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270711
+SUMMARY:IOAI: 4th International Olympiad in AI (IOAI)
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 4th\nMarco: e
+ xam\nEvidência: July 4th – 10th 2027 Singapore\, Republic of Singapore
+  4th International Olympiad in AI (IOAI)\nFonte oficial: https://ioai-offi
+ cial.org/
+URL:https://ioai-official.org/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

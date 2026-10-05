@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBQJr — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-956fa0b627056881@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:OBQJr: OBQJr 2026 — prova da Fase 1
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
+ : A prova da Olimpíada Brasileira de Química Júnior (OBQJr) 2026 será
+  realizada dia 03 de junho.\nFonte oficial: https://obquimica.org/noticias
+ /informacoes-importantes-prova-obqjr-2026
+URL:https://obquimica.org/noticias/informacoes-importantes-prova-obqjr-2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e4e77030b708dc9f@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART:20260821T110000Z
+DTEND:20260822T000000Z
+SUMMARY:OBQJr: OBQJr 2026 — prova da Fase 2 (janela de Brasília)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
+ : Data da prova: 21 de agosto de 2026 — online de 8h às 21h.\nFonte ofi
+ cial: https://obqjr.obquimica.org/noticias/segunda-fase-da-obq-jr-2026-aco
+ ntece-em-21-de-agosto
+URL:https://obqjr.obquimica.org/noticias/segunda-fase-da-obq-jr-2026-aconte
+ ce-em-21-de-agosto
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,610 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBI — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-4eaa074cc3f15db7@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:OBI: Abertura das inscrições da OBI 2026
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: registration
+ \nEvidência: Dia 6: Abertura das inscrições\, Evento Geral.\nFonte ofic
+ ial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e92dfe8ea94f07e9@noic.com.br
+DTSTAMP:20261004T145549Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:OBI: Abertura das inscrições
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: registration
+ \nEvidência: Dia 6 (Sexta-feira) Abertura das inscrições\, Evento Geral
+ \nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5e3bb9ed07320cd2@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:OBI: Último dia para cadastro de escolas que participam da Modalid
+ ade Iniciação
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: deadline\nEvid
+ ência: Último dia para cadastro de escolas que participam da Modalidade
+  Iniciação\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/ob
+ i_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7064fe381f501380@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:OBI: OBI 2026 — prazo para cadastro de escolas (Iniciação)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Último dia para cadastro de escolas que participam da Modalidad
+ e Iniciação.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/
+ obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-29dc3e436ef3ab60@noic.com.br
+DTSTAMP:20261004T145549Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:OBI: Último dia para inscrição de competidores da Modalidade Ini
+ ciação
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: registration
+ \nEvidência: Dia 26 (Terça-feira) Último dia para inscrição de compet
+ idores da Modalidade Iniciação\nFonte oficial: https://olimpiada.ic.unic
+ amp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fc3e85bb663d01ac@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:OBI: OBI 2026 — prazo de inscrição dos competidores (Iniciaçã
+ o)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Último dia para inscrição de competidores da Modalidade Inici
+ ação.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_com
+ pleto
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-40c4a6f3fe663f3a@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260530
+SUMMARY:OBI: Início do período de Prova da Fase 1\, Modalidade Iniciaçã
+ o
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
+ ia: Início do período de Prova da Fase 1\, Modalidade Iniciação\nFonte
+  oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b260c235bcd59e38@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260530
+SUMMARY:OBI: OBI 2026 — prova da Fase 1 (Iniciação)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Prova da Fase 1\, Modalidade Iniciação\; período de 27 a 29 de
+  maio.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_comp
+ leto
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7ad338dcf7fedfa6@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:OBI: OBI 2026 — prazo para cadastro de escolas (Programação)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Último dia para cadastro de escolas que participam da Modalidad
+ e Programação.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendari
+ o/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7f01546ed2314dd5@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:OBI: Último dia para cadastro de escolas que participam da Modalid
+ ade Programação
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: deadline\nEvid
+ ência: Último dia para cadastro de escolas que participam da Modalidade
+  Programação\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/
+ obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-88d188c4820e65ea@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:OBI: OBI 2026 — prazo de inscrição dos competidores (Programaç
+ ão)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Último dia para inscrição de competidores da Modalidade Progr
+ amação.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_c
+ ompleto
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b7b13e31715bfa64@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:OBI: Último dia para inscrição de competidores da Modalidade Pro
+ gramação
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: registration\n
+ Evidência: Último dia para inscrição de competidores da Modalidade Pro
+ gramação\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_
+ completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-25a10eda683a9479@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260613
+SUMMARY:OBI: OBI 2026 — prova da Fase 1 (Programação)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Prova da Fase 1\, Modalidade Programação\; período de 10 a 12 d
+ e junho.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_co
+ mpleto
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3901e680872eff3a@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260613
+SUMMARY:OBI: Início do período de Prova da Fase 1\, Modalidade Programaç
+ ão
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
+ ia: Início do período de Prova da Fase 1\, Modalidade Programação\nFon
+ te oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2826d06fdd2f2439@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260620
+SUMMARY:OBI: Início do período de Prova da Fase 1 Turno B\, Modalidade Pr
+ ogramação
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
+ ia: Início do período de Prova da Fase 1 Turno B\, Modalidade Programaç
+ ão\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_complet
+ o
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-28b3cd42f1702f00@noic.com.br
+DTSTAMP:20261004T145549Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:OBI: Resultado preliminar da Fase 1
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
+ dência: Dia 22 (Segunda-feira) Resultado preliminar da Fase 1\, Evento Ge
+ ral\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_complet
+ o
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4bd92c80d98a5ae1@noic.com.br
+DTSTAMP:20261004T145549Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:OBI: Último dia para solicitação de recorreção da Fase 1
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Dia 24 (Quarta-feira) Último dia para solicitação de recorre
+ ção da Fase 1\, Evento Geral\nFonte oficial: https://olimpiada.ic.unicam
+ p.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0e3bbd2a8316820e@noic.com.br
+DTSTAMP:20261004T145549Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:OBI: Resultado final da fase 1
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
+ dência: Dia 26 (Sexta-feira) Resultado final da fase 1\, Evento Geral\nFo
+ nte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3b0a2ccbd60a0ec1@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260808
+SUMMARY:OBI: OBI 2026 — prova da Fase 2 (Iniciação)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Prova da Fase 2\, Modalidade Iniciação\; período de 6 a 7 de ag
+ osto.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_compl
+ eto
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8aa2020d0cbdb5e5@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260808
+SUMMARY:OBI: Início do período de Prova da Fase 2\, Modalidade Iniciaçã
+ o
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
+ ia: Início do período de Prova da Fase 2\, Modalidade Iniciação\nFonte
+  oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-43a76099082cf45d@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260822
+SUMMARY:OBI: OBI 2026 — prova da Fase 2 (Programação)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Prova da Fase 2\, Modalidade Programação\; período de 20 a 21 d
+ e agosto.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_c
+ ompleto
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6a10ff86aeaf776c@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260822
+SUMMARY:OBI: Início do período de Prova da Fase 2\, Modalidade Programaç
+ ão
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
+ ia: Início do período de Prova da Fase 2\, Modalidade Programação\nFon
+ te oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-081225c6784c822a@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:OBI: Resultado preliminar da Fase 2
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: results\nEvid
+ ência: Resultado preliminar da Fase 2\nFonte oficial: https://olimpiada.i
+ c.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b232359645536dac@noic.com.br
+DTSTAMP:20261004T145549Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:OBI: Último dia para solicitação de recorreção da Fase 2
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Dia 2 (Quarta-feira) Último dia para solicitação de recorreç
+ ão da Fase 2\, Evento Geral\nFonte oficial: https://olimpiada.ic.unicamp.
+ br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-19f6628675e8414f@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:OBI: Resultado final da Fase 2
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: results\nEvid
+ ência: Resultado final da Fase 2\nFonte oficial: https://olimpiada.ic.uni
+ camp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-64ee850d602d28b1@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:OBI: Último dia para cadastro de escolas que participam da CF-OBI
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: deadline\nEvid
+ ência: Último dia para cadastro de escolas que participam da CF-OBI\nFon
+ te oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b968d34057de98aa@noic.com.br
+DTSTAMP:20261004T145549Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:OBI: Último dia para inscrição de competidoras da CF-OBI
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: registration
+ \nEvidência: Dia 9 (Quarta-feira) Último dia para inscrição de competi
+ doras da CF-OBI \, Competição Feminina\nFonte oficial: https://olimpiada
+ .ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3a7791d80c63c7f3@noic.com.br
+DTSTAMP:20261004T145549Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:OBI: Prova da CF-OBI2025
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Dia 11 (Sexta-feira) Prova da CF-OBI2025\, Competição Feminina\n
+ Fonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3cd2aaa038993f01@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:OBI: Prova da CF-OBI
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
+ ia: Prova da CF-OBI2025\nFonte oficial: https://olimpiada.ic.unicamp.br/ca
+ lendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5f298d7e5bb53bdf@noic.com.br
+DTSTAMP:20261004T145549Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:OBI: Resultado Preliminar da CF-OBI
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
+ dência: Dia 15 (Terça-feira) Resultado Preliminar\, Competição Feminin
+ a Resultado Preliminar da CF-OBI.\nFonte oficial: https://olimpiada.ic.uni
+ camp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7771dde652d636fb@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:OBI: Resultado Preliminar\, Competição Feminina
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: results\nEvid
+ ência: Resultado Preliminar\, Competição Feminina\nFonte oficial: https
+ ://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6d45ed0dd3fdfe85@noic.com.br
+DTSTAMP:20261004T145549Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:OBI: Último dia para solicitação de recorreção da CF-OBI
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Dia 17 (Quinta-feira) Último dia para solicitação de recorre
+ ção\, Competição Feminina Último dia para solicitação de recorreç
+ ão da CF-OBI.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/
+ obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d66ab914e0443bbe@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:OBI: Último dia para solicitação de recorreção\, Competição
+  Feminina
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: deadline\nEvid
+ ência: Último dia para solicitação de recorreção\, Competição Femi
+ nina\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_comple
+ to
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9535f0e697e2dd77@noic.com.br
+DTSTAMP:20261004T145549Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:OBI: Prova da Fase 3\, Modalidade Iniciação
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Dia 26 (Sábado) Prova da Fase 3\, Modalidade Iniciação\nFonte o
+ ficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-adf838903255a223@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:OBI: Prova da Fase 3\, Modalidade Iniciação
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
+ ia: Prova da Fase 3\, Modalidade Iniciação\nFonte oficial: https://olimp
+ iada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9b2695fde08e79c7@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:OBI: OBI 2026 — prova da Fase 3 (Iniciação)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: Prova da Fase 3\, Modalidade Iniciação\; Inic. Júnior\, Nível 1
+  e Nível 2: 10:00–12:00 (horário de Brasília).\nFonte oficial: https:
+ //olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-10a8dbda4de411b1@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:OBI: Prova da Fase 3\, Modalidade Programação
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
+ ia: Prova da Fase 3\, Modalidade Programação\nFonte oficial: https://oli
+ mpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c5d49ce938cd51b3@noic.com.br
+DTSTAMP:20261004T145549Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:OBI: Prova da Fase 3\, Modalidade Programação
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Dia 3 (Sábado) Prova da Fase 3\, Modalidade Programação\nFonte
+  oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-500574023cfa2765@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART:20261003T110000Z
+DTEND:20261003T150000Z
+SUMMARY:OBI: OBI 2026 — prova da Fase 3 (Programação Júnior e Nível 1
+ )
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: Progr. Júnior e Progr. Nível 1: 8:00–12:00 (horário de Brasíli
+ a).\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_complet
+ o
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fa18753bbafe51e4@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART:20261003T160000Z
+DTEND:20261003T210000Z
+SUMMARY:OBI: OBI 2026 — prova da Fase 3 (Programação Nível 2 e Sênior
+ )
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: Progr. Nível 2 e Sênior: 13:00–18:00 (horário de Brasília).\nF
+ onte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-38fa4f079c13bd71@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:OBI: Resultado preliminar da Fase 3
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: results\nEvid
+ ência: Resultado preliminar da Fase 3\nFonte oficial: https://olimpiada.i
+ c.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b63b0ac3f54c98b5@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:OBI: OBI 2026 — resultado preliminar da Fase 3
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
+ dência: Dia 13: Resultado preliminar da Fase 3.\nFonte oficial: https://o
+ limpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3dc60d069448f0e5@noic.com.br
+DTSTAMP:20261004T145549Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:OBI: Último dia para solicitação de recorreção da Fase 3
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Dia 16 (Sexta-feira) Último dia para solicitação de recorreç
+ ão da Fase 3\, Evento Geral\nFonte oficial: https://olimpiada.ic.unicamp.
+ br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9c6bcfcfefcd0a5c@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:OBI: Resultado Final da OBI2026 e Quadro de Medalhas
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: results\nEvid
+ ência: Resultado Final da OBI2026 e Quadro de Medalhas\nFonte oficial: ht
+ tps://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f234c9a2a3768013@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:OBI: OBI 2026 — resultado final e quadro de medalhas
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
+ dência: Dia 22: Resultado Final da OBI2026 e Quadro de Medalhas.\nFonte o
+ ficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0fea7cfec70387ac@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261213
+SUMMARY:OBI: OBI 2026 — Semana Olímpica
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: final\nEvid
+ ência: Semana Olímpica da OBI2026: 6 a 12 de dezembro.\nFonte oficial: h
+ ttps://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8f16c0b7c98d237a@noic.com.br
+DTSTAMP:20261005T184011Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261213
+SUMMARY:OBI: Semana Olímpica OBI2026
+DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: other\nEvidên
+ cia: Início do período de OBI2026\, Semana Olímpica\nFonte oficial: htt
+ ps://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

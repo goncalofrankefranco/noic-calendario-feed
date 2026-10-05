@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OI — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-e13c08d733ebd8e7@noic.com.br
+DTSTAMP:20261003T175447Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20261024
+SUMMARY:OI: Abertura das inscrições para a 3ª Edição da OI
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
+ ion\nEvidência: 07 julho 2026 - 23 outubro 2026 Abertura das inscrições
+  para a 3ª Edição da OI.\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-454b99700f2980db@noic.com.br
+DTSTAMP:20261002T155939Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20261024
+SUMMARY:OI: 2º Período de Inscrição da 3ª Edição da OI
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
+ ion\nEvidência: 29 agosto 2026 - 23 outubro 2026 2º Período de Inscriç
+ ão da 3ª Edição da OI.\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-73a2949715f23d55@noic.com.br
+DTSTAMP:20261003T175447Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20261024
+SUMMARY:OI: 2º Período de Inscrição da 3ª Edição da OI
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
+ ion\nEvidência: 29 agosto 2026 - 23 outubro 2026 2º Período de Inscriç
+ ão da 3ª Edição da OI.\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2206541e9f79a2a9@noic.com.br
+DTSTAMP:20261004T145536Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:OI: Aplicação online das provas da 3ª Edição
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª\nMarco: exam\nEvidência:
+  05 novembro 2026 Aplicação online das provas da 3ª Edição.\nFonte of
+ icial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-318768ed7e42e32b@noic.com.br
+DTSTAMP:20261003T175447Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:OI: Aplicação online das provas da 3ª Edição
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: exam\nEvi
+ dência: 05 novembro 2026 Aplicação online das provas da 3ª Edição.\n
+ Fonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1f66e416f4d7fed5@noic.com.br
+DTSTAMP:20261003T162039Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:OI: Publicação dos gabaritos das provas da 2ª Edição
+DESCRIPTION:Departamento: Inglês\nEdição: 2ª Edição\nMarco: results\n
+ Evidência: 07 novembro 2026 Publicação dos gabaritos das provas da 2ª
+  Edição.\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-73a6883fc2d92cf9@noic.com.br
+DTSTAMP:20261003T175447Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:OI: Publicação dos gabaritos das provas da 2ª Edição
+DESCRIPTION:Departamento: Inglês\nEdição: 2ª Edição\nMarco: results\n
+ Evidência: 07 novembro 2026 Publicação dos gabaritos das provas da 2ª
+  Edição.\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-069ca0d183aff1cb@noic.com.br
+DTSTAMP:20261003T175447Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20270116
+SUMMARY:OI: Período para aquisição de medalhas
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: other\nEv
+ idência: 24 novembro 2026 - 15 janeiro 2027 Período para aquisição de
+  medalhas\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-09f16fa2be676a99@noic.com.br
+DTSTAMP:20261003T175447Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:OI: Divulgação dos premiados com Ouro\, Prata\, Bronze e Menção
+  Honrosa
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: announcem
+ ent\nEvidência: 24 novembro 2026 Divulgação dos premiados com Ouro\, Pr
+ ata\, Bronze e Menção Honrosa.\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6429847cf052960a@noic.com.br
+DTSTAMP:20260930T161140Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:OI: Divulgação dos premiados com Ouro\, Prata\, Bronze e Menção
+  Honrosa
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: results\n
+ Evidência: 24 novembro 2026 Divulgação dos premiados com Ouro\, Prata\,
+  Bronze e Menção Honrosa.\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f5497dde416170dc@noic.com.br
+DTSTAMP:20261002T155939Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:OI: Divulgação dos premiados com Ouro\, Prata\, Bronze e Menção
+  Honrosa
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: announcem
+ ent\nEvidência: 24 novembro 2026 Divulgação dos premiados com Ouro\, Pr
+ ata\, Bronze e Menção Honrosa.\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

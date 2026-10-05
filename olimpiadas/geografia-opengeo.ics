@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:openGeo — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-20ae44d225761a80@noic.com.br
+DTSTAMP:20261003T175245Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260623
+SUMMARY:openGeo: II Open International Geography Olympiad (openGeo 2026)
+DESCRIPTION:Departamento: Geografia\nEdição: 2\nMarco: exam\nEvidência:
+  19 – 22 June 2026\nFonte oficial: https://opengeo.msu.ru/
+URL:https://opengeo.msu.ru/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-bbd551a9a25ab49b@noic.com.br
+DTSTAMP:20260930T161457Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260623
+SUMMARY:openGeo: II Open International Geography Olympiad openGeo 2026
+DESCRIPTION:Departamento: Geografia\nEdição: II\nMarco: exam\nEvidência:
+  19 – 22 June 2026\nFonte oficial: https://opengeo.msu.ru/
+URL:https://opengeo.msu.ru/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

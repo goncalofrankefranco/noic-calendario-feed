@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:iGeo — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-52438c4c7b4d6bcc@noic.com.br
+DTSTAMP:20261005T184052Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270810
+SUMMARY:iGeo: 2027 International Geography Olympiad in Jelgava\, Latvia
+DESCRIPTION:Departamento: Geografia\nEdição: 2027\nMarco: exam\nEvidênci
+ a: 2027 2-9 August\, Jelgava\, Latvia\nFonte oficial: https://www.geoolymp
+ iad.org/
+URL:https://www.geoolympiad.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e4d93c7698f35698@noic.com.br
+DTSTAMP:20260930T161453Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270810
+SUMMARY:iGeo: 2027 International Geography Olympiad
+DESCRIPTION:Departamento: Geografia\nEdição: 2027\nMarco: exam\nEvidênci
+ a: 2027 2-9 August\, Jelgava\, Latvia\nFonte oficial: https://www.geoolymp
+ iad.org/
+URL:https://www.geoolympiad.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-296e34ec190aa060@noic.com.br
+DTSTAMP:20260930T161453Z
+DTSTART;VALUE=DATE:20280703
+DTEND;VALUE=DATE:20280711
+SUMMARY:iGeo: 2028 International Geography Olympiad
+DESCRIPTION:Departamento: Geografia\nEdição: 2028\nMarco: exam\nEvidênci
+ a: 2028 3-10 July\, Melbourne\, Australia\nFonte oficial: https://www.geoo
+ lympiad.org/
+URL:https://www.geoolympiad.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-920494819f4f5ecd@noic.com.br
+DTSTAMP:20261005T184052Z
+DTSTART;VALUE=DATE:20280703
+DTEND;VALUE=DATE:20280711
+SUMMARY:iGeo: 2028 International Geography Olympiad in Melbourne\, Australi
+ a
+DESCRIPTION:Departamento: Geografia\nEdição: 2028\nMarco: exam\nEvidênci
+ a: 2028 3-10 July\, Melbourne\, Australia\nFonte oficial: https://www.geoo
+ lympiad.org/
+URL:https://www.geoolympiad.org/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

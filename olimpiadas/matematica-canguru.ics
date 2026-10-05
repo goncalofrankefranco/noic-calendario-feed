@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Canguru de Matemática — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-09d1d3d11a98d8b1@noic.com.br
+DTSTAMP:20260930T160730Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260326
+SUMMARY:Canguru de Matemática: Aplicação das Provas
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: Aplicação das Provas 19/03/26 a 25/03/26\nFonte oficial: https://ww
+ w.cangurudematematicabrasil.com.br/
+URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ed1d104c38a44a19@noic.com.br
+DTSTAMP:20261003T175335Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260326
+SUMMARY:Canguru de Matemática: Aplicação das Provas
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: Aplicação das Provas 19/03/26 a 25/03/26\nFonte oficial: https://ww
+ w.cangurudematematicabrasil.com.br/
+URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-51fdd657f14f70b4@noic.com.br
+DTSTAMP:20260930T160730Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Canguru de Matemática: Resultados
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: results\nEvid
+ ência: Resultados 02/06/26\nFonte oficial: https://www.cangurudematematic
+ abrasil.com.br/
+URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-82622fb4e9241da9@noic.com.br
+DTSTAMP:20260930T160730Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20261013
+SUMMARY:Canguru de Matemática: Venda de Medalhas
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: other\nEvidê
+ ncia: Venda de Medalhas 02/06/26 a 12/10/26\nFonte oficial: https://www.ca
+ ngurudematematicabrasil.com.br/
+URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a6782376b7a0791c@noic.com.br
+DTSTAMP:20261003T175335Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20261013
+SUMMARY:Canguru de Matemática: Venda de Medalhas
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: other\nEvidê
+ ncia: Venda de Medalhas 02/06/26 a 12/10/26\nFonte oficial: https://www.ca
+ ngurudematematicabrasil.com.br/
+URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-da4974c83b0c78bc@noic.com.br
+DTSTAMP:20261003T175335Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Canguru de Matemática: Resultados
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: results\nEvid
+ ência: Resultados 02/06/26\nFonte oficial: https://www.cangurudematematic
+ abrasil.com.br/
+URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

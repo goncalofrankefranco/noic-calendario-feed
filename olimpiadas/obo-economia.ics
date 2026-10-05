@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBOEcon — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-87df51283ea71c55@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260914
+SUMMARY:OBOEcon: OBOEcon 2026 — 1ª fase (Lote 4)
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: round\nEvidênci
+ a: Lote 4: OBOQ\, OBOCH e OBOEcon até 13/09.\nFonte oficial: https://www.
+ instagram.com/projetonoic/p/DdAIHUMmOmu/
+URL:https://www.instagram.com/projetonoic/p/DdAIHUMmOmu/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b08ededec620afee@noic.com.br
+DTSTAMP:20261003T184756Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBOEcon: OBOEcon 2026 — janela do Lote 3 (atividade intensiva de
+  24h)
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: round\nEvidênci
+ a: Entre 05/10 e 11/10\, os grupos terão 24 horas contínuas para respond
+ er a uma proposta de business case.\nFonte oficial: https://noic.com.br/wp
+ -content/uploads/2026/05/regulamento_oboecon.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboecon.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3aea7005812dabc9@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOEcon: OBOEcon 2026 — prazo máximo para divulgação das premi
+ ações
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: results\nEvidên
+ cia: As premiações sairão até dia 01/12.\nFonte oficial: https://noic.
+ com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

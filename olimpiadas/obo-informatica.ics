@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBOI — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-a76bca8df38bc527@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260831
+SUMMARY:OBOI: OBOI 2026 — 1ª fase (Lote 2)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Lote 2 encerra em 30/08\; OBOI\, OBOM e OBOFE.\nFonte oficial: htt
+ ps://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
+URL:https://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-132dc8d5f93302da@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260928
+SUMMARY:OBOI: OBOI 2026 — 2ª fase (Lote 1)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Lote 1 da 2ª fase: 21/09–27/09\; OBOF\, OBOI\, OBOB e OBOL.\nFo
+ nte oficial: https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
+URL:https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0ae294ad9d8f1265@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:OBOI: OBOI 2026 — prazo máximo para divulgação das premiaçõe
+ s
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
+ dência: As premiações sairão até dia 01/12.\nFonte oficial: https://n
+ oic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

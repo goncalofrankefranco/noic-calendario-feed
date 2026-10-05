@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Astronomia — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-1efdae2bef204a7c@noic.com.br
+DTSTAMP:20261003T175418Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20261006
+SUMMARY:Astronomia: 19th IOAA 2026
+DESCRIPTION:Departamento: Astronomia\nEdição: 19th\nMarco: final\nEvidên
+ cia: 19th IOAA 2026 25.9. - 5.10. Hanoi\, Vietnam\nFonte oficial: https://
+ www.ioaastrophysics.org/
+URL:https://www.ioaastrophysics.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-45524dfd15962c24@noic.com.br
+DTSTAMP:20261003T175418Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261109
+SUMMARY:Astronomia: 5th IOAA JUNIOR 2026
+DESCRIPTION:Departamento: Astronomia\nEdição: 5th\nMarco: final\nEvidênc
+ ia: 5th IOAA JUNIOR 2026 November 1-8\, 2026. Ubon Ratchathani\, Thailand\
+ nFonte oficial: https://www.ioaastrophysics.org/
+URL:https://www.ioaastrophysics.org/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

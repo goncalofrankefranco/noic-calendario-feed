@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:COPAS — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-1ecabe3b1dd8adf8@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+SUMMARY:COPAS: Copa Nordeste de Foguetes 2026
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: 23 e 24 de maio de 2026.\nFonte oficial: https://estelareducacional.com
+ .br/copa-nordeste-2026/
+URL:https://estelareducacional.com.br/copa-nordeste-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b4f79711f4f29248@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260608
+SUMMARY:COPAS: Copa Sul de Foguetes 2026
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: 06 e 07 de junho de 2026.\nFonte oficial: https://estelareducacional.co
+ m.br/copa-sul-2026/
+URL:https://estelareducacional.com.br/copa-sul-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e6d8f3dac68b9312@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260622
+SUMMARY:COPAS: Copa Centro-Oeste de Foguetes 2026
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: 20 e 21 de junho de 2026.\nFonte oficial: https://estelareducacional.co
+ m.br/copa-centro-oeste-2026/
+URL:https://estelareducacional.com.br/copa-centro-oeste-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9bf075d94db6bdcc@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260629
+SUMMARY:COPAS: Copa Sudeste de Foguetes 2026
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: 27 e 28 de junho de 2026.\nFonte oficial: https://estelareducacional.co
+ m.br/copa-sudeste-de-foguetes-2/
+URL:https://estelareducacional.com.br/copa-sudeste-de-foguetes-2/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cba5a85a9829d298@noic.com.br
+DTSTAMP:20261003T182254Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:COPAS: Supercopa de Foguetes 2026
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: 20\, 21 e 22 de novembro de 2026.\nFonte oficial: https://estelareducac
+ ional.com.br/supercopa-26/
+URL:https://estelareducacional.com.br/supercopa-26/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

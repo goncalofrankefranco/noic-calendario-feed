@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:IPhO — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-178e22f494764fee@noic.com.br
+DTSTAMP:20261002T155658Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260713
+SUMMARY:IPhO: 56th International Physics Olympiad
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  The 56th International Physics Olympiad will be held in Bucaramanga\, Col
+ ombia from 4 July to 12 July.\nFonte oficial: https://www.ipho-new.org/
+URL:https://www.ipho-new.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-bd818501cf819462@noic.com.br
+DTSTAMP:20261003T175227Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260713
+SUMMARY:IPhO: 56th International Physics Olympiad
+DESCRIPTION:Departamento: Física\nEdição: 56th\nMarco: exam\nEvidência:
+  The 56th International Physics Olympiad will be held in Bucaramanga\, Col
+ ombia from 4 July to 12 July.\nFonte oficial: https://www.ipho-new.org/
+URL:https://www.ipho-new.org/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
