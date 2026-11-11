@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OCHE — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-77000979056acbbe@noic.com.br
+DTSTAMP:20261016T141203Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:OCHE: Prazo para preencher o formulário de validação de certific
+ ados de medalhistas estaduais
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: deadline\nEvid
+ ência: Professore(a)s orientadore(a)s das equipes que conquistaram medalh
+ as estaduais têm até 30 de outubro para preencher o formulário de valid
+ ação\nFonte oficial: https://www.olimpiadadehistoria.com.br/
+URL:https://www.olimpiadadehistoria.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7a3523a1dbd50891@noic.com.br
+DTSTAMP:20261018T132803Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:OCHE: Prazo para preencher o formulário de validação e enviar os
+  documentos para certificados de medalhistas estaduais
+DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: deadline\nEvid
+ ência: Professore(a)s orientadore(a)s das equipes que conquistaram medalh
+ as estaduais têm até 30 de outubro para preencher o formulário de valid
+ ação\nFonte oficial: https://www.olimpiadadehistoria.com.br/
+URL:https://www.olimpiadadehistoria.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

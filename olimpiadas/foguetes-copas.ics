@@ -18,6 +18,18 @@ URL:https://estelareducacional.com.br/copa-nordeste-2026/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-1f5567588f05e257@noic.com.br
+DTSTAMP:20261111T172540Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260608
+SUMMARY:COPAS: COPA SUL DE FOGUETES 2026
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: exam\nEvidência
+ : 06 E 07 DE JUNHO DE 2026\nFonte oficial: https://estelareducacional.com.
+ br/copa-sul-2026/
+URL:https://estelareducacional.com.br/copa-sul-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-b4f79711f4f29248@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260606

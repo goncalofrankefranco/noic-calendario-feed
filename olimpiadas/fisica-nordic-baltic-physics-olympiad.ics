@@ -6,6 +6,18 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:NBPHO — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-0782671d0148071a@noic.com.br
+DTSTAMP:20261019T164009Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270405
+SUMMARY:NBPHO: Registration
+DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: registration\nEvi
+ dência: Registration: March 1st – April 4th\, 2027\nFonte oficial: http
+ s://nbpho.ee/
+URL:https://nbpho.ee/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-1dd436e9c5ca0360@noic.com.br
 DTSTAMP:20260930T161348Z
 DTSTART;VALUE=DATE:20270301
@@ -30,11 +42,33 @@ URL:https://nbpho.ee/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-3283ae40b398b289@noic.com.br
+DTSTAMP:20261010T153347Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270419
+SUMMARY:NBPHO: NBPhO 2027
+DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: exam\nEvidência:
+  NBPhO 2027 April 16-18th\, 2027\nFonte oficial: https://nbpho.ee/
+URL:https://nbpho.ee/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-3706198d87905219@noic.com.br
 DTSTAMP:20261001T163748Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270419
 SUMMARY:NBPHO: NBPhO 2027
+DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: exam\nEvidência:
+  NBPhO 2027 April 16-18th\, 2027\nFonte oficial: https://nbpho.ee/
+URL:https://nbpho.ee/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-60e4f2194d923297@noic.com.br
+DTSTAMP:20261012T191445Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270419
+SUMMARY:NBPHO: Nordic-Baltic Physics Olympiad 2027
 DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: exam\nEvidência:
   NBPhO 2027 April 16-18th\, 2027\nFonte oficial: https://nbpho.ee/
 URL:https://nbpho.ee/

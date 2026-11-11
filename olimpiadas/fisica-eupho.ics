@@ -6,11 +6,22 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:EuPhO — Calendário Olímpico do NOIC
 BEGIN:VEVENT
-UID:noic-85df722880901f8a@noic.com.br
-DTSTAMP:20261002T155652Z
+UID:noic-0144b840a288a85a@noic.com.br
+DTSTAMP:20261009T162217Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260617
 SUMMARY:EuPhO: European Physics Olympiad 2026
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  12-16 June 2026 | Gothenburg Sweden\nFonte oficial: https://eupho.ee/
+URL:https://eupho.ee/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-85df722880901f8a@noic.com.br
+DTSTAMP:20261111T172047Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260617
+SUMMARY:EuPhO: EuPhO 2026
 DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
   12-16 June 2026 | Gothenburg Sweden\nFonte oficial: https://eupho.ee/
 URL:https://eupho.ee/

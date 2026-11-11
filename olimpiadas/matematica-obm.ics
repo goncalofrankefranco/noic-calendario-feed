@@ -113,12 +113,40 @@ URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-4e8fa8c7a4772ab8@noic.com.br
-DTSTAMP:20261004T145609Z
+UID:noic-0145cd288860a797@noic.com.br
+DTSTAMP:20261010T153358Z
 DTSTART:20261008T170000Z
 DTEND:20261008T170000Z
 SUMMARY:Olimpíada Brasileira de Matemática: Primeiro dia - níveis 1\, 2\
  , 3 e universitário - 48ª OBM
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
+ cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
+  e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
+ w.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-43a9b8bfd6bcc899@noic.com.br
+DTSTAMP:20261007T164329Z
+DTSTART:20261008T170000Z
+DTEND:20261008T170000Z
+SUMMARY:Olimpíada Brasileira de Matemática: Competição Nacional - 48ª
+  Olimpíada Brasileira de Matemática (OBM) - Primeiro dia
+DESCRIPTION:Departamento: Matemática\nEdição: 48\nMarco: exam\nEvidênci
+ a: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3 e
+  universitário 14h00 (horário de Brasília)\nFonte oficial: https://www.
+ obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4e8fa8c7a4772ab8@noic.com.br
+DTSTAMP:20261008T165557Z
+DTSTART:20261008T170000Z
+DTEND:20261008T170000Z
+SUMMARY:Olimpíada Brasileira de Matemática: Primeiro dia - níveis 1\, 2\
+ , 3 e universitário
 DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
  cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
   e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
@@ -183,12 +211,40 @@ URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-8ac02c880f6283d4@noic.com.br
-DTSTAMP:20261004T145609Z
+UID:noic-1e605f250e1e23c7@noic.com.br
+DTSTAMP:20261011T155430Z
+DTSTART:20261009T170000Z
+DTEND:20261009T170000Z
+SUMMARY:Olimpíada Brasileira de Matemática: Competição Nacional - 48ª
+  Olimpíada Brasileira de Matemática (OBM) - Segundo dia
+DESCRIPTION:Departamento: Matemática\nEdição: 48\nMarco: exam\nEvidênci
+ a: 9 de outubro de 2026 (sexta-feira) Segundo dia - níveis 2\, 3 e univer
+ sitário 14h00 (horário de Brasília)\nFonte oficial: https://www.obm.org
+ .br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6118e6e2e6658506@noic.com.br
+DTSTAMP:20261010T153358Z
 DTSTART:20261009T170000Z
 DTEND:20261009T170000Z
 SUMMARY:Olimpíada Brasileira de Matemática: Segundo dia - níveis 2\, 3 e
   universitário - 48ª OBM
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
+ cia: 9 de outubro de 2026 (sexta-feira) Segundo dia - níveis 2\, 3 e univ
+ ersitário 14h00 (horário de Brasília)\nFonte oficial: https://www.obm.o
+ rg.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8ac02c880f6283d4@noic.com.br
+DTSTAMP:20261008T165557Z
+DTSTART:20261009T170000Z
+DTEND:20261009T170000Z
+SUMMARY:Olimpíada Brasileira de Matemática: Segundo dia - níveis 2\, 3 e
+  universitário
 DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
  cia: 9 de outubro de 2026 (sexta-feira) Segundo dia - níveis 2\, 3 e univ
  ersitário 14h00 (horário de Brasília)\nFonte oficial: https://www.obm.o
@@ -225,6 +281,32 @@ URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-06bcd51876a0ce77@noic.com.br
+DTSTAMP:20261011T155430Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Olimpíada Brasileira de Matemática: Competição Internacional -
+  13ª Iranian Geometry Olympiad (IGO)
+DESCRIPTION:Departamento: Matemática\nEdição: 13\nMarco: exam\nEvidênci
+ a: Competição Internacional - 13ª Iranian Geometry Olympiad (IGO) 16 de
+  outubro\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-33e1a89db59b31c8@noic.com.br
+DTSTAMP:20261016T141138Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Olimpíada Brasileira de Matemática: 13ª Iranian Geometry Olympia
+ d (IGO)
+DESCRIPTION:Departamento: Matemática\nEdição: 13ª\nMarco: exam\nEvidên
+ cia: 13ª Iranian Geometry Olympiad (IGO) 16 de outubro\nFonte oficial: ht
+ tps://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-58833a608b067a18@noic.com.br
 DTSTAMP:20261002T160056Z
 DTSTART;VALUE=DATE:20261016
@@ -234,6 +316,32 @@ SUMMARY:Olimpíada Brasileira de Matemática: 13ª Iranian Geometry Olympia
 DESCRIPTION:Departamento: Matemática\nEdição: 13\nMarco: exam\nEvidênci
  a: 13ª Iranian Geometry Olympiad (IGO) 16 de outubro\nFonte oficial: http
  s://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-14cfb930c89fc1fb@noic.com.br
+DTSTAMP:20261010T153358Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261025
+SUMMARY:Olimpíada Brasileira de Matemática: 6ª Pan-American Girls’ Mat
+ hematical Olympiad (PAGMO)
+DESCRIPTION:Departamento: Matemática\nEdição: 6ª\nMarco: exam\nEvidênc
+ ia: 6ª Pan-American Girls’ Mathematical Olympiad (PAGMO) 18 a 24 de out
+ ubro de 2026\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5b25afd0b03e2360@noic.com.br
+DTSTAMP:20261011T155430Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261025
+SUMMARY:Olimpíada Brasileira de Matemática: Competição Internacional -
+  6ª Pan-American Girls’ Mathematical Olympiad (PAGMO)
+DESCRIPTION:Departamento: Matemática\nEdição: 6\nMarco: exam\nEvidência
+ : 6ª Pan-American Girls’ Mathematical Olympiad (PAGMO) 18 a 24 de outub
+ ro de 2026\nFonte oficial: https://www.obm.org.br/
 URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -251,16 +359,143 @@ URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-3f640db8fdddc59f@noic.com.br
-DTSTAMP:20261003T142845Z
+UID:noic-0c93464604c3d63a@noic.com.br
+DTSTAMP:20261010T153358Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261101
 SUMMARY:Olimpíada Brasileira de Matemática: 18ª Competição Ibero-Ameri
  cana Interuniversitária de Matemática (CIIM)
+DESCRIPTION:Departamento: Matemática\nEdição: 18ª\nMarco: exam\nEvidên
+ cia: 18ª Competição Ibero-Americana Interuniversitária de Matemática
+  (CIIM) 26 a 31 de outubro\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3f640db8fdddc59f@noic.com.br
+DTSTAMP:20261007T164329Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261101
+SUMMARY:Olimpíada Brasileira de Matemática: Competição Internacional -
+  18ª Competição Ibero-Americana Interuniversitária de Matemática (CII
+ M)
 DESCRIPTION:Departamento: Matemática\nEdição: 18\nMarco: exam\nEvidênci
- a: 18ª Competição Ibero-Americana Interuniversitária de Matemática (C
- IIM) 26 a 31 de outubro\, Manizales\, Colômbia\nFonte oficial: https://ww
- w.obm.org.br/
+ a: 26 a 31 de outubro\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1afb61ee003479cb@noic.com.br
+DTSTAMP:20261104T174031Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261121
+SUMMARY:Olimpíada Brasileira de Matemática: 14ª Olimpíada de Matemátic
+ a da Comunidade dos Países de Língua Portuguesa (OMCPLP)
+DESCRIPTION:Departamento: Matemática\nEdição: 14ª\nMarco: exam\nEvidên
+ cia: 15 a 20 de novembro\, Fortaleza (CE)\nFonte oficial: https://www.obm.
+ org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-62322bb0c41f4d20@noic.com.br
+DTSTAMP:20261110T171640Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Olimpíada Brasileira de Matemática: 29ª Olimpíada Ibero-America
+ na de Matemática Universitária (OIMU)
+DESCRIPTION:Departamento: Matemática\nEdição: 29\nMarco: exam\nEvidênci
+ a: 16 de novembro\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-252b81962b6f8e36@noic.com.br
+DTSTAMP:20261030T160820Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261210
+SUMMARY:Olimpíada Brasileira de Matemática: Pedidos de revisão de nota -
+  48ª Olimpíada Brasileira de Matemática (OBM)
+DESCRIPTION:Departamento: Matemática\nEdição: 48\nMarco: deadline\nEvid
+ ência: Pedidos de revisão de nota 7 a 9 de dezembro\nFonte oficial: http
+ s://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-38711e4005bddfd1@noic.com.br
+DTSTAMP:20261104T174031Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261210
+SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
+  Matemática (OBM) - Pedidos de revisão de nota
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: results\nEvid
+ ência: 7 a 9 de dezembro\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4c131406437136e8@noic.com.br
+DTSTAMP:20261026T163641Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261210
+SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
+  Matemática (OBM) Pedidos de revisão de nota
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: deadline\nEvi
+ dência: Competição Nacional - 48ª Olimpíada Brasileira de Matemática
+  (OBM) Pedidos de revisão de nota 7 a 9 de dezembro\nFonte oficial: https
+ ://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0a5a0c809cc0dab9@noic.com.br
+DTSTAMP:20261029T164117Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Olimpíada Brasileira de Matemática: Divulgação dos premiados -
+  48ª Olimpíada Brasileira de Matemática (OBM)
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: results\nEvid
+ ência: Divulgação dos premiados\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-10c7cef7f0aa3ebd@noic.com.br
+DTSTAMP:20261104T174031Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
+  Matemática (OBM) - Divulgação dos premiados
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: results\nEvid
+ ência: dez 14 Competição Nacional - 48ª Olimpíada Brasileira de Matem
+ ática (OBM) Divulgação dos premiados\nFonte oficial: https://www.obm.or
+ g.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1c04287ede37366b@noic.com.br
+DTSTAMP:20261111T172451Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
+  Matemática (OBM) Divulgação dos premiados
+DESCRIPTION:Departamento: Matemática\nEdição: 48\nMarco: results\nEvidê
+ ncia: dez 14 Competição Nacional - 48ª Olimpíada Brasileira de Matemá
+ tica (OBM) Divulgação dos premiados\nFonte oficial: https://www.obm.org.
+ br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3755a1a044bda243@noic.com.br
+DTSTAMP:20261110T171640Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270131
+SUMMARY:Olimpíada Brasileira de Matemática: 30ª Semana Olímpica
+DESCRIPTION:Departamento: Matemática\nEdição: 30\nMarco: other\nEvidênc
+ ia: 24 a 30 de janeiro de 2027\nFonte oficial: https://www.obm.org.br/
 URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT

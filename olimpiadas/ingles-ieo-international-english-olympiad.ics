@@ -58,6 +58,18 @@ URL:https://sofworld.org/download/file/fid/73615
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-1d277c0618a58250@noic.com.br
+DTSTAMP:20261020T143420Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:IEO: Level 1 Exam Date 3
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: exam\nEvidênc
+ ia: Level 1 Exam Date 3: 17 th November 2026\nFonte oficial: https://sofwo
+ rld.org/ieo
+URL:https://sofworld.org/ieo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-6ff946c15f89c91e@noic.com.br
 DTSTAMP:20260930T161143Z
 DTSTART;VALUE=DATE:20261117
