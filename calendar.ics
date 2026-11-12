@@ -30,39 +30,15 @@ URL:https://www.seletaeducacao.com.br/obgp
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-0eb93d6881b954d4@noic.com.br
-DTSTAMP:20261017T131206Z
-DTSTART;VALUE=DATE:20260306
-DTEND;VALUE=DATE:20260307
-SUMMARY:OBI: Abertura das inscrições
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: registration\n
- Evidência: Abertura das inscrições\, Evento Geral Início do período d
- e cadastro de escolas e inscrição de competidores.\nFonte oficial: https
- ://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-4eaa074cc3f15db7@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20260306
-DTEND;VALUE=DATE:20260307
-SUMMARY:OBI: Abertura das inscrições da OBI 2026
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: registration
- \nEvidência: Dia 6: Abertura das inscrições\, Evento Geral.\nFonte ofic
- ial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-e92dfe8ea94f07e9@noic.com.br
-DTSTAMP:20261004T145549Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:OBI: Abertura das inscrições
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: registration
- \nEvidência: Dia 6 (Sexta-feira) Abertura das inscrições\, Evento Geral
- \nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+ \nEvidência: Abertura das inscrições\, Evento Geral Início do período
+  de cadastro de escolas e inscrição de competidores.\nFonte oficial: htt
+ ps://olimpiada.ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -92,13 +68,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-03dce639e5deba1e@noic.com.br
-DTSTAMP:20261007T164105Z
+DTSTAMP:20261028T161537Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260721
-SUMMARY:OBG: Inscrições
-DESCRIPTION:Departamento: Geografia\nEdição: 11\nMarco: registration\nEvi
- dência: Inscrições 09/04 a 20/07/2026\nFonte oficial: https://obgeograf
- ia.com.br/
+SUMMARY:OBG: Período de Inscrições
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: registration\nE
+ vidência: Inscrições 09/04 a 20/07/2026\nFonte oficial: https://obgeogr
+ afia.com.br/
 URL:https://obgeografia.com.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -111,30 +87,6 @@ SUMMARY:OBG: Início das Inscrições
 DESCRIPTION:Departamento: Geografia\nEdição: 11\nMarco: registration\nEvi
  dência: Inscrições 09/04 a 20/07/2026\nFonte oficial: https://obgeograf
  ia.com.br/
-URL:https://obgeografia.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-518092e99afcb59b@noic.com.br
-DTSTAMP:20261003T163054Z
-DTSTART;VALUE=DATE:20260409
-DTEND;VALUE=DATE:20260721
-SUMMARY:Olimpíada Brasileira de Geografia (OBG): Período de Inscrições
-DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: registration\nE
- vidência: Inscrições 09/04 a 20/07/2026\nFonte oficial: https://obgeogr
- afia.com.br/
-URL:https://obgeografia.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-c0f7f34275c778ba@noic.com.br
-DTSTAMP:20261003T161850Z
-DTSTART;VALUE=DATE:20260409
-DTEND;VALUE=DATE:20260410
-SUMMARY:Olimpíada Brasileira de Geografia (OBG): Início das Inscrições
-DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: registration\nE
- vidência: Inscrições 09/04 a 20/07/2026\nFonte oficial: https://obgeogr
- afia.com.br/
 URL:https://obgeografia.com.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -237,15 +189,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-43dc05ed89c9fbc0@noic.com.br
-DTSTAMP:20261030T160804Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:OBI: Último dia para cadastro de escolas que participam da Modalid
  ade Iniciação
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: deadline\nEvid
- ência: Dia 25 (Segunda-feira) Último dia para cadastro de escolas que pa
- rticipam da Modalidade Iniciação \, Modalidade Iniciação\nFonte oficia
- l: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Último dia para cadastro de escolas que participam da Modalidad
+ e Iniciação \, Modalidade Iniciação\nFonte oficial: https://olimpiada.
+ ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -276,29 +228,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0e0b909991f93188@noic.com.br
-DTSTAMP:20261026T163519Z
-DTSTART;VALUE=DATE:20260526
-DTEND;VALUE=DATE:20260527
-SUMMARY:OBI: Último dia para inscrição de competidores da Modalidade Ini
- ciação
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: registration\n
- Evidência: Último dia para inscrição de competidores da Modalidade Ini
- ciação\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_co
- mpleto
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-2dc633b1f794424c@noic.com.br
-DTSTAMP:20261020T145000Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 SUMMARY:OBI: Último dia para inscrição de competidores da Modalidade Ini
  ciação
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
- idência: Dia 26 (Terça-feira) Último dia para inscrição de competidor
- es da Modalidade Iniciação\nFonte oficial: https://olimpiada.ic.unicamp.
- br/calendario/obi_completo
+ idência: Último dia para inscrição de competidores da Modalidade Inici
+ ação \, Modalidade Iniciação\nFonte oficial: https://olimpiada.ic.unic
+ amp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -318,26 +256,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-40c4a6f3fe663f3a@noic.com.br
-DTSTAMP:20261008T165503Z
+DTSTAMP:20261101T161358Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260530
 SUMMARY:OBI: Prova da Fase 1\, Modalidade Iniciação
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
- ia: Início do período de Prova da Fase 1\, Modalidade Iniciação\nFonte
-  oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-b260c235bcd59e38@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20260527
-DTEND;VALUE=DATE:20260530
-SUMMARY:OBI: OBI 2026 — prova da Fase 1 (Iniciação)
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
- ência: Prova da Fase 1\, Modalidade Iniciação\; período de 27 a 29 de
-  maio.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_comp
- leto
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: Início do período de Prova da Fase 1\, Modalidade Iniciação\nFon
+ te oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -358,7 +283,7 @@ UID:noic-0dd2d5bf58523581@noic.com.br
 DTSTAMP:20261027T153643Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260701
-SUMMARY:OBLI: Inscrições Individuais - 1º Período
+SUMMARY:OBLI: 1º período de inscrições individuais
 DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
  vidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFonte
   oficial: https://www.seletaeducacao.com.br/obli
@@ -379,7 +304,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-275b744e83124e3f@noic.com.br
-DTSTAMP:20261102T193704Z
+DTSTAMP:20261112T205312Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260701
 SUMMARY:OBMF: 1º período de inscrições individuais
@@ -387,18 +312,6 @@ DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
  Evidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFonte
   oficial: https://www.seletaeducacao.com.br/obmf
 URL:https://www.seletaeducacao.com.br/obmf
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-2d532486ff259b1f@noic.com.br
-DTSTAMP:20261007T164144Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260701
-SUMMARY:OBLI: 1º período de inscrições individuais
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
- vidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFonte
-  oficial: https://www.seletaeducacao.com.br/obli
-URL:https://www.seletaeducacao.com.br/obli
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -414,42 +327,15 @@ URL:https://www.seletaeducacao.com.br/obgp
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-48b6b9064d2d54c7@noic.com.br
-DTSTAMP:20261003T175130Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260701
-SUMMARY:OBMF: Inscrições individuais - 1º período
-DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
- Evidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFonte
-  oficial: https://www.seletaeducacao.com.br/obmf
-URL:https://www.seletaeducacao.com.br/obmf
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-5d116d3c0ad61680@noic.com.br
-DTSTAMP:20261028T162831Z
+DTSTAMP:20261104T174111Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260701
-SUMMARY:OBGP: 1º período de inscrições individuais
+SUMMARY:OBGP: Inscrições Individuais - 1º período
 DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
  nEvidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFont
  e oficial: https://www.seletaeducacao.com.br/obgp
 URL:https://www.seletaeducacao.com.br/obgp
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-620667665049fdaa@noic.com.br
-DTSTAMP:20261001T163501Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260701
-SUMMARY:Olimpíada Brasileira de Geopolítica (OBGP): Inscrições Individu
- ais - 1º Período
-DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
- nEvidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFont
- e oficial: https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaig
- nid=22908675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
- 8675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -482,7 +368,7 @@ UID:noic-f2230811e9d3953e@noic.com.br
 DTSTAMP:20261017T131048Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20261015
-SUMMARY:OBLI: Inscrições OBLI
+SUMMARY:OBLI: Inscrições
 DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
  vidência: • Inscrições: 01/06/2026 a 14/10/2026\nFonte oficial: https
  ://www.seletaeducacao.com.br/obli
@@ -490,20 +376,8 @@ URL:https://www.seletaeducacao.com.br/obli
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-f3f930268f0580a3@noic.com.br
-DTSTAMP:20260930T161134Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20261015
-SUMMARY:OBLI: Inscrições
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
- vidência: Inscrições: 01/06/2026 a 14/10/2026\nFonte oficial: https://w
- ww.seletaeducacao.com.br/obli
-URL:https://www.seletaeducacao.com.br/obli
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-f585875c783c2270@noic.com.br
-DTSTAMP:20261003T175130Z
+DTSTAMP:20261112T205312Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260924
 SUMMARY:OBMF: Inscrição de grupos de alunos feita por Escolas
@@ -552,15 +426,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-13385c0a4fe0bb4a@noic.com.br
-DTSTAMP:20261015T142137Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
 SUMMARY:OBI: Último dia para cadastro de escolas que participam da Modalid
  ade Programação
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
- idência: Dia 6 (Sábado) Último dia para cadastro de escolas que partici
- pam da Modalidade Programação\nFonte oficial: https://olimpiada.ic.unica
- mp.br/calendario/obi_completo
+ idência: Último dia para cadastro de escolas que participam da Modalidad
+ e Programação\, Modalidade Programação\nFonte oficial: https://olimpia
+ da.ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -574,20 +448,6 @@ DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: exam\nEvidência
  : 06 E 07 DE JUNHO DE 2026\nFonte oficial: https://estelareducacional.com.
  br/copa-sul-2026/
 URL:https://estelareducacional.com.br/copa-sul-2026/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-35c57a6d1f15f756@noic.com.br
-DTSTAMP:20261012T191440Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-SUMMARY:OBI: Último dia para cadastro de escolas que participam da Modalid
- ade Programação
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: registration\n
- Evidência: Último dia para cadastro de escolas que participam da Modalid
- ade Programação\nFonte oficial: https://olimpiada.ic.unicamp.br/calendar
- io/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -605,29 +465,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-060da0e6a735efb8@noic.com.br
-DTSTAMP:20261030T160804Z
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260609
-SUMMARY:OBI: Último dia para inscrição de competidores da Modalidade Pro
- gramação
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: registration\n
- Evidência: Dia 8 (Segunda-feira) Último dia para inscrição de competid
- ores da Modalidade Programação \, Modalidade Programação\nFonte oficia
- l: https://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-88d188c4820e65ea@noic.com.br
-DTSTAMP:20261003T182254Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
 SUMMARY:OBI: OBI 2026 — prazo de inscrição dos competidores (Programaç
  ão)
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
  idência: Último dia para inscrição de competidores da Modalidade Progr
- amação.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_c
- ompleto
+ amação \, Modalidade Programação\nFonte oficial: https://olimpiada.ic.
+ unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -649,36 +495,11 @@ UID:noic-11c0f183cd1e2898@noic.com.br
 DTSTAMP:20261101T161358Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260613
-SUMMARY:OBI: Prova da Fase 1\, Modalidade Programação
+SUMMARY:OBI: Início do período de Prova da Fase 1\, Modalidade Programaç
+ ão
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
  ncia: Início do período de Prova da Fase 1\, Modalidade Programação\nF
  onte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-25a10eda683a9479@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260613
-SUMMARY:OBI: OBI 2026 — prova da Fase 1 (Programação)
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
- ência: Prova da Fase 1\, Modalidade Programação\; período de 10 a 12 d
- e junho.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_co
- mpleto
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-3901e680872eff3a@noic.com.br
-DTSTAMP:20261005T184011Z
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260613
-SUMMARY:OBI: Início do período de Prova da Fase 1\, Modalidade Programaç
- ão
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
- ia: Início do período de Prova da Fase 1\, Modalidade Programação\nFon
- te oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -716,15 +537,43 @@ URL:https://www.obecon.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-e89ae3fbd874392b@noic.com.br
+DTSTAMP:20261112T205649Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:OBI: Cadernos de Tarefas das provas e gabaritos da Fase 1 disponibi
+ lizados no site\, Modalidade Iniciação
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: announcement
+ \nEvidência: Cadernos de Tarefas das provas e gabaritos da Fase 1 disponi
+ bilizados no site\, Modalidade Iniciação\nFonte oficial: https://olimpia
+ da.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5568ef8e82c8d8ce@noic.com.br
+DTSTAMP:20261112T205649Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:OBI: Cadernos de Tarefas das provas e gabaritos da Fase 1 disponibi
+ lizados no site\, Modalidade Programação
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: announcement
+ \nEvidência: Cadernos de Tarefas das provas e gabaritos da Fase 1 disponi
+ bilizados no site\, Modalidade Programação\nFonte oficial: https://olimp
+ iada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-2826d06fdd2f2439@noic.com.br
-DTSTAMP:20261008T165503Z
+DTSTAMP:20261101T161358Z
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260620
 SUMMARY:OBI: Prova da Fase 1 Turno B\, Modalidade Programação
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
- ia: Início do período de Prova da Fase 1 Turno B\, Modalidade Programaç
- ão\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_complet
- o
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: Início do período de Prova da Fase 1 Turno B\, Modalidade Programa
+ ção\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_compl
+ eto
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -753,6 +602,20 @@ URL:https://opengeo.msu.ru/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-532aa43d237d0b60@noic.com.br
+DTSTAMP:20261112T205649Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:OBI: Último dia para inserção as pontuações da Fase 1 por part
+ e dos Coordenadores Locais\, Modalidade Iniciação
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Último dia para inserção as pontuações da Fase 1 por parte
+  dos Coordenadores Locais\, Modalidade Iniciação\nFonte oficial: https:/
+ /olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-bbd551a9a25ab49b@noic.com.br
 DTSTAMP:20260930T161457Z
 DTSTART;VALUE=DATE:20260619
@@ -776,6 +639,19 @@ URL:https://www.iberoinformatica.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-ac52938a79f17a88@noic.com.br
+DTSTAMP:20261112T205649Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:OBI: OII\, Competições Internacionais
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: OII\, Competições Internacionais A prova será presencial\, no I
+ nstituto de Computação da Unicamp.\nFonte oficial: https://olimpiada.ic.
+ unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-e6d8f3dac68b9312@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260620
@@ -789,13 +665,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-07be659d9365a64e@noic.com.br
-DTSTAMP:20261029T164000Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
 SUMMARY:OBI: Resultado preliminar da Fase 1
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
- dência: Resultado preliminar da Fase 1\nFonte oficial: https://olimpiada.
- ic.unicamp.br/calendario/obi_completo
+ dência: Resultado preliminar da Fase 1\, Evento Geral\nFonte oficial: htt
+ ps://olimpiada.ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -812,52 +688,27 @@ URL:https://olimpiada.ic.unicamp.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-8ad2988996d9ab2c@noic.com.br
-DTSTAMP:20261004T145426Z
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260623
-SUMMARY:TFC: Resultados Preliminares da Fase 1
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
- dência: Estão disponíveis os Resultados Preliminares da Fase 1. Postado
-  por Coordenação em 22/Jun/2026\nFonte oficial: https://olimpiada.ic.uni
- camp.br/
-URL:https://olimpiada.ic.unicamp.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-0f3955e845894b9d@noic.com.br
-DTSTAMP:20261018T132730Z
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260625
-SUMMARY:OBI: Último dia para solicitação de recorreção da Fase 1
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: deadline\nEvid
- ência: Último dia para solicitação de recorreção da Fase 1\, Evento
-  Geral\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_comp
- leto
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-4da8d8a3b0c8c752@noic.com.br
-DTSTAMP:20261029T164000Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
 SUMMARY:OBI: Último dia para solicitação de recorreção da Fase 1
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: other\nEvid
- ência: Último dia para solicitação de recorreção da Fase 1\nFonte of
- icial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Último dia para solicitação de recorreção da Fase 1\, Event
+ o Geral\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_com
+ pleto
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0e3bbd2a8316820e@noic.com.br
-DTSTAMP:20261004T145549Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:OBI: Resultado final da fase 1
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
- dência: Dia 26 (Sexta-feira) Resultado final da fase 1\, Evento Geral\nFo
- nte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+ dência: Resultado final da fase 1\, Evento Geral\nFonte oficial: https://
+ olimpiada.ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -891,23 +742,11 @@ UID:noic-0bd02e9b1ce23b1c@noic.com.br
 DTSTAMP:20261023T142745Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260801
-SUMMARY:OBLI: Inscrições individuais - 2º período
+SUMMARY:OBLI: 2º período de inscrições individuais
 DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
  vidência: 2º período (R$ 35\,00/aluno): 01/07/2026 a 31/07/2026\nFonte
   oficial: https://www.seletaeducacao.com.br/obli
 URL:https://www.seletaeducacao.com.br/obli
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-22f84a01bd720172@noic.com.br
-DTSTAMP:20261029T164212Z
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260801
-SUMMARY:OBGP: Inscrições individuais - 2º período
-DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
- nEvidência: 2º período (R$ 35\,00/aluno): 01/07/2026 a 31/07/2026\nFont
- e oficial: https://www.seletaeducacao.com.br/obgp
-URL:https://www.seletaeducacao.com.br/obgp
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -924,26 +763,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-4b1e32a81cc7e1e6@noic.com.br
-DTSTAMP:20261103T171515Z
+DTSTAMP:20261112T205312Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260801
-SUMMARY:OBMF: Inscrições Individuais - 2º Período
+SUMMARY:OBMF: 2º período de inscrições individuais
 DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
  Evidência: 2º período (R$ 35\,00/aluno): 01/07/2026 a 31/07/2026\nFonte
   oficial: https://www.seletaeducacao.com.br/obmf
 URL:https://www.seletaeducacao.com.br/obmf
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-5068b35a67812ddf@noic.com.br
-DTSTAMP:20261007T164144Z
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260801
-SUMMARY:OBLI: 2º período de inscrições individuais
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
- vidência: 2º período (R$ 35\,00/aluno): 01/07/2026 a 31/07/2026\nFonte
-  oficial: https://www.seletaeducacao.com.br/obli
-URL:https://www.seletaeducacao.com.br/obli
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -960,56 +787,32 @@ URL:https://www.seletaeducacao.com.br/obgp
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-9864dee7c267388a@noic.com.br
-DTSTAMP:20261003T175546Z
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260801
-SUMMARY:OBGP: Inscrições - 2º período (individual)
-DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
- nEvidência: 2º período (R$ 35\,00/aluno): 01/07/2026 a 31/07/2026\nFont
- e oficial: https://www.seletaeducacao.com.br/obgp
-URL:https://www.seletaeducacao.com.br/obgp
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-ca5e0ca74e67fea7@noic.com.br
-DTSTAMP:20261102T193704Z
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260801
-SUMMARY:OBMF: 2º período de inscrições individuais
-DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
- Evidência: 2º período (R$ 35\,00/aluno): 01/07/2026 a 31/07/2026\nFonte
-  oficial: https://www.seletaeducacao.com.br/obmf
-URL:https://www.seletaeducacao.com.br/obmf
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-178e22f494764fee@noic.com.br
-DTSTAMP:20261002T155658Z
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260713
-SUMMARY:IPhO: 56th International Physics Olympiad
-DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
-  The 56th International Physics Olympiad will be held in Bucaramanga\, Col
- ombia from 4 July to 12 July.\nFonte oficial: https://www.ipho-new.org/
-URL:https://www.ipho-new.org/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-bd818501cf819462@noic.com.br
-DTSTAMP:20261003T175227Z
+DTSTAMP:20261025T134932Z
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260713
 SUMMARY:IPhO: 56th International Physics Olympiad
-DESCRIPTION:Departamento: Física\nEdição: 56th\nMarco: exam\nEvidência:
-  The 56th International Physics Olympiad will be held in Bucaramanga\, Col
- ombia from 4 July to 12 July.\nFonte oficial: https://www.ipho-new.org/
+DESCRIPTION:Departamento: Física\nEdição: 56\nMarco: exam\nEvidência: T
+ he 56th International Physics Olympiad will be held in Bucaramanga\, Colom
+ bia from 4 July to 12 July.\nFonte oficial: https://www.ipho-new.org/
 URL:https://www.ipho-new.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0b594d11a1c761cc@noic.com.br
 DTSTAMP:20261006T161403Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20261024
+SUMMARY:OI: Abertura das inscrições para a 3ª Edição da OI
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
+ ion\nEvidência: 07 julho 2026 - 23 outubro 2026 Abertura das inscrições
+  para a 3ª Edição da OI.\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-45efb65a1588c3f2@noic.com.br
+DTSTAMP:20261014T143923Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20261024
 SUMMARY:OI: Abertura das inscrições para a 3ª Edição da OI
@@ -1057,38 +860,11 @@ URL:https://obgeografia.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-039ff552c45c07c0@noic.com.br
-DTSTAMP:20261017T131048Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20261015
-SUMMARY:OBLI: 3º período de inscrições individuais
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
- vidência: 3º período (R$ 39\,00/aluno): 01/08/2026 a 14/10/2026\nFonte
-  oficial: https://www.seletaeducacao.com.br/obli
-URL:https://www.seletaeducacao.com.br/obli
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-042b971dfb28c4e3@noic.com.br
-DTSTAMP:20261001T163501Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260910
-SUMMARY:Olimpíada Brasileira de Geopolítica (OBGP): Inscrições Individu
- ais - 3º Período
-DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
- nEvidência: 3º período (R$ 39\,00/aluno): 01/08/2026 a 09/09/2026\nFont
- e oficial: https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaig
- nid=22908675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
- 8675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-1036dd043e489074@noic.com.br
 DTSTAMP:20261023T142745Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20261015
-SUMMARY:OBLI: Inscrições individuais - 3º período
+SUMMARY:OBLI: 3º período de inscrições individuais
 DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
  vidência: 3º período (R$ 39\,00/aluno): 01/08/2026 a 14/10/2026\nFonte
   oficial: https://www.seletaeducacao.com.br/obli
@@ -1110,7 +886,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-c84845bc33477f22@noic.com.br
-DTSTAMP:20261102T193704Z
+DTSTAMP:20261112T205312Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260924
 SUMMARY:OBMF: 3º período de inscrições individuais
@@ -1125,23 +901,11 @@ UID:noic-cdf5d7c01b0599a2@noic.com.br
 DTSTAMP:20261028T162831Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260910
-SUMMARY:OBGP: 3º período de inscrições individuais
+SUMMARY:OBGP: Inscrições individuais - 3º período
 DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
  nEvidência: 3º período (R$ 39\,00/aluno): 01/08/2026 a 09/09/2026\nFont
  e oficial: https://www.seletaeducacao.com.br/obgp
 URL:https://www.seletaeducacao.com.br/obgp
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-e8985475fed60d91@noic.com.br
-DTSTAMP:20261003T175130Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260924
-SUMMARY:OBMF: Inscrições individuais - 3º período
-DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
- Evidência: 3º período (R$ 39\,00/aluno): 01/08/2026 a 23/09/2026\nFonte
-  oficial: https://www.seletaeducacao.com.br/obmf
-URL:https://www.seletaeducacao.com.br/obmf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1158,51 +922,26 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0057a2abe98e4f93@noic.com.br
-DTSTAMP:20261014T143722Z
+DTSTAMP:20261112T205406Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260807
 SUMMARY:OBG: Fase Online – Etapa 1
-DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: round\nEvidênc
- ia: Fase Online – Etapa 1 04 a 06/08/2026\nFonte oficial: https://obgeog
- rafia.com.br/
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: exam\nEvidênci
+ a: Fase Online – Etapa 1 04 a 06/08/2026\nFonte oficial: https://obgeogr
+ afia.com.br/
 URL:https://obgeografia.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-3b0a2ccbd60a0ec1@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20260806
-DTEND;VALUE=DATE:20260808
-SUMMARY:OBI: OBI 2026 — prova da Fase 2 (Iniciação)
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
- ência: Prova da Fase 2\, Modalidade Iniciação\; período de 6 a 7 de ag
- osto.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_compl
- eto
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-486c622292a9a211@noic.com.br
-DTSTAMP:20261011T155414Z
-DTSTART;VALUE=DATE:20260806
-DTEND;VALUE=DATE:20260808
-SUMMARY:OBI: Prova da Fase 2\, Modalidade Iniciação
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
- ncia: Início do período de Prova da Fase 2\, Modalidade Iniciação\nFon
- te oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-8aa2020d0cbdb5e5@noic.com.br
-DTSTAMP:20261005T184011Z
+DTSTAMP:20261101T161358Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260808
 SUMMARY:OBI: Início do período de Prova da Fase 2\, Modalidade Iniciaçã
  o
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
- ia: Início do período de Prova da Fase 2\, Modalidade Iniciação\nFonte
-  oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: Início do período de Prova da Fase 2\, Modalidade Iniciação\nFon
+ te oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -1216,31 +955,6 @@ DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
  egistration\nEvidência: Início das Inscrições : dia 08 de agosto de 20
  26\nFonte oficial: https://www.oniabrasil.com.br/
 URL:https://www.oniabrasil.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-de409126b6d46923@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-SUMMARY:ONIA: ONIA 2026 — início das inscrições
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
- egistration\nEvidência: Início das Inscrições: dia 08 de agosto de 202
- 6.\nFonte oficial: https://www.oniabrasil.com.br/
-URL:https://www.oniabrasil.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-3bd260522fea8cd8@noic.com.br
-DTSTAMP:20261003T175248Z
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260817
-SUMMARY:IOI: International Olympiad in Informatics 2026
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
- ncia: International Olympiad in Informatics IOI 2026 - Uzbekistan The late
- st Olympiad took place in Uzbekistan from August 9th to 16th.\nFonte ofici
- al: https://ioinformatics.org/
-URL:https://ioinformatics.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1258,13 +972,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0604c282b6211caf@noic.com.br
-DTSTAMP:20261028T161537Z
+DTSTAMP:20261112T205406Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260814
 SUMMARY:OBG: Fase Online – Etapa 2
-DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: round\nEvidênc
- ia: Fase Online – Etapa 2 11 a 13/08/2026\nFonte oficial: https://obgeog
- rafia.com.br/
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: exam\nEvidênci
+ a: Fase Online – Etapa 2 11 a 13/08/2026\nFonte oficial: https://obgeogr
+ afia.com.br/
 URL:https://obgeografia.com.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1345,28 +1059,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-14516306718c67ab@noic.com.br
-DTSTAMP:20261028T161537Z
+DTSTAMP:20261112T205406Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260820
 SUMMARY:OBG: Fase Online – Etapa 3
-DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: round\nEvidênc
- ia: Fase Online – Etapa 3 18 a 19/08/2026\nFonte oficial: https://obgeog
- rafia.com.br/
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: exam\nEvidênci
+ a: Fase Online – Etapa 3 18 a 19/08/2026\nFonte oficial: https://obgeogr
+ afia.com.br/
 URL:https://obgeografia.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-82ec65b201e27f75@noic.com.br
-DTSTAMP:20261021T145338Z
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-SUMMARY:OBI: Último dia para envio das Folhas de Respostas da Fase 2 por p
- arte dos Coordenadores Locais\, Modalidade Iniciação
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: submission\nEv
- idência: Dia 18 (Terça-feira) Último dia para envio das Folhas de Respo
- stas da Fase 2 por parte dos Coordenadores Locais\, Modalidade Iniciação
- \nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1383,11 +1083,26 @@ URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-e76eb1cb4bafbd18@noic.com.br
+DTSTAMP:20261112T205649Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:OBI: Cadernos de Tarefas das provas e gabaritos da Fase 2 disponibi
+ lizados no site\, Modalidade Iniciação
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: announcement
+ \nEvidência: Cadernos de Tarefas das provas e gabaritos da Fase 2 disponi
+ bilizados no site\, Modalidade Iniciação\nFonte oficial: https://olimpia
+ da.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-03ecd8a0a7da96ba@noic.com.br
-DTSTAMP:20261019T164003Z
+DTSTAMP:20261101T161358Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260822
-SUMMARY:OBI: Prova da Fase 2\, Modalidade Programação
+SUMMARY:OBI: Início do período de Prova da Fase 2\, Modalidade Programaç
+ ão
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
  ncia: Início do período de Prova da Fase 2\, Modalidade Programação\nF
  onte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
@@ -1408,40 +1123,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-164e752461c18a3a@noic.com.br
-DTSTAMP:20261107T154802Z
+DTSTAMP:20261112T205406Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:OBG: Divulgação dos Gabaritos
-DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: announcement\nE
- vidência: Divulgação dos Gabaritos 20/08/2026\nFonte oficial: https://o
- bgeografia.com.br/
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: results\nEvidê
+ ncia: Divulgação dos Gabaritos 20/08/2026\nFonte oficial: https://obgeog
+ rafia.com.br/
 URL:https://obgeografia.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-43a76099082cf45d@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260822
-SUMMARY:OBI: OBI 2026 — prova da Fase 2 (Programação)
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
- ência: Prova da Fase 2\, Modalidade Programação\; período de 20 a 21 d
- e agosto.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_c
- ompleto
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-6a10ff86aeaf776c@noic.com.br
-DTSTAMP:20261005T184011Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260822
-SUMMARY:OBI: Início do período de Prova da Fase 2\, Modalidade Programaç
- ão
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
- ia: Início do período de Prova da Fase 2\, Modalidade Programação\nFon
- te oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1508,6 +1197,20 @@ URL:https://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-02103765fcd8d101@noic.com.br
+DTSTAMP:20261112T205649Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:OBI: Cadernos de Tarefas das provas e gabaritos da Fase 2 disponibi
+ lizados no site\, Modalidade Programação
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: announcement
+ \nEvidência: Cadernos de Tarefas das provas e gabaritos da Fase 2 disponi
+ bilizados no site\, Modalidade Programação\nFonte oficial: https://olimp
+ iada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-00fecafcc535b467@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART:20260828T170000Z
@@ -1542,18 +1245,6 @@ DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
  ion\nEvidência: 29 agosto 2026 - 23 outubro 2026 2º Período de Inscriç
  ão da 3ª Edição da OI.\nFonte oficial: https://oingles.com/
 URL:https://oingles.com/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-8e057bed929e6787@noic.com.br
-DTSTAMP:20261017T131157Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260831
-SUMMARY:ONHB: Final da 18ª Olimpíada de História da Unicamp
-DESCRIPTION:Departamento: Historia\nEdição: 18ª\nMarco: final\nEvidênci
- a: último sábado e domingo de agosto (29 e 30/8) para a grande final do
-  projeto\nFonte oficial: https://www.olimpiadadehistoria.com.br/
-URL:https://www.olimpiadadehistoria.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1594,13 +1285,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-081225c6784c822a@noic.com.br
-DTSTAMP:20261021T145338Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:OBI: Resultado preliminar da Fase 2
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: results\nEvid
- ência: Dia 31 (Segunda-feira) Resultado preliminar da Fase 2\, Evento Ger
- al\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
+ dência: Resultado preliminar da Fase 2\, Evento Geral\nFonte oficial: htt
+ ps://olimpiada.ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -1667,37 +1358,26 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-238c672b55988935@noic.com.br
-DTSTAMP:20261019T164003Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:OBI: Último dia para solicitação de recorreção da Fase 2
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
- idência: Último dia para solicitação de recorreção da Fase 2\nFonte
-  oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-2ce863468fa84dbc@noic.com.br
-DTSTAMP:20261017T131206Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:OBI: Último dia para solicitação de recorreção da Fase 2
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: other\nEvidên
- cia: Último dia para solicitação de recorreção da Fase 2\, Evento Ger
- al\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+ idência: Último dia para solicitação de recorreção da Fase 2\, Event
+ o Geral\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_com
+ pleto
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0a3868cd673d8422@noic.com.br
-DTSTAMP:20261008T165503Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:OBI: Resultado final da Fase 2
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: results\nEvid
- ência: Resultado final da Fase 2\nFonte oficial: https://olimpiada.ic.uni
- camp.br/calendario/obi_completo
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
+ dência: Resultado final da Fase 2\, Evento Geral\nFonte oficial: https://
+ olimpiada.ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -1727,19 +1407,6 @@ URL:https://www.instagram.com/projetonoic/p/DdAIHUMmOmu/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-6c39464f036e79b9@noic.com.br
-DTSTAMP:20261003T164454Z
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20261003
-SUMMARY:Olimpíada Brasileira de Matemática: Divulgação dos convocados e
-  seleção dos polos de aplicação
-DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: announcement\
- nEvidência: Divulgação dos convocados e seleção dos polos de aplicaç
- ão 7 de setembro a 2 de outubro\nFonte oficial: https://www.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-87df51283ea71c55@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260907
@@ -1749,20 +1416,6 @@ DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: round\nEvidênci
  a: Lote 4: OBOQ\, OBOCH e OBOEcon até 13/09.\nFonte oficial: https://www.
  instagram.com/projetonoic/p/DdAIHUMmOmu/
 URL:https://www.instagram.com/projetonoic/p/DdAIHUMmOmu/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-90fe918dbccb9e8a@noic.com.br
-DTSTAMP:20261003T162146Z
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20261003
-SUMMARY:Olimpíada Brasileira de Matemática: Divulgação dos convocados e
-  seleção dos polos de aplicação - 48ª Olimpíada Brasileira de Matem
- ática (OBM)
-DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: announcement\
- nEvidência: Divulgação dos convocados e seleção dos polos de aplicaç
- ão 7 de setembro a 2 de outubro\nFonte oficial: https://www.obm.org.br/
-URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1779,25 +1432,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-37d0cee4ff17338e@noic.com.br
-DTSTAMP:20261101T161358Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:OBI: Último dia para cadastro de escolas que participam da CF-OBI
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
- idência: Último dia para cadastro de escolas que participam da CF-OBI\nF
- onte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-64ee850d602d28b1@noic.com.br
-DTSTAMP:20261005T184011Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:OBI: Último dia para cadastro de escolas que participam da CF-OBI
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: deadline\nEvid
- ência: Último dia para cadastro de escolas que participam da CF-OBI\nFon
- te oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+ idência: Último dia para cadastro de escolas que participam da CF-OBI \,
+  Competição Feminina\nFonte oficial: https://olimpiada.ic.unicamp.br/cal
+ endario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -1827,14 +1469,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-5af84f5d4cfd6b70@noic.com.br
-DTSTAMP:20261015T142137Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:OBI: Último dia para inscrição de competidoras da CF-OBI
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
- idência: Dia 9 (Quarta-feira) Último dia para inscrição de competidora
- s da CF-OBI \, Competição Feminina\nFonte oficial: https://olimpiada.ic.
- unicamp.br/calendario/obi_completo
+ idência: Último dia para inscrição de competidoras da CF-OBI \, Compet
+ ição Feminina\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario
+ /obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -1864,25 +1506,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-3a7791d80c63c7f3@noic.com.br
-DTSTAMP:20261011T155414Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:OBI: Prova da CF-OBI
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
- ncia: Prova da CF-OBI2025\nFonte oficial: https://olimpiada.ic.unicamp.br/
- calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-3cd2aaa038993f01@noic.com.br
-DTSTAMP:20261005T184011Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:OBI: Prova da CF-OBI
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
- ia: Prova da CF-OBI2025\nFonte oficial: https://olimpiada.ic.unicamp.br/ca
- lendario/obi_completo
+ ncia: Prova da CF-OBI2025\, Competição Feminina\nFonte oficial: https://
+ olimpiada.ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -1900,39 +1530,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-5f298d7e5bb53bdf@noic.com.br
-DTSTAMP:20261004T145549Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:OBI: Resultado Preliminar da CF-OBI
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
- dência: Dia 15 (Terça-feira) Resultado Preliminar\, Competição Feminin
- a Resultado Preliminar da CF-OBI.\nFonte oficial: https://olimpiada.ic.uni
- camp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-7771dde652d636fb@noic.com.br
-DTSTAMP:20261005T184011Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:OBI: Resultado Preliminar\, Competição Feminina
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: results\nEvid
- ência: Resultado Preliminar\, Competição Feminina\nFonte oficial: https
- ://olimpiada.ic.unicamp.br/calendario/obi_completo
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
+ dência: Resultado Preliminar\, Competição Feminina Resultado Preliminar
+  da CF-OBI.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi
+ _completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-a9f37d741371ced2@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20261008
-SUMMARY:ONIA: ONIA 2026 — prova da 1ª fase
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
- ound\nEvidência: Prova da 1ª Fase: 15 de setembro (00:00) até 07 de out
- ubro de 2026 (23:59).\nFonte oficial: https://www.oniabrasil.com.br/
-URL:https://www.oniabrasil.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1984,44 +1590,16 @@ URL:https://www.seletaeducacao.com.br/obgp
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-05186dd45d7cd5eb@noic.com.br
-DTSTAMP:20261017T131206Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:OBI: Último dia para solicitação de recorreção\, Competição
-  Feminina
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: other\nEvidên
- cia: Último dia para solicitação de recorreção\, Competição Feminin
- a Último dia para solicitação de recorreção da CF-OBI.\nFonte oficial
- : https://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-064e254bb06cd048@noic.com.br
-DTSTAMP:20261112T002407Z
+UID:noic-6d45ed0dd3fdfe85@noic.com.br
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:OBI: Último dia para solicitação de recorreção\, Competição
   Feminina
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
  idência: Último dia para solicitação de recorreção\, Competição Fe
- minina\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_comp
- leto
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-6d45ed0dd3fdfe85@noic.com.br
-DTSTAMP:20261004T145549Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:OBI: Último dia para solicitação de recorreção da CF-OBI
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
- idência: Dia 17 (Quinta-feira) Último dia para solicitação de recorre
- ção\, Competição Feminina Último dia para solicitação de recorreç
- ão da CF-OBI.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/
- obi_completo
+ minina Último dia para solicitação de recorreção da CF-OBI.\nFonte of
+ icial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -2087,23 +1665,11 @@ URL:https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-1079342b15099186@noic.com.br
-DTSTAMP:20261008T165754Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:OBGP: Divulgação dos Resultados e Certificados
-DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: results\nEvid
- ência: Divulgação dos Resultados e Certificados: 23/09/2026\nFonte ofic
- ial: https://www.seletaeducacao.com.br/obgp
-URL:https://www.seletaeducacao.com.br/obgp
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-69285078d2e4eb15@noic.com.br
 DTSTAMP:20261009T162440Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-SUMMARY:OBGP: Resultados e Certificados
+SUMMARY:OBGP: Divulgação dos Resultados e Certificados
 DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: results\nEvid
  ência: Resultados: 23/09/2026\nFonte oficial: https://www.seletaeducacao.
  com.br/obgp
@@ -2112,7 +1678,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-88b84c7ee7b84463@noic.com.br
-DTSTAMP:20261003T175130Z
+DTSTAMP:20261112T205312Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:OBMF: Término das Inscrições
@@ -2124,13 +1690,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-b12cba271d1e82be@noic.com.br
-DTSTAMP:20261015T142233Z
+DTSTAMP:20261017T131241Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:OBGP: Resultados
 DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: results\nEvid
- ência: Resultados: 23/09/2026\nFonte oficial: https://www.seletaeducacao.
- com.br/obgp
+ ência: • Resultados: 23/09/2026\nFonte oficial: https://www.seletaeduca
+ cao.com.br/obgp
 URL:https://www.seletaeducacao.com.br/obgp
 STATUS:CONFIRMED
 END:VEVENT
@@ -2148,46 +1714,34 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-014055abef2e442c@noic.com.br
-DTSTAMP:20261105T173704Z
+DTSTAMP:20261112T205627Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20261006
 SUMMARY:Astronomia: 19th IOAA 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 19th\nMarco: final\nEvidên
- cia: 19th IOAA 2026 25.9. - 5.10. Hanoi\, Vietnam\nFonte oficial: https://
- www.ioaastrophysics.org/
+DESCRIPTION:Departamento: Astronomia\nEdição: 19th\nMarco: round\nEvidên
+ cia: 25.9. - 5.10. Hanoi\, Vietnam\nFonte oficial: https://www.ioaastrophy
+ sics.org/
 URL:https://www.ioaastrophysics.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-b30082862d6f20da@noic.com.br
-DTSTAMP:20261109T195849Z
+DTSTAMP:20261112T205509Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260928
 SUMMARY:World Robot Olympiad (WRO): Open Championship Americas
 DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
- ia: Open Championship Americas 25 a 27 de setembro de 2026\nFonte oficial:
-  https://www.wrobr.com.br/
+ ia: Open Championship Americas 25 a 27 de setembro de 2026 Califórnia\, E
+ UA\nFonte oficial: https://www.wrobr.com.br/
 URL:https://www.wrobr.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-0020e7893c6e0e41@noic.com.br
-DTSTAMP:20261017T131206Z
+UID:noic-a4aac8d762eb2597@noic.com.br
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:OBI: Prova da Fase 3\, Modalidade Iniciação
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
- ia: Prova da Fase 3\, Modalidade Iniciação\nFonte oficial: https://olimp
- iada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-a4aac8d762eb2597@noic.com.br
-DTSTAMP:20261029T164000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:OBI: Prova da Fase 3 - Modalidade Iniciação
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
  ncia: Prova da Fase 3\, Modalidade Iniciação\nFonte oficial: https://oli
  mpiada.ic.unicamp.br/calendario/obi_completo
@@ -2274,7 +1828,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-2b24b8ee515a68be@noic.com.br
-DTSTAMP:20261003T175130Z
+DTSTAMP:20261112T205312Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:OBMF: Aplicação da Prova
@@ -2309,22 +1863,8 @@ URL:https://www.olitef.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-fc5a71b9eda7422e@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:IEO (SOF): SOF IEO — prova nível 1 em 30 de setembro (a escola s
- eleciona uma data)
-DESCRIPTION:Departamento: Inglês\nEdição: 2026–27\nMarco: exam\nEvidê
- ncia: Select one exam date for the SOF International English Olympiad (IEO
- ): 30th Sep.\, 27th Oct.\, or 17th Nov.\nFonte oficial: https://sofworld.o
- rg/download/file/fid/73615
-URL:https://sofworld.org/download/file/fid/73615
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-94b79cdf373db69a@noic.com.br
-DTSTAMP:20261003T175130Z
+DTSTAMP:20261112T205312Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261003
 SUMMARY:OBMF: Período de Recursos
@@ -2332,33 +1872,6 @@ DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: other\nEvidên
  cia: Período de Recursos: 01/10/2026 a 02/10/2026\nFonte oficial: https:/
  /www.seletaeducacao.com.br/obmf
 URL:https://www.seletaeducacao.com.br/obmf
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-09f034ddaef7176e@noic.com.br
-DTSTAMP:20261003T164454Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Olimpíada Brasileira de Matemática: Prazo final para o preenchime
- nto do formulário de confirmação
-DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: deadline\nEvi
- dência: Prazo final para o preenchimento do formulário de confirmação.
-  2 de outubro\nFonte oficial: https://www.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-296dda036bf98b14@noic.com.br
-DTSTAMP:20261003T162146Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Olimpíada Brasileira de Matemática: Prazo final para o preenchime
- nto do formulário de confirmação - 48ª Olimpíada Brasileira de Matem
- ática (OBM)
-DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: deadline\nEvi
- dência: Prazo final para o preenchimento do formulário de confirmação.
-  2 de outubro\nFonte oficial: https://www.obm.org.br/
-URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2387,23 +1900,11 @@ URL:https://olimpiada.ic.unicamp.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-10a8dbda4de411b1@noic.com.br
-DTSTAMP:20261005T184011Z
+UID:noic-542fd6da0426fe8d@noic.com.br
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:OBI: Prova da Fase 3\, Modalidade Programação
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: exam\nEvidênc
- ia: Prova da Fase 3\, Modalidade Programação\nFonte oficial: https://oli
- mpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-542fd6da0426fe8d@noic.com.br
-DTSTAMP:20261029T164000Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:OBI: Prova da Fase 3 - Modalidade Programação
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
  ncia: Prova da Fase 3\, Modalidade Programação\nFonte oficial: https://o
  limpiada.ic.unicamp.br/calendario/obi_completo
@@ -2452,7 +1953,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-1ce32638d409c674@noic.com.br
-DTSTAMP:20261005T183724Z
+DTSTAMP:20261112T000808Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:IYPT: Lançamento do Regulamento
@@ -2516,64 +2017,11 @@ URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-0ca93c719cb41329@noic.com.br
-DTSTAMP:20261007T164313Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:OBI: Último dia para envio das Folhas de Respostas da Fase 3 por p
- arte dos Coordenadores
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: submission\n
- Evidência: Último dia para envio das Folhas de Respostas da Fase 3 por p
- arte dos Coordenadores\, Modalidade Iniciação\nFonte oficial: https://ol
- impiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-1bb61960b4769b0a@noic.com.br
-DTSTAMP:20261003T142754Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:TFC: Último dia para envio das Folhas de Respostas da Fase 3
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
- idência: Último dia para envio das Folhas de Respostas da Fase 3 por par
- te dos Coordenadores 06/Outubro/2026\nFonte oficial: https://olimpiada.ic.
- unicamp.br/
-URL:https://olimpiada.ic.unicamp.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-2c03e49f2e899a9b@noic.com.br
-DTSTAMP:20261004T145355Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:OBG: Disponibilidade dos certificados
-DESCRIPTION:Departamento: Geografia\nEdição: 11\nMarco: announcement\nEvi
- dência: Certificados Os certificados estarão disponíveis até o dia 06/
- 10.\nFonte oficial: https://obgeografia.com.br/
-URL:https://obgeografia.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-75d7822b26eb3d09@noic.com.br
-DTSTAMP:20261021T145338Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:OBI: Último dia para envio das Folhas de Respostas da Fase 3 por p
- arte dos Coordenadores\, Modalidade Iniciação
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: submission\nEv
- idência: Dia 6 (Terça-feira) Último dia para envio das Folhas de Respos
- tas da Fase 3 por parte dos Coordenadores\, Modalidade Iniciação\nFonte
-  oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-7de54e7abe66fe0c@noic.com.br
 DTSTAMP:20261005T183759Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:OBG: Certificados disponíveis
+SUMMARY:OBG: Disponibilidade dos Certificados
 DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: results\nEvidê
  ncia: Os certificados estarão disponíveis até o dia 06/10.\nFonte ofici
  al: https://obgeografia.com.br/
@@ -2609,19 +2057,6 @@ URL:https://olimpiada.ic.unicamp.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-b1a97df0a4c3e875@noic.com.br
-DTSTAMP:20261015T142137Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:OBI: Último dia para envio das Folhas de Respostas da Fase 3
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: submission\n
- Evidência: Dia 6 (Terça-feira) Último dia para envio das Folhas de Resp
- ostas da Fase 3 por parte dos Coordenadores\, Modalidade Iniciação\nFont
- e oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-4051266fb7202e76@noic.com.br
 DTSTAMP:20261007T164135Z
 DTSTART;VALUE=DATE:20261007
@@ -2636,8 +2071,22 @@ URL:https://olimpiada.ic.unicamp.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-5e19a69f934bd3f1@noic.com.br
+DTSTAMP:20261112T205649Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:OBI: Cadernos de Tarefas das provas e gabaritos da Fase 3 disponibi
+ lizados no site
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: announcement
+ \nEvidência: Cadernos de Tarefas das provas e gabaritos da Fase 3 disponi
+ bilizados no site\, Evento Geral Modalidades Iniciação e Programação\n
+ Fonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-69955852b17624f4@noic.com.br
-DTSTAMP:20261015T141632Z
+DTSTAMP:20261112T205312Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:OBMF: Divulgação dos Resultados e Certificados
@@ -2645,18 +2094,6 @@ DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: results\nEvid
  ência: Divulgação dos Resultados e Certificados: 07/10/2026\nFonte ofic
  ial: https://www.seletaeducacao.com.br/obmf
 URL:https://www.seletaeducacao.com.br/obmf
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-a5178975f8afd4e8@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART:20261008T025900Z
-DTEND:20261008T025900Z
-SUMMARY:ONIA: ONIA 2026 — prazo estendido de inscrição
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: d
- eadline\nEvidência: Final das Inscrições (PRAZO ESTENDIDO): 07 de outub
- ro de 2026 (23h59).\nFonte oficial: https://www.oniabrasil.com.br/
-URL:https://www.oniabrasil.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2685,7 +2122,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-ce602ca4660a1c9c@noic.com.br
-DTSTAMP:20261003T175130Z
+DTSTAMP:20261112T205312Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:OBMF: Início da Solicitação de Medalhas na Loja
@@ -2696,22 +2133,8 @@ URL:https://www.seletaeducacao.com.br/obmf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-0145cd288860a797@noic.com.br
-DTSTAMP:20261010T153358Z
-DTSTART:20261008T170000Z
-DTEND:20261008T170000Z
-SUMMARY:Olimpíada Brasileira de Matemática: Primeiro dia - níveis 1\, 2\
- , 3 e universitário - 48ª OBM
-DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
- cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
-  e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
- w.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-43a9b8bfd6bcc899@noic.com.br
-DTSTAMP:20261007T164329Z
+DTSTAMP:20261011T155430Z
 DTSTART:20261008T170000Z
 DTEND:20261008T170000Z
 SUMMARY:Olimpíada Brasileira de Matemática: Competição Nacional - 48ª
@@ -2724,58 +2147,16 @@ URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-4e8fa8c7a4772ab8@noic.com.br
-DTSTAMP:20261008T165557Z
+UID:noic-db4f389477f59d60@noic.com.br
+DTSTAMP:20261013T173551Z
 DTSTART:20261008T170000Z
 DTEND:20261008T170000Z
 SUMMARY:Olimpíada Brasileira de Matemática: Primeiro dia - níveis 1\, 2\
- , 3 e universitário
+ , 3 e universitário - 48ª OBM
 DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
  cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
   e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
  w.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-8d77dfd086626608@noic.com.br
-DTSTAMP:20261001T163800Z
-DTSTART:20261008T170000Z
-DTEND:20261008T170000Z
-SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
-  Matemática (OBM) - Primeiro dia - níveis 1\, 2\, 3 e universitário
-DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
- cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
-  e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
- w.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-db4f389477f59d60@noic.com.br
-DTSTAMP:20261005T184028Z
-DTSTART:20261008T170000Z
-DTEND:20261008T170000Z
-SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
-  Matemática (OBM) - Primeiro dia
-DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
- cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
-  e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
- w.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-01c11ccd73deaafe@noic.com.br
-DTSTAMP:20261001T163800Z
-DTSTART:20261009T170000Z
-DTEND:20261009T170000Z
-SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
-  Matemática (OBM) - Segundo dia - níveis 2\, 3 e universitário
-DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
- cia: 9 de outubro de 2026 (sexta-feira) Segundo dia - níveis 2\, 3 e univ
- ersitário 14h00 (horário de Brasília)\nFonte oficial: https://www.obm.o
- rg.br/
 URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2794,8 +2175,8 @@ URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-6118e6e2e6658506@noic.com.br
-DTSTAMP:20261010T153358Z
+UID:noic-905622f61261450d@noic.com.br
+DTSTAMP:20261013T173551Z
 DTSTART:20261009T170000Z
 DTEND:20261009T170000Z
 SUMMARY:Olimpíada Brasileira de Matemática: Segundo dia - níveis 2\, 3 e
@@ -2808,54 +2189,14 @@ URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-8ac02c880f6283d4@noic.com.br
-DTSTAMP:20261008T165557Z
-DTSTART:20261009T170000Z
-DTEND:20261009T170000Z
-SUMMARY:Olimpíada Brasileira de Matemática: Segundo dia - níveis 2\, 3 e
-  universitário
-DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
- cia: 9 de outubro de 2026 (sexta-feira) Segundo dia - níveis 2\, 3 e univ
- ersitário 14h00 (horário de Brasília)\nFonte oficial: https://www.obm.o
- rg.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-905622f61261450d@noic.com.br
-DTSTAMP:20261005T184028Z
-DTSTART:20261009T170000Z
-DTEND:20261009T170000Z
-SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
-  Matemática (OBM) - Segundo dia
-DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
- cia: 9 de outubro de 2026 (sexta-feira) Segundo dia - níveis 2\, 3 e univ
- ersitário 14h00 (horário de Brasília)\nFonte oficial: https://www.obm.o
- rg.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-22a8c61fef0a4d76@noic.com.br
-DTSTAMP:20261015T142137Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:OBI: Resultado preliminar da Fase 3
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
- dência: Dia 13 (Terça-feira) Resultado preliminar da Fase 3\, Evento Ger
- al\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-38fa4f079c13bd71@noic.com.br
-DTSTAMP:20261005T184011Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:OBI: Resultado preliminar da Fase 3
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: results\nEvid
- ência: Resultado preliminar da Fase 3\nFonte oficial: https://olimpiada.i
- c.unicamp.br/calendario/obi_completo
+ dência: Resultado preliminar da Fase 3\, Evento Geral\nFonte oficial: htt
+ ps://olimpiada.ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -2869,30 +2210,6 @@ DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
  dência: Resultado preliminar da Fase 3 13/Outubro/2026\nFonte oficial: ht
  tps://olimpiada.ic.unicamp.br/
 URL:https://olimpiada.ic.unicamp.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-b63b0ac3f54c98b5@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:OBI: OBI 2026 — resultado preliminar da Fase 3
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
- dência: Dia 13: Resultado preliminar da Fase 3.\nFonte oficial: https://o
- limpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-2618e3816868f243@noic.com.br
-DTSTAMP:20261002T155935Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:OBLI: Término das Inscrições
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: deadline\nEvid
- ência: Término das Inscrições: 14/10/2026\nFonte oficial: https://www.
- seletaeducacao.com.br/obli
-URL:https://www.seletaeducacao.com.br/obli
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2922,32 +2239,6 @@ URL:https://www.olimpiadadehistoria.com.br/noticias/ler/413
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-06bcd51876a0ce77@noic.com.br
-DTSTAMP:20261011T155430Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Olimpíada Brasileira de Matemática: Competição Internacional -
-  13ª Iranian Geometry Olympiad (IGO)
-DESCRIPTION:Departamento: Matemática\nEdição: 13\nMarco: exam\nEvidênci
- a: Competição Internacional - 13ª Iranian Geometry Olympiad (IGO) 16 de
-  outubro\nFonte oficial: https://www.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-0930eca7262b26bd@noic.com.br
-DTSTAMP:20261026T163519Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:OBI: Último dia para solicitação de recorreção da Fase 3
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: deadline\nEvid
- ência: Último dia para solicitação de recorreção da Fase 3\, Evento
-  Geral\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_comp
- leto
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-30b9c2cb9c2a285b@noic.com.br
 DTSTAMP:20261008T164500Z
 DTSTART;VALUE=DATE:20261016
@@ -2961,7 +2252,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-33e1a89db59b31c8@noic.com.br
-DTSTAMP:20261016T141138Z
+DTSTAMP:20261017T131225Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Olimpíada Brasileira de Matemática: 13ª Iranian Geometry Olympia
@@ -2974,14 +2265,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-3dc60d069448f0e5@noic.com.br
-DTSTAMP:20261004T145549Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:OBI: Último dia para solicitação de recorreção da Fase 3
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
- idência: Dia 16 (Sexta-feira) Último dia para solicitação de recorreç
- ão da Fase 3\, Evento Geral\nFonte oficial: https://olimpiada.ic.unicamp.
- br/calendario/obi_completo
+ idência: Último dia para solicitação de recorreção da Fase 3\, Event
+ o Geral\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_com
+ pleto
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
@@ -2998,53 +2289,15 @@ URL:https://olimpiada.ic.unicamp.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-14cfb930c89fc1fb@noic.com.br
-DTSTAMP:20261010T153358Z
+UID:noic-5b25afd0b03e2360@noic.com.br
+DTSTAMP:20261023T143621Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261025
 SUMMARY:Olimpíada Brasileira de Matemática: 6ª Pan-American Girls’ Mat
  hematical Olympiad (PAGMO)
 DESCRIPTION:Departamento: Matemática\nEdição: 6ª\nMarco: exam\nEvidênc
- ia: 6ª Pan-American Girls’ Mathematical Olympiad (PAGMO) 18 a 24 de out
- ubro de 2026\nFonte oficial: https://www.obm.org.br/
+ ia: 18 a 24 de outubro de 2026\nFonte oficial: https://www.obm.org.br/
 URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-5b25afd0b03e2360@noic.com.br
-DTSTAMP:20261011T155430Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261025
-SUMMARY:Olimpíada Brasileira de Matemática: Competição Internacional -
-  6ª Pan-American Girls’ Mathematical Olympiad (PAGMO)
-DESCRIPTION:Departamento: Matemática\nEdição: 6\nMarco: exam\nEvidência
- : 6ª Pan-American Girls’ Mathematical Olympiad (PAGMO) 18 a 24 de outub
- ro de 2026\nFonte oficial: https://www.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-2422b53e2909a13d@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261101
-SUMMARY:ONIA: ONIA 2026 — prova da 1ª etapa da 2ª fase
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
- ound\nEvidência: Prova da 1ª Etapa da 2ª Fase: 19 de outubro (00:00) at
- é 31 de outubro (23:59).\nFonte oficial: https://www.oniabrasil.com.br/
-URL:https://www.oniabrasil.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-60f00dffdd4cb2ec@noic.com.br
-DTSTAMP:20261017T131257Z
-DTSTART:20261019T030000Z
-DTEND:20261101T025900Z
-SUMMARY:ONIA: Prova da 1ª Etapa da 2ª Fase
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: e
- xam\nEvidência: Prova da 1ª Etapa da 2ª Fase : 19 de outubro (00:00) at
- é 31 de outubro (23:59)\;\nFonte oficial: https://www.oniabrasil.com.br/
-URL:https://www.oniabrasil.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3086,23 +2339,11 @@ URL:https://www.seletaeducacao.com.br/obli-regulamento
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-1e5cbc8a1b1352be@noic.com.br
-DTSTAMP:20261102T195938Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:OBI: Resultado Final da OBI2026 e Quadro de Medalhas
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: final\nEvid
- ência: Resultado Final da OBI2026 e Quadro de Medalhas\, Evento Geral\nFo
- nte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-1e99fcd0b25ad591@noic.com.br
 DTSTAMP:20261011T155253Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261024
-SUMMARY:OBLI: Período de Recursos
+SUMMARY:OBLI: OBLI 2026.2 — período de recursos
 DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: other\nEvidênc
  ia: Período de Recursos: 22/10/2026 a 23/10/2026\nFonte oficial: https://
  www.seletaeducacao.com.br/obli
@@ -3110,48 +2351,11 @@ URL:https://www.seletaeducacao.com.br/obli
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-524853cf79daf66d@noic.com.br
-DTSTAMP:20261010T153342Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:OBI: Resultado Final da OBI2026 e Quadro de Medalhas
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: results\nEvid
- ência: Dia 22 (Quinta-feira) Resultado Final da OBI2026 e Quadro de Medal
- has\, Evento Geral\nFonte oficial: https://olimpiada.ic.unicamp.br/calenda
- rio/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-5d3e4af282a75344@noic.com.br
-DTSTAMP:20261014T143939Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:OBI: Resultado Final da OBI2026 e Quadro de Medalhes
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: final\nEvidên
- cia: Resultado Final da OBI2026 e Quadro de Medalhas\, Evento Geral\nFonte
-  oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-6e31d8afd90c2eb3@noic.com.br
-DTSTAMP:20261017T131036Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:TFC: Resultado Final da OBI2026 e Quadro de Medalhas
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
- dência: Resultado Final da OBI2026 e Quadro de Medalhas 22/Outubro/2026\n
- Fonte oficial: https://olimpiada.ic.unicamp.br/
-URL:https://olimpiada.ic.unicamp.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-8524e84ae466728a@noic.com.br
 DTSTAMP:20261023T142703Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-SUMMARY:TFC: Resultados Finais e Quadros de Medalhas da OBI2026
+SUMMARY:TFC: Resultado Final da OBI2026 e Quadro de Medalhas
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
  dência: Resultados Finais e Quadros de Medalhas da OBI2026 Postado por Co
  ordenação em 22/Out/2026\nFonte oficial: https://olimpiada.ic.unicamp.br
@@ -3161,63 +2365,27 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-cf5fcf2dbab30f6f@noic.com.br
-DTSTAMP:20261112T002407Z
+DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-SUMMARY:OBI: Resultado Final da OBI2026 e Quadro de Medalhes
+SUMMARY:OBI: Resultado Final da OBI2026 e Quadro de Medalhas
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
- dência: Resultado Final da OBI2026 e Quadro de Medalhas\nFonte oficial: h
- ttps://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-f14d95959a4ff8a7@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261024
-SUMMARY:OBLI: OBLI 2026.2 — período de recursos
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: deadline\nEvid
- ência: Período de Recursos: 22/10/2026 a 23/10/2026.\nFonte oficial: htt
- ps://www.seletaeducacao.com.br/obli-regulamento
-URL:https://www.seletaeducacao.com.br/obli-regulamento
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-f234c9a2a3768013@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:OBI: OBI 2026 — resultado final e quadro de medalhas
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
- dência: Dia 22: Resultado Final da OBI2026 e Quadro de Medalhas.\nFonte o
- ficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
+ dência: Resultado Final da OBI2026 e Quadro de Medalhas\, Evento Geral\nF
+ onte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_completo
 URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0c93464604c3d63a@noic.com.br
-DTSTAMP:20261010T153358Z
+DTSTAMP:20261026T163641Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261101
 SUMMARY:Olimpíada Brasileira de Matemática: 18ª Competição Ibero-Ameri
  cana Interuniversitária de Matemática (CIIM)
 DESCRIPTION:Departamento: Matemática\nEdição: 18ª\nMarco: exam\nEvidên
- cia: 18ª Competição Ibero-Americana Interuniversitária de Matemática
-  (CIIM) 26 a 31 de outubro\nFonte oficial: https://www.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-3f640db8fdddc59f@noic.com.br
-DTSTAMP:20261007T164329Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261101
-SUMMARY:Olimpíada Brasileira de Matemática: Competição Internacional -
-  18ª Competição Ibero-Americana Interuniversitária de Matemática (CII
- M)
-DESCRIPTION:Departamento: Matemática\nEdição: 18\nMarco: exam\nEvidênci
- a: 26 a 31 de outubro\nFonte oficial: https://www.obm.org.br/
+ cia: Competição Internacional - 18ª Competição Ibero-Americana Interu
+ niversitária de Matemática (CIIM) 26 a 31 de outubro\, Manizales\, Colô
+ mbia\nFonte oficial: https://www.obm.org.br/
 URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -3234,41 +2402,15 @@ URL:https://sofworld.org/ieo
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-4d1b237908e49007@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:IEO (SOF): SOF IEO — prova nível 1 em 27 de outubro (a escola se
- leciona uma data)
-DESCRIPTION:Departamento: Inglês\nEdição: 2026–27\nMarco: exam\nEvidê
- ncia: Select one exam date for the SOF International English Olympiad (IEO
- ): 30th Sep.\, 27th Oct.\, or 17th Nov.\nFonte oficial: https://sofworld.o
- rg/download/file/fid/73615
-URL:https://sofworld.org/download/file/fid/73615
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-34eed2b19e208fcb@noic.com.br
 DTSTAMP:20261017T131048Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:OBLI: Divulgação dos Resultados e Certificados
+SUMMARY:OBLI: OBLI 2026.2 — divulgação dos resultados e certificados
 DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: results\nEvidê
  ncia: Divulgação dos Resultados e Certificados: 28/10/2026\nFonte oficia
  l: https://www.seletaeducacao.com.br/obli
 URL:https://www.seletaeducacao.com.br/obli
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-baee1508c2708900@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:OBLI: OBLI 2026.2 — divulgação dos resultados e certificados
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: results\nEvidê
- ncia: Divulgação dos Resultados e Certificados: 28/10/2026.\nFonte ofici
- al: https://www.seletaeducacao.com.br/obli-regulamento
-URL:https://www.seletaeducacao.com.br/obli-regulamento
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3325,20 +2467,6 @@ URL:https://www.olimpiadadehistoria.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-77000979056acbbe@noic.com.br
-DTSTAMP:20261016T141203Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:OCHE: Prazo para preencher o formulário de validação de certific
- ados de medalhistas estaduais
-DESCRIPTION:Departamento: História\nEdição: 18ª\nMarco: deadline\nEvid
- ência: Professore(a)s orientadore(a)s das equipes que conquistaram medalh
- as estaduais têm até 30 de outubro para preencher o formulário de valid
- ação\nFonte oficial: https://www.olimpiadadehistoria.com.br/
-URL:https://www.olimpiadadehistoria.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-7a3523a1dbd50891@noic.com.br
 DTSTAMP:20261018T132803Z
 DTSTART;VALUE=DATE:20261030
@@ -3380,41 +2508,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-32600bda14f0e0e9@noic.com.br
-DTSTAMP:20261112T001046Z
+DTSTAMP:20261112T205627Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261109
-SUMMARY:Astronomia: 5th IOAA Jr 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 5th\nMarco: final\nEvidênc
+SUMMARY:Astronomia: 5th IOAA Junior 2026
+DESCRIPTION:Departamento: Astronomia\nEdição: 5th\nMarco: round\nEvidênc
  ia: November 1-8\, 2026. Ubon Ratchathani\, Thailand\nFonte oficial: https
  ://www.ioaastrophysics.org/
 URL:https://www.ioaastrophysics.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-45524dfd15962c24@noic.com.br
-DTSTAMP:20261029T163845Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261109
-SUMMARY:Astronomia: 5th IOAA JUNIOR 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 5th\nMarco: final\nEvidênc
- ia: November 1-8\, 2026\nFonte oficial: https://www.ioaastrophysics.org/
-URL:https://www.ioaastrophysics.org/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-aa077d4e2bf6ffc9@noic.com.br
-DTSTAMP:20261107T154945Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261109
-SUMMARY:Astronomia: 5th Junior Olympiad on Astronomy and Astrophysics 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 5th\nMarco: final\nEvidênc
- ia: November 1-8\, 2026\nFonte oficial: https://www.ioaastrophysics.org/
-URL:https://www.ioaastrophysics.org/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-0e4db95aa8499423@noic.com.br
-DTSTAMP:20261026T163451Z
+DTSTAMP:20261030T160751Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:OI: Aplicação online das provas da 3ª Edição
@@ -3425,35 +2531,11 @@ URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-221bc5b532dc50d1@noic.com.br
-DTSTAMP:20261112T001053Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:OI: Aplicação das provas
-DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: exam\nEvi
- dência: As provas acontecerão no dia 05 de novembro (quinta-feira).\nFon
- te oficial: https://oingles.com/
-URL:https://oingles.com/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-3e2be04ab0c2e530@noic.com.br
-DTSTAMP:20261106T165930Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:OI: Provas da 3ª Edição
-DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: exam\nEvi
- dência: As provas acontecerão no dia 05 de novembro (quinta-feira).\nFon
- te oficial: https://oingles.com/
-URL:https://oingles.com/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-7ef0f2572258cfd4@noic.com.br
 DTSTAMP:20261112T002355Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:OI: Aplicação da Prova
+SUMMARY:OI: Provas da 3ª Edição
 DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: exam\nEvi
  dência: As provas acontecerão no dia 05 de novembro\nFonte oficial: http
  s://oingles.com/
@@ -3473,35 +2555,35 @@ URL:https://thebrainbee.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-0a6e79c9ae7c9983@noic.com.br
-DTSTAMP:20261015T142121Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:OI: Publicação dos gabaritos das provas
-DESCRIPTION:Departamento: Inglês\nEdição: 2ª Edição\nMarco: results\n
- Evidência: 07 novembro 2026 Publicação dos gabaritos das provas da 2ª
-  Edição.\nFonte oficial: https://oingles.com/
-URL:https://oingles.com/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-0e7deeebc46967f8@noic.com.br
-DTSTAMP:20261019T163947Z
+DTSTAMP:20261106T165930Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:OI: Publicação dos gabaritos das provas da 2ª Edição
 DESCRIPTION:Departamento: Inglês\nEdição: 2ª Edição\nMarco: results\n
- Evidência: 07 novembro 2026 Publicação dos gabaritos das provas da 2ª
-  Edição.\nFonte oficial: https://oingles.com/
+ Evidência: Publicação dos gabaritos das provas da 2ª Edição.\nFonte
+  oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-79c486a7fea4133d@noic.com.br
+DTSTAMP:20261012T191427Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:OI: Publicação dos gabaritos das provas
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: results\n
+ Evidência: 07 novembro 2026 Publicação dos gabaritos das provas\nFonte
+  oficial: https://oingles.com/
 URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-9361897a018f59ef@noic.com.br
-DTSTAMP:20261110T171218Z
+DTSTAMP:20261112T205332Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:IYPT: Formulário de inscrições para a 1ª fase - disponível!
+SUMMARY:IYPT: Abertura do Formulário de inscrições para a 1ª fase
 DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: registration\nEvi
  dência: 09/11/2026 Formulário de inscrições para a 1ª fase - disponí
  vel!\nFonte oficial: https://www.iyptbrasil.com/
@@ -3510,14 +2592,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-1afb61ee003479cb@noic.com.br
-DTSTAMP:20261104T174031Z
+DTSTAMP:20261110T171640Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261121
 SUMMARY:Olimpíada Brasileira de Matemática: 14ª Olimpíada de Matemátic
  a da Comunidade dos Países de Língua Portuguesa (OMCPLP)
-DESCRIPTION:Departamento: Matemática\nEdição: 14ª\nMarco: exam\nEvidên
- cia: 15 a 20 de novembro\, Fortaleza (CE)\nFonte oficial: https://www.obm.
- org.br/
+DESCRIPTION:Departamento: Matemática\nEdição: 14\nMarco: exam\nEvidênci
+ a: 15 a 20 de novembro\, Recife (PE)\nFonte oficial: https://www.obm.org.b
+ r/
 URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -3546,20 +2628,6 @@ URL:https://sofworld.org/ieo
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-ccceebdca2f57603@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:IEO (SOF): SOF IEO — prova nível 1 em 17 de novembro (a escola s
- eleciona uma data)
-DESCRIPTION:Departamento: Inglês\nEdição: 2026–27\nMarco: exam\nEvidê
- ncia: Select one exam date for the SOF International English Olympiad (IEO
- ): 30th Sep.\, 27th Oct.\, or 17th Nov.\nFonte oficial: https://sofworld.o
- rg/download/file/fid/73615
-URL:https://sofworld.org/download/file/fid/73615
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-cba5a85a9829d298@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20261120
@@ -3573,7 +2641,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-883d8f0eba984b21@noic.com.br
-DTSTAMP:20261014T143722Z
+DTSTAMP:20261107T154802Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261128
 SUMMARY:OBG: Fase Presencial Nacional
@@ -3585,19 +2653,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-069ca0d183aff1cb@noic.com.br
-DTSTAMP:20261003T175447Z
+DTSTAMP:20261112T205634Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20270116
 SUMMARY:OI: Período para aquisição de medalhas
-DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: other\nEv
- idência: 24 novembro 2026 - 15 janeiro 2027 Período para aquisição de
-  medalhas\nFonte oficial: https://oingles.com/
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
+ ion\nEvidência: 24 novembro 2026 - 15 janeiro 2027 Período para aquisiç
+ ão de medalhas\nFonte oficial: https://oingles.com/
 URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-27f6ac14f2f95231@noic.com.br
-DTSTAMP:20261029T163927Z
+DTSTAMP:20261112T205634Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:OI: Divulgação dos premiados com Ouro\, Prata\, Bronze e Menção
@@ -3634,7 +2702,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-f45b61e67baf21e0@noic.com.br
-DTSTAMP:20261003T175130Z
+DTSTAMP:20261112T205312Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:OBMF: Prazo Final para Solicitação de Medalhas
@@ -3840,18 +2908,6 @@ URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-0fea7cfec70387ac@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261213
-SUMMARY:OBI: OBI 2026 — Semana Olímpica
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: final\nEvid
- ência: Semana Olímpica da OBI2026: 6 a 12 de dezembro.\nFonte oficial: h
- ttps://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-5f0e0c89b50f2c57@noic.com.br
 DTSTAMP:20261101T161358Z
 DTSTART;VALUE=DATE:20261206
@@ -3864,64 +2920,15 @@ URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-8f16c0b7c98d237a@noic.com.br
-DTSTAMP:20261005T184011Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261213
-SUMMARY:OBI: Semana Olímpica OBI2026
-DESCRIPTION:Departamento: Informática\nEdição: 28\nMarco: other\nEvidên
- cia: Início do período de OBI2026\, Semana Olímpica\nFonte oficial: htt
- ps://olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-252b81962b6f8e36@noic.com.br
-DTSTAMP:20261030T160820Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261210
-SUMMARY:Olimpíada Brasileira de Matemática: Pedidos de revisão de nota -
-  48ª Olimpíada Brasileira de Matemática (OBM)
-DESCRIPTION:Departamento: Matemática\nEdição: 48\nMarco: deadline\nEvid
- ência: Pedidos de revisão de nota 7 a 9 de dezembro\nFonte oficial: http
- s://www.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-38711e4005bddfd1@noic.com.br
 DTSTAMP:20261104T174031Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261210
-SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
-  Matemática (OBM) - Pedidos de revisão de nota
+SUMMARY:Olimpíada Brasileira de Matemática: Pedidos de revisão de nota -
+  48ª Olimpíada Brasileira de Matemática (OBM)
 DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: results\nEvid
  ência: 7 a 9 de dezembro\nFonte oficial: https://www.obm.org.br/
 URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-4a489dd2d71f81b1@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261214
-SUMMARY:ONIA: ONIA 2026 — prova da 2ª etapa da 2ª fase
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
- ound\nEvidência: Prova da 2ª Etapa da 2ª Fase: 07 de dezembro (00:00) a
- té 13 de dezembro (23:59).\nFonte oficial: https://www.oniabrasil.com.br/
-URL:https://www.oniabrasil.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-3a7f12076829c30c@noic.com.br
-DTSTAMP:20261017T131257Z
-DTSTART:20261207T030000Z
-DTEND:20261214T025900Z
-SUMMARY:ONIA: Prova da 2ª Etapa da 2ª Fase
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: e
- xam\nEvidência: Prova da 2ª Etapa da 2ª Fase : 07 de dezembro (00:00) a
- té 13 de dezembro (23:59).\nFonte oficial: https://www.oniabrasil.com.br/
-URL:https://www.oniabrasil.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3937,26 +2944,14 @@ URL:https://www.oniabrasil.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-115dab719dfb5de7@noic.com.br
-DTSTAMP:20261003T163402Z
+UID:noic-f5b51c662d0a87f1@noic.com.br
+DTSTAMP:20261112T205509Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261211
 SUMMARY:World Robot Olympiad (WRO): Final Mundial — Porto Rico
 DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: final\nEvidênc
- ia: Final Mundial — Porto Rico 8 a 10 de dezembro de 2026\nFonte oficial
- : https://www.wrobr.com.br/
-URL:https://www.wrobr.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-f5b51c662d0a87f1@noic.com.br
-DTSTAMP:20261109T195849Z
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261211
-SUMMARY:World Robot Olympiad (WRO): Final Mundial
-DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: final\nEvidênc
- ia: Final Mundial — Porto Rico 8 a 10 de dezembro de 2026\nFonte oficial
- : https://www.wrobr.com.br/
+ ia: Final Mundial — Porto Rico 8 a 10 de dezembro de 2026 Porto Rico\nFo
+ nte oficial: https://www.wrobr.com.br/
 URL:https://www.wrobr.com.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -3985,18 +2980,6 @@ URL:https://olimpiada.ic.unicamp.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-0a5a0c809cc0dab9@noic.com.br
-DTSTAMP:20261029T164117Z
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261215
-SUMMARY:Olimpíada Brasileira de Matemática: Divulgação dos premiados -
-  48ª Olimpíada Brasileira de Matemática (OBM)
-DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: results\nEvid
- ência: Divulgação dos premiados\nFonte oficial: https://www.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-1c04287ede37366b@noic.com.br
 DTSTAMP:20261111T172451Z
 DTSTART;VALUE=DATE:20261214
@@ -4011,20 +2994,8 @@ URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-30fab105cd211464@noic.com.br
-DTSTAMP:20261015T141650Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:IYPT: Encerramento das Inscrições
-DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: deadline\nEvidên
- cia: 18/12/2026 Encerramento das Inscrições\nFonte oficial: https://www.
- iyptbrasil.com/
-URL:https://www.iyptbrasil.com/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-abd629624d751931@noic.com.br
-DTSTAMP:20261112T000808Z
+DTSTAMP:20261112T205332Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:IYPT: Encerramento das Inscrições - 1ª fase
@@ -4051,18 +3022,6 @@ DTSTAMP:20261019T164009Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270405
 SUMMARY:NBPHO: Registration
-DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: registration\nEvi
- dência: Registration: March 1st – April 4th\, 2027\nFonte oficial: http
- s://nbpho.ee/
-URL:https://nbpho.ee/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-7097b74551936163@noic.com.br
-DTSTAMP:20261002T160043Z
-DTSTART;VALUE=DATE:20270301
-DTEND;VALUE=DATE:20270405
-SUMMARY:NBPHO: NBPhO 2027 Registration
 DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: registration\nEvi
  dência: Registration: March 1st – April 4th\, 2027\nFonte oficial: http
  s://nbpho.ee/
@@ -4105,32 +3064,6 @@ URL:https://ioai-official.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-7e60b1c76d2319ca@noic.com.br
-DTSTAMP:20261002T160138Z
-DTSTART;VALUE=DATE:20270704
-DTEND;VALUE=DATE:20270711
-SUMMARY:IOAI: 4th International Olympiad in Artificial Intelligence
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 4th\nMarco: e
- xam\nEvidência: July 4th – 10th 2027 Singapore\, Republic of Singapore
-  4th International Olympiad in AI (IOAI)\nFonte oficial: https://ioai-offi
- cial.org/
-URL:https://ioai-official.org/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-80c77eeb86af763c@noic.com.br
-DTSTAMP:20261009T162321Z
-DTSTART;VALUE=DATE:20270704
-DTEND;VALUE=DATE:20270711
-SUMMARY:IOAI: 4th International Olympiad in AI
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 4th\nMarco: e
- xam\nEvidência: July 4th – 10th 2027 Singapore\, Republic of Singapore
-  4th International Olympiad in AI (IOAI)\nFonte oficial: https://ioai-offi
- cial.org/
-URL:https://ioai-official.org/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-0212785b39e84fac@noic.com.br
 DTSTAMP:20260930T161418Z
 DTSTART;VALUE=DATE:20270716
@@ -4145,7 +3078,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-52438c4c7b4d6bcc@noic.com.br
-DTSTAMP:20261018T132800Z
+DTSTAMP:20261112T205723Z
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270810
 SUMMARY:iGeo: 2027 International Geography Olympiad
@@ -4157,7 +3090,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-296e34ec190aa060@noic.com.br
-DTSTAMP:20261108T160803Z
+DTSTAMP:20261112T205723Z
 DTSTART;VALUE=DATE:20280703
 DTEND;VALUE=DATE:20280711
 SUMMARY:iGeo: 2028 International Geography Olympiad

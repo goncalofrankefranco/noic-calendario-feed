@@ -7,47 +7,25 @@ X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:Astronomia — Calendário Olímpico do NOIC
 BEGIN:VEVENT
 UID:noic-014055abef2e442c@noic.com.br
-DTSTAMP:20261105T173704Z
+DTSTAMP:20261112T205627Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20261006
 SUMMARY:Astronomia: 19th IOAA 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 19th\nMarco: final\nEvidên
- cia: 19th IOAA 2026 25.9. - 5.10. Hanoi\, Vietnam\nFonte oficial: https://
- www.ioaastrophysics.org/
+DESCRIPTION:Departamento: Astronomia\nEdição: 19th\nMarco: round\nEvidên
+ cia: 25.9. - 5.10. Hanoi\, Vietnam\nFonte oficial: https://www.ioaastrophy
+ sics.org/
 URL:https://www.ioaastrophysics.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-32600bda14f0e0e9@noic.com.br
-DTSTAMP:20261112T001046Z
+DTSTAMP:20261112T205627Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261109
-SUMMARY:Astronomia: 5th IOAA Jr 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 5th\nMarco: final\nEvidênc
+SUMMARY:Astronomia: 5th IOAA Junior 2026
+DESCRIPTION:Departamento: Astronomia\nEdição: 5th\nMarco: round\nEvidênc
  ia: November 1-8\, 2026. Ubon Ratchathani\, Thailand\nFonte oficial: https
  ://www.ioaastrophysics.org/
-URL:https://www.ioaastrophysics.org/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-45524dfd15962c24@noic.com.br
-DTSTAMP:20261029T163845Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261109
-SUMMARY:Astronomia: 5th IOAA JUNIOR 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 5th\nMarco: final\nEvidênc
- ia: November 1-8\, 2026\nFonte oficial: https://www.ioaastrophysics.org/
-URL:https://www.ioaastrophysics.org/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-aa077d4e2bf6ffc9@noic.com.br
-DTSTAMP:20261107T154945Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261109
-SUMMARY:Astronomia: 5th Junior Olympiad on Astronomy and Astrophysics 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 5th\nMarco: final\nEvidênc
- ia: November 1-8\, 2026\nFonte oficial: https://www.ioaastrophysics.org/
 URL:https://www.ioaastrophysics.org/
 STATUS:CONFIRMED
 END:VEVENT

@@ -18,6 +18,18 @@ URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-45efb65a1588c3f2@noic.com.br
+DTSTAMP:20261014T143923Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20261024
+SUMMARY:OI: Abertura das inscrições para a 3ª Edição da OI
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
+ ion\nEvidência: 07 julho 2026 - 23 outubro 2026 Abertura das inscrições
+  para a 3ª Edição da OI.\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-21c1f463de36b007@noic.com.br
 DTSTAMP:20261014T143923Z
 DTSTART;VALUE=DATE:20260829
@@ -31,7 +43,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0e4db95aa8499423@noic.com.br
-DTSTAMP:20261026T163451Z
+DTSTAMP:20261030T160751Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:OI: Aplicação online das provas da 3ª Edição
@@ -42,35 +54,11 @@ URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-221bc5b532dc50d1@noic.com.br
-DTSTAMP:20261112T001053Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:OI: Aplicação das provas
-DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: exam\nEvi
- dência: As provas acontecerão no dia 05 de novembro (quinta-feira).\nFon
- te oficial: https://oingles.com/
-URL:https://oingles.com/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-3e2be04ab0c2e530@noic.com.br
-DTSTAMP:20261106T165930Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:OI: Provas da 3ª Edição
-DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: exam\nEvi
- dência: As provas acontecerão no dia 05 de novembro (quinta-feira).\nFon
- te oficial: https://oingles.com/
-URL:https://oingles.com/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-7ef0f2572258cfd4@noic.com.br
 DTSTAMP:20261112T002355Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:OI: Aplicação da Prova
+SUMMARY:OI: Provas da 3ª Edição
 DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: exam\nEvi
  dência: As provas acontecerão no dia 05 de novembro\nFonte oficial: http
  s://oingles.com/
@@ -78,44 +66,44 @@ URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-0a6e79c9ae7c9983@noic.com.br
-DTSTAMP:20261015T142121Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:OI: Publicação dos gabaritos das provas
-DESCRIPTION:Departamento: Inglês\nEdição: 2ª Edição\nMarco: results\n
- Evidência: 07 novembro 2026 Publicação dos gabaritos das provas da 2ª
-  Edição.\nFonte oficial: https://oingles.com/
-URL:https://oingles.com/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-0e7deeebc46967f8@noic.com.br
-DTSTAMP:20261019T163947Z
+DTSTAMP:20261106T165930Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:OI: Publicação dos gabaritos das provas da 2ª Edição
 DESCRIPTION:Departamento: Inglês\nEdição: 2ª Edição\nMarco: results\n
- Evidência: 07 novembro 2026 Publicação dos gabaritos das provas da 2ª
-  Edição.\nFonte oficial: https://oingles.com/
+ Evidência: Publicação dos gabaritos das provas da 2ª Edição.\nFonte
+  oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-79c486a7fea4133d@noic.com.br
+DTSTAMP:20261012T191427Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:OI: Publicação dos gabaritos das provas
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: results\n
+ Evidência: 07 novembro 2026 Publicação dos gabaritos das provas\nFonte
+  oficial: https://oingles.com/
 URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-069ca0d183aff1cb@noic.com.br
-DTSTAMP:20261003T175447Z
+DTSTAMP:20261112T205634Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20270116
 SUMMARY:OI: Período para aquisição de medalhas
-DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: other\nEv
- idência: 24 novembro 2026 - 15 janeiro 2027 Período para aquisição de
-  medalhas\nFonte oficial: https://oingles.com/
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
+ ion\nEvidência: 24 novembro 2026 - 15 janeiro 2027 Período para aquisiç
+ ão de medalhas\nFonte oficial: https://oingles.com/
 URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-27f6ac14f2f95231@noic.com.br
-DTSTAMP:20261029T163927Z
+DTSTAMP:20261112T205634Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:OI: Divulgação dos premiados com Ouro\, Prata\, Bronze e Menção

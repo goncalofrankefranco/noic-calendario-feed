@@ -7,13 +7,13 @@ X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OBG — Calendário Olímpico do NOIC
 BEGIN:VEVENT
 UID:noic-03dce639e5deba1e@noic.com.br
-DTSTAMP:20261007T164105Z
+DTSTAMP:20261028T161537Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260721
-SUMMARY:OBG: Inscrições
-DESCRIPTION:Departamento: Geografia\nEdição: 11\nMarco: registration\nEvi
- dência: Inscrições 09/04 a 20/07/2026\nFonte oficial: https://obgeograf
- ia.com.br/
+SUMMARY:OBG: Período de Inscrições
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: registration\nE
+ vidência: Inscrições 09/04 a 20/07/2026\nFonte oficial: https://obgeogr
+ afia.com.br/
 URL:https://obgeografia.com.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -26,30 +26,6 @@ SUMMARY:OBG: Início das Inscrições
 DESCRIPTION:Departamento: Geografia\nEdição: 11\nMarco: registration\nEvi
  dência: Inscrições 09/04 a 20/07/2026\nFonte oficial: https://obgeograf
  ia.com.br/
-URL:https://obgeografia.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-518092e99afcb59b@noic.com.br
-DTSTAMP:20261003T163054Z
-DTSTART;VALUE=DATE:20260409
-DTEND;VALUE=DATE:20260721
-SUMMARY:Olimpíada Brasileira de Geografia (OBG): Período de Inscrições
-DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: registration\nE
- vidência: Inscrições 09/04 a 20/07/2026\nFonte oficial: https://obgeogr
- afia.com.br/
-URL:https://obgeografia.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-c0f7f34275c778ba@noic.com.br
-DTSTAMP:20261003T161850Z
-DTSTART;VALUE=DATE:20260409
-DTEND;VALUE=DATE:20260410
-SUMMARY:Olimpíada Brasileira de Geografia (OBG): Início das Inscrições
-DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: registration\nE
- vidência: Inscrições 09/04 a 20/07/2026\nFonte oficial: https://obgeogr
- afia.com.br/
 URL:https://obgeografia.com.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -67,37 +43,37 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0057a2abe98e4f93@noic.com.br
-DTSTAMP:20261014T143722Z
+DTSTAMP:20261112T205406Z
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260807
 SUMMARY:OBG: Fase Online – Etapa 1
-DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: round\nEvidênc
- ia: Fase Online – Etapa 1 04 a 06/08/2026\nFonte oficial: https://obgeog
- rafia.com.br/
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: exam\nEvidênci
+ a: Fase Online – Etapa 1 04 a 06/08/2026\nFonte oficial: https://obgeogr
+ afia.com.br/
 URL:https://obgeografia.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0604c282b6211caf@noic.com.br
-DTSTAMP:20261028T161537Z
+DTSTAMP:20261112T205406Z
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260814
 SUMMARY:OBG: Fase Online – Etapa 2
-DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: round\nEvidênc
- ia: Fase Online – Etapa 2 11 a 13/08/2026\nFonte oficial: https://obgeog
- rafia.com.br/
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: exam\nEvidênci
+ a: Fase Online – Etapa 2 11 a 13/08/2026\nFonte oficial: https://obgeogr
+ afia.com.br/
 URL:https://obgeografia.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-14516306718c67ab@noic.com.br
-DTSTAMP:20261028T161537Z
+DTSTAMP:20261112T205406Z
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260820
 SUMMARY:OBG: Fase Online – Etapa 3
-DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: round\nEvidênc
- ia: Fase Online – Etapa 3 18 a 19/08/2026\nFonte oficial: https://obgeog
- rafia.com.br/
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: exam\nEvidênci
+ a: Fase Online – Etapa 3 18 a 19/08/2026\nFonte oficial: https://obgeogr
+ afia.com.br/
 URL:https://obgeografia.com.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -115,13 +91,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-164e752461c18a3a@noic.com.br
-DTSTAMP:20261107T154802Z
+DTSTAMP:20261112T205406Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:OBG: Divulgação dos Gabaritos
-DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: announcement\nE
- vidência: Divulgação dos Gabaritos 20/08/2026\nFonte oficial: https://o
- bgeografia.com.br/
+DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: results\nEvidê
+ ncia: Divulgação dos Gabaritos 20/08/2026\nFonte oficial: https://obgeog
+ rafia.com.br/
 URL:https://obgeografia.com.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -138,23 +114,11 @@ URL:https://obgeografia.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-2c03e49f2e899a9b@noic.com.br
-DTSTAMP:20261004T145355Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:OBG: Disponibilidade dos certificados
-DESCRIPTION:Departamento: Geografia\nEdição: 11\nMarco: announcement\nEvi
- dência: Certificados Os certificados estarão disponíveis até o dia 06/
- 10.\nFonte oficial: https://obgeografia.com.br/
-URL:https://obgeografia.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-7de54e7abe66fe0c@noic.com.br
 DTSTAMP:20261005T183759Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-SUMMARY:OBG: Certificados disponíveis
+SUMMARY:OBG: Disponibilidade dos Certificados
 DESCRIPTION:Departamento: Geografia\nEdição: 11ª\nMarco: results\nEvidê
  ncia: Os certificados estarão disponíveis até o dia 06/10.\nFonte ofici
  al: https://obgeografia.com.br/
@@ -163,7 +127,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-883d8f0eba984b21@noic.com.br
-DTSTAMP:20261014T143722Z
+DTSTAMP:20261107T154802Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261128
 SUMMARY:OBG: Fase Presencial Nacional

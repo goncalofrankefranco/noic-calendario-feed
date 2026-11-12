@@ -18,19 +18,6 @@ URL:https://olimpiada.ic.unicamp.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-8ad2988996d9ab2c@noic.com.br
-DTSTAMP:20261004T145426Z
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260623
-SUMMARY:TFC: Resultados Preliminares da Fase 1
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
- dência: Estão disponíveis os Resultados Preliminares da Fase 1. Postado
-  por Coordenação em 22/Jun/2026\nFonte oficial: https://olimpiada.ic.uni
- camp.br/
-URL:https://olimpiada.ic.unicamp.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-0c903736c531eb5a@noic.com.br
 DTSTAMP:20260930T161254Z
 DTSTART;VALUE=DATE:20261003
@@ -39,19 +26,6 @@ SUMMARY:TFC: Prova da Fase 3
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
  ncia: Prova da Fase 3 03/Outubro/2026\nFonte oficial: https://olimpiada.ic
  .unicamp.br/
-URL:https://olimpiada.ic.unicamp.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-1bb61960b4769b0a@noic.com.br
-DTSTAMP:20261003T142754Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:TFC: Último dia para envio das Folhas de Respostas da Fase 3
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
- idência: Último dia para envio das Folhas de Respostas da Fase 3 por par
- te dos Coordenadores 06/Outubro/2026\nFonte oficial: https://olimpiada.ic.
- unicamp.br/
 URL:https://olimpiada.ic.unicamp.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -120,23 +94,11 @@ URL:https://olimpiada.ic.unicamp.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-6e31d8afd90c2eb3@noic.com.br
-DTSTAMP:20261017T131036Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:TFC: Resultado Final da OBI2026 e Quadro de Medalhas
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
- dência: Resultado Final da OBI2026 e Quadro de Medalhas 22/Outubro/2026\n
- Fonte oficial: https://olimpiada.ic.unicamp.br/
-URL:https://olimpiada.ic.unicamp.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-8524e84ae466728a@noic.com.br
 DTSTAMP:20261023T142703Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-SUMMARY:TFC: Resultados Finais e Quadros de Medalhas da OBI2026
+SUMMARY:TFC: Resultado Final da OBI2026 e Quadro de Medalhas
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: results\nEvi
  dência: Resultados Finais e Quadros de Medalhas da OBI2026 Postado por Co
  ordenação em 22/Out/2026\nFonte oficial: https://olimpiada.ic.unicamp.br

@@ -7,7 +7,7 @@ X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:IYPT — Calendário Olímpico do NOIC
 BEGIN:VEVENT
 UID:noic-1ce32638d409c674@noic.com.br
-DTSTAMP:20261005T183724Z
+DTSTAMP:20261112T000808Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:IYPT: Lançamento do Regulamento
@@ -19,10 +19,10 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-9361897a018f59ef@noic.com.br
-DTSTAMP:20261110T171218Z
+DTSTAMP:20261112T205332Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:IYPT: Formulário de inscrições para a 1ª fase - disponível!
+SUMMARY:IYPT: Abertura do Formulário de inscrições para a 1ª fase
 DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: registration\nEvi
  dência: 09/11/2026 Formulário de inscrições para a 1ª fase - disponí
  vel!\nFonte oficial: https://www.iyptbrasil.com/
@@ -30,20 +30,8 @@ URL:https://www.iyptbrasil.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-30fab105cd211464@noic.com.br
-DTSTAMP:20261015T141650Z
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:IYPT: Encerramento das Inscrições
-DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: deadline\nEvidên
- cia: 18/12/2026 Encerramento das Inscrições\nFonte oficial: https://www.
- iyptbrasil.com/
-URL:https://www.iyptbrasil.com/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-abd629624d751931@noic.com.br
-DTSTAMP:20261112T000808Z
+DTSTAMP:20261112T205332Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:IYPT: Encerramento das Inscrições - 1ª fase

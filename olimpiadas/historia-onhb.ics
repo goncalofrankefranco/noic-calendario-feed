@@ -92,18 +92,6 @@ URL:https://www.olimpiadadehistoria.com.br/noticias/ler/410
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-8e057bed929e6787@noic.com.br
-DTSTAMP:20261017T131157Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260831
-SUMMARY:ONHB: Final da 18ª Olimpíada de História da Unicamp
-DESCRIPTION:Departamento: Historia\nEdição: 18ª\nMarco: final\nEvidênci
- a: último sábado e domingo de agosto (29 e 30/8) para a grande final do
-  projeto\nFonte oficial: https://www.olimpiadadehistoria.com.br/
-URL:https://www.olimpiadadehistoria.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-bf59eb66dd4a0a1f@noic.com.br
 DTSTAMP:20261021T145318Z
 DTSTART;VALUE=DATE:20260829

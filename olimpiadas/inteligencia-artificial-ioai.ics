@@ -30,30 +30,4 @@ DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 4th\nMarco: e
 URL:https://ioai-official.org/
 STATUS:CONFIRMED
 END:VEVENT
-BEGIN:VEVENT
-UID:noic-7e60b1c76d2319ca@noic.com.br
-DTSTAMP:20261002T160138Z
-DTSTART;VALUE=DATE:20270704
-DTEND;VALUE=DATE:20270711
-SUMMARY:IOAI: 4th International Olympiad in Artificial Intelligence
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 4th\nMarco: e
- xam\nEvidência: July 4th – 10th 2027 Singapore\, Republic of Singapore
-  4th International Olympiad in AI (IOAI)\nFonte oficial: https://ioai-offi
- cial.org/
-URL:https://ioai-official.org/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-80c77eeb86af763c@noic.com.br
-DTSTAMP:20261009T162321Z
-DTSTART;VALUE=DATE:20270704
-DTEND;VALUE=DATE:20270711
-SUMMARY:IOAI: 4th International Olympiad in AI
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 4th\nMarco: e
- xam\nEvidência: July 4th – 10th 2027 Singapore\, Republic of Singapore
-  4th International Olympiad in AI (IOAI)\nFonte oficial: https://ioai-offi
- cial.org/
-URL:https://ioai-official.org/
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR
