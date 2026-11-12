@@ -30,18 +30,6 @@ URL:https://estelareducacional.com.br/copa-sul-2026/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-b4f79711f4f29248@noic.com.br
-DTSTAMP:20261003T182254Z
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260608
-SUMMARY:COPAS: Copa Sul de Foguetes 2026
-DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
- a: 06 e 07 de junho de 2026.\nFonte oficial: https://estelareducacional.co
- m.br/copa-sul-2026/
-URL:https://estelareducacional.com.br/copa-sul-2026/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-e6d8f3dac68b9312@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260620

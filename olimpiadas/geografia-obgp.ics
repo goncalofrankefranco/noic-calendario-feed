@@ -30,21 +30,6 @@ URL:https://www.seletaeducacao.com.br/obgp
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-0ef7e876297c58e4@noic.com.br
-DTSTAMP:20261003T164201Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260701
-SUMMARY:Olimpíada Brasileira de Geopolítica (OBGP): 1º período de inscr
- ições individuais
-DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
- nEvidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFont
- e oficial: https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaig
- nid=22908675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
- 8675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-2e33bc5cd0c9628a@noic.com.br
 DTSTAMP:20261020T145233Z
 DTSTART;VALUE=DATE:20260601
@@ -57,26 +42,11 @@ URL:https://www.seletaeducacao.com.br/obgp
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-3bbc684ac5dc8bb3@noic.com.br
-DTSTAMP:20261001T163501Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260910
-SUMMARY:Olimpíada Brasileira de Geopolítica (OBGP): Inscrição de grupos
-  de alunos feita por Escolas
-DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
- nEvidência: Ocorre em período único: 01/06/2026 a 09/09/2026\nFonte ofi
- cial: https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2
- 2908675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
- 8675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-5d116d3c0ad61680@noic.com.br
-DTSTAMP:20261003T175546Z
+DTSTAMP:20261028T162831Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260701
-SUMMARY:OBGP: Inscrições - 1º período (individual)
+SUMMARY:OBGP: 1º período de inscrições individuais
 DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
  nEvidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFont
  e oficial: https://www.seletaeducacao.com.br/obgp
@@ -99,17 +69,16 @@ URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-766d87d302a18009@noic.com.br
-DTSTAMP:20261003T175242Z
+UID:noic-c1004f0f16652441@noic.com.br
+DTSTAMP:20261112T000849Z
 DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260910
-SUMMARY:OBGP: Inscrição de grupos de alunos feita por Escolas
+DTEND;VALUE=DATE:20260701
+SUMMARY:OBGP: Inscrições individuais feitas por alunos ou responsáveis:
+  1º período
 DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
- nEvidência: Ocorre em período único: 01/06/2026 a 09/09/2026\nFonte ofi
- cial: https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2
- 2908675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
- 8675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
+ nEvidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFont
+ e oficial: https://www.seletaeducacao.com.br/obgp
+URL:https://www.seletaeducacao.com.br/obgp
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -137,18 +106,16 @@ URL:https://www.seletaeducacao.com.br/obgp
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-463fb1883fc02e58@noic.com.br
-DTSTAMP:20261003T164201Z
+UID:noic-7d1164dc178ffdfe@noic.com.br
+DTSTAMP:20261112T000849Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260801
-SUMMARY:Olimpíada Brasileira de Geopolítica (OBGP): 2º período de inscr
- ições individuais
+SUMMARY:OBGP: Inscrições individuais feitas por alunos ou responsáveis:
+  2º período
 DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
  nEvidência: 2º período (R$ 35\,00/aluno): 01/07/2026 a 31/07/2026\nFont
- e oficial: https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaig
- nid=22908675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
- 8675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
+ e oficial: https://www.seletaeducacao.com.br/obgp
+URL:https://www.seletaeducacao.com.br/obgp
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -179,6 +146,19 @@ URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-baafe1ae6d5b8c07@noic.com.br
+DTSTAMP:20261112T000849Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260910
+SUMMARY:OBGP: Inscrições individuais feitas por alunos ou responsáveis:
+  3º período
+DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
+ nEvidência: 3º período (R$ 39\,00/aluno): 01/08/2026 a 09/09/2026\nFont
+ e oficial: https://www.seletaeducacao.com.br/obgp
+URL:https://www.seletaeducacao.com.br/obgp
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-cdf5d7c01b0599a2@noic.com.br
 DTSTAMP:20261028T162831Z
 DTSTART;VALUE=DATE:20260801
@@ -192,33 +172,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-017babfc99aae459@noic.com.br
-DTSTAMP:20261005T183805Z
+DTSTAMP:20260930T161450Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:OBGP: Término das Inscrições
 DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: deadline\nEvi
  dência: Término das Inscrições: 09/09/2026\nFonte oficial: https://www
- .seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=22908675336&gbraid
- =0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
- 8675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
+ .seletaeducacao.com.br/obgp
+URL:https://www.seletaeducacao.com.br/obgp
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-14452e8e743ee32c@noic.com.br
-DTSTAMP:20261110T171658Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:OBGP: Prova
-DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: exam\nEvidên
- cia: Prova: 16/09/2026\nFonte oficial: https://www.seletaeducacao.com.br/o
- bgp
-URL:https://www.seletaeducacao.com.br/obgp
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-4d28f69346019c89@noic.com.br
-DTSTAMP:20261009T162440Z
+DTSTAMP:20261112T000849Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:OBGP: Aplicação da Prova
@@ -226,34 +192,18 @@ DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: exam\nEvidên
  cia: Prova: 16/09/2026\nFonte oficial: https://www.seletaeducacao.com.br/o
  bgp
 URL:https://www.seletaeducacao.com.br/obgp
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-64226b496051768d@noic.com.br
-DTSTAMP:20261003T175242Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:OBGP: Aplicação da Prova
-DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: exam\nEvidên
- cia: Aplicação da Prova: 16/09/2026\nFonte oficial: https://www.seletaed
- ucacao.com.br/obgp?gad_source=1&gad_campaignid=22908675336&gbraid=0AAAABBA
- MTFpzNlbPupFH84hEUFD0Ja3dh
-URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
- 8675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0034214110035c00@noic.com.br
-DTSTAMP:20261005T183805Z
+DTSTAMP:20260930T161450Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260919
 SUMMARY:OBGP: Período de Recursos
 DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: other\nEvidê
  ncia: Período de Recursos: 17/09/2026 a 18/09/2026\nFonte oficial: https:
- //www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=22908675336&g
- braid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
- 8675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
+ //www.seletaeducacao.com.br/obgp
+URL:https://www.seletaeducacao.com.br/obgp
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -269,21 +219,6 @@ URL:https://www.seletaeducacao.com.br/obgp
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-23a90f751b1728f4@noic.com.br
-DTSTAMP:20260930T160347Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Olimpíada Brasileira de Geopolítica (OBGP): Divulgação dos Resu
- ltados e Certificados
-DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: results\nEvid
- ência: Divulgação dos Resultados e Certificados: 23/09/2026\nFonte ofic
- ial: https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=22
- 908675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
- 8675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-69285078d2e4eb15@noic.com.br
 DTSTAMP:20261009T162440Z
 DTSTART;VALUE=DATE:20260923
@@ -292,18 +227,6 @@ SUMMARY:OBGP: Resultados e Certificados
 DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: results\nEvid
  ência: Resultados: 23/09/2026\nFonte oficial: https://www.seletaeducacao.
  com.br/obgp
-URL:https://www.seletaeducacao.com.br/obgp
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-a51d74a1a1a416c9@noic.com.br
-DTSTAMP:20261003T175546Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:OBGP: Divulgação dos Resultados e Certificados
-DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: results\nEvid
- ência: Divulgação dos Resultados e Certificados: 23/09/2026\nFonte ofic
- ial: https://www.seletaeducacao.com.br/obgp
 URL:https://www.seletaeducacao.com.br/obgp
 STATUS:CONFIRMED
 END:VEVENT
@@ -317,33 +240,6 @@ DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: results\nEvid
  ência: Resultados: 23/09/2026\nFonte oficial: https://www.seletaeducacao.
  com.br/obgp
 URL:https://www.seletaeducacao.com.br/obgp
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-617210a32e14aa33@noic.com.br
-DTSTAMP:20261103T174328Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:OBGP: Início da Solicitação de Medalhas na Loja
-DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: announcement\
- nEvidência: Início da Solicitação de Medalhas na Loja: 24/09/2026\nFon
- te oficial: https://www.seletaeducacao.com.br/obgp
-URL:https://www.seletaeducacao.com.br/obgp
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-aacfb2274162269c@noic.com.br
-DTSTAMP:20260930T160347Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Olimpíada Brasileira de Geopolítica (OBGP): Início da Solicitaç
- ão de Medalhas na Loja
-DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: announcement\
- nEvidência: Início da Solicitação de Medalhas na Loja: 24/09/2026\nFon
- te oficial: https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campai
- gnid=22908675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
- 8675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -361,33 +257,6 @@ END:VEVENT
 BEGIN:VEVENT
 UID:noic-2fb8cd252bd40b3b@noic.com.br
 DTSTAMP:20261009T162440Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:OBGP: Prazo Final para Solicitação de Medalhas
-DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: deadline\nEvi
- dência: Prazo Final para Solicitação de Medalhas: 27/11/2026\nFonte ofi
- cial: https://www.seletaeducacao.com.br/obgp
-URL:https://www.seletaeducacao.com.br/obgp
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-359975a00a78ca45@noic.com.br
-DTSTAMP:20260930T160347Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:Olimpíada Brasileira de Geopolítica (OBGP): Prazo Final para Soli
- citação de Medalhas
-DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: deadline\nEvi
- dência: Prazo Final para Solicitação de Medalhas: 27/11/2026\nFonte ofi
- cial: https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2
- 2908675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-URL:https://www.seletaeducacao.com.br/obgp?gad_source=1&gad_campaignid=2290
- 8675336&gbraid=0AAAABBAMTFpzNlbPupFH84hEUFD0Ja3dh
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-f64dbc4f19a3f5a6@noic.com.br
-DTSTAMP:20261003T175546Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:OBGP: Prazo Final para Solicitação de Medalhas

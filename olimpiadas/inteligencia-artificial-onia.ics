@@ -6,18 +6,6 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:ONIA — Calendário Olímpico do NOIC
 BEGIN:VEVENT
-UID:noic-00c522345cc3ec83@noic.com.br
-DTSTAMP:20261003T175551Z
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-SUMMARY:ONIA: Início das Inscrições
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
- egistration\nEvidência: Início das Inscrições : dia 08 de agosto de 20
- 26\nFonte oficial: https://www.oniabrasil.com.br/
-URL:https://www.oniabrasil.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-2d4c2aa3cc176c67@noic.com.br
 DTSTAMP:20261007T164400Z
 DTSTART;VALUE=DATE:20260808
@@ -26,18 +14,6 @@ SUMMARY:ONIA: Início das Inscrições
 DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
  egistration\nEvidência: Início das Inscrições : dia 08 de agosto de 20
  26\nFonte oficial: https://www.oniabrasil.com.br/
-URL:https://www.oniabrasil.com.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-c0bbd804bc9c4956@noic.com.br
-DTSTAMP:20261001T163841Z
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-SUMMARY:ONIA: Início das Inscrições
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
- egistration\nEvidência: Início das Inscrições : dia 08 de agosto de 20
- 26\;\nFonte oficial: https://www.oniabrasil.com.br/
 URL:https://www.oniabrasil.com.br/
 STATUS:CONFIRMED
 END:VEVENT

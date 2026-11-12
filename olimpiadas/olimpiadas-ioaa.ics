@@ -18,47 +18,11 @@ URL:https://www.ioaastrophysics.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-1efdae2bef204a7c@noic.com.br
-DTSTAMP:20261003T175418Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20261006
-SUMMARY:Astronomia: 19th IOAA 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 19th\nMarco: final\nEvidên
- cia: 19th IOAA 2026 25.9. - 5.10. Hanoi\, Vietnam\nFonte oficial: https://
- www.ioaastrophysics.org/
-URL:https://www.ioaastrophysics.org/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-5373e6dbaf828444@noic.com.br
-DTSTAMP:20261012T191419Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20261006
-SUMMARY:Astronomia: 19th IOAA 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 19\nMarco: round\nEvidênci
- a: 19th IOAA 2026 25.9. - 5.10. Hanoi\, Vietnam\nFonte oficial: https://ww
- w.ioaastrophysics.org/
-URL:https://www.ioaastrophysics.org/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-2d558dd547149c02@noic.com.br
-DTSTAMP:20261012T191419Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261109
-SUMMARY:Astronomia: 5th IOAA JUNIOR 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 5\nMarco: round\nEvidência
- : 5th IOAA JUNIOR 2026 November 1-8\, 2026. Ubon Ratchathani\, Thailand\nF
- onte oficial: https://www.ioaastrophysics.org/
-URL:https://www.ioaastrophysics.org/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-32600bda14f0e0e9@noic.com.br
-DTSTAMP:20261111T172432Z
+DTSTAMP:20261112T001046Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261109
-SUMMARY:Astronomia: 5th IOAA Junior 2026
+SUMMARY:Astronomia: 5th IOAA Jr 2026
 DESCRIPTION:Departamento: Astronomia\nEdição: 5th\nMarco: final\nEvidênc
  ia: November 1-8\, 2026. Ubon Ratchathani\, Thailand\nFonte oficial: https
  ://www.ioaastrophysics.org/
@@ -67,25 +31,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-45524dfd15962c24@noic.com.br
-DTSTAMP:20261003T175418Z
+DTSTAMP:20261029T163845Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261109
 SUMMARY:Astronomia: 5th IOAA JUNIOR 2026
 DESCRIPTION:Departamento: Astronomia\nEdição: 5th\nMarco: final\nEvidênc
- ia: 5th IOAA JUNIOR 2026 November 1-8\, 2026. Ubon Ratchathani\, Thailand\
- nFonte oficial: https://www.ioaastrophysics.org/
-URL:https://www.ioaastrophysics.org/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-6555999e8b6e5ec7@noic.com.br
-DTSTAMP:20261018T132717Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261109
-SUMMARY:Astronomia: 5th IOAA JUNIOR 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 5\nMarco: other\nEvidência
- : 5th IOAA JUNIOR 2026 November 1-8\, 2026. Ubon Ratchathani\, Thailand\nF
- onte oficial: https://www.ioaastrophysics.org/
+ ia: November 1-8\, 2026\nFonte oficial: https://www.ioaastrophysics.org/
 URL:https://www.ioaastrophysics.org/
 STATUS:CONFIRMED
 END:VEVENT

@@ -42,11 +42,11 @@ URL:https://www.iyptbrasil.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-d081e0d16f82e4d9@noic.com.br
-DTSTAMP:20261005T183724Z
+UID:noic-abd629624d751931@noic.com.br
+DTSTAMP:20261112T000808Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:IYPT: Encerramento das Inscrições
+SUMMARY:IYPT: Encerramento das Inscrições - 1ª fase
 DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: deadline\nEvidên
  cia: 18/12/2026 Encerramento das Inscrições\nFonte oficial: https://www.
  iyptbrasil.com/

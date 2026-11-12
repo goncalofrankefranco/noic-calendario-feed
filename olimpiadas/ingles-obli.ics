@@ -43,37 +43,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-75cb3bd521ebec21@noic.com.br
-DTSTAMP:20261028T161930Z
+DTSTAMP:20261112T000926Z
 DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20260602
 SUMMARY:OBLI: Início das Inscrições
 DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
- vidência: • Inscrições: 01/06/2026 a 14/10/2026\nFonte oficial: https
- ://www.seletaeducacao.com.br/obli
-URL:https://www.seletaeducacao.com.br/obli
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-8b2167c0d2c23c18@noic.com.br
-DTSTAMP:20261002T155935Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260701
-SUMMARY:OBLI: 1º período de inscrições individuais
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
- vidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFonte
-  oficial: https://www.seletaeducacao.com.br/obli
-URL:https://www.seletaeducacao.com.br/obli
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-96f02955c6d97cda@noic.com.br
-DTSTAMP:20261002T155935Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20261015
-SUMMARY:OBLI: Inscrição de grupos de alunos feita por Escolas
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
- vidência: Ocorre em período único: 01/06/2026 a 14/10/2026\nFonte ofici
- al: https://www.seletaeducacao.com.br/obli
+ vidência: Inscrições: 01/06/2026 a 14/10/2026\nFonte oficial: https://w
+ ww.seletaeducacao.com.br/obli
 URL:https://www.seletaeducacao.com.br/obli
 STATUS:CONFIRMED
 END:VEVENT
@@ -126,18 +102,6 @@ URL:https://www.seletaeducacao.com.br/obli
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-c3a9197345de3d3e@noic.com.br
-DTSTAMP:20261002T155935Z
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260801
-SUMMARY:OBLI: 2º período de inscrições individuais
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
- vidência: 2º período (R$ 35\,00/aluno): 01/07/2026 a 31/07/2026\nFonte
-  oficial: https://www.seletaeducacao.com.br/obli
-URL:https://www.seletaeducacao.com.br/obli
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-039ff552c45c07c0@noic.com.br
 DTSTAMP:20261017T131048Z
 DTSTART;VALUE=DATE:20260801
@@ -155,18 +119,6 @@ DTSTAMP:20261023T142745Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20261015
 SUMMARY:OBLI: Inscrições individuais - 3º período
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
- vidência: 3º período (R$ 39\,00/aluno): 01/08/2026 a 14/10/2026\nFonte
-  oficial: https://www.seletaeducacao.com.br/obli
-URL:https://www.seletaeducacao.com.br/obli
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-c3ea647ba8a4faa4@noic.com.br
-DTSTAMP:20261002T155935Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20261015
-SUMMARY:OBLI: 3º período de inscrições individuais
 DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: registration\nE
  vidência: 3º período (R$ 39\,00/aluno): 01/08/2026 a 14/10/2026\nFonte
   oficial: https://www.seletaeducacao.com.br/obli
@@ -210,18 +162,6 @@ URL:https://www.seletaeducacao.com.br/obli
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-5171e8c04ec1e808@noic.com.br
-DTSTAMP:20261002T155935Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:OBLI: Aplicação da Prova
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: exam\nEvidênci
- a: Aplicação da Prova: 21/10/2026\nFonte oficial: https://www.seletaeduc
- acao.com.br/obli
-URL:https://www.seletaeducacao.com.br/obli
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-ff7f0b63804df51d@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART:20261021T100000Z
@@ -238,18 +178,6 @@ END:VEVENT
 BEGIN:VEVENT
 UID:noic-1e99fcd0b25ad591@noic.com.br
 DTSTAMP:20261011T155253Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261024
-SUMMARY:OBLI: Período de Recursos
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: other\nEvidênc
- ia: Período de Recursos: 22/10/2026 a 23/10/2026\nFonte oficial: https://
- www.seletaeducacao.com.br/obli
-URL:https://www.seletaeducacao.com.br/obli
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-3f99b7e399cc8d5f@noic.com.br
-DTSTAMP:20260930T161134Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261024
 SUMMARY:OBLI: Período de Recursos
@@ -296,32 +224,8 @@ URL:https://www.seletaeducacao.com.br/obli-regulamento
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-e136c4634595054b@noic.com.br
-DTSTAMP:20260930T161134Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:OBLI: Divulgação dos Resultados e Certificados
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: results\nEvidê
- ncia: Resultados: 28/10/2026\nFonte oficial: https://www.seletaeducacao.co
- m.br/obli
-URL:https://www.seletaeducacao.com.br/obli
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-21338c5e65beb878@noic.com.br
 DTSTAMP:20261011T155253Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:OBLI: Início da Solicitação de Medalhas na Loja
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: announcement\nE
- vidência: Início da Solicitação de Medalhas na Loja: 29/10/2026\nFonte
-  oficial: https://www.seletaeducacao.com.br/obli
-URL:https://www.seletaeducacao.com.br/obli
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-41f21e8c57b1cf4d@noic.com.br
-DTSTAMP:20260930T161134Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:OBLI: Início da Solicitação de Medalhas na Loja
@@ -347,18 +251,6 @@ END:VEVENT
 BEGIN:VEVENT
 UID:noic-3a7c31e26bba7589@noic.com.br
 DTSTAMP:20261011T155253Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:OBLI: Prazo Final para Solicitação de Medalhas
-DESCRIPTION:Departamento: Inglês\nEdição: 2026.2\nMarco: deadline\nEvid
- ência: Prazo Final para Solicitação de Medalhas: 27/11/2026\nFonte ofic
- ial: https://www.seletaeducacao.com.br/obli
-URL:https://www.seletaeducacao.com.br/obli
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-a5dd2d4a45954999@noic.com.br
-DTSTAMP:20260930T161134Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:OBLI: Prazo Final para Solicitação de Medalhas

@@ -47,19 +47,6 @@ URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-a9b49388415dc077@noic.com.br
-DTSTAMP:20260930T161402Z
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20261003
-SUMMARY:Olimpíada Brasileira de Matemática: Divulgação dos convocados e
-  seleção dos polos de aplicação
-DESCRIPTION:Departamento: Matemática\nEdição: 48\nMarco: selection\nEvid
- ência: Divulgação dos convocados e seleção dos polos de aplicação 7
-  de setembro a 2 de outubro\nFonte oficial: https://www.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-09f034ddaef7176e@noic.com.br
 DTSTAMP:20261003T164454Z
 DTSTART;VALUE=DATE:20261002
@@ -82,19 +69,6 @@ SUMMARY:Olimpíada Brasileira de Matemática: Prazo final para o preenchime
  ática (OBM)
 DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: deadline\nEvi
  dência: Prazo final para o preenchimento do formulário de confirmação.
-  2 de outubro\nFonte oficial: https://www.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-9dde372095fe25f1@noic.com.br
-DTSTAMP:20260930T161402Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Olimpíada Brasileira de Matemática: Prazo final para o preenchime
- nto do formulário de confirmação.
-DESCRIPTION:Departamento: Matemática\nEdição: 48\nMarco: deadline\nEvid
- ência: Prazo final para o preenchimento do formulário de confirmação.
   2 de outubro\nFonte oficial: https://www.obm.org.br/
 URL:https://www.obm.org.br/
 STATUS:CONFIRMED
@@ -161,20 +135,6 @@ DTSTART:20261008T170000Z
 DTEND:20261008T170000Z
 SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
   Matemática (OBM) - Primeiro dia - níveis 1\, 2\, 3 e universitário
-DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
- cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
-  e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
- w.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-da59aad3e449f1e8@noic.com.br
-DTSTAMP:20261003T164454Z
-DTSTART:20261008T170000Z
-DTEND:20261008T170000Z
-SUMMARY:Olimpíada Brasileira de Matemática: Primeiro dia - níveis 1\, 2\
- , 3 e universitário
 DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
  cia: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\, 3
   e universitário 14h00 (horário de Brasília)\nFonte oficial: https://ww
@@ -267,20 +227,6 @@ URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-c828eb7d6de58ad9@noic.com.br
-DTSTAMP:20261003T164454Z
-DTSTART:20261009T170000Z
-DTEND:20261009T170000Z
-SUMMARY:Olimpíada Brasileira de Matemática: Segundo dia - níveis 2\, 3 e
-  universitário
-DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: exam\nEvidên
- cia: 9 de outubro de 2026 (sexta-feira) Segundo dia - níveis 2\, 3 e univ
- ersitário 14h00 (horário de Brasília)\nFonte oficial: https://www.obm.o
- rg.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-06bcd51876a0ce77@noic.com.br
 DTSTAMP:20261011T155430Z
 DTSTART;VALUE=DATE:20261016
@@ -307,19 +253,6 @@ URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-58833a608b067a18@noic.com.br
-DTSTAMP:20261002T160056Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Olimpíada Brasileira de Matemática: 13ª Iranian Geometry Olympia
- d (IGO)
-DESCRIPTION:Departamento: Matemática\nEdição: 13\nMarco: exam\nEvidênci
- a: 13ª Iranian Geometry Olympiad (IGO) 16 de outubro\nFonte oficial: http
- s://www.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-14cfb930c89fc1fb@noic.com.br
 DTSTAMP:20261010T153358Z
 DTSTART;VALUE=DATE:20261018
@@ -342,19 +275,6 @@ SUMMARY:Olimpíada Brasileira de Matemática: Competição Internacional -
 DESCRIPTION:Departamento: Matemática\nEdição: 6\nMarco: exam\nEvidência
  : 6ª Pan-American Girls’ Mathematical Olympiad (PAGMO) 18 a 24 de outub
  ro de 2026\nFonte oficial: https://www.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-79146347db7653f8@noic.com.br
-DTSTAMP:20261001T163800Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261025
-SUMMARY:Olimpíada Brasileira de Matemática: 6ª Pan-American Girls’ Mat
- hematical Olympiad (PAGMO)
-DESCRIPTION:Departamento: Matemática\nEdição: 6ª\nMarco: exam\nEvidênc
- ia: 6ª Pan-American Girls’ Mathematical Olympiad (PAGMO) 18 a 24 de out
- ubro de 2026\nFonte oficial: https://www.obm.org.br/
 URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -435,20 +355,6 @@ URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-4c131406437136e8@noic.com.br
-DTSTAMP:20261026T163641Z
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261210
-SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
-  Matemática (OBM) Pedidos de revisão de nota
-DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: deadline\nEvi
- dência: Competição Nacional - 48ª Olimpíada Brasileira de Matemática
-  (OBM) Pedidos de revisão de nota 7 a 9 de dezembro\nFonte oficial: https
- ://www.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-0a5a0c809cc0dab9@noic.com.br
 DTSTAMP:20261029T164117Z
 DTSTART;VALUE=DATE:20261214
@@ -457,20 +363,6 @@ SUMMARY:Olimpíada Brasileira de Matemática: Divulgação dos premiados -
   48ª Olimpíada Brasileira de Matemática (OBM)
 DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: results\nEvid
  ência: Divulgação dos premiados\nFonte oficial: https://www.obm.org.br/
-URL:https://www.obm.org.br/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-10c7cef7f0aa3ebd@noic.com.br
-DTSTAMP:20261104T174031Z
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261215
-SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
-  Matemática (OBM) - Divulgação dos premiados
-DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: results\nEvid
- ência: dez 14 Competição Nacional - 48ª Olimpíada Brasileira de Matem
- ática (OBM) Divulgação dos premiados\nFonte oficial: https://www.obm.or
- g.br/
 URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT

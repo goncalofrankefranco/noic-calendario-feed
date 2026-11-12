@@ -18,18 +18,6 @@ URL:https://www.geoolympiad.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-e4d93c7698f35698@noic.com.br
-DTSTAMP:20260930T161453Z
-DTSTART;VALUE=DATE:20270802
-DTEND;VALUE=DATE:20270810
-SUMMARY:iGeo: 2027 International Geography Olympiad
-DESCRIPTION:Departamento: Geografia\nEdição: 2027\nMarco: exam\nEvidênci
- a: 2027 2-9 August\, Jelgava\, Latvia\nFonte oficial: https://www.geoolymp
- iad.org/
-URL:https://www.geoolympiad.org/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-296e34ec190aa060@noic.com.br
 DTSTAMP:20261108T160803Z
 DTSTART;VALUE=DATE:20280703
