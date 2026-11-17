@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Olimpíada Internacional de Biologia (IBO) — Calendário Ol
+ ímpico do NOIC
+BEGIN:VEVENT
+UID:noic-a348aec5790838a7@noic.com.br
+DTSTAMP:20261116T201128Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:Olimpíada Internacional de Biologia (IBO): Intent to Participate
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: registration\nEv
+ idência: Intent to Participate 16 February 2026\nFonte oficial: https://w
+ ww.ibo2026.lt/lt/dates/
+URL:https://www.ibo2026.lt/lt/dates/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1c79cf67689fbd2a@noic.com.br
+DTSTAMP:20261114T161940Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:Olimpíada Internacional de Biologia (IBO): Team Pre-Registration
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: registration\nEv
+ idência: Team Pre-Registration 31 March 2026\nFonte oficial: https://www.
+ ibo2026.lt/lt/dates/
+URL:https://www.ibo2026.lt/lt/dates/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2027936c5c822288@noic.com.br
+DTSTAMP:20261114T161940Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Olimpíada Internacional de Biologia (IBO): Fee Payment
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: Fee Payment 30 April 2026\nFonte oficial: https://www.ibo2026.lt/lt/
+ dates/
+URL:https://www.ibo2026.lt/lt/dates/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5e9221a6fad900de@noic.com.br
+DTSTAMP:20261114T161940Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Olimpíada Internacional de Biologia (IBO): Full Team Registration
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: registration\nEv
+ idência: Full Team Registration 15 May 2026\nFonte oficial: https://www.i
+ bo2026.lt/lt/dates/
+URL:https://www.ibo2026.lt/lt/dates/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-83599978dbf931c3@noic.com.br
+DTSTAMP:20261114T161940Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Olimpíada Internacional de Biologia (IBO): Travel Information Subm
+ ission
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: submission\nEvid
+ ência: Travel Information Submission 15 June 2026\nFonte oficial: https:/
+ /www.ibo2026.lt/lt/dates/
+URL:https://www.ibo2026.lt/lt/dates/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-00f6d35b2da742b5@noic.com.br
+DTSTAMP:20261116T201129Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Olimpíada Internacional de Biologia (IBO): Opening Ceremony of the
+  IBO 2026
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: other\nEvidênci
+ a: 2026-07-12 Opening Ceremony of the IBO 2026\nFonte oficial: https://www
+ .ibo2026.lt/lt/ibo2026-news/36/
+URL:https://www.ibo2026.lt/lt/ibo2026-news/36/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-070479877859a5ac@noic.com.br
+DTSTAMP:20261116T201126Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260720
+SUMMARY:Olimpíada Internacional de Biologia (IBO): 37th International Biol
+ ogy Olympiad 2026
+DESCRIPTION:Departamento: Biologia\nEdição: 37th\nMarco: exam\nEvidência
+ : 37 th International Biology Olympiad 2026 July 12–19\, 2026 Vilnius\,
+  Lithuania\nFonte oficial: https://www.ibo2026.lt/
+URL:https://www.ibo2026.lt/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d9ca9f59522d3d40@noic.com.br
+DTSTAMP:20261116T195720Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260720
+SUMMARY:Olimpíada Internacional de Biologia (IBO): 37º IBO
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: final\nEvidênci
+ a: 37º IBO\, que ocorrerá entre os dias 12 e 19 de julho de 2026 na Litu
+ ânia.\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/fases-
+ e-inscricoes
+URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-bf290f9f372095b2@noic.com.br
+DTSTAMP:20261116T201129Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:Olimpíada Internacional de Biologia (IBO): Results of IBO 2026
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: results\nEvidên
+ cia: 2026-07-20 Results of IBO 2026\nFonte oficial: https://www.ibo2026.lt
+ /lt/ibo2026-news/36/
+URL:https://www.ibo2026.lt/lt/ibo2026-news/36/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

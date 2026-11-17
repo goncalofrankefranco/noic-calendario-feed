@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Astronomia — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-cb8ba236b6c62120@noic.com.br
+DTSTAMP:20261116T200553Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Olimpíada Latino-Americana de Astronomia e Astronáutica (OLAA): B
+ ienvenida a delegaciones y acreditaciones
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: other\nEvidên
+ cia: 01 Nov Asunción Assunção Asunción Bienvenida a delegaciones y acr
+ editaciones.\nFonte oficial: https://olaapy.lat/programa.html
+URL:https://olaapy.lat/programa.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f1d8e76efa04f4b7@noic.com.br
+DTSTAMP:20261114T161137Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261110
+SUMMARY:Astronomia: XVIII Olimpiada Latinoamericana de Astronomía y Astron
+ áutica
+DESCRIPTION:Departamento: Astronomia\nEdição: XVIII\nMarco: exam\nEvidên
+ cia: Paraguay será sede de la XVIII OLAA\, recibiendo a las delegaciones
+  de toda América Latina del 1 al 9 de noviembre de 2026.\nFonte oficial:
+  https://olaapy.lat/
+URL:https://olaapy.lat/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f9cd65f508c27a16@noic.com.br
+DTSTAMP:20261116T200547Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261110
+SUMMARY:Olimpíada Latino-Americana de Astronomia e Astronáutica (OLAA): X
+ VIII OLAA 2026
+DESCRIPTION:Departamento: Astronomia\nEdição: XVIII\nMarco: exam\nEvidên
+ cia: Paraguay será sede de la XVIII OLAA\, recibiendo a las delegaciones
+  de toda América Latina del 1 al 9 de noviembre de 2026.\nFonte oficial:
+  https://olaapy.lat/
+URL:https://olaapy.lat/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-955aabbdcb8f6615@noic.com.br
+DTSTAMP:20261116T200553Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Olimpíada Latino-Americana de Astronomia e Astronáutica (OLAA): C
+ eremonia de inauguración y prueba de planetario
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: other\nEvidên
+ cia: 02 Nov Asunción Assunção Asunción Ceremonia de inauguración y pr
+ ueba de planetario.\nFonte oficial: https://olaapy.lat/programa.html
+URL:https://olaapy.lat/programa.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-24df85efb2375960@noic.com.br
+DTSTAMP:20261116T200553Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Olimpíada Latino-Americana de Astronomia e Astronáutica (OLAA): 1
+ ° Taller de cohetería y prueba teórica individual
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: exam\nEvidênc
+ ia: 03 Nov Atyrá 1° Taller de cohetería y prueba teórica individual.\n
+ Fonte oficial: https://olaapy.lat/programa.html
+URL:https://olaapy.lat/programa.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-474985cf3d83cf30@noic.com.br
+DTSTAMP:20261116T200553Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Olimpíada Latino-Americana de Astronomia e Astronáutica (OLAA): 2
+ ° Taller de cohetería y prueba teórica grupal
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: exam\nEvidênc
+ ia: 04 Nov Atyrá 2° Taller de cohetería y prueba teórica grupal.\nFont
+ e oficial: https://olaapy.lat/programa.html
+URL:https://olaapy.lat/programa.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-884220db05435f65@noic.com.br
+DTSTAMP:20261116T200553Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Olimpíada Latino-Americana de Astronomia e Astronáutica (OLAA): L
+ anzamiento de cohetes y prueba observacional
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: exam\nEvidênc
+ ia: 05 Nov Atyrá Lanzamiento de cohetes y prueba observacional.\nFonte of
+ icial: https://olaapy.lat/programa.html
+URL:https://olaapy.lat/programa.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e4c13b054865493e@noic.com.br
+DTSTAMP:20261116T200553Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Olimpíada Latino-Americana de Astronomia e Astronáutica (OLAA): R
+ ecorrido por Itaipú Binacional\, Cataratas del Monday e Hito 3 Fronteras
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: other\nEvidên
+ cia: 06 Nov Alto Paraná Alto Paraná Alto Paraná Recorrido por Itaipú B
+ inacional\, Cataratas del Monday e Hito 3 Fronteras.\nFonte oficial: https
+ ://olaapy.lat/programa.html
+URL:https://olaapy.lat/programa.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ec34647904d6877e@noic.com.br
+DTSTAMP:20261116T200553Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Olimpíada Latino-Americana de Astronomia e Astronáutica (OLAA): A
+ ctividades científicas\, de integración y fiesta latinoamericana
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: other\nEvidên
+ cia: 07 Nov Atyrá Actividades científicas\, de integración y fiesta lat
+ inoamericana.\nFonte oficial: https://olaapy.lat/programa.html
+URL:https://olaapy.lat/programa.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-30c434ec583d2961@noic.com.br
+DTSTAMP:20261116T200553Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Olimpíada Latino-Americana de Astronomia e Astronáutica (OLAA): C
+ eremonia de premiación y clausura
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: results\nEvid
+ ência: 08 Nov Asunción Assunção Asunción Ceremonia de premiación y c
+ lausura.\nFonte oficial: https://olaapy.lat/programa.html
+URL:https://olaapy.lat/programa.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ac9f6a3abbc96bf3@noic.com.br
+DTSTAMP:20261116T200553Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Olimpíada Latino-Americana de Astronomia e Astronáutica (OLAA): D
+ espedida de las delegaciones
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: other\nEvidên
+ cia: 09 Nov Asunción Assunção Asunción Despedida de las delegaciones.\
+ nFonte oficial: https://olaapy.lat/programa.html
+URL:https://olaapy.lat/programa.html
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

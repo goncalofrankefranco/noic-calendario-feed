@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Olimpíada Iraniana de Geometria — Calendário Olímpico do
+  NOIC
+BEGIN:VEVENT
+UID:noic-66ad40aaabee4091@noic.com.br
+DTSTAMP:20261116T201332Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Olimpíada Iraniana de Geometria: OLIMPIADA IRANÍ DE GEOMETRIA
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: other\nEvidê
+ ncia: {"aclaracion": ""\, "inicio_dia": 16\, "inicio_mes": 10\, "tachado":
+  false\, "texto": "OLIMPIADA IRANÍ DE GEOMETRIA"\, "tipo": "internacional
+ "}\nFonte oficial: https://www.oma.org.ar/contents/calendar/2026.json
+URL:https://www.oma.org.ar/contents/calendar/2026.json
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e7f2f7e6c0ac8dae@noic.com.br
+DTSTAMP:20261117T002701Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Olimpíada Iraniana de Geometria: 13ª Iranian Geometry Olympiad
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: 13ª Iranian Geometry Olympiad (IGO) 16 de outubro\nFonte oficial: ht
+ tps://www.obm.org.br/informacoes-gerais/calendario
+URL:https://www.obm.org.br/informacoes-gerais/calendario
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

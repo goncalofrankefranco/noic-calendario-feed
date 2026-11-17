@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:FIRST Tech Challenge (FTC) — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-9f269f644fc3c304@noic.com.br
+DTSTAMP:20261117T001356Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261025
+SUMMARY:FIRST Tech Challenge (FTC): Festival Regional SESI de Robótica - P
+ ernambuco
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: BRREQ Festival Regional SESI de Robótica - Pernambuco Recife\, PE\, B
+ razil 10/23/26 - 10/24/26\nFonte oficial: https://ftc-events.firstinspires
+ .org/2026/region/BR
+URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1dd12562a3c95b24@noic.com.br
+DTSTAMP:20261117T001356Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261112
+SUMMARY:FIRST Tech Challenge (FTC): Festival Regional SESI de Robótica - R
+ io Grande do Sul
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: BRPAQ Festival Regional SESI de Robótica - Rio Grande do Sul Porto Al
+ egre\, RS\, Brazil 11/10/26 - 11/11/26\nFonte oficial: https://ftc-events.
+ firstinspires.org/2026/region/BR
+URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-737465d80a1e70fa@noic.com.br
+DTSTAMP:20261117T001356Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261114
+SUMMARY:FIRST Tech Challenge (FTC): Seletiva Regional FIRST Tech Challenge
+  - Goiás
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: BRGOQ Seletiva Regional FIRST Tech Challenge - Goiás Goiânia\, GO\,
+  Brazil 11/12/26 - 11/13/26\nFonte oficial: https://ftc-events.firstinspir
+ es.org/2026/region/BR
+URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9fa5c87d0b53d1d3@noic.com.br
+DTSTAMP:20261117T001356Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261114
+SUMMARY:FIRST Tech Challenge (FTC): Torneio Regional SESI de Robótica - FT
+ C Paraná
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: BRPIQ Torneio Regional SESI de Robótica - FTC Paraná Pinhais\, PR\,
+  Brazil 11/12/26 - 11/13/26\nFonte oficial: https://ftc-events.firstinspir
+ es.org/2026/region/BR
+URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3ba5bab99810c212@noic.com.br
+DTSTAMP:20261117T001356Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261121
+SUMMARY:FIRST Tech Challenge (FTC): Seletiva Regional FIRST Tech Challenge
+  - SESI Mato Grosso do Sul
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: BRCGQ Seletiva Regional FIRST Tech Challenge - SESI Mato Grosso do Sul
+  Campo Grande\, MS\, Brazil 11/19/26 - 11/20/26\nFonte oficial: https://ft
+ c-events.firstinspires.org/2026/region/BR
+URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3dc599b3016ebb81@noic.com.br
+DTSTAMP:20261117T001356Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+SUMMARY:FIRST Tech Challenge (FTC): Festival SESI de Robótica - Regional M
+ inas Gerais
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: BRBHQ Festival SESI de Robótica - Regional Minas Gerais Belo Horizont
+ e\, MG\, Brazil 11/27/26 - 11/28/26\nFonte oficial: https://ftc-events.fir
+ stinspires.org/2026/region/BR
+URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d486f6b145516488@noic.com.br
+DTSTAMP:20261117T001356Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:FIRST Tech Challenge (FTC): Festival SESI de Educação Ceará
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: BRFOQ Festival SESI de Educação Ceará Fortaleza\, CE\, Brazil 11/27
+ /26 - 11/29/26\nFonte oficial: https://ftc-events.firstinspires.org/2026/r
+ egion/BR
+URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-75010f83d39c1d81@noic.com.br
+DTSTAMP:20261117T001356Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261205
+SUMMARY:FIRST Tech Challenge (FTC): Seletiva Regional FIRST Tech Challenge
+  - Rio de Janeiro
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: BRRJQ Seletiva Regional FIRST Tech Challenge - Rio de Janeiro Rio de J
+ aneiro\, RJ\, Brazil 12/3/26 - 12/4/26\nFonte oficial: https://ftc-events.
+ firstinspires.org/2026/region/BR
+URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-24c727fda79279fd@noic.com.br
+DTSTAMP:20261117T001356Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261209
+SUMMARY:FIRST Tech Challenge (FTC): Seletiva Regional FIRST Tech Challenge
+  - Santa Catarina
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: BRSSQ Seletiva Regional FIRST Tech Challenge - Santa Catarina São Ben
+ to do Sul\, SC\, Brazil 12/7/26 - 12/8/26\nFonte oficial: https://ftc-even
+ ts.firstinspires.org/2026/region/BR
+URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5d879bd5dc4458c4@noic.com.br
+DTSTAMP:20261117T001356Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261213
+SUMMARY:FIRST Tech Challenge (FTC): Seletiva Regional FIRST Tech Challenge
+  - Bahia
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: BRSAQ Seletiva Regional FIRST Tech Challenge - Bahia Salvador\, BA\, B
+ razil 12/10/26 - 12/12/26\nFonte oficial: https://ftc-events.firstinspires
+ .org/2026/region/BR
+URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7d225ef625ccd638@noic.com.br
+DTSTAMP:20261117T001356Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261217
+SUMMARY:FIRST Tech Challenge (FTC): Seletiva Regional FIRST Tech Challenge
+  - São Paulo
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: BRJUQ Seletiva Regional FIRST Tech Challenge - São Paulo Jundiaí\, S
+ P\, Brazil 12/15/26 - 12/16/26\nFonte oficial: https://ftc-events.firstins
+ pires.org/2026/region/BR
+URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0533bed817738693@noic.com.br
+DTSTAMP:20261117T001356Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270129
+SUMMARY:FIRST Tech Challenge (FTC): Seletiva Regional FIRST Tech Challenge
+  - Pará
+DESCRIPTION:Departamento: Robótica\nEdição: 2027\nMarco: round\nEvidênc
+ ia: BRANQ Seletiva Regional FIRST Tech Challenge - Pará Ananindeua\, PA\,
+  Brazil 1/27/27 - 1/28/27\nFonte oficial: https://ftc-events.firstinspires
+ .org/2026/region/BR
+URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-51033f063e2922bc@noic.com.br
+DTSTAMP:20261116T200115Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+SUMMARY:FIRST Tech Challenge (FTC): TORNEIO SESI DE ROBÓTICA- REGIONAL MAR
+ ANHÃO- FIRST Tech Challenge
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: BRSLQ TORNEIO SESI DE ROBÓTICA- REGIONAL MARANHÃO- FIRST Tech Challe
+ nge São Luís\, MA\, Brazil 1/30/27 - 1/31/27\nFonte oficial: https://ftc
+ -events.firstinspires.org/2026/region/BR
+URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4b066c7f777b45e7@noic.com.br
+DTSTAMP:20261117T001356Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+SUMMARY:FIRST Tech Challenge (FTC): Brazil Championship
+DESCRIPTION:Departamento: Robótica\nEdição: 2027\nMarco: final\nEvidênc
+ ia: BRCMP Brazil Championship Salvador\, BA\, Brazil 3/18/27 - 3/21/27\nFo
+ nte oficial: https://ftc-events.firstinspires.org/2026/region/BR
+URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b2badf606e2c6e75@noic.com.br
+DTSTAMP:20261116T195507Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+SUMMARY:FIRST Tech Challenge (FTC): 9° Festival SESI de Robótica - FTC
+DESCRIPTION:Departamento: Robótica\nEdição: 9\nMarco: final\nEvidência:
+  O evento nacional acontecerá em Salvador\, entre os dias 18 e 21 de mar
+ ço de 2027.\nFonte oficial: https://noticias.portaldaindustria.com.br/not
+ icias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-
+ sesi-de-robotica/
+URL:https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-c
+ alendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

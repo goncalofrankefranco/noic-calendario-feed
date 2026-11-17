@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Olimpíada de Maio — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-596979bd3a639803@noic.com.br
+DTSTAMP:20261116T200712Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Olimpíada de Maio: Inscrição 32ª Olimpíada de Mayo
+DESCRIPTION:Departamento: Matemática\nEdição: 32ª\nMarco: registration\
+ nEvidência: Inscripción (solo habilitados) Cierre 30 de abril\nFonte ofi
+ cial: https://oma.org.ar/contents/paginas/contents/olimpiada_mayo.html
+URL:https://oma.org.ar/contents/paginas/contents/olimpiada_mayo.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-da95278bc2394879@noic.com.br
+DTSTAMP:20261115T164558Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Olimpíada de Maio: Cierre de Inscripción 32ª Olimpíada de Mayo
+DESCRIPTION:Departamento: Matemática\nEdição: 32\nMarco: deadline\nEvid
+ ência: Cierre 30 de abril\nFonte oficial: https://oma.org.ar/contents/pag
+ inas/contents/olimpiada_mayo.html
+URL:https://oma.org.ar/contents/paginas/contents/olimpiada_mayo.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0d9293b43c74fada@noic.com.br
+DTSTAMP:20261116T201332Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Olimpíada de Maio: 32ª Olimpíada de Mayo
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: other\nEvidê
+ ncia: {"aclaracion": "es sábado"\, "inicio_dia": 9\, "inicio_mes": 5\, "t
+ achado": false\, "texto": "32ª Olimpíada Matemática de Mayo"\, "tipo":
+  "otros"}\nFonte oficial: https://www.oma.org.ar/contents/calendar/2026.js
+ on
+URL:https://www.oma.org.ar/contents/calendar/2026.json
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4483d54121b7c3cd@noic.com.br
+DTSTAMP:20261114T161423Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Olimpíada de Maio: Olimpíada de maio
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: 9 de maio de 2026\nFonte oficial: https://www.obm.org.br/informacoes-
+ gerais/calendario/
+URL:https://www.obm.org.br/informacoes-gerais/calendario/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

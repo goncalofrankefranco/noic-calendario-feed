@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:RoboCup Jr. — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-4a55c22e3e88642f@noic.com.br
+DTSTAMP:20261116T200248Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260707
+SUMMARY:RoboCup Jr.: RCJ 2026
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: final\nEvidênc
+ ia: RCJ 2026 will be held in Incheon\, South Korea from June 30 to July 6t
+ h. 2026\nFonte oficial: https://junior.robocup.org/history/
+URL:https://junior.robocup.org/history/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d9323927a4a649b7@noic.com.br
+DTSTAMP:20261114T161742Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260707
+SUMMARY:RoboCup Jr.: RCJ 2026 Incheon
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: RCJ 2026 will be held in Incheon\, South Korea from June 30 to July 6t
+ h. 2026.\nFonte oficial: https://junior.robocup.org/history/
+URL:https://junior.robocup.org/history/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8cd218f19872e118@noic.com.br
+DTSTAMP:20261116T201428Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+SUMMARY:RoboCup Jr.: RoboCup Junior Australia 2026 Open National Championsh
+ ips
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: final\nEvidênc
+ ia: From 02 Oct 2026 To 04 Oct 2026 RoboCup Junior Australia 2026 Open Nat
+ ional Championships\nFonte oficial: https://www.robocup.org/events/80
+URL:https://www.robocup.org/events/80
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7b2fd6fabc12875e@noic.com.br
+DTSTAMP:20261114T161742Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270622
+SUMMARY:RoboCup Jr.: RCJ 2027 Nuremberg
+DESCRIPTION:Departamento: Robótica\nEdição: 2027\nMarco: round\nEvidênc
+ ia: RCJ 2027 will be held in Nuremberg\, Germany from June 15 to 21 2027.\
+ nFonte oficial: https://junior.robocup.org/history/
+URL:https://junior.robocup.org/history/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-da84515e41f6bf05@noic.com.br
+DTSTAMP:20261116T200248Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270622
+SUMMARY:RoboCup Jr.: RCJ 2027
+DESCRIPTION:Departamento: Robótica\nEdição: 2027\nMarco: final\nEvidênc
+ ia: RCJ 2027 will be held in Nuremberg\, Germany from June 15 to 21 2027\n
+ Fonte oficial: https://junior.robocup.org/history/
+URL:https://junior.robocup.org/history/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

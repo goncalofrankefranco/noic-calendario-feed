@@ -6,6 +6,30 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OBOF — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-07f3f56a00018919@noic.com.br
+DTSTAMP:20261113T183040Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260824
+SUMMARY:OBOF: 1ª fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  A prova será realizada de 17/08 até 23/08.\nFonte oficial: https://noic
+ .com.br/wp-content/uploads/2026/08/regulamebto_obof.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/08/regulamebto_obof.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-43711f210016d846@noic.com.br
+DTSTAMP:20261117T002019Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260824
+SUMMARY:OBOF: 1ª fase da Olimpíada Brasileira Online de Física 2026
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: round\nEvidência
+ : A prova será realizada de 17/08 até 23/08.\nFonte oficial: https://noi
+ c.com.br/wp-content/uploads/2026/08/regulamebto_obof.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/08/regulamebto_obof.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-c30702c94edde464@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260817
@@ -18,6 +42,18 @@ URL:https://www.instagram.com/p/DcJ9DxMAbge/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-bb04a5be4d6afe39@noic.com.br
+DTSTAMP:20261117T002019Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260928
+SUMMARY:OBOF: 2ª fase da Olimpíada Brasileira Online de Física 2026
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: round\nEvidência
+ : A prova será realizada de 21/09 até 27/09.\nFonte oficial: https://noi
+ c.com.br/wp-content/uploads/2026/08/regulamebto_obof.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/08/regulamebto_obof.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-cab76b5f2bd7734c@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260921
@@ -27,6 +63,18 @@ DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: round\nEvidência
  : Lote 1 da 2ª fase: 21/09–27/09\; OBOF\, OBOI\, OBOB e OBOL.\nFonte of
  icial: https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
 URL:https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f057900acf002d16@noic.com.br
+DTSTAMP:20261113T183040Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260928
+SUMMARY:OBOF: 2ª fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  A prova será realizada de 21/09 até 27/09.\nFonte oficial: https://noic
+ .com.br/wp-content/uploads/2026/08/regulamebto_obof.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/08/regulamebto_obof.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

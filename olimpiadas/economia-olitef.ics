@@ -6,27 +6,78 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OLITEF — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-2880f193d5bc17c3@noic.com.br
+DTSTAMP:20261117T002408Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20260902
+SUMMARY:OLITEF: Período de Participação
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: registration\nEv
+ idência: 5 - PERÍODO DE PARTICIPAÇÃO: 01/12/2025 a 01/09/2026\nFonte o
+ ficial: https://upmat-gestao.s3.us-west-2.amazonaws.com/Olitef/2026/(Regul
+ amento)+Promo%C3%A7%C3%A3o+OLITEF+2026+-+PREMIA%C3%87%C3%83O+ESCOLAS.pdf
+URL:https://upmat-gestao.s3.us-west-2.amazonaws.com/Olitef/2026/(Regulament
+ o)+Promo%C3%A7%C3%A3o+OLITEF+2026+-+PREMIA%C3%87%C3%83O+ESCOLAS.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-78d8b03766ce0402@noic.com.br
+DTSTAMP:20261117T002408Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20261030
+SUMMARY:OLITEF: Jornada de Formação do Professor
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: registration\nEv
+ idência: que estará disponível do dia 30.03.2026 até 29.10.2026\nFonte
+  oficial: https://upmat-gestao.s3.us-west-2.amazonaws.com/Olitef/2026/(Reg
+ ulamento)+Promo%C3%A7%C3%A3o+OLITEF+2026+-+PREMIA%C3%87%C3%83O+ESCOLAS.pdf
+URL:https://upmat-gestao.s3.us-west-2.amazonaws.com/Olitef/2026/(Regulament
+ o)+Promo%C3%A7%C3%A3o+OLITEF+2026+-+PREMIA%C3%87%C3%83O+ESCOLAS.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-837935851d1c7a80@noic.com.br
+DTSTAMP:20261117T002212Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:OLITEF: Fim das Inscrições
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: registration\nEv
+ idência: Fim das Inscrições 01/09/2026\nFonte oficial: https://olitef.c
+ om.br/
+URL:https://olitef.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-8d6694c581b6b964@noic.com.br
-DTSTAMP:20261003T182254Z
+DTSTAMP:20261117T002212Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-SUMMARY:OLITEF: OLITEF 2026 — realização da prova
+SUMMARY:OLITEF: Realização da Prova
 DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: exam\nEvidência
- : Realização da Prova: 08/09/2026.\nFonte oficial: https://www.olitef.co
- m.br/
-URL:https://www.olitef.com.br/
+ : Realização da Prova 08/09/2026\nFonte oficial: https://olitef.com.br/
+URL:https://olitef.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-d5828cc2e71c86eb@noic.com.br
-DTSTAMP:20261003T182254Z
+DTSTAMP:20261117T002212Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260913
-SUMMARY:OLITEF: OLITEF 2026 — datas alternativas da prova
+SUMMARY:OLITEF: Datas alternativas da Prova
 DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: exam\nEvidência
- : Datas alternativas: 09 a 12/09/2026.\nFonte oficial: https://www.olitef.
- com.br/
-URL:https://www.olitef.com.br/
+ : Datas alternativas: 09 a 12/09/2026\nFonte oficial: https://olitef.com.b
+ r/
+URL:https://olitef.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5124a31626f0eae5@noic.com.br
+DTSTAMP:20261117T002212Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:OLITEF: Envio das Respostas
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: submission\nEvid
+ ência: Envio das Respostas Até o dia 30/09/2026\nFonte oficial: https://
+ olitef.com.br/
+URL:https://olitef.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -42,15 +93,44 @@ URL:https://www.olitef.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-998aa02993fbdc59@noic.com.br
-DTSTAMP:20261003T182254Z
+UID:noic-14ec43969ed88de4@noic.com.br
+DTSTAMP:20261117T002212Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:OLITEF: OLITEF 2026 — divulgação dos resultados
+SUMMARY:OLITEF: Resultados da Olimpíada
 DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: results\nEvidên
- cia: Resultados da Olimpíada: 30/10/2026.\nFonte oficial: https://www.oli
- tef.com.br/
-URL:https://www.olitef.com.br/
+ cia: Resultados da Olimpíada 30/10/2026\nFonte oficial: https://olitef.co
+ m.br/
+URL:https://olitef.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-998aa02993fbdc59@noic.com.br
+DTSTAMP:20261117T002408Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:OLITEF: Divulgação dos Resultados Oficiais da OLITEF
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: results\nEvidên
+ cia: divulgação dos resultados oficiais\, que ocorrerá em 30.10.2026.\n
+ Fonte oficial: https://upmat-gestao.s3.us-west-2.amazonaws.com/Olitef/2026
+ /(Regulamento)+Promo%C3%A7%C3%A3o+OLITEF+2026+-+PREMIA%C3%87%C3%83O+ESCOLA
+ S.pdf
+URL:https://upmat-gestao.s3.us-west-2.amazonaws.com/Olitef/2026/(Regulament
+ o)+Promo%C3%A7%C3%A3o+OLITEF+2026+-+PREMIA%C3%87%C3%83O+ESCOLAS.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-10e1ae5e9a83baec@noic.com.br
+DTSTAMP:20261117T002408Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:OLITEF: Sorteio da Loteria Federal
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: exam\nEvidência
+ : DATA DO SORTEIO DA LOTERIA FEDERAL: 18/11/2026\nFonte oficial: https://u
+ pmat-gestao.s3.us-west-2.amazonaws.com/Olitef/2026/(Regulamento)+Promo%C3%
+ A7%C3%A3o+OLITEF+2026+-+PREMIA%C3%87%C3%83O+ESCOLAS.pdf
+URL:https://upmat-gestao.s3.us-west-2.amazonaws.com/Olitef/2026/(Regulament
+ o)+Promo%C3%A7%C3%A3o+OLITEF+2026+-+PREMIA%C3%87%C3%83O+ESCOLAS.pdf
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

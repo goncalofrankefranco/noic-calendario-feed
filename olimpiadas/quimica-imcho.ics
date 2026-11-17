@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:IMChO — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-91cbfce215f69260@noic.com.br
+DTSTAMP:20261116T200254Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260424
+SUMMARY:IMChO: 60th Anniversary International Mendeleev Chemistry Olympiad
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
+ : Dates: April\, 15-23\, 2026\nFonte oficial: https://mendeleevolympiad.or
+ g/imcho60-eng
+URL:https://mendeleevolympiad.org/imcho60-eng
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c8c02af709fd568e@noic.com.br
+DTSTAMP:20261116T195644Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:IMChO: International Mendeleev Chemistry Olympiad - Rússia (IMChO)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
+ a: 2026-04-15\nFonte oficial: https://obquimica.org/calendario
+URL:https://obquimica.org/calendario
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

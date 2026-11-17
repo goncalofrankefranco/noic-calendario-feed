@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Olimpíada de Matemática dos Países do Cone Sul — Calendá
+ rio Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-8c36b831d443beab@noic.com.br
+DTSTAMP:20261116T201332Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260418
+SUMMARY:Olimpíada de Matemática dos Países do Cone Sul: Selección 37ª
+  Olimpíada Matemática del Cono Sur
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: selection\nEv
+ idência: {"aclaracion": ""\, "fin_dia": 17\, "inicio_dia": 16\, "inicio_m
+ es": 4\, "tachado": false\, "texto": "Selección 37ª Olimpíada Matemáti
+ ca del Cono Sur"\, "tipo": "selectivo"}\nFonte oficial: https://www.oma.or
+ g.ar/contents/calendar/2026.json
+URL:https://www.oma.org.ar/contents/calendar/2026.json
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-103f96fd90468c78@noic.com.br
+DTSTAMP:20261116T201332Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260809
+SUMMARY:Olimpíada de Matemática dos Países do Cone Sul: 37ª Olimpíada
+  Matemática del Cono Sur
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: other\nEvidê
+ ncia: {"aclaracion": ""\, "fin_dia": 8\, "inicio_dia": 3\, "inicio_mes": 8
+ \, "tachado": false\, "texto": "37ª Olimpíada Matemática del Cono Sur"\
+ , "tipo": "internacional"}\nFonte oficial: https://www.oma.org.ar/contents
+ /calendar/2026.json
+URL:https://www.oma.org.ar/contents/calendar/2026.json
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fe1b882bdabcb4d8@noic.com.br
+DTSTAMP:20261117T002701Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260809
+SUMMARY:Olimpíada de Matemática dos Países do Cone Sul: 37ª Olimpíada
+  de Matemática do Cone Sul
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: final\nEvidê
+ ncia: 37ª Olimpíada de Matemática do Cone Sul 3 a 8 de agosto\, Lima\,
+  Peru\nFonte oficial: https://www.obm.org.br/informacoes-gerais/calendario
+URL:https://www.obm.org.br/informacoes-gerais/calendario
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

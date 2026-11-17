@@ -7,7 +7,7 @@ X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:iGeo — Calendário Olímpico do NOIC
 BEGIN:VEVENT
 UID:noic-52438c4c7b4d6bcc@noic.com.br
-DTSTAMP:20261112T205723Z
+DTSTAMP:20261116T201120Z
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270810
 SUMMARY:iGeo: 2027 International Geography Olympiad
@@ -18,27 +18,51 @@ URL:https://www.geoolympiad.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-59ea59a9b7fa478e@noic.com.br
+DTSTAMP:20261116T201654Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270810
+SUMMARY:iGeo: iGeo 2027 Jelgava\, Latvia
+DESCRIPTION:Departamento: Geografia\nEdição: 2027\nMarco: exam\nEvidênci
+ a: 2027 2-9 August Jelgava\, Latvia\nFonte oficial: http://www.geoolympiad
+ .org/
+URL:http://www.geoolympiad.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-871b2468aedbfac0@noic.com.br
+DTSTAMP:20261113T183156Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270810
+SUMMARY:iGeo: 2027 International Geography Olympiad in Jelgava\, Latvia
+DESCRIPTION:Departamento: Geografia\nEdição: 2027\nMarco: exam\nEvidênci
+ a: 2027 2-9 August Jelgava\, Latvia\nFonte oficial: http://www.geoolympiad
+ .org/
+URL:http://www.geoolympiad.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-296e34ec190aa060@noic.com.br
-DTSTAMP:20261112T205723Z
+DTSTAMP:20261115T163836Z
 DTSTART;VALUE=DATE:20280703
 DTEND;VALUE=DATE:20280711
 SUMMARY:iGeo: 2028 International Geography Olympiad
 DESCRIPTION:Departamento: Geografia\nEdição: 2028\nMarco: exam\nEvidênci
- a: 2028 3-10 July Melbourne\, Australia\nFonte oficial: https://www.geooly
- mpiad.org/
-URL:https://www.geoolympiad.org/
+ a: 2028 3-10 July Melbourne\, Australia\nFonte oficial: http://www.geoolym
+ piad.org/
+URL:http://www.geoolympiad.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-920494819f4f5ecd@noic.com.br
-DTSTAMP:20261005T184052Z
+DTSTAMP:20261115T164812Z
 DTSTART;VALUE=DATE:20280703
 DTEND;VALUE=DATE:20280711
 SUMMARY:iGeo: 2028 International Geography Olympiad in Melbourne\, Australi
  a
 DESCRIPTION:Departamento: Geografia\nEdição: 2028\nMarco: exam\nEvidênci
- a: 2028 3-10 July\, Melbourne\, Australia\nFonte oficial: https://www.geoo
- lympiad.org/
+ a: 2028 3-10 July Melbourne\, Australia\nFonte oficial: https://www.geooly
+ mpiad.org/
 URL:https://www.geoolympiad.org/
 STATUS:CONFIRMED
 END:VEVENT

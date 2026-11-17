@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Olimpíada Brasileira de Ciências (OBC) — Calendário Olím
+ pico do NOIC
+BEGIN:VEVENT
+UID:noic-2834c788e2cfc0f7@noic.com.br
+DTSTAMP:20261116T201233Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:Olimpíada Brasileira de Ciências (OBC): Inscrição online
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: registration\nE
+ vidência: Inscrição online: até 6 de maio\nFonte oficial: https://www.
+ obciencias.com.br/calendaacuterio.html
+URL:https://www.obciencias.com.br/calendaacuterio.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9dc57e2bbbaa0ee1@noic.com.br
+DTSTAMP:20261115T164449Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:Ciências: Cadastro das notas da Primeira Fase OBC 2026
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: submission\nEvi
+ dência: Cadastro das notas da Primeira Fase pelos professores: 21 de maio
+ \nFonte oficial: https://www.obciencias.com.br/calendaacuterio.html
+URL:https://www.obciencias.com.br/calendaacuterio.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fc1002dcb8ea11af@noic.com.br
+DTSTAMP:20261116T201233Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:Olimpíada Brasileira de Ciências (OBC): Cadastro das notas da Pri
+ meira Fase pelos professores
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: submission\nEvi
+ dência: Cadastro das notas da Primeira Fase pelos professores: 21 de maio
+ \nFonte oficial: https://www.obciencias.com.br/calendaacuterio.html
+URL:https://www.obciencias.com.br/calendaacuterio.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2eb4a1edc27dab37@noic.com.br
+DTSTAMP:20261116T201233Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Olimpíada Brasileira de Ciências (OBC): Divulgação dos classifi
+ cados para a Segunda Fase
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: results\nEvidê
+ ncia: Divulgação dos classificados para a Segunda Fase: 2 de junho\nFont
+ e oficial: https://www.obciencias.com.br/calendaacuterio.html
+URL:https://www.obciencias.com.br/calendaacuterio.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-177479773772b582@noic.com.br
+DTSTAMP:20261116T201233Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Olimpíada Brasileira de Ciências (OBC): Divulgação dos endereç
+ os e horários de aplicação da Segunda Fase nas Sedes Regionais
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: announcement\nE
+ vidência: Divulgação dos endereços e horários de aplicação da Segun
+ da Fase nas Sedes Regionais: 12 de junho\nFonte oficial: https://www.obcie
+ ncias.com.br/calendaacuterio.html
+URL:https://www.obciencias.com.br/calendaacuterio.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f1008c5680c8a301@noic.com.br
+DTSTAMP:20261116T201233Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Olimpíada Brasileira de Ciências (OBC): Prova da Segunda Fase OBC
+  2026
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: exam\nEvidênci
+ a: Prova da Segunda Fase: 27 de junho (sábado) - nas sedes regionais\nFon
+ te oficial: https://www.obciencias.com.br/calendaacuterio.html
+URL:https://www.obciencias.com.br/calendaacuterio.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-914d14f788226135@noic.com.br
+DTSTAMP:20261115T164449Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:Ciências: Cadastro das notas da Segunda Fase OBC 2026
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: submission\nEvi
+ dência: Cadastro das notas da Segunda Fase pelas Sedes Regionais: 9 de ju
+ lho\nFonte oficial: https://www.obciencias.com.br/calendaacuterio.html
+URL:https://www.obciencias.com.br/calendaacuterio.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b6c71b91b548e68a@noic.com.br
+DTSTAMP:20261116T201233Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:Olimpíada Brasileira de Ciências (OBC): Cadastro das notas da Seg
+ unda Fase pelas Sedes Regionais
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: submission\nEvi
+ dência: Cadastro das notas da Segunda Fase pelas Sedes Regionais: 9 de ju
+ lho\nFonte oficial: https://www.obciencias.com.br/calendaacuterio.html
+URL:https://www.obciencias.com.br/calendaacuterio.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8be07c0e689ffc8a@noic.com.br
+DTSTAMP:20261116T201233Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Olimpíada Brasileira de Ciências (OBC): Divulgação do resultado
+  da Segunda Fase
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: results\nEvidê
+ ncia: Divulgação do resultado da Segunda Fase: 31 de julho\nFonte oficia
+ l: https://www.obciencias.com.br/calendaacuterio.html
+URL:https://www.obciencias.com.br/calendaacuterio.html
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

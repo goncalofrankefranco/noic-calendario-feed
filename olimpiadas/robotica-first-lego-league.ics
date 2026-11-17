@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:FIRST LEGO League (FLL) — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-1cc983cb6bf15b8e@noic.com.br
+DTSTAMP:20261116T195818Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:FIRST LEGO League (FLL): Evento Nacional de Celebração
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: final\nEvidênc
+ ia: Evento Nacional de Celebração Rio de Janeiro\, Barra Olímpica 17 de
+  outubro de 2026\nFonte oficial: https://www-firstlegoleague-com-br.filesu
+ sr.com/html/3a1650_226506c76232ee282bb8a451725f6106.html
+URL:https://www-firstlegoleague-com-br.filesusr.com/html/3a1650_226506c7623
+ 2ee282bb8a451725f6106.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-25215dce687a1153@noic.com.br
+DTSTAMP:20261116T195818Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:FIRST LEGO League (FLL): Showcase Rio de Janeiro
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: other\nEvidênc
+ ia: Showcase Rio de Janeiro\, Barra Olímpica 17 de outubro de 2026\nFonte
+  oficial: https://www-firstlegoleague-com-br.filesusr.com/html/3a1650_2265
+ 06c76232ee282bb8a451725f6106.html
+URL:https://www-firstlegoleague-com-br.filesusr.com/html/3a1650_226506c7623
+ 2ee282bb8a451725f6106.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3408dc72d7a206e9@noic.com.br
+DTSTAMP:20261116T195507Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+SUMMARY:FIRST LEGO League (FLL): 9° Festival SESI de Robótica - FLLC
+DESCRIPTION:Departamento: Robótica\nEdição: 9\nMarco: final\nEvidência:
+  O evento nacional acontecerá em Salvador\, entre os dias 18 e 21 de mar
+ ço de 2027.\nFonte oficial: https://noticias.portaldaindustria.com.br/not
+ icias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-
+ sesi-de-robotica/
+URL:https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-c
+ alendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

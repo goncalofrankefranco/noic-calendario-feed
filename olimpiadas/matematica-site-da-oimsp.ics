@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Olimpíada Internacional de Matemática sem Fronteiras — Cal
+ endário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-50b4b3ffda072337@noic.com.br
+DTSTAMP:20261116T195859Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Olimpíada Internacional de Matemática sem Fronteiras: Disponibili
+ zação de provas e orientações
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: announcement\
+ nEvidência: Os cadernos de questões\, de respostas e as orientações pa
+ ra aplicação da prova serão disponibilizadas no dia 14 de maio na ÁREA
+  DO PROFESSOR\nFonte oficial: https://www.matematicasemfronteiras.org/regu
+ lamento.html
+URL:https://www.matematicasemfronteiras.org/regulamento.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4126d43671bbe8da@noic.com.br
+DTSTAMP:20261116T195859Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Olimpíada Internacional de Matemática sem Fronteiras: Período de
+  Inscrição 2027
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: registration\
+ nEvidência: As inscrições poderão ser feitas até 17 de maio de 2027.\
+ nFonte oficial: https://www.matematicasemfronteiras.org/regulamento.html
+URL:https://www.matematicasemfronteiras.org/regulamento.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c5f1a72975e198de@noic.com.br
+DTSTAMP:20261116T195859Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270526
+SUMMARY:Olimpíada Internacional de Matemática sem Fronteiras: Período de
+  aplicação da prova
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: round\nEvidê
+ ncia: período de 18 a 25 de maio de 2027\nFonte oficial: https://www.mate
+ maticasemfronteiras.org/regulamento.html
+URL:https://www.matematicasemfronteiras.org/regulamento.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ef1ca05cbf9af1a9@noic.com.br
+DTSTAMP:20261116T195859Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Olimpíada Internacional de Matemática sem Fronteiras: Envio da pr
+ ova selecionada por SEDEX
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: submission\nE
+ vidência: enviada por por SEDEX até 02 de junho de 2027\nFonte oficial:
+  https://www.matematicasemfronteiras.org/regulamento.html
+URL:https://www.matematicasemfronteiras.org/regulamento.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b7b00b2d51e137c6@noic.com.br
+DTSTAMP:20261116T195859Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:Olimpíada Internacional de Matemática sem Fronteiras: Término do
+  período de sigilo das provas e gabaritos
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: deadline\nEvi
+ dência: tanto o gabarito como a prova oficial deverão ser mantidos em si
+ gilo até 30 de julho de 2027.\nFonte oficial: https://www.matematicasemfr
+ onteiras.org/regulamento.html
+URL:https://www.matematicasemfronteiras.org/regulamento.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e0cdb52099775309@noic.com.br
+DTSTAMP:20261116T195848Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Olimpíada Internacional de Matemática sem Fronteiras: Divulgaçã
+ o dos Resultados
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: results\nEvid
+ ência: Os resultados serão divulgados no site da OIMSF no dia 10 de agos
+ to de 2027.\nFonte oficial: https://www.matematicasemfronteiras.org/Regula
+ mento_MSF_2027_.pdf
+URL:https://www.matematicasemfronteiras.org/Regulamento_MSF_2027_.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-03588a839dd18d75@noic.com.br
+DTSTAMP:20261116T195859Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Olimpíada Internacional de Matemática sem Fronteiras: Disponibili
+ zação de certificados de premiação e participação
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: results\nEvid
+ ência: Todos os certificados de premiação e participação será dispon
+ ibilizados na ÁREA DO PROFESSOR até 17 de agosto de 2027.\nFonte oficial
+ : https://www.matematicasemfronteiras.org/regulamento.html
+URL:https://www.matematicasemfronteiras.org/regulamento.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0b59ae04673a8267@noic.com.br
+DTSTAMP:20261116T195848Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:Olimpíada Internacional de Matemática sem Fronteiras: Disponibili
+ zação de Certificados
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: announcement\
+ nEvidência: Todos os certificados de premiação e participação será d
+ isponibilizados na ÁREA DO PROFESSOR até 17 de agosto de 2027.\nFonte of
+ icial: https://www.matematicasemfronteiras.org/Regulamento_MSF_2027_.pdf
+URL:https://www.matematicasemfronteiras.org/Regulamento_MSF_2027_.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

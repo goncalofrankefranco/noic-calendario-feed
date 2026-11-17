@@ -6,8 +6,163 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OBMF — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-14516f5def014dc7@noic.com.br
+DTSTAMP:20261117T002859Z
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20260125
+SUMMARY:OBMF: Inscrição individual OBMF 2026.1 - 1º período
+DESCRIPTION:Departamento: Economia\nEdição: 2026.1\nMarco: registration\n
+ Evidência: 1º período (R$ 29\,00/aluno): 25/11/2025 a 24/01/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/post/obli-2026-tudo-sobre-a-ol
+ impiada-brasileira-de-lingua-inglesa.html
+URL:https://www.seletaeducacao.com.br/post/obli-2026-tudo-sobre-a-olimpiada
+ -brasileira-de-lingua-inglesa.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b7657ec701fa5bcc@noic.com.br
+DTSTAMP:20261117T002853Z
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20260326
+SUMMARY:OBMF: Inscrições OBMF 2026.1
+DESCRIPTION:Departamento: Economia\nEdição: 2026.1\nMarco: registration\n
+ Evidência: Inscrições: 25/11/25 até 25/03/26\nFonte oficial: https://w
+ ww.seletaeducacao.com.br/post/obgp-2026-tudo-sobre-a-olimpiada-brasileira-
+ de-geopolitica.html
+URL:https://www.seletaeducacao.com.br/post/obgp-2026-tudo-sobre-a-olimpiada
+ -brasileira-de-geopolitica.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b99e3dd2578d9b53@noic.com.br
+DTSTAMP:20261117T002859Z
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20260430
+SUMMARY:OBMF: Inscrição de grupos de alunos OBMF 2026.1
+DESCRIPTION:Departamento: Economia\nEdição: 2026.1\nMarco: registration\n
+ Evidência: Ocorre em período único (25/11/2025 a 29/04/2026)\nFonte ofi
+ cial: https://www.seletaeducacao.com.br/post/obli-2026-tudo-sobre-a-olimpi
+ ada-brasileira-de-lingua-inglesa.html
+URL:https://www.seletaeducacao.com.br/post/obli-2026-tudo-sobre-a-olimpiada
+ -brasileira-de-lingua-inglesa.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8643dd08b1d3a211@noic.com.br
+DTSTAMP:20261117T003043Z
+DTSTART;VALUE=DATE:20251216
+DTEND;VALUE=DATE:20261217
+SUMMARY:OBMF: Inscrições OBMF 2026
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: registration\nEv
+ idência: Tudo sobre a OBMF 2026: datas\, inscrição\, conteúdos\, prova
+  e premiação. Guia completo para alunos do EF II\, EM e Nível Livre. 16
+  de dezembro de 2025\nFonte oficial: https://www.seletaeducacao.com.br/pos
+ t/tnbio-2026-tudo-sobre-o-torneio-nacional-de-biologia.html
+URL:https://www.seletaeducacao.com.br/post/tnbio-2026-tudo-sobre-o-torneio-
+ nacional-de-biologia.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6f77b65adcdd8118@noic.com.br
+DTSTAMP:20261117T002915Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260225
+SUMMARY:OBMF: Inscrição individual OBMF 2026.1 - 2º período
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: registration\nEv
+ idência: 2º período (R$ 35\,00/aluno): 25/01/2026 a 24/02/2026\nFonte o
+ ficial: https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-ol
+ impiada-brasileira-de-matematica-financeira.html
+URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
+ da-brasileira-de-matematica-financeira.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-40d92baf7708fe57@noic.com.br
+DTSTAMP:20261117T002915Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260409
+SUMMARY:OBMF: Inscrição individual 3º período
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: registration\nEv
+ idência: 3º período (R$ 39\,00/aluno): 25/02/2026 a 08/04/2026\nFonte o
+ ficial: https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-ol
+ impiada-brasileira-de-matematica-financeira.html
+URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
+ da-brasileira-de-matematica-financeira.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-52742fec31a0ae7c@noic.com.br
+DTSTAMP:20261117T002859Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260430
+SUMMARY:OBMF: Inscrição individual OBMF 2026.1 - 3º período
+DESCRIPTION:Departamento: Economia\nEdição: 2026.1\nMarco: registration\n
+ Evidência: 3º período (R$ 39\,00/aluno): 25/02/2026 a 29/04/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/post/obli-2026-tudo-sobre-a-ol
+ impiada-brasileira-de-lingua-inglesa.html
+URL:https://www.seletaeducacao.com.br/post/obli-2026-tudo-sobre-a-olimpiada
+ -brasileira-de-lingua-inglesa.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2b24b8ee515a68be@noic.com.br
+DTSTAMP:20261117T002915Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:OBMF: Aplicação da Prova - OBMF 2026.2
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: exam\nEvidência
+ : Aplicação da Prova: 15/04/2026\nFonte oficial: https://www.seletaeduca
+ cao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpiada-brasileira-de-matematic
+ a-financeira.html
+URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
+ da-brasileira-de-matematica-financeira.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-94b79cdf373db69a@noic.com.br
+DTSTAMP:20261117T002915Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260418
+SUMMARY:OBMF: Período de Recursos - OBMF 2026.2
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: other\nEvidênci
+ a: Período de Recursos: 16/04/2026 a 17/04/2026\nFonte oficial: https://w
+ ww.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpiada-brasileir
+ a-de-matematica-financeira.html
+URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
+ da-brasileira-de-matematica-financeira.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-69955852b17624f4@noic.com.br
+DTSTAMP:20261117T002915Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:OBMF: Divulgação dos Resultados e Certificados - OBMF 2026.2
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: results\nEvidên
+ cia: Divulgação dos Resultados e Certificados: 22/04/2026\nFonte oficial
+ : https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpiad
+ a-brasileira-de-matematica-financeira.html
+URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
+ da-brasileira-de-matematica-financeira.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b5659bfc987e35f0@noic.com.br
+DTSTAMP:20261117T002915Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:OBMF: Início da Solicitação de Medalhas
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: other\nEvidênci
+ a: Início da Solicitação de Medalhas na Loja: 23/04/2026\nFonte oficial
+ : https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpiad
+ a-brasileira-de-matematica-financeira.html
+URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
+ da-brasileira-de-matematica-financeira.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-10e4717cd42f25e6@noic.com.br
-DTSTAMP:20261029T161937Z
+DTSTAMP:20261115T163658Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260924
 SUMMARY:OBMF: Início das Inscrições
@@ -19,10 +174,10 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-275b744e83124e3f@noic.com.br
-DTSTAMP:20261112T205312Z
+DTSTAMP:20261113T183001Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260701
-SUMMARY:OBMF: 1º período de inscrições individuais
+SUMMARY:OBMF: Inscrições Individuais - 1º Período
 DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
  Evidência: 1º período (R$ 29\,00/aluno): 01/06/2026 a 30/06/2026\nFonte
   oficial: https://www.seletaeducacao.com.br/obmf
@@ -31,22 +186,24 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-f585875c783c2270@noic.com.br
-DTSTAMP:20261112T205312Z
+DTSTAMP:20261116T201907Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260924
 SUMMARY:OBMF: Inscrição de grupos de alunos feita por Escolas
 DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
  Evidência: Ocorre em período único (01/06/2026 a 23/09/2026)\nFonte ofi
- cial: https://www.seletaeducacao.com.br/obmf
-URL:https://www.seletaeducacao.com.br/obmf
+ cial: https://docs.google.com/document/d/1sTdwEOgzgkkcJNg3ge88TxaHb65QiYOC
+ JuJy0EnmUOk/edit?usp=sharing
+URL:https://docs.google.com/document/d/1sTdwEOgzgkkcJNg3ge88TxaHb65QiYOCJuJ
+ y0EnmUOk/edit?usp=sharing
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-4b1e32a81cc7e1e6@noic.com.br
-DTSTAMP:20261112T205312Z
+DTSTAMP:20261113T183001Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260801
-SUMMARY:OBMF: 2º período de inscrições individuais
+SUMMARY:OBMF: Inscrições Individuais - 2º Período
 DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
  Evidência: 2º período (R$ 35\,00/aluno): 01/07/2026 a 31/07/2026\nFonte
   oficial: https://www.seletaeducacao.com.br/obmf
@@ -54,11 +211,25 @@ URL:https://www.seletaeducacao.com.br/obmf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-f45b61e67baf21e0@noic.com.br
+DTSTAMP:20261117T002915Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:OBMF: Prazo Final para Solicitação de Medalhas - OBMF 2026.2
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: Prazo Final para Solicitação de Medalhas: 10/07/2026\nFonte oficia
+ l: https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
+ da-brasileira-de-matematica-financeira.html
+URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
+ da-brasileira-de-matematica-financeira.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-c84845bc33477f22@noic.com.br
-DTSTAMP:20261112T205312Z
+DTSTAMP:20261113T183001Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260924
-SUMMARY:OBMF: 3º período de inscrições individuais
+SUMMARY:OBMF: Inscrições Individuais - 3º Período
 DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: registration\n
  Evidência: 3º período (R$ 39\,00/aluno): 01/08/2026 a 23/09/2026\nFonte
   oficial: https://www.seletaeducacao.com.br/obmf
@@ -67,7 +238,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-88b84c7ee7b84463@noic.com.br
-DTSTAMP:20261112T205312Z
+DTSTAMP:20261113T183001Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:OBMF: Término das Inscrições
@@ -78,63 +249,68 @@ URL:https://www.seletaeducacao.com.br/obmf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-2b24b8ee515a68be@noic.com.br
-DTSTAMP:20261112T205312Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:OBMF: Aplicação da Prova
-DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: exam\nEvidênc
- ia: Aplicação da Prova: 30/09/2026\nFonte oficial: https://www.seletaedu
- cacao.com.br/obmf
-URL:https://www.seletaeducacao.com.br/obmf
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-94b79cdf373db69a@noic.com.br
-DTSTAMP:20261112T205312Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261003
-SUMMARY:OBMF: Período de Recursos
-DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: other\nEvidên
- cia: Período de Recursos: 01/10/2026 a 02/10/2026\nFonte oficial: https:/
- /www.seletaeducacao.com.br/obmf
-URL:https://www.seletaeducacao.com.br/obmf
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-69955852b17624f4@noic.com.br
-DTSTAMP:20261112T205312Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:OBMF: Divulgação dos Resultados e Certificados
-DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: results\nEvid
- ência: Divulgação dos Resultados e Certificados: 07/10/2026\nFonte ofic
- ial: https://www.seletaeducacao.com.br/obmf
-URL:https://www.seletaeducacao.com.br/obmf
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-ce602ca4660a1c9c@noic.com.br
-DTSTAMP:20261112T205312Z
+DTSTAMP:20261116T201907Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:OBMF: Início da Solicitação de Medalhas na Loja
-DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: announcement\n
- Evidência: Início da Solicitação de Medalhas na Loja: 08/10/2026\nFont
- e oficial: https://www.seletaeducacao.com.br/obmf
-URL:https://www.seletaeducacao.com.br/obmf
+SUMMARY:OBMF: Início da Solicitação de Medalhas na Loja - OBMF 2026.2
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: other\nEvidên
+ cia: Início da Solicitação de Medalhas na Loja 08/10/2026\nFonte oficia
+ l: https://docs.google.com/document/d/1sTdwEOgzgkkcJNg3ge88TxaHb65QiYOCJuJ
+ y0EnmUOk/edit?usp=sharing
+URL:https://docs.google.com/document/d/1sTdwEOgzgkkcJNg3ge88TxaHb65QiYOCJuJ
+ y0EnmUOk/edit?usp=sharing
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-f45b61e67baf21e0@noic.com.br
-DTSTAMP:20261112T205312Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:OBMF: Prazo Final para Solicitação de Medalhas
-DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: deadline\nEvid
- ência: Prazo Final para Solicitação de Medalhas: 27/11/2026\nFonte ofic
- ial: https://www.seletaeducacao.com.br/obmf
-URL:https://www.seletaeducacao.com.br/obmf
+UID:noic-075500feb4dbb3f2@noic.com.br
+DTSTAMP:20261117T003045Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261124
+SUMMARY:OBMF: Inscrições para Vagas Olímpicas UFC 2027
+DESCRIPTION:Departamento: Economia\nEdição: 2027\nMarco: registration\nEv
+ idência: As inscrições do processo seletivo vão de 9 a 23 de novembro
+  de 2026\nFonte oficial: https://www.seletaeducacao.com.br/post/vagas-olim
+ picas-ufc-unesp-medalhas-seleta.html
+URL:https://www.seletaeducacao.com.br/post/vagas-olimpicas-ufc-unesp-medalh
+ as-seleta.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7edbfd4b21d39c7e@noic.com.br
+DTSTAMP:20261117T003049Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20270125
+SUMMARY:OBMF: Inscrição Individual TNBio 2027 - 1º Período
+DESCRIPTION:Departamento: Economia\nEdição: 2027\nMarco: registration\nEv
+ idência: R$ 29 1º período: 23/11/2026 a 24/01/2027\nFonte oficial: http
+ s://www.seletaeducacao.com.br/tnbio.html
+URL:https://www.seletaeducacao.com.br/tnbio.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-736408f2e69a5bdf@noic.com.br
+DTSTAMP:20261117T003049Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270225
+SUMMARY:OBMF: Inscrição Individual TNBio 2027 - 2º Período
+DESCRIPTION:Departamento: Economia\nEdição: 2027\nMarco: registration\nEv
+ idência: R$ 39 2º período: 25/01/2027 a 24/02/2027\nFonte oficial: http
+ s://www.seletaeducacao.com.br/tnbio.html
+URL:https://www.seletaeducacao.com.br/tnbio.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cc7f1a2041a7ca3c@noic.com.br
+DTSTAMP:20261117T003049Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:OBMF: Inscrição Individual TNBio 2027 - 3º Período
+DESCRIPTION:Departamento: Economia\nEdição: 2027\nMarco: registration\nEv
+ idência: R$ 45 3º período: 25/02/2027 até o último dia de inscrição
+  de cada olimpíada\nFonte oficial: https://www.seletaeducacao.com.br/tnbi
+ o.html
+URL:https://www.seletaeducacao.com.br/tnbio.html
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

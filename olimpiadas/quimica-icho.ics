@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:IChO — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-13044390c1bfccf5@noic.com.br
+DTSTAMP:20261116T201145Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260720
+SUMMARY:IChO: 58th International Chemistry Olympiad
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
+ : The 58th International Chemistry Olympiad (IChO 2026) will be held in Ta
+ shkent\, Uzbekistan from July 10-19\, 2026.\nFonte oficial: https://www.ic
+ ho2026.uz/
+URL:https://www.icho2026.uz/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-501d238f8f5dfbd3@noic.com.br
+DTSTAMP:20261116T201208Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:IChO: Arrival & Registration
+DESCRIPTION:Departamento: Química\nEdição: 58\nMarco: other\nEvidência:
+  10.07.2026 Day 1 — Arrival & Registration Day Whole day Arrivals and re
+ gistration\nFonte oficial: https://www.icho2026.uz/program
+URL:https://www.icho2026.uz/program
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5a37952c97530238@noic.com.br
+DTSTAMP:20261116T195644Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:IChO: International Chemistry Olympiad - Uzbequistão (IChO)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
+ a: 2026-07-10\nFonte oficial: https://obquimica.org/calendario
+URL:https://obquimica.org/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-15f85f636b798737@noic.com.br
+DTSTAMP:20261114T161631Z
+DTSTART:20260711T103000Z
+DTEND:20260711T120000Z
+SUMMARY:IChO: OPENING CEREMONY
+DESCRIPTION:Departamento: Química\nEdição: 58th\nMarco: round\nEvidênci
+ a: 10:30 – 12:00 OPENING CEREMONY (Palace of International Forums)\nFont
+ e oficial: https://www.icho2026.uz/program
+URL:https://www.icho2026.uz/program
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-baa68b2bd012adb0@noic.com.br
+DTSTAMP:20261114T161631Z
+DTSTART:20260713T090000Z
+DTEND:20260713T140000Z
+SUMMARY:IChO: PRACTICAL EXAMINATION
+DESCRIPTION:Departamento: Química\nEdição: 58th\nMarco: exam\nEvidência
+ : 09:00 – 14:00 PRACTICAL EXAMINATION — 5 hours (NUUz Faculty of Chemi
+ stry)\nFonte oficial: https://www.icho2026.uz/program
+URL:https://www.icho2026.uz/program
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8477e44234ac7dd9@noic.com.br
+DTSTAMP:20261114T161631Z
+DTSTART:20260715T090000Z
+DTEND:20260715T140000Z
+SUMMARY:IChO: THEORETICAL EXAMINATION
+DESCRIPTION:Departamento: Química\nEdição: 58th\nMarco: exam\nEvidência
+ : 09:00 – 14:00 THEORETICAL EXAMINATION — 5 hours (CAEx)\nFonte oficia
+ l: https://www.icho2026.uz/program
+URL:https://www.icho2026.uz/program
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ddab105d3c0a8d73@noic.com.br
+DTSTAMP:20261114T161631Z
+DTSTART:20260718T190000Z
+DTEND:20260718T210000Z
+SUMMARY:IChO: CLOSING AND AWARDING CEREMONY
+DESCRIPTION:Departamento: Química\nEdição: 58th\nMarco: final\nEvidênci
+ a: 19:00 – 21:00 CLOSING AND AWARDING CEREMONY (Medals\, cultural progra
+ mme\, handover of the IChO flag)\nFonte oficial: https://www.icho2026.uz/p
+ rogram
+URL:https://www.icho2026.uz/program
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

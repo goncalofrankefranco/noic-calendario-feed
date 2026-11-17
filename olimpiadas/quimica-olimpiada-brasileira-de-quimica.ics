@@ -6,6 +6,17 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OBQ — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-2943d5bd7284afb8@noic.com.br
+DTSTAMP:20261116T195644Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:OBQ: Prova da Olimpíada Brasileira de Química - Presencial (OBQ)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
+ : 2026-08-28\nFonte oficial: https://obquimica.org/calendario
+URL:https://obquimica.org/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-00fecafcc535b467@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART:20260828T170000Z

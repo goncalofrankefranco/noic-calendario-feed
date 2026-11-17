@@ -6,6 +6,18 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OBOCH — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-1d6d586524d3afce@noic.com.br
+DTSTAMP:20261117T001751Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260914
+SUMMARY:OBOCH: 1ª fase
+DESCRIPTION:Departamento: Humanas\nEdição: 2026\nMarco: round\nEvidência
+ : A prova será realizada de 07/09 até 13/09.\nFonte oficial: https://n
+ oic.com.br/wp-content/uploads/2026/05/regulamento_oboch.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboch.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-eedbbfe17ad92a1b@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260907
@@ -28,6 +40,18 @@ DESCRIPTION:Departamento: Humanas\nEdição: 2026\nMarco: round\nEvidência
  cias Humanas.\nFonte oficial: https://noic.com.br/wp-content/uploads/2026/
  05/calendario_oficial.pdf
 URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ec5283a9ea94e7d0@noic.com.br
+DTSTAMP:20261117T001751Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBOCH: 2ª fase
+DESCRIPTION:Departamento: Humanas\nEdição: 2026\nMarco: round\nEvidência
+ : A prova será realizada de 05/10 até 11/10.\nFonte oficial: https://n
+ oic.com.br/wp-content/uploads/2026/05/regulamento_oboch.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboch.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

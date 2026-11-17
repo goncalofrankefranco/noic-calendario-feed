@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OMLP — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-d3f83cf34ad11649@noic.com.br
+DTSTAMP:20261117T002701Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261121
+SUMMARY:OMLP: 14ª Olimpíada de Matemática da Comunidade dos Países de L
+ íngua Portuguesa (OMCPLP)
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: final\nEvidê
+ ncia: 14ª Olimpíada de Matemática da Comunidade dos Países de Língua
+  Portuguesa (OMCPLP) 15 a 20 de novembro\, Recife (PE)\nFonte oficial: htt
+ ps://www.obm.org.br/informacoes-gerais/calendario
+URL:https://www.obm.org.br/informacoes-gerais/calendario
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:IJSO — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-ce5b90a2c4d0a09e@noic.com.br
+DTSTAMP:20261116T201725Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260901
+SUMMARY:IJSO: IJSO 2026 Registration
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: registration\nE
+ vidência: The registration link will be open from 1st August to 31st Augu
+ st 2026.\nFonte oficial: http://www.ijsoweb.org/
+URL:http://www.ijsoweb.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-59676fa737daa39f@noic.com.br
+DTSTAMP:20261116T201233Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:IJSO: Prova da Seletiva da IJSO
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: selection\nEvid
+ ência: Prova da Seletiva da IJSO: 13 de setembro (domingo) - nas sedes na
+ cionais\nFonte oficial: https://www.obciencias.com.br/calendaacuterio.html
+URL:https://www.obciencias.com.br/calendaacuterio.html
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

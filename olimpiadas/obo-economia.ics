@@ -6,6 +6,18 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OBOEcon — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-36beb61c53e69738@noic.com.br
+DTSTAMP:20261117T001814Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260914
+SUMMARY:OBOEcon: 1ª fase
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: exam\nEvidência
+ : A prova será realizada de 07/09 até 13/09.\nFonte oficial: https://n
+ oic.com.br/wp-content/uploads/2026/05/regulamento_oboecon.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboecon.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-87df51283ea71c55@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260907
@@ -15,6 +27,19 @@ DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: round\nEvidênci
  a: Lote 4: OBOQ\, OBOCH e OBOEcon até 13/09.\nFonte oficial: https://www.
  instagram.com/projetonoic/p/DdAIHUMmOmu/
 URL:https://www.instagram.com/projetonoic/p/DdAIHUMmOmu/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9b90db7f000ccf24@noic.com.br
+DTSTAMP:20261117T001814Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBOEcon: 2ª fase
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: exam\nEvidência
+ : Entre os dias 05/10 e 11/10\, os grupos terão 24 horas contı́nuas pa
+ ra responder a uma proposta de business case.\nFonte oficial: https://noic
+ .com.br/wp-content/uploads/2026/05/regulamento_oboecon.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboecon.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

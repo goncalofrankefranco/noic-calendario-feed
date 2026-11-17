@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OSAFOG — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-b33682316a1075ac@noic.com.br
+DTSTAMP:20261116T195456Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:OSAFOG: Envio dos termos de autorização\, responsabilidade e cons
+ entimento e ficha médica
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: submission\nEvid
+ ência: Esses documentos devem ser enviados até o dia 24/05/2026 pelo e-m
+ ail contato@osaolimpiada.com.br\nFonte oficial: https://docs.google.com/do
+ cument/d/1U59rGgCvIyJ3uBdcHR-eQw0sxwLE5_87emf0HmDFMTY/edit?usp=sharing
+URL:https://docs.google.com/document/d/1U59rGgCvIyJ3uBdcHR-eQw0sxwLE5_87emf
+ 0HmDFMTY/edit?usp=sharing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f19cf3b201bae59d@noic.com.br
+DTSTAMP:20261116T195456Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:OSAFOG: Olimpíada Sorocabana de Foguetes
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: exam\nEvidência
+ : A competição será realizada no sábado\, dia 30 de maio de 2026.\nFon
+ te oficial: https://docs.google.com/document/d/1U59rGgCvIyJ3uBdcHR-eQw0sxw
+ LE5_87emf0HmDFMTY/edit?usp=sharing
+URL:https://docs.google.com/document/d/1U59rGgCvIyJ3uBdcHR-eQw0sxwLE5_87emf
+ 0HmDFMTY/edit?usp=sharing
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

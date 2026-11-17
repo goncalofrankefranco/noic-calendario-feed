@@ -18,6 +18,18 @@ URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-8cb3db310c6819b1@noic.com.br
+DTSTAMP:20261117T001738Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260907
+SUMMARY:OBOA: 1ª fase
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: exam\nEvidênc
+ ia: A prova será realizada de 31/08 até 06/09.\nFonte oficial: https:/
+ /noic.com.br/wp-content/uploads/2026/05/regulamento_oboa.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboa.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-bfcd32703c63f8b3@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260831
@@ -27,6 +39,18 @@ DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: round\nEvidên
  cia: Lote 3: OBOA\, OBOC\, OBOIA e OBOArt até 06/09.\nFonte oficial: http
  s://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
 URL:https://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c18acc2a146bff7f@noic.com.br
+DTSTAMP:20261117T001738Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBOA: 2ª fase
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: exam\nEvidênc
+ ia: A prova será realizada de 05/10 até 11/10.\nFonte oficial: https:/
+ /noic.com.br/wp-content/uploads/2026/05/regulamento_oboa.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboa.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

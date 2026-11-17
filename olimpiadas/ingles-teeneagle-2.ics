@@ -1,0 +1,248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:TeenEagle — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-fe879979f20ba195@noic.com.br
+DTSTAMP:20261116T195945Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:TeenEagle: Academic season starts
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: other\nEvidên
+ cia: 1 September 2026 Academic season starts\nFonte oficial: https://www.t
+ eeneagle.org/english-calendar
+URL:https://www.teeneagle.org/english-calendar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-71d85d24af650d25@noic.com.br
+DTSTAMP:20261116T195945Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:TeenEagle: Zoom club classes begin
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: other\nEvidên
+ cia: 16 October 2026 Zoom club classes begin Online\nFonte oficial: https:
+ //www.teeneagle.org/english-calendar
+URL:https://www.teeneagle.org/english-calendar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-375a09e2af2a6a04@noic.com.br
+DTSTAMP:20261116T195916Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261214
+SUMMARY:TeenEagle: London Christmas Tour
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: other\nEvidên
+ cia: 07-13 December 2026 Abroad Trip London Christmas Tour\nFonte oficial:
+  https://www.teeneagle.org/
+URL:https://www.teeneagle.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7c1e57ca34b4de6b@noic.com.br
+DTSTAMP:20261116T195916Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270124
+SUMMARY:TeenEagle: BETT London Programme
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: other\nEvidên
+ cia: 18-23 January 2027 Abroad Trip BETT London Programme\nFonte oficial:
+  https://www.teeneagle.org/
+URL:https://www.teeneagle.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1407dfb61d971b95@noic.com.br
+DTSTAMP:20261116T195945Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+SUMMARY:TeenEagle: Kazakhstan regional round Almaty
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: round\nEvidên
+ cia: 13–14 February 2027 Kazakhstan regional round Almaty\nFonte oficial
+ : https://www.teeneagle.org/english-calendar
+URL:https://www.teeneagle.org/english-calendar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cef3a86dbb1fb8f8@noic.com.br
+DTSTAMP:20261116T195945Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:TeenEagle: Special online round
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: round\nEvidên
+ cia: 13 February 2027 Special online round Online\nFonte oficial: https://
+ www.teeneagle.org/english-calendar
+URL:https://www.teeneagle.org/english-calendar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4143165142520c25@noic.com.br
+DTSTAMP:20261116T195945Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270222
+SUMMARY:TeenEagle: Kazakhstan Regional Round Astana
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: round\nEvidên
+ cia: 20-21 February 2027 Kazakhstan Regional Round Astana\nFonte oficial:
+  https://www.teeneagle.org/english-calendar
+URL:https://www.teeneagle.org/english-calendar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1fe598f615be1c3f@noic.com.br
+DTSTAMP:20261116T195945Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270308
+SUMMARY:TeenEagle: Türkiye regional finals Antalya
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: final\nEvidên
+ cia: 4-7 March 2027 Türkiye regional finals Antalya\nFonte oficial: https
+ ://www.teeneagle.org/english-calendar
+URL:https://www.teeneagle.org/english-calendar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-49272ca44f7d0c2e@noic.com.br
+DTSTAMP:20261116T195916Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270308
+SUMMARY:TeenEagle: Türkiye Regional Round
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: round\nEvidên
+ cia: 4–7 March 2027 Antalya\, Türkiye Türkiye Regional Round\nFonte of
+ icial: https://www.teeneagle.org/
+URL:https://www.teeneagle.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cb1c29b10eda3000@noic.com.br
+DTSTAMP:20261116T195916Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270314
+SUMMARY:TeenEagle: Angola Regional Round
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: round\nEvidên
+ cia: 12-13 March 2027 Luanda\, Angola Angola Regional Round\nFonte oficial
+ : https://www.teeneagle.org/
+URL:https://www.teeneagle.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4e04d8fe5036d136@noic.com.br
+DTSTAMP:20261116T195916Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270322
+SUMMARY:TeenEagle: Morocco Regional Round
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: round\nEvidên
+ cia: 19-21 March 2027 Marakesh\, Morocco Morocco Regional Round\nFonte ofi
+ cial: https://www.teeneagle.org/
+URL:https://www.teeneagle.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4e247c157245b97f@noic.com.br
+DTSTAMP:20261116T195945Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270330
+SUMMARY:TeenEagle: Spring Competition Malaysia
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: round\nEvidên
+ cia: 25-29 March 2027 Spring Competition Malaysia\nFonte oficial: https://
+ www.teeneagle.org/english-calendar
+URL:https://www.teeneagle.org/english-calendar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ff315761d8e5e0a9@noic.com.br
+DTSTAMP:20261116T195916Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270401
+SUMMARY:TeenEagle: Malaysia Inter-Regional Championship
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: round\nEvidên
+ cia: 25-31 March 2027 Kuala Lumpur\, Malaysia Malaysia Inter-Regional Cham
+ pionship\nFonte oficial: https://www.teeneagle.org/
+URL:https://www.teeneagle.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a7570c3ac5c7565c@noic.com.br
+DTSTAMP:20261116T195945Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270404
+SUMMARY:TeenEagle: GCC regional round Riyadh
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: round\nEvidên
+ cia: 1-3 April 2027 GCC regional round Riyadh\nFonte oficial: https://www.
+ teeneagle.org/english-calendar
+URL:https://www.teeneagle.org/english-calendar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5cb4eb28634a3f11@noic.com.br
+DTSTAMP:20261116T195945Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270418
+SUMMARY:TeenEagle: Nigeria regional round Abuja
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: round\nEvidên
+ cia: 16–17 April 2027 Nigeria regional round Abuja\nFonte oficial: https
+ ://www.teeneagle.org/english-calendar
+URL:https://www.teeneagle.org/english-calendar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b6806a40bd4baed2@noic.com.br
+DTSTAMP:20261116T195916Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:TeenEagle: Academy Competition New StoryTellers Deadline
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: deadline\nEvid
+ ência: 01 May 2027 Academy Competition New StoryTellers Deadline\nFonte o
+ ficial: https://www.teeneagle.org/
+URL:https://www.teeneagle.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2dc181dc36adee8b@noic.com.br
+DTSTAMP:20261116T195916Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270514
+SUMMARY:TeenEagle: Academic Excellence Program
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: other\nEvidên
+ cia: 8-13 May 2027 Kocaeli\, Türkiye Academic Excellence Program\nFonte o
+ ficial: https://www.teeneagle.org/
+URL:https://www.teeneagle.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7afe402d4b71121c@noic.com.br
+DTSTAMP:20261116T195945Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270628
+SUMMARY:TeenEagle: Global Finals UK 1 Surrey
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: final\nEvidên
+ cia: 20–27 June 2027 Global Finals UK 1 Surrey\nFonte oficial: https://w
+ ww.teeneagle.org/english-calendar
+URL:https://www.teeneagle.org/english-calendar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-412ee54b81a8dfb8@noic.com.br
+DTSTAMP:20261116T195916Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270718
+SUMMARY:TeenEagle: USA Summer Competition
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: other\nEvidên
+ cia: 11-17 July 2027 NYC\, USA USA Summer Competition\nFonte oficial: http
+ s://www.teeneagle.org/
+URL:https://www.teeneagle.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6ab25c07ed6abdc7@noic.com.br
+DTSTAMP:20261116T195945Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270809
+SUMMARY:TeenEagle: Global Finals UK 2 Surrey
+DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: final\nEvidên
+ cia: 1–8 August 2027 Global Finals UK 2 Surrey\nFonte oficial: https://w
+ ww.teeneagle.org/english-calendar
+URL:https://www.teeneagle.org/english-calendar
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

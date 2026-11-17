@@ -6,6 +6,30 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OBOArt — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-c52ab78fbeabac69@noic.com.br
+DTSTAMP:20261116T202259Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260904
+SUMMARY:OBOArt: Inscrições
+DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: registration\nEvid
+ ência: 1) Inscrições: 07/07 – 03/09\nFonte oficial: https://noic.com.
+ br/?page_id=89787
+URL:https://noic.com.br/?page_id=89787
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-588004976472c207@noic.com.br
+DTSTAMP:20261117T001953Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260907
+SUMMARY:OBOArt: Fase Única
+DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: exam\nEvidência: A
+  prova será realizada de 31/08 até 06/09\nFonte oficial: https://noic.co
+ m.br/wp-content/uploads/2026/08/oboart.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/08/oboart.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-a361aa89a0d66916@noic.com.br
 DTSTAMP:20261003T184756Z
 DTSTART;VALUE=DATE:20260831
@@ -19,6 +43,104 @@ URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-8ded99b0160eb61c@noic.com.br
+DTSTAMP:20261116T202259Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:OBOArt: Aplicação da 1ª Fase (online) - Dia 1
+DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: round\nEvidência:
+  2) Aplicação da 1ª Fase (online): 04 e 05/09\nFonte oficial: https://n
+ oic.com.br/?page_id=89787
+URL:https://noic.com.br/?page_id=89787
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c045fc3ed59e2771@noic.com.br
+DTSTAMP:20261116T202259Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:OBOArt: Aplicação da 1ª Fase (online) - Dia 2
+DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: round\nEvidência:
+  2) Aplicação da 1ª Fase (online): 04 e 05/09\nFonte oficial: https://n
+ oic.com.br/?page_id=89787
+URL:https://noic.com.br/?page_id=89787
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6bf0b415af0ceb9d@noic.com.br
+DTSTAMP:20261116T202259Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260909
+SUMMARY:OBOArt: Período para apresentação de recursos referentes à 1ª
+  Fase
+DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: other\nEvidência:
+  4) Período para apresentação de recursos referentes à 1ª Fase: 07 a
+  08/09\nFonte oficial: https://noic.com.br/?page_id=89787
+URL:https://noic.com.br/?page_id=89787
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-befbf8f84d284883@noic.com.br
+DTSTAMP:20261116T202259Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:OBOArt: Divulgação dos resultados da 1ª Fase
+DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: results\nEvidência
+ : 5) Divulgação dos resultados da 1ª Fase: 14/09\nFonte oficial: https:
+ //noic.com.br/?page_id=89787
+URL:https://noic.com.br/?page_id=89787
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9b701ce038ec7ec6@noic.com.br
+DTSTAMP:20261116T202259Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:OBOArt: Divulgação do gabarito preliminar da 1ª Fase
+DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: results\nEvidência
+ : 3) Divulgação do gabarito preliminar da 1ª Fase: 25/09\nFonte oficial
+ : https://noic.com.br/?page_id=89787
+URL:https://noic.com.br/?page_id=89787
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c1c1a45fd417ce1a@noic.com.br
+DTSTAMP:20261116T202259Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:OBOArt: Aplicação da 2ª Fase (online e vigiada)
+DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: round\nEvidência:
+  6) Aplicação da 2ª Fase (online e vigiada): 09/10\nFonte oficial: http
+ s://noic.com.br/?page_id=89787
+URL:https://noic.com.br/?page_id=89787
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e45025775a176e30@noic.com.br
+DTSTAMP:20261116T202259Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:OBOArt: Divulgação das respostas esperadas
+DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: results\nEvidência
+ : 7) Divulgação das respostas esperadas: 10/10\nFonte oficial: https://n
+ oic.com.br/?page_id=89787
+URL:https://noic.com.br/?page_id=89787
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-94e3ee82f0dad356@noic.com.br
+DTSTAMP:20261116T202259Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261013
+SUMMARY:OBOArt: Período para apresentação de recursos referentes à 2ª
+  Fase
+DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: other\nEvidência:
+  8) Período para apresentação de recursos referentes à 2ª Fase: 11 a
+  12/10\nFonte oficial: https://noic.com.br/?page_id=89787
+URL:https://noic.com.br/?page_id=89787
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-99b477cf744100fe@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20261201
@@ -29,6 +151,18 @@ DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: results\nEvidência
  : As premiações sairão até dia 01/12.\nFonte oficial: https://noic.com
  .br/wp-content/uploads/2026/05/calendario_oficial.pdf
 URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-69ed6f5180ebbf7f@noic.com.br
+DTSTAMP:20261116T202259Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:OBOArt: Divulgação dos premiados da 2ª Fase
+DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: results\nEvidência
+ : 9) Divulgação dos premiados da 2ª Fase: 05/01\nFonte oficial: https:/
+ /noic.com.br/?page_id=89787
+URL:https://noic.com.br/?page_id=89787
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

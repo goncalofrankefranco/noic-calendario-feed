@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:ARBIChO — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-0daeb9012ba9d680@noic.com.br
+DTSTAMP:20261116T201054Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261111
+SUMMARY:ARBIChO: Abu Rayhan Biruni International Chemistry Olympiad 2026
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
+ : November 3–10\, 2026\nFonte oficial: https://www.arbicho.uz/
+URL:https://www.arbicho.uz/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

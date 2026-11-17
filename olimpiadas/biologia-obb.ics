@@ -1,0 +1,476 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Olimpíada Brasileira de Biologia (OBB) — Calendário Olímp
+ ico do NOIC
+BEGIN:VEVENT
+UID:noic-c1eb35445242c41e@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260226
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Inscrições para a XXII O
+ BB
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: registration\nEv
+ idência: Inscrições para a XXII OBB 15/01/2026 a 25/02/2026\nFonte ofic
+ ial: https://olimpiadasdebiologia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b83078c8ff3881bb@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART:20260303T025900Z
+DTEND:20260303T025900Z
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Download da prova de Fase
+  1
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: submission\nEvid
+ ência: Download da prova de Fase 1 02/03/2026 (até 23h59\, BRT)\nFonte o
+ ficial: https://olimpiadasdebiologia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-27c639ab71c03a03@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Realização da prova de F
+ ase 1
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: exam\nEvidência
+ : Realização da prova de Fase 1 03/03/2026\nFonte oficial: https://olimp
+ iadasdebiologia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-aeda2384146fb084@noic.com.br
+DTSTAMP:20261116T195720Z
+DTSTART:20260303T120000Z
+DTEND:20260303T190000Z
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Fase 1 da XXII OBB
+DESCRIPTION:Departamento: Biologia\nEdição: XXII OBB\nMarco: exam\nEvidê
+ ncia: Fase 1: Data: somente 03/03/2026 (terça-feira – das 9h às 16h -
+  horário de Brasília)\nFonte oficial: https://olimpiadasdebiologia.butan
+ tan.gov.br/fases-e-inscricoes
+URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-bafd22e4b4794dde@noic.com.br
+DTSTAMP:20261116T195720Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Divulgação do Gabarito P
+ rovisório da Fase 1
+DESCRIPTION:Departamento: Biologia\nEdição: XXII OBB\nMarco: results\nEvi
+ dência: A divulgação do gabarito provisório será dia 04/03/2026\nFont
+ e oficial: https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1d73e7ace75ffc93@noic.com.br
+DTSTAMP:20261116T195720Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Divulgação do Gabarito D
+ efinitivo da Fase 1
+DESCRIPTION:Departamento: Biologia\nEdição: XXII OBB\nMarco: results\nEvi
+ dência: A divulgação do gabarito definitivo da prova de fase 1 será a
+  partir do o dia 05/03/2026\nFonte oficial: https://olimpiadasdebiologia.b
+ utantan.gov.br/fases-e-inscricoes
+URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d1630290f2b93d10@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Inserção do número de a
+ certos da Fase 1
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: Inserção do número de acertos da Fase 1 e cadastros de estudantes
+  pelas escolas Até 10/03/2026\nFonte oficial: https://olimpiadasdebiologi
+ a.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4d70e5f8d2b02e4c@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Divulgação do número de
+  corte e lista preliminar Fase 2
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: results\nEvidên
+ cia: Divulgação do número de corte da prova de Fase 1 e divulgação da
+  lista preliminar dos classificados para a Fase 2 A partir de 11/03/2026\n
+ Fonte oficial: https://olimpiadasdebiologia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9c8392a46da0328d@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Nota de corte da Fase 1 e
+  lista definitiva Fase 2
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: results\nEvidên
+ cia: Nota de corte da Fase 1 e lista definitiva dos classificados para a F
+ ase 2 A partir de 12/03/2026\nFonte oficial: https://olimpiadasdebiologia.
+ butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f0bb43f0df90abd1@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART:20260318T025900Z
+DTEND:20260318T025900Z
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Download da prova de fase
+  2
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: submission\nEvid
+ ência: Download da prova de fase 2 17/03/2026 (até 23h59\, BRT)\nFonte o
+ ficial: https://olimpiadasdebiologia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e1176749e4b6941f@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Realização da prova de f
+ ase 2
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: exam\nEvidência
+ : Realização da prova de fase 2 18/03/2026\nFonte oficial: https://olimp
+ iadasdebiologia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9a24bc1d112b0289@noic.com.br
+DTSTAMP:20261116T195720Z
+DTSTART:20260318T120000Z
+DTEND:20260318T190000Z
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Fase 2 da XXII OBB
+DESCRIPTION:Departamento: Biologia\nEdição: XXII OBB\nMarco: exam\nEvidê
+ ncia: Fase 2: Data: 18/03/2026 (quarta-feira - das 9h às 16h - horário d
+ e Brasília)\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/
+ fases-e-inscricoes
+URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-761eefa880aa9c30@noic.com.br
+DTSTAMP:20261116T195720Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Divulgação do Gabarito P
+ rovisório da Fase 2
+DESCRIPTION:Departamento: Biologia\nEdição: XXII OBB\nMarco: results\nEvi
+ dência: A divulgação do gabarito provisório será dia 19/03/2026\nFont
+ e oficial: https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-85ebb448a7dcc4e4@noic.com.br
+DTSTAMP:20261116T195720Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Divulgação do Gabarito D
+ efinitivo da Fase 2
+DESCRIPTION:Departamento: Biologia\nEdição: XXII OBB\nMarco: results\nEvi
+ dência: A divulgação do gabarito definitivo da fase 2 será a partir do
+  dia 20/03/2026\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.
+ br/fases-e-inscricoes
+URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cffecae344ead205@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Inserção do número de a
+ certos da Fase 2
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: Inserção do número de acertos da Fase 2 dos estudantes\, feito pe
+ las escolas Até 26/03/2026\nFonte oficial: https://olimpiadasdebiologia.b
+ utantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cd11de7a504eb82e@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Divulgação do número de
+  corte e lista preliminar Fase 3
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: results\nEvidên
+ cia: Divulgação do número de corte da prova de Fase 2 e divulgação da
+  lista preliminar dos classificados para a Fase 3 A partir do dia 30/03/20
+ 26\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-57da0c0e82088430@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Nota de corte da Fase 2 e
+  lista definitiva Fase 3
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: results\nEvidên
+ cia: Nota de corte da Fase 2 e lista definitiva dos classificados para a F
+ ase 3 A partir do dia 31/03/2026\nFonte oficial: https://olimpiadasdebiolo
+ gia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-62ac8f2b3ca43d5b@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Confirmação de interesse
+  das escolas na Fase 3
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: Confirmação de interesse das escolas sobre participação na Fase
+  3 e comunicar a coordenação caso o estudante não tenha computador para
+  uso na prova Até 02/04/2026\nFonte oficial: https://olimpiadasdebiologia
+ .butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-aa21209b6bfa4f3a@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART:20260409T210000Z
+DTEND:20260409T210000Z
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Download do programa e tes
+ te técnico Fase 3
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: Download do programa para realização das provas e teste técnico p
+ or parte dos estudantes/escolas Até 09/04/2026 às 18h (BRT)\nFonte ofici
+ al: https://olimpiadasdebiologia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fe327b04cb084431@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Divulgação dos estudante
+ s aptos para a Fase 3
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: results\nEvidên
+ cia: Divulgação da lista dos estudantes aptos/autorizados a fazer a prov
+ a de Fase 3 A partir de 10/04/2026\nFonte oficial: https://olimpiadasdebio
+ logia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9477b386228ff7cf@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART:20260414T130000Z
+DTEND:20260414T130000Z
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Realização da prova de F
+ ase 3
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: exam\nEvidência
+ : Realização da prova de Fase 3 14/04/2026 às 10h (BRT)\nFonte oficial:
+  https://olimpiadasdebiologia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d18c6f5b547fe96d@noic.com.br
+DTSTAMP:20261116T195720Z
+DTSTART:20260414T130000Z
+DTEND:20260414T150000Z
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Fase 3 da XXII OBB
+DESCRIPTION:Departamento: Biologia\nEdição: XXII OBB\nMarco: exam\nEvidê
+ ncia: Fase 3 Data: 14/04/2026 (terça-feira - das 10h às 12h – Horário
+  de Brasília)\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.b
+ r/fases-e-inscricoes
+URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3dd40cf65f9e27b5@noic.com.br
+DTSTAMP:20261116T195720Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Divulgação do Gabarito P
+ rovisório da Fase 3
+DESCRIPTION:Departamento: Biologia\nEdição: XXII OBB\nMarco: results\nEvi
+ dência: A divulgação do gabarito provisório será a partir do dia 15/0
+ 4/2026\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/fases-
+ e-inscricoes
+URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a2a4abb0eac3a9d6@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Divulgação da classifica
+ ção preliminar e classificados para a Seletiva
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: results\nEvidên
+ cia: Divulgação da classificação preliminar e dos classificados para a
+  Capacitação/Seletiva para as Olimpíadas Internacionais A partir de 16/
+ 04/2026\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/crono
+ grama
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d13e2f733f84fff1@noic.com.br
+DTSTAMP:20261116T195720Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Divulgação do Gabarito D
+ efinitivo e Classificação Preliminar da Fase 3
+DESCRIPTION:Departamento: Biologia\nEdição: XXII OBB\nMarco: results\nEvi
+ dência: A divulgação do gabarito definitivo da fase 3 e divulgação da
+  classificação PRELIMINAR dos classificados para a Capacitação/Seletiv
+ a para as Olimpíadas Internacionais será a partir de 16/04/2026.\nFonte
+  oficial: https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8faf4d6f223ea11b@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Lista definitiva dos class
+ ificados para a Capacitação/Seletiva
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: results\nEvidên
+ cia: Lista definitiva dos classificados para a Capacitação/Seletiva A pa
+ rtir de 17/04/2026\nFonte oficial: https://olimpiadasdebiologia.butantan.g
+ ov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-43dd1d35d0f1d88c@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Emissão dos formulários
+  de confirmação de interesse da Seletiva
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: announcement\nEv
+ idência: Emissão dos formulários de confirmação de interesse e lista
+  de documentos A partir de 18/04/2026\nFonte oficial: https://olimpiadasde
+ biologia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-250cc751f6880603@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Envio de documentação pe
+ las escolas
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: Envio de documentação pelas escolas Até 23/04/2026\nFonte oficial
+ : https://olimpiadasdebiologia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-47860908c12daa50@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Acesso dos participantes
+  à Plataforma Virtual
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: announcement\nEv
+ idência: Acesso dos participantes à Plataforma Virtual via login e senha
+  disponibilizados pela coordenação Até 06/05/2026\nFonte oficial: https
+ ://olimpiadasdebiologia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a6f2cde594e81128@noic.com.br
+DTSTAMP:20261116T195720Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260509
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Capacitação/Seletiva par
+ a Olimpíadas Internacionais - Etapa Virtual
+DESCRIPTION:Departamento: Biologia\nEdição: XXII OBB\nMarco: selection\nE
+ vidência: CAPACITAÇÃO/SELETIVA PARA OLIMPÍADAS INTERNACIONAIS (Data: 0
+ 7 e 08/05/2026 na plataforma virtual\nFonte oficial: https://olimpiadasdeb
+ iologia.butantan.gov.br/fases-e-inscricoes
+URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-010068b1462cf2dd@noic.com.br
+DTSTAMP:20261116T195703Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Cerimônia de abertura da
+  Capacitação/Seletiva
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: announcement\nEv
+ idência: Cerimônia de abertura 11/05/2026\nFonte oficial: https://olimpi
+ adasdebiologia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9a1c1b37d1fa14d5@noic.com.br
+DTSTAMP:20261116T195720Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260517
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Capacitação/Seletiva par
+ a Olimpíadas Internacionais - Etapa Presencial
+DESCRIPTION:Departamento: Biologia\nEdição: XXII OBB\nMarco: selection\nE
+ vidência: e de 11 a 16/05 na modalidade presencial\nFonte oficial: https:
+ //olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a09638f26a48a06d@noic.com.br
+DTSTAMP:20261116T195720Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Divulgação da lista prel
+ iminar de classificados para as Olimpíadas Internacionais
+DESCRIPTION:Departamento: Biologia\nEdição: XXII OBB\nMarco: results\nEvi
+ dência: A divulgação da lista PRELIMINAR dos(as) classificados(as) para
+  as Olimpíadas Internacionais de Biologia será a partir do dia 20/05/202
+ 6.\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/fases-e-in
+ scricoes
+URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9ab9215d3cfd3a29@noic.com.br
+DTSTAMP:20261116T195720Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Divulgação da lista defi
+ nitiva de classificados para as Olimpíadas Internacionais
+DESCRIPTION:Departamento: Biologia\nEdição: XXII OBB\nMarco: results\nEvi
+ dência: A divulgação da lista DEFINITIVA dos(as) classificados(as) para
+  as Olimpíadas Internacionais de Biologia será a partir do dia 22/05/202
+ 6.\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/fases-e-in
+ scricoes
+URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

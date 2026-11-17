@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Olimpíada Ibero-Americana de Matemática — Calendário Olí
+ mpico do NOIC
+BEGIN:VEVENT
+UID:noic-f7f4764bae395716@noic.com.br
+DTSTAMP:20261116T201332Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260814
+SUMMARY:Olimpíada Ibero-Americana de Matemática: Selección 41ª Olimpía
+ da Iberoamericana de Matemática - 41ª OIM
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: selection\nEv
+ idência: {"aclaracion": "(MIÉRCOLES y JUEVES)"\, "fin_dia": 13\, "inicio
+ _dia": 12\, "inicio_mes": 8\, "tachado": false\, "texto": "Selección 41ª
+  Olimpíada Iberoamericana de Matemática - 41ª OIM "\, "tipo": "selectiv
+ o"}\nFonte oficial: https://www.oma.org.ar/contents/calendar/2026.json
+URL:https://www.oma.org.ar/contents/calendar/2026.json
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-934e4b69b87c0231@noic.com.br
+DTSTAMP:20261116T201332Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260914
+SUMMARY:Olimpíada Ibero-Americana de Matemática: 41° Olimpíada Iberoame
+ ricana de Matemática
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: other\nEvidê
+ ncia: {"aclaracion": "EN ARGENTINA!"\, "fin_dia": 13\, "inicio_dia": 6\, "
+ inicio_mes": 9\, "tachado": false\, "texto": "41° Olimpíada Iberoamerica
+ na de Matemática"\, "tipo": "internacional"}\nFonte oficial: https://www.
+ oma.org.ar/contents/calendar/2026.json
+URL:https://www.oma.org.ar/contents/calendar/2026.json
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ad92667336205dd8@noic.com.br
+DTSTAMP:20261117T002701Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260914
+SUMMARY:Olimpíada Ibero-Americana de Matemática: 41ª Olimpíada Ibero-am
+ ericana de Matemática
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: final\nEvidê
+ ncia: 41ª Olimpíada Ibero-americana de Matemática 6 a 13 de setembro\,
+  Buenos Aires\, Argentina\nFonte oficial: https://www.obm.org.br/informaco
+ es-gerais/calendario
+URL:https://www.obm.org.br/informacoes-gerais/calendario
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

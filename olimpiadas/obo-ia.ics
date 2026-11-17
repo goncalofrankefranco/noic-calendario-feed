@@ -6,6 +6,18 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OBOIA — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-7591d41a12d9be01@noic.com.br
+DTSTAMP:20261117T002013Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260907
+SUMMARY:OBOIA: 1ª fase
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  round\nEvidência: A prova será realizada de 31/08 até 06/09.\nFonte
+  oficial: https://noic.com.br/wp-content/uploads/2026/08/oboia.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/08/oboia.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-c49cb9f40669afcc@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260831
@@ -15,6 +27,19 @@ DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
   round\nEvidência: Lote 3: OBOA\, OBOC\, OBOIA e OBOArt até 06/09.\nFont
  e oficial: https://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
 URL:https://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c7a9c0da9b3157c5@noic.com.br
+DTSTAMP:20261117T002013Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:OBOIA: 2ª fase
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  round\nEvidência: A prova acontecerá exclusivamente dia 26/09 em um ho
+ rário fixo a ser definido.\nFonte oficial: https://noic.com.br/wp-conten
+ t/uploads/2026/08/oboia.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/08/oboia.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

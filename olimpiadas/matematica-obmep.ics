@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Olimpíada Brasileira de Matemática das Escolas Públicas —
+  Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-160fd2c815217c7b@noic.com.br
+DTSTAMP:20261117T002717Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260317
+SUMMARY:Olimpíada Brasileira de Matemática das Escolas Públicas: Períod
+ o de inscrições
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: registration\
+ nEvidência: De 04 de fevereiro a 16 de março\nFonte oficial: https://www
+ .obmep.org.br/images/dynamic/c59fc0f7.jpg
+URL:https://www.obmep.org.br/images/dynamic/c59fc0f7.jpg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1731215ee25312fe@noic.com.br
+DTSTAMP:20261116T201729Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:Olimpíada Brasileira de Matemática das Escolas Públicas: Abertur
+ a das inscrições da 21ª OBMEP
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: registration\
+ nEvidência: 2026 04 de fevereiro\nFonte oficial: http://www.obmep.org.br/
+ calendario.htm
+URL:http://www.obmep.org.br/calendario.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-71faaf6ce8051460@noic.com.br
+DTSTAMP:20261116T201729Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:Olimpíada Brasileira de Matemática das Escolas Públicas: Encerra
+ mento das inscrições da 21ª OBMEP
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: deadline\nEvi
+ dência: 2026 04 de fevereiro 16 de março\nFonte oficial: http://www.obme
+ p.org.br/calendario.htm
+URL:http://www.obmep.org.br/calendario.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6ffdb25aef93ffbb@noic.com.br
+DTSTAMP:20261117T002707Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260323
+SUMMARY:Olimpíada Brasileira de Matemática das Escolas Públicas: Períod
+ o de emissão e pagamento dos boletos (somente para escolas privadas)
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: deadline\nEvi
+ dência: Os boletos para pagamento da taxa de inscrição só poderão ser
+  emitidos e quitados no período de 17 de março a 22 de março de 2026.\n
+ Fonte oficial: https://www.obmep.org.br/docs/2026/21a_OBMEP_REGULAMENTO-2.
+ pdf
+URL:https://www.obmep.org.br/docs/2026/21a_OBMEP_REGULAMENTO-2.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4765747bc99b7c9f@noic.com.br
+DTSTAMP:20261117T002717Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Olimpíada Brasileira de Matemática das Escolas Públicas: Provas
+  da 1ª Fase
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: 09 de junho\nFonte oficial: https://www.obmep.org.br/images/dynamic/c
+ 59fc0f7.jpg
+URL:https://www.obmep.org.br/images/dynamic/c59fc0f7.jpg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ef885e9065e63dc7@noic.com.br
+DTSTAMP:20261114T162024Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260623
+SUMMARY:Olimpíada Brasileira de Matemática das Escolas Públicas: Períod
+ o para as escolas enviarem os cartões-resposta dos alunos classificados p
+ ara a 2ª fase
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: submission\nE
+ vidência: De 10 de junho a 22 de junho | Período para as escolas enviare
+ m os cartões-resposta dos alunos classificados para a 2ª fase\nFonte ofi
+ cial: https://www.obmep.org.br/images/calendario2026.pdf
+URL:https://www.obmep.org.br/images/calendario2026.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-14fc29cf61b6e60a@noic.com.br
+DTSTAMP:20261116T201729Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:Olimpíada Brasileira de Matemática das Escolas Públicas: Data-li
+ mite para envio dos cartões-resposta
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: submission\nE
+ vidência: 2026 04 de fevereiro 16 de março 9 de junho 22 de junho\nFonte
+  oficial: http://www.obmep.org.br/calendario.htm
+URL:http://www.obmep.org.br/calendario.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4824a6bb9c6d6d20@noic.com.br
+DTSTAMP:20261113T172939Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260918
+SUMMARY:Olimpíada Brasileira de Matemática das Escolas Públicas: Cadastr
+ o de Professores
+DESCRIPTION:Departamento: Matemática\nEdição: 21ª\nMarco: registration\
+ nEvidência: 03 de agosto a 17 de setembro\nFonte oficial: https://www.obm
+ ep.org.br/calendario.htm
+URL:https://www.obmep.org.br/calendario.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5e11f2065130a5be@noic.com.br
+DTSTAMP:20261116T201729Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:Olimpíada Brasileira de Matemática das Escolas Públicas: Divulga
+ ção dos Classificados (2ª Fase)
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: results\nEvid
+ ência: 2026 04 de fevereiro 16 de março 9 de junho 22 de junho 03 de ago
+ sto\nFonte oficial: http://www.obmep.org.br/calendario.htm
+URL:http://www.obmep.org.br/calendario.htm
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-31a6ee6b63f3d87f@noic.com.br
+DTSTAMP:20261114T162024Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260916
+SUMMARY:Olimpíada Brasileira de Matemática das Escolas Públicas: Períod
+ o para as escolas solicitarem prova em trânsito e transferência
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: deadline\nEvi
+ dência: De 28 de agosto a 15 de setembro | Período para as escolas solic
+ itarem prova em trânsito e transferência\nFonte oficial: https://www.obm
+ ep.org.br/images/calendario2026.pdf
+URL:https://www.obmep.org.br/images/calendario2026.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-930d9d86489d0c19@noic.com.br
+DTSTAMP:20261114T162024Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Olimpíada Brasileira de Matemática das Escolas Públicas: Divulga
+ ção dos locais de provas
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: announcement\
+ nEvidência: 28 de agosto | Divulgação dos locais de provas\nFonte ofici
+ al: https://www.obmep.org.br/images/calendario2026.pdf
+URL:https://www.obmep.org.br/images/calendario2026.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-213f4f5ff510f51b@noic.com.br
+DTSTAMP:20261114T162024Z
+DTSTART:20261017T173000Z
+DTEND:20261017T173000Z
+SUMMARY:Olimpíada Brasileira de Matemática das Escolas Públicas: Provas
+  da 2ª Fase
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: 17 de outubro Sábado 14:30h (horário de Brasília) | PROVA DA 2ª F
+ ASE\nFonte oficial: https://www.obmep.org.br/images/calendario2026.pdf
+URL:https://www.obmep.org.br/images/calendario2026.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-30ca88894d953500@noic.com.br
+DTSTAMP:20261114T162024Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Olimpíada Brasileira de Matemática das Escolas Públicas: Divulga
+ ção dos premiados
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: results\nEvid
+ ência: 15 de dezembro | Divulgação dos premiados\nFonte oficial: https:
+ //www.obmep.org.br/images/calendario2026.pdf
+URL:https://www.obmep.org.br/images/calendario2026.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

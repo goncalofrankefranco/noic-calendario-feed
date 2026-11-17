@@ -6,6 +6,30 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OBOQ — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-0c84502058d876ff@noic.com.br
+DTSTAMP:20261114T161113Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260914
+SUMMARY:OBOQ: OBOQ 2026 - 1ª fase
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
+ : A prova será realizada de 07/09 até 13/09.\nFonte oficial: https://noi
+ c.com.br/wp-content/uploads/2026/05/regulamento_oboq.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboq.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4b6250e5c8d188ac@noic.com.br
+DTSTAMP:20261117T001918Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260914
+SUMMARY:OBOQ: 1ª fase da Olimpíada Brasileira Online de Química 2026
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: round\nEvidênci
+ a: A prova será realizada de 07/09 até 13/09.\nFonte oficial: https://
+ noic.com.br/wp-content/uploads/2026/05/regulamento_oboq.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboq.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-55787c4543d51879@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260907
@@ -15,6 +39,30 @@ DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: round\nEvidênci
  a: Lote 4: OBOQ\, OBOCH e OBOEcon até 13/09.\nFonte oficial: https://www.
  instagram.com/projetonoic/p/DdAIHUMmOmu/
 URL:https://www.instagram.com/projetonoic/p/DdAIHUMmOmu/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-66c443fa914ba310@noic.com.br
+DTSTAMP:20261114T161113Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBOQ: OBOQ 2026 - 2ª fase
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
+ : A prova será realizada de 05/10 até 11/10.\nFonte oficial: https://noi
+ c.com.br/wp-content/uploads/2026/05/regulamento_oboq.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboq.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7c99a4653f39b012@noic.com.br
+DTSTAMP:20261117T001918Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBOQ: 2ª fase da Olimpíada Brasileira Online de Química 2026
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: round\nEvidênci
+ a: A prova será realizada de 05/10 até 11/10.\nFonte oficial: https://
+ noic.com.br/wp-content/uploads/2026/05/regulamento_oboq.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboq.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

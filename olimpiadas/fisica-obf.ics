@@ -1,0 +1,456 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBF — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-e47e34809cbdf315@noic.com.br
+DTSTAMP:20261116T201840Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:OBF: Abertura das Inscrições da OBF 2026
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: registration\nEvi
+ dência: Abertura das inscrições: 02/04\nFonte oficial: http://www.sbfis
+ ica.org.br/v1/olimpiada/
+URL:http://www.sbfisica.org.br/v1/olimpiada/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-057a081f5670c55e@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:OBF: Abertura do site de provas para inscrições de escolas\, estu
+ dantes e pagamento de taxas
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: registration\nEvi
+ dência: Abertura do site de provas ( https://app.graxaim.org/obf/2026 ) p
+ ara inscrições de escolas\, estudantes e pagamento de taxas. 07/04\nFont
+ e oficial: https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5b46cd178ca70d58@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260606
+SUMMARY:OBF: Período de inscrição de escolas\, estudantes e pagamento da
+ s taxas da 1ª fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: registration\nEvi
+ dência: Período de inscrição de escolas\, estudantes e pagamento das t
+ axas da 1ª fase. 07/04 a 05/06\nFonte oficial: https://www1.fisica.org.br
+ /olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a9c4f61fc5814221@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260531
+SUMMARY:OBF: Período de pedido de isenção de pagamento de taxas de prova
+ s
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: registration\nEvi
+ dência: Período de pedido de isenção de pagamento de taxas de provas (
+ apenas escolas públicas). 07/04 a 30/05\nFonte oficial: https://www1.fisi
+ ca.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e2b1db57d7c51c8d@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260524
+SUMMARY:OBF: Período de pedido de isenção de pagamento de taxas de inscr
+ ição de escola
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: registration\nEvi
+ dência: Período de pedido de isenção de pagamento de taxas de inscriç
+ ão de escola (apenas escolas públicas). 07/04 a 23/05\nFonte oficial: ht
+ tps://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-eba67ec26e36b33c@noic.com.br
+DTSTAMP:20261116T201605Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:OBF: Abertura do site de provas para inscrições
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: registration\nEvi
+ dência: Abertura do site de provas ( https://app.graxaim.org/obf/2026 ) p
+ ara inscrições de escolas\, estudantes e pagamento de taxas. 07/04\nFont
+ e oficial: https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3f01d6e3f3a85877@noic.com.br
+DTSTAMP:20261116T201840Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:OBF: 1ª Fase da OBF 2026 - Dia 1
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  1ª fase: 12 e 13/06\nFonte oficial: http://www.sbfisica.org.br/v1/olimpi
+ ada/
+URL:http://www.sbfisica.org.br/v1/olimpiada/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6e210e316c9a642b@noic.com.br
+DTSTAMP:20261117T001429Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:OBF: Prazo de Inscrição da 1ª Fase da OBF 2026
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: registration\nEvi
+ dência: prazo de inscrições \, que passa a ser até 12 de junho de 2026
+ \nFonte oficial: https://www1.fisica.org.br/olimpiada/2026/index.php/16-ob
+ f/387-mudanca-da-data-da-prova-da-1-fase-e-prazo-de-inscricao-prorrogado
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/16-obf/387-mudanca-
+ da-data-da-prova-da-1-fase-e-prazo-de-inscricao-prorrogado
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-21ce91075b3a7357@noic.com.br
+DTSTAMP:20261116T201840Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:OBF: 1ª Fase da OBF 2026 - Dia 2
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  1ª fase: 12 e 13/06\nFonte oficial: http://www.sbfisica.org.br/v1/olimpi
+ ada/
+URL:http://www.sbfisica.org.br/v1/olimpiada/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-17945a10ff9f7726@noic.com.br
+DTSTAMP:20261117T001429Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260621
+SUMMARY:OBF: 1ª Fase da OBF 2026
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  A prova da 1ª Fase da Olimpíada Brasileira de Física (OBF) 2026 será
+  realizada nos dias 19 e 20 de junho de 2026\nFonte oficial: https://www1.
+ fisica.org.br/olimpiada/2026/index.php/16-obf/387-mudanca-da-data-da-prova
+ -da-1-fase-e-prazo-de-inscricao-prorrogado
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/16-obf/387-mudanca-
+ da-data-da-prova-da-1-fase-e-prazo-de-inscricao-prorrogado
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-84e406b0be49d63a@noic.com.br
+DTSTAMP:20261116T201535Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:OBF: 1ª Fase da Olimpíada Brasileira de Física 2026 - Dia 19
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  A prova da 1ª Fase da Olimpíada Brasileira de Física (OBF) 2026 será
+  realizada nos dias 19 e 20 de junho de 2026\nFonte oficial: https://www1.
+ fisica.org.br/olimpiada/2026/index.php/16-obf/387-mudanca-da-data-da-prova
+ -da-1-fase-e-prazo-de-inscricao-prorrogado
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/16-obf/387-mudanca-
+ da-data-da-prova-da-1-fase-e-prazo-de-inscricao-prorrogado
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b76f0de10beb01ef@noic.com.br
+DTSTAMP:20261115T164943Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260621
+SUMMARY:OBF: Prova da 1ª Fase da OBF 2026
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  A prova da 1ª Fase da Olimpíada Brasileira de Física (OBF) 2026 será
+  realizada nos dias 19 e 20 de junho de 2026 .\nFonte oficial: https://www
+ 1.fisica.org.br/olimpiada/2026/index.php/16-obf/387-mudanca-da-data-da-pro
+ va-da-1-fase-e-prazo-de-inscricao-prorrogado
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/16-obf/387-mudanca-
+ da-data-da-prova-da-1-fase-e-prazo-de-inscricao-prorrogado
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-376c90c27cd2cbd8@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART:20260619T100000Z
+DTEND:20260621T025900Z
+SUMMARY:OBF: Prova da 1ª Fase - Dia 2
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  19/06 a 20/06 Intervalo de 4 horas dentro do período que começa às 7h0
+ 0 (BRT) de 19/06 e termina às 23h59 de 20/06.\nFonte oficial: https://www
+ 1.fisica.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3b2c399200438beb@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:OBF: Divulgação dos gabaritos da 1ª fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: Divulgação dos gabaritos da 1ª fase. 20/06\nFonte oficial: https://
+ www1.fisica.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e1803dbc3eab4949@noic.com.br
+DTSTAMP:20261116T201535Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:OBF: 1ª Fase da Olimpíada Brasileira de Física 2026 - Dia 20
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  A prova da 1ª Fase da Olimpíada Brasileira de Física (OBF) 2026 será
+  realizada nos dias 19 e 20 de junho de 2026\nFonte oficial: https://www1.
+ fisica.org.br/olimpiada/2026/index.php/16-obf/387-mudanca-da-data-da-prova
+ -da-1-fase-e-prazo-de-inscricao-prorrogado
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/16-obf/387-mudanca-
+ da-data-da-prova-da-1-fase-e-prazo-de-inscricao-prorrogado
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d9bd34cd3995b848@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:OBF: Divulgação do gabarito final
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: Divulgação do gabarito final. 26/06\nFonte oficial: https://www1.fis
+ ica.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b793c318ce07bb30@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:OBF: Divulgação das pontuações da 1ª fase na área restrita do
+  site de provas
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: Divulgação das pontuações da 1ª fase na área restrita do site de
+  provas. 27/06\nFonte oficial: https://www1.fisica.org.br/olimpiada/2026/i
+ ndex.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-291bab6f41d06dea@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:OBF: Publicação das notas de corte para a 2ª fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: Publicação das notas de corte para a 2ª fase. 30/06\nFonte oficial:
+  https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c7d45cb0542f32fd@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260808
+SUMMARY:OBF: Período para pagamento da taxa da 2ª fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: registration\nEvi
+ dência: Período para pagamento da taxa da 2ª fase. 01/07 a 07/08\nFonte
+  oficial: https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-31ab1681b434f16d@noic.com.br
+DTSTAMP:20261117T001431Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260818
+SUMMARY:OBF: Escolha do CA/F2 no sistema
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: registration\nEvi
+ dência: Escolha do CA/F2 no sistema (apenas para estudantes inscritos ind
+ ividualmente ou de escolas que não são CA/F2): de 20/07 a 17/08\nFonte o
+ ficial: https://www1.fisica.org.br/olimpiada/2026/index.php/16-obf/390-nov
+ a-data-da-2-fase-22-08
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/16-obf/390-nova-dat
+ a-da-2-fase-22-08
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2a35d080f2f6c502@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260818
+SUMMARY:OBF: Escolha pelo estudante no sistema do local de prova da 2ª Fas
+ e
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: registration\nEvi
+ dência: Escolha pelo estudante no sistema do local de prova da 2ª Fase (
+ CA/F2). de 22/07 a 17/08\nFonte oficial: https://www1.fisica.org.br/olimpi
+ ada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-598f59bb97f8c114@noic.com.br
+DTSTAMP:20261117T001431Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:OBF: Preenchimento dos Termos de Compromisso para CA/F2
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: deadline\nEvidên
+ cia: Preenchimento dos Termos de Compromisso para CA/F2: até 07/08\nFonte
+  oficial: https://www1.fisica.org.br/olimpiada/2026/index.php/16-obf/390-n
+ ova-data-da-2-fase-22-08
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/16-obf/390-nova-dat
+ a-da-2-fase-22-08
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-bc387bc74f268fa3@noic.com.br
+DTSTAMP:20261117T001431Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:OBF: Pagamento da taxa da 2ª fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: deadline\nEvidên
+ cia: Pagamento da taxa da 2ª fase: até 14/08\nFonte oficial: https://www
+ 1.fisica.org.br/olimpiada/2026/index.php/16-obf/390-nova-data-da-2-fase-22
+ -08
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/16-obf/390-nova-dat
+ a-da-2-fase-22-08
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4d2b9fcf6f320bd1@noic.com.br
+DTSTAMP:20261116T201605Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:OBF: Prova da 2ª fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  Prova da 2ª fase (presencial nas escolas). 15/08\nFonte oficial: https:/
+ /www1.fisica.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-37f6dded927a5216@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:OBF: Publicação das respostas gabarito da 2ª fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: Publicação das respostas gabarito da 2ª fase. 21/08\nFonte oficial:
+  https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6ea4f8e66f1333c3@noic.com.br
+DTSTAMP:20261117T001427Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:OBF: 2ª Fase da OBF 2026
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  Nova data da 2ª Fase: 22/08\nFonte oficial: https://www1.fisica.org.br/o
+ limpiada/2026/
+URL:https://www1.fisica.org.br/olimpiada/2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8b5f8263db7f9f96@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:OBF: Limite para pedido de revisão de respostas gabarito da 2ª fa
+ se
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: deadline\nEvidên
+ cia: Limite para pedido de revisão de respostas gabarito. 28/08\nFonte of
+ icial: https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-bcc2dec262853692@noic.com.br
+DTSTAMP:20261117T001427Z
+DTSTART:20260913T025900Z
+DTEND:20260913T025900Z
+SUMMARY:OBF: Envio das Respostas da 2ª Fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: submission\nEvid
+ ência: O formulário deve ser preenchido até as 23h59 (horário de Bras
+ ília) do dia 12/09 .\nFonte oficial: https://www1.fisica.org.br/olimpiada
+ /2026/
+URL:https://www1.fisica.org.br/olimpiada/2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-70af10db2bac9f0d@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:OBF: Divulgação de notas de classificação para 3ª fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: Divulgação de notas de classificação (corte) para 3ª fase. 18/09\
+ nFonte oficial: https://www1.fisica.org.br/olimpiada/2026/index.php/calend
+ ario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9273c3d50a53119a@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:OBF: Limite para divulgação dos Centros de Aplicação da 3ª Fas
+ e
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: announcement\nEvi
+ dência: Limite para divulgação dos Centros de Aplicação (CA) da 3ª F
+ ase. 18/09\nFonte oficial: https://www1.fisica.org.br/olimpiada/2026/index
+ .php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-616faa17bb440e40@noic.com.br
+DTSTAMP:20261116T201840Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:OBF: 3ª Fase da OBF 2026
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  3ª fase: 07/11\, presencial\nFonte oficial: http://www.sbfisica.org.br/v
+ 1/olimpiada/
+URL:http://www.sbfisica.org.br/v1/olimpiada/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8596ade43c1f271b@noic.com.br
+DTSTAMP:20261116T201605Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:OBF: Prova da 3ª fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  Prova da 3ª fase (presencial). 07/11\nFonte oficial: https://www1.fisica
+ .org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c4ffe01c9ca03958@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:OBF: Publicação dos premiados da 3ª série
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: Publicação dos premiados da 3ª série. 08/01/2027\nFonte oficial: h
+ ttps://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b13cdd3340c9e1ad@noic.com.br
+DTSTAMP:20261117T001444Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:OBF: Publicação dos premiados das demais séries
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: Publicação dos premiados das demais séries. 12/02/2027\nFonte ofici
+ al: https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:European Girls’ Mathematical Olympiad — Calendário Olímp
+ ico do NOIC
+BEGIN:VEVENT
+UID:noic-4522733eccc5fdc4@noic.com.br
+DTSTAMP:20261115T164948Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260416
+SUMMARY:European Girls’ Mathematical Olympiad: 15th European Girls' Mathe
+ matical Olympiad (EGMO)
+DESCRIPTION:Departamento: Matemática\nEdição: 15\nMarco: exam\nEvidênci
+ a: 15th European Girls' Mathematical Olympiad (EGMO) 9 a 15 de abril de 20
+ 26\, Bordeaux. França\nFonte oficial: https://www.obm.org.br/informacoes-
+ gerais/calendario
+URL:https://www.obm.org.br/informacoes-gerais/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-beb2cde55c5231c8@noic.com.br
+DTSTAMP:20261117T002701Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260416
+SUMMARY:European Girls’ Mathematical Olympiad: 15th European Girls' Mathe
+ matical Olympiad
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: final\nEvidê
+ ncia: 15th European Girls' Mathematical Olympiad (EGMO) 9 a 15 de abril de
+  2026\, Bordeaux. França\nFonte oficial: https://www.obm.org.br/informaco
+ es-gerais/calendario
+URL:https://www.obm.org.br/informacoes-gerais/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-116964dcc44c1963@noic.com.br
+DTSTAMP:20261116T201110Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270418
+SUMMARY:European Girls’ Mathematical Olympiad: EGMO 2027
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: exam\nEvidên
+ cia: 16 2027 Croatia Šibenik 11–17 April\nFonte oficial: https://www.eg
+ mo.org/egmos/
+URL:https://www.egmo.org/egmos/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-923768bf21d0c4c8@noic.com.br
+DTSTAMP:20261116T201110Z
+DTSTART;VALUE=DATE:20280407
+DTEND;VALUE=DATE:20280414
+SUMMARY:European Girls’ Mathematical Olympiad: EGMO 2028
+DESCRIPTION:Departamento: Matemática\nEdição: 2028\nMarco: exam\nEvidên
+ cia: 17 2028 Lithuania Vilnius 07–13 April\nFonte oficial: https://www.e
+ gmo.org/egmos/
+URL:https://www.egmo.org/egmos/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

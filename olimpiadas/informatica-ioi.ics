@@ -7,15 +7,52 @@ X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:IOI — Calendário Olímpico do NOIC
 BEGIN:VEVENT
 UID:noic-80555f428ed48450@noic.com.br
-DTSTAMP:20261004T145554Z
+DTSTAMP:20261116T201224Z
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260817
 SUMMARY:IOI: International Olympiad in Informatics 2026
-DESCRIPTION:Departamento: Informática\nEdição: 38th\nMarco: exam\nEvidê
- ncia: The 38th International Olympiad in Informatics (IOI 2026) will be he
- ld in Tashkent\, Uzbekistan from 9-16 of August\, 2026\nFonte oficial: htt
- ps://www.ioi2026.uz/?locale=en
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: 9 - 16 August 2026\, Tashkent\, Uzbekistan\nFonte oficial: https://w
+ ww.ioi2026.uz/?locale=en
 URL:https://www.ioi2026.uz/?locale=en
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a83a434ab251b79b@noic.com.br
+DTSTAMP:20261116T201230Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260817
+SUMMARY:IOI: IOI 2026 Programme Schedule
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
+ ncia: Official IOI 2026 programme schedule for August 9-16 in Uzbekistan.\
+ nFonte oficial: https://www.ioi2026.uz/schedule
+URL:https://www.ioi2026.uz/schedule
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cc752fb143b5d99a@noic.com.br
+DTSTAMP:20261117T002607Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:IOI: Arrival and Registration
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: registration
+ \nEvidência: Sunday\, August 9 All day Arrival (Tashkent International Ai
+ rport) and Registration\nFonte oficial: https://www.ioi2026.uz/images/sche
+ dule/day1.jpg
+URL:https://www.ioi2026.uz/images/schedule/day1.jpg
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f98f0a54b7e2370b@noic.com.br
+DTSTAMP:20261117T002110Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260817
+SUMMARY:IOI: IOI 2026
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: final\nEvid
+ ência: Olimpíada Internacional de Informática A IOI2026 será em Tashke
+ nt\, Uzbekistan\, de 09 de agosto a 16 de agosto.\nFonte oficial: https://
+ olimpiada.ic.unicamp.br/calendario/datas_importantes
+URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBFEP — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-0cd486b86b391616@noic.com.br
+DTSTAMP:20261117T003107Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260602
+SUMMARY:OBFEP: Período Credenciamento/Inscrição de Escolas
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: registration\nEvi
+ dência: De 14 de março até 01 de junho\nFonte oficial: https://www1.fis
+ ica.org.br/~obfep/calendario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b4d049be4c90fd1d@noic.com.br
+DTSTAMP:20261117T003107Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:OBFEP: Prova (nas escolas) da 1ª Fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  12 de agosto (quarta-feira)\, em todos os turnos\nFonte oficial: https://
+ www1.fisica.org.br/~obfep/calendario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0a619e173f342855@noic.com.br
+DTSTAMP:20261117T003107Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:OBFEP: Divulgação do gabarito da prova da 1ª Fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: Até 14 de agosto\nFonte oficial: https://www1.fisica.org.br/~obfep/ca
+ lendario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4a9054bb80251303@noic.com.br
+DTSTAMP:20261117T003100Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:OBFEP: Data máxima para professores cadastrarem notas da 1ª fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: submission\nEvid
+ ência: Data máxima para que os professores cadastrem na área a eles res
+ trita todos os alunos que fizeram 1ª fase com as notas obtidas\, gênero
+  e indiquem o nome do professor de cada aluno Até 25 de agosto\nFonte ofi
+ cial: https://www1.fisica.org.br/~obfep/calendario-2026
+URL:https://www1.fisica.org.br/~obfep/calendario-2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-aac325737ad40489@noic.com.br
+DTSTAMP:20261117T003107Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260907
+SUMMARY:OBFEP: Período de confirmação\, pelos Coordenadores Estaduais\,
+  dos Centros de Aplicação (CA)\, para a 2ª Fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: other\nEvidência
+ : De 25 de agosto a 06 de setembro\nFonte oficial: https://www1.fisica.org
+ .br/~obfep/calendario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e02c46a1896bc15f@noic.com.br
+DTSTAMP:20261117T003107Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:OBFEP: Data máxima para que os professores cadastrem na área a el
+ es restrita todos os alunos que fizeram 1ª fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: submission\nEvid
+ ência: Até 25 de agosto\nFonte oficial: https://www1.fisica.org.br/~obfe
+ p/calendario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3aa0828139abeefb@noic.com.br
+DTSTAMP:20261117T003107Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:OBFEP: Data máxima para divulgação pela Comissão da OBFEP do n
+ úmero mínimo de acertos necessários para o estudante ser classificado p
+ ara a 2ª Fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: Até 27 de agosto\nFonte oficial: https://www1.fisica.org.br/~obfep/ca
+ lendario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-853ba1c62403c855@noic.com.br
+DTSTAMP:20261117T003100Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:OBFEP: Divulgação dos classificados para a 2ª Fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: Data máxima para divulgação pela Comissão da OBFEP do número mín
+ imo de acertos necessários para o estudante ser classificado para a 2ª F
+ ase e a relação dos alunos classificados para coordenadores e escolas At
+ é 27 de agosto\nFonte oficial: https://www1.fisica.org.br/~obfep/calendar
+ io-2026
+URL:https://www1.fisica.org.br/~obfep/calendario-2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-30a61fed76e01d3d@noic.com.br
+DTSTAMP:20261117T003100Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20261024
+SUMMARY:OBFEP: Período para recebimento do Termo de Consentimento
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: submission\nEvid
+ ência: Período para as Coordenações Estaduais receberem\, por e-mail\,
+  o “Termo de Consentimento” de alunos classificados para a 2ª Fase as
+ sinado pelo(a) responsável De 29 de agosto a 23 de outubro\nFonte oficial
+ : https://www1.fisica.org.br/~obfep/calendario-2026
+URL:https://www1.fisica.org.br/~obfep/calendario-2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-62cafbf1c68dacd5@noic.com.br
+DTSTAMP:20261117T003107Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20261024
+SUMMARY:OBFEP: Período para as Coordenações Estaduais receberem o Termo
+  de Consentimento de alunos classificados para a 2ª Fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: submission\nEvid
+ ência: De 29 de agosto a 23 de outubro\nFonte oficial: https://www1.fisic
+ a.org.br/~obfep/calendario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-93958249442e9db0@noic.com.br
+DTSTAMP:20261117T001451Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:OBFEP: 2ª Fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  As provas da 2ª Fase constarão de questões teóricas e terão uma part
+ e prática\; essas provas serão realizadas em 31 de outubro de 2026\nFont
+ e oficial: https://www1.fisica.org.br/~obfep/sobre-2026/
+URL:https://www1.fisica.org.br/~obfep/sobre-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c8227b5e66c67c01@noic.com.br
+DTSTAMP:20261117T003107Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:OBFEP: Data final do envio (postagem) da arte para o concurso de il
+ ustração da OBFEP 2026
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: submission\nEvid
+ ência: 31 de outubro de 2026\nFonte oficial: https://www1.fisica.org.br/~
+ obfep/calendario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-210473b94df82654@noic.com.br
+DTSTAMP:20261117T003107Z
+DTSTART:20261031T160000Z
+DTEND:20261031T203000Z
+SUMMARY:OBFEP: Provas (nas sedes/CA) da 2ª Fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  31 de outubro (sábado)\, das 13h às 17h30min – horário local\nFonte
+  oficial: https://www1.fisica.org.br/~obfep/calendario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4b0fb124f7f41ef9@noic.com.br
+DTSTAMP:20261117T003107Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:OBFEP: Data máxima para o professor responsável pela OBFEP em cad
+ a sede (CA) postar nos Correios os Cadernos de Resolução
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: submission\nEvid
+ ência: 05 de novembro\nFonte oficial: https://www1.fisica.org.br/~obfep/c
+ alendario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-600bf20c81e5ab7e@noic.com.br
+DTSTAMP:20261117T003100Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:OBFEP: Data máxima para postagem dos Cadernos de Resolução (CA)
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: submission\nEvid
+ ência: Data máxima para o professor responsável pela OBFEP em cada sede
+  (CA) postar nos Correios (por SEDEX) os Cadernos de Resolução das prova
+ s da 2ª Fase\, as folhas de presença oficiais e recibos e declarações
+  CNPq para a Coordenação Estadual 05 de novembro\nFonte oficial: https:/
+ /www1.fisica.org.br/~obfep/calendario-2026
+URL:https://www1.fisica.org.br/~obfep/calendario-2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-eedabf1ace1b1dc4@noic.com.br
+DTSTAMP:20261117T001451Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:OBFEP: Envio dos Cadernos de Resolução da 2ª Fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: submission\nEvid
+ ência: O Professor Responsável pela OBFEP na sede (sub-coordenação –
+  CA) deverá encaminhar pelos Correios até o dia 05 de novembro de 2026\n
+ Fonte oficial: https://www1.fisica.org.br/~obfep/sobre-2026/
+URL:https://www1.fisica.org.br/~obfep/sobre-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1f5af5dcb428cb24@noic.com.br
+DTSTAMP:20261117T003100Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:OBFEP: Data máxima para envio à Comissão da OBFEP
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: submission\nEvid
+ ência: Data máxima para cada coordenador(a) estadual encaminhar (SEDEX)
+  para a Comissão da OBFEP os Cadernos de Resolução\, as folhas de prese
+ nça oficiais e os originais da planilha e dos recibos e declarações CNP
+ q 13 de novembro\nFonte oficial: https://www1.fisica.org.br/~obfep/calenda
+ rio-2026
+URL:https://www1.fisica.org.br/~obfep/calendario-2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8a160a9f24a01b51@noic.com.br
+DTSTAMP:20261117T003107Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:OBFEP: Data máxima para cada coordenador(a) estadual encaminhar pa
+ ra a Comissão da OBFEP os Cadernos de Resolução
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: submission\nEvid
+ ência: 13 de novembro\nFonte oficial: https://www1.fisica.org.br/~obfep/c
+ alendario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3703e0f0fcdd683e@noic.com.br
+DTSTAMP:20261117T003107Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:OBFEP: Divulgação dos resultados finais da OBFEP 2026 (3ª e 4ª
+  séries)
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: 3ª e 4ª séries: até 11/12/2026\nFonte oficial: https://www1.fisica
+ .org.br/~obfep/calendario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3a9ff51ae3030fa3@noic.com.br
+DTSTAMP:20261117T003107Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:OBFEP: Divulgação dos resultados finais da OBFEP 2026 (Demais sé
+ ries)
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: Demais séries: até 11/01/2027\nFonte oficial: https://www1.fisica.or
+ g.br/~obfep/calendario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-74b9d40aac4078ae@noic.com.br
+DTSTAMP:20261117T003107Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:OBFEP: Divulgação dos resultados de ilustração da OBFEP 2026
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
+ ia: Até 01/03/2027\nFonte oficial: https://www1.fisica.org.br/~obfep/cale
+ ndario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

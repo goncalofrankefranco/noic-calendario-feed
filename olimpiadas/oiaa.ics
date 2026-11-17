@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OIAA — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-10632e7647f1469b@noic.com.br
+DTSTAMP:20261116T200027Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260801
+SUMMARY:OIAA: Inscrições
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  registration\nEvidência: 25/05 — 31/07 Inscrições\nFonte oficial: ht
+ tps://ambiente.olimpiadadeia.ceia.digital/
+URL:https://ambiente.olimpiadadeia.ceia.digital/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-83d7fd4d9d6cfd30@noic.com.br
+DTSTAMP:20261116T200027Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260919
+SUMMARY:OIAA: 1ª Etapa (online)
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  round\nEvidência: 11/09 — 18/09 1ª Etapa (online)\nFonte oficial: htt
+ ps://ambiente.olimpiadadeia.ceia.digital/
+URL:https://ambiente.olimpiadadeia.ceia.digital/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d9e779c53b206092@noic.com.br
+DTSTAMP:20261116T200027Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20261024
+SUMMARY:OIAA: Treinamento I
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  other\nEvidência: 22/09 — 23/10 Treinamento II\nFonte oficial: https:/
+ /ambiente.olimpiadadeia.ceia.digital/
+URL:https://ambiente.olimpiadadeia.ceia.digital/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8e7e619d991797ca@noic.com.br
+DTSTAMP:20261116T200027Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+SUMMARY:OIAA: 2ª Etapa (presencial)
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  round\nEvidência: 31/10 — 01/11 2ª Etapa (presencial)\nFonte oficial:
+  https://ambiente.olimpiadadeia.ceia.digital/
+URL:https://ambiente.olimpiadadeia.ceia.digital/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-362a222995e36540@noic.com.br
+DTSTAMP:20261116T200027Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261103
+SUMMARY:OIAA: Etapa Final + Premiação
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  final\nEvidência: 01/11 — 02/11 Etapa Final + Premiação\nFonte ofici
+ al: https://ambiente.olimpiadadeia.ceia.digital/
+URL:https://ambiente.olimpiadadeia.ceia.digital/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

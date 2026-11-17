@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Olimpíada Nacional de Ciências (ONC) — Calendário Olímpi
+ co do NOIC
+BEGIN:VEVENT
+UID:noic-ba99d0f5435a320f@noic.com.br
+DTSTAMP:20261116T201756Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260825
+SUMMARY:Olimpíada Nacional de Ciências (ONC): Inscrições dos estudantes
+  ONC 2026
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: registration\nE
+ vidência: No ano de 2026\, o período de inscrições dos estudantes ser
+ á de 01/04 a 24/08/2026\nFonte oficial: http://www.onciencias.org/regulam
+ ento
+URL:http://www.onciencias.org/regulamento
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-80bb03bf3feea890@noic.com.br
+DTSTAMP:20261116T201747Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Olimpíada Nacional de Ciências (ONC): Inscrições Até 24 de ago
+ sto
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: registration\nE
+ vidência: Inscrições Até 24 de agosto\nFonte oficial: http://www.oncie
+ ncias.org/
+URL:http://www.onciencias.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-53ccd4a024127c6e@noic.com.br
+DTSTAMP:20261116T201747Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260830
+SUMMARY:Olimpíada Nacional de Ciências (ONC): Desafios — 1ª Fase 27
+  — 29 agosto
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: exam\nEvidênci
+ a: Desafios — 1ª Fase 27 — 29 agosto\nFonte oficial: http://www.oncie
+ ncias.org/
+URL:http://www.onciencias.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-09cd3c78a08b32b0@noic.com.br
+DTSTAMP:20261116T201747Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Olimpíada Nacional de Ciências (ONC): Divulgação dos convocados
+  para a 2ª fase
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: results\nEvidê
+ ncia: 10 setembro Divulgação dos convocados para a 2ª fase\nFonte ofici
+ al: http://www.onciencias.org/
+URL:http://www.onciencias.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ce20731c9cc67b39@noic.com.br
+DTSTAMP:20261113T163038Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Olimpíada Nacional de Ciências (ONC): Classificados
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: results\nEvidê
+ ncia: Classificados 10 setembro Divulgação dos convocados para a 2ª fas
+ e\nFonte oficial: http://www.onciencias.org/
+URL:http://www.onciencias.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0b1a0aae704984ec@noic.com.br
+DTSTAMP:20261116T201747Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260919
+SUMMARY:Olimpíada Nacional de Ciências (ONC): Desafios — 2ª Fase 17
+  — 18 setembro
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: exam\nEvidênci
+ a: Desafios — 2ª Fase 17 — 18 setembro\nFonte oficial: http://www.onc
+ iencias.org/
+URL:http://www.onciencias.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-507a1e32849b88c4@noic.com.br
+DTSTAMP:20261116T201756Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Olimpíada Nacional de Ciências (ONC): 2ª Fase da ONC 2026 - Dia
+  1
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: exam\nEvidênci
+ a: Para este ano de 2026 os exames têm prevista a data de 17/09 a 18/09/2
+ 026\, respectivamente quinta-feira e sexta-feira.\nFonte oficial: http://w
+ ww.onciencias.org/regulamento
+URL:http://www.onciencias.org/regulamento
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8c32f55472ddc93c@noic.com.br
+DTSTAMP:20261116T201756Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Olimpíada Nacional de Ciências (ONC): 2ª Fase da ONC 2026 - Dia
+  2
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: exam\nEvidênci
+ a: Para este ano de 2026 os exames têm prevista a data de 17/09 a 18/09/2
+ 026\, respectivamente quinta-feira e sexta-feira.\nFonte oficial: http://w
+ ww.onciencias.org/regulamento
+URL:http://www.onciencias.org/regulamento
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-37ce024198707b34@noic.com.br
+DTSTAMP:20261113T163038Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Olimpíada Nacional de Ciências (ONC): Resultados
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: results\nEvidê
+ ncia: Resultados 8 outubro Divulgação do resultado oficial\nFonte oficia
+ l: http://www.onciencias.org/
+URL:http://www.onciencias.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-72d885d550436695@noic.com.br
+DTSTAMP:20261116T201747Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Olimpíada Nacional de Ciências (ONC): Divulgação do resultado o
+ ficial
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: results\nEvidê
+ ncia: 8 outubro Divulgação do resultado oficial\nFonte oficial: http://w
+ ww.onciencias.org/
+URL:http://www.onciencias.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a34aac050d704af3@noic.com.br
+DTSTAMP:20261113T163038Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Olimpíada Nacional de Ciências (ONC): Solenidade
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: other\nEvidênc
+ ia: Solenidade 5 dezembro Premiação nacional dos medalhistas\nFonte ofic
+ ial: http://www.onciencias.org/
+URL:http://www.onciencias.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-dfa9426592f1217c@noic.com.br
+DTSTAMP:20261116T201747Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Olimpíada Nacional de Ciências (ONC): Premiação nacional dos me
+ dalhistas
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: other\nEvidênc
+ ia: 5 dezembro Premiação nacional dos medalhistas\nFonte oficial: http:/
+ /www.onciencias.org/
+URL:http://www.onciencias.org/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

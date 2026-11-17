@@ -7,7 +7,7 @@ X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:IYPT — Calendário Olímpico do NOIC
 BEGIN:VEVENT
 UID:noic-1ce32638d409c674@noic.com.br
-DTSTAMP:20261112T000808Z
+DTSTAMP:20261115T163742Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:IYPT: Lançamento do Regulamento
@@ -19,7 +19,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-9361897a018f59ef@noic.com.br
-DTSTAMP:20261112T205332Z
+DTSTAMP:20261117T002617Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:IYPT: Abertura do Formulário de inscrições para a 1ª fase
@@ -30,11 +30,35 @@ URL:https://www.iyptbrasil.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-38c5e95d7c3354d6@noic.com.br
+DTSTAMP:20261116T201726Z
+DTSTART:20261214T230000Z
+DTEND:20261214T230000Z
+SUMMARY:IYPT: Registration deadline: December 15\, 2026\, at midnight (CET)
+DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: deadline\nEvidên
+ cia: Registration deadline: December 15\, 2026\, at midnight (CET)\nFonte
+  oficial: http://www.iypt.org/
+URL:http://www.iypt.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-71b216eefa629b3c@noic.com.br
+DTSTAMP:20261116T202237Z
+DTSTART:20261214T230000Z
+DTEND:20261214T230000Z
+SUMMARY:IYPT: Pre-Registration Deadline for IYPT 2027
+DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: deadline\nEvidên
+ cia: Registration deadline: December 15\, 2026\, at midnight (CET)\nFonte
+  oficial: https://iypt.org/new-documents/
+URL:https://iypt.org/new-documents/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-abd629624d751931@noic.com.br
-DTSTAMP:20261112T205332Z
+DTSTAMP:20261117T002617Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:IYPT: Encerramento das Inscrições - 1ª fase
+SUMMARY:IYPT: Encerramento das Inscrições 1ª fase
 DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: deadline\nEvidên
  cia: 18/12/2026 Encerramento das Inscrições\nFonte oficial: https://www.
  iyptbrasil.com/

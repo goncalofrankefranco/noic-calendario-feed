@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBR — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-5f628f2854e687d1@noic.com.br
+DTSTAMP:20261116T200510Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260613
+SUMMARY:OBR: Período de inscrição - Modalidade Teórica
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: registration\nE
+ vidência: 12 de março a 12 de junho – Período de inscrição\nFonte o
+ ficial: https://obr.robocup.org.br/2026/03/12/inscricoes-abertas-para-a-ol
+ impiada-brasileira-de-robotica-2026/
+URL:https://obr.robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpia
+ da-brasileira-de-robotica-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-985f1094b2498c90@noic.com.br
+DTSTAMP:20261114T162030Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:OBR: Inscrições abertas para a Olimpíada Brasileira de Robótica
+  2026
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: registration\nE
+ vidência: Inscrições abertas para a Olimpíada Brasileira de Robótica
+  2026 março 12\, 2026\nFonte oficial: https://obr.robocup.org.br/particip
+ antes/
+URL:https://obr.robocup.org.br/participantes/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cb20c3823218ae84@noic.com.br
+DTSTAMP:20261116T200510Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260501
+SUMMARY:OBR: Período de inscrição - Modalidade Prática
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: registration\nE
+ vidência: 12 de março a 30 de abril – Período de inscrição\nFonte o
+ ficial: https://obr.robocup.org.br/2026/03/12/inscricoes-abertas-para-a-ol
+ impiada-brasileira-de-robotica-2026/
+URL:https://obr.robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpia
+ da-brasileira-de-robotica-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cc70cb0c95a15797@noic.com.br
+DTSTAMP:20261116T200510Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260914
+SUMMARY:OBR: Etapas regionais e estaduais presenciais
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: 29 de maio a 13 de setembro – Etapas regionais e estaduais presencia
+ is\nFonte oficial: https://obr.robocup.org.br/2026/03/12/inscricoes-aberta
+ s-para-a-olimpiada-brasileira-de-robotica-2026/
+URL:https://obr.robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpia
+ da-brasileira-de-robotica-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3b4101d80fc1c856@noic.com.br
+DTSTAMP:20261114T161650Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260613
+SUMMARY:OBR: Aplicação da prova da Fase 1 - Modalidade Teórica
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: exam\nEvidênci
+ a: 8 a 12 de junho – Aplicação da prova da Fase 1\nFonte oficial: http
+ s://obr.robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpiada-bras
+ ileira-de-robotica-2026/
+URL:https://obr.robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpia
+ da-brasileira-de-robotica-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9cb25abbe919bce9@noic.com.br
+DTSTAMP:20261116T200510Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260613
+SUMMARY:OBR: Aplicação da prova da Fase 1
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: exam\nEvidênci
+ a: 8 a 12 de junho – Aplicação da prova da Fase 1\nFonte oficial: http
+ s://obr.robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpiada-bras
+ ileira-de-robotica-2026/
+URL:https://obr.robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpia
+ da-brasileira-de-robotica-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-003a89207c4404ae@noic.com.br
+DTSTAMP:20261116T200510Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:OBR: Prova da Fase 2 - Dia 1
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: 11\, 12 e 13 de agosto – Prova da Fase 2\nFonte oficial: https://obr
+ .robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpiada-brasileira-
+ de-robotica-2026/
+URL:https://obr.robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpia
+ da-brasileira-de-robotica-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ce30ef7d762bb7b9@noic.com.br
+DTSTAMP:20261114T161650Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260814
+SUMMARY:OBR: Prova da Fase 2 - Modalidade Teórica
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: exam\nEvidênci
+ a: 11\, 12 e 13 de agosto – Prova da Fase 2\nFonte oficial: https://obr.
+ robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpiada-brasileira-d
+ e-robotica-2026/
+URL:https://obr.robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpia
+ da-brasileira-de-robotica-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2176af635a7b6832@noic.com.br
+DTSTAMP:20261116T200510Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:OBR: Prova da Fase 2 - Dia 2
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: 11\, 12 e 13 de agosto – Prova da Fase 2\nFonte oficial: https://obr
+ .robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpiada-brasileira-
+ de-robotica-2026/
+URL:https://obr.robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpia
+ da-brasileira-de-robotica-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5da7522511e9aa8a@noic.com.br
+DTSTAMP:20261116T200510Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:OBR: Prova da Fase 2 - Dia 3
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: 11\, 12 e 13 de agosto – Prova da Fase 2\nFonte oficial: https://obr
+ .robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpiada-brasileira-
+ de-robotica-2026/
+URL:https://obr.robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpia
+ da-brasileira-de-robotica-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-45bb11231c2ef1d4@noic.com.br
+DTSTAMP:20261114T161650Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261130
+SUMMARY:OBR: Etapa nacional em João Pessoa/PB
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: final\nEvidênc
+ ia: 23 a 29 de novembro – Etapa nacional em João Pessoa/PB\nFonte ofici
+ al: https://obr.robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpi
+ ada-brasileira-de-robotica-2026/
+URL:https://obr.robocup.org.br/2026/03/12/inscricoes-abertas-para-a-olimpia
+ da-brasileira-de-robotica-2026/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

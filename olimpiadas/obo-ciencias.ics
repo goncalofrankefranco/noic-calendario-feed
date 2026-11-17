@@ -6,6 +6,18 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OBOC — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-1e0628019b009c82@noic.com.br
+DTSTAMP:20261117T001746Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260907
+SUMMARY:OBOC: 1ª fase
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: round\nEvidênc
+ ia: A prova será realizada de 31/08 até 06/09.\nFonte oficial: https:/
+ /noic.com.br/wp-content/uploads/2026/05/regulamento_oboc.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboc.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-7b3bd22e0a0c2d68@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260831
@@ -18,6 +30,32 @@ URL:https://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-bc00cc9c1ec380cd@noic.com.br
+DTSTAMP:20261117T001630Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260907
+SUMMARY:OBOC: 1ª fase da OBO de Ciências
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: exam\nEvidênci
+ a: 3 OBO de Astronomia OBO de Ciências OBO de IA OBO de Artes 31/08 – 0
+ 6/09\nFonte oficial: https://noic.com.br/wp-content/uploads/2026/05/calend
+ ario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b9fe1a66827891f7@noic.com.br
+DTSTAMP:20261113T182905Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:OBOC: OBO de Ciências 2026 - Divulgação dos classificados para a
+  2ª fase
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: results\nEvidê
+ ncia: A lista da OBOC\, por exemplo\, sai até dia 13/09.\nFonte oficial:
+  https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-05441b5cfabf8b43@noic.com.br
 DTSTAMP:20261003T184756Z
 DTSTART;VALUE=DATE:20260928
@@ -27,6 +65,18 @@ DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: exam\nEvidênci
  a: OBOC 2026\, 2ª fase: a prova será realizada de 28/09 até 04/10.\nFon
  te oficial: https://noic.com.br/wp-content/uploads/2026/05/regulamento_obo
  c.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboc.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c8f2f2ee31c05372@noic.com.br
+DTSTAMP:20261117T001746Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261005
+SUMMARY:OBOC: 2ª fase
+DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: round\nEvidênc
+ ia: A prova será realizada de 28/09 até 04/10.\nFonte oficial: https:/
+ /noic.com.br/wp-content/uploads/2026/05/regulamento_oboc.pdf
 URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboc.pdf
 STATUS:CONFIRMED
 END:VEVENT

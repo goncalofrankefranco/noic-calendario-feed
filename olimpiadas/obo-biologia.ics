@@ -18,6 +18,30 @@ URL:https://www.instagram.com/p/DcJ9DxMAbge/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-65595f5065967021@noic.com.br
+DTSTAMP:20261117T001741Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260824
+SUMMARY:OBOB: 1ª fase
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: round\nEvidênci
+ a: A prova será realizada de 17/08 até 23/08\nFonte oficial: https://n
+ oic.com.br/wp-content/uploads/2026/05/regulamento_obob.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_obob.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1e5b6e56a7e0ed17@noic.com.br
+DTSTAMP:20261117T001741Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260928
+SUMMARY:OBOB: 2ª fase
+DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: round\nEvidênci
+ a: A prova será realizada de 21/09 até 27/09\nFonte oficial: https://n
+ oic.com.br/wp-content/uploads/2026/05/regulamento_obob.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_obob.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-c273cb55255e5f3b@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260921

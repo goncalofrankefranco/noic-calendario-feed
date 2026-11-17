@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Olimpíada Brasileira de Astronomia e Astronáutica (OBA) —
+  Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-d68f87fa12aba9e5@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+SUMMARY:Olimpíada Brasileira de Astronomia e Astronáutica (OBA): Início
+  das inscrições de escolas na OBA
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: registration\n
+ Evidência: 23/02 Início das inscrições de escolas que nunca participar
+ am ou deixaram de participar da OBA/OBAFOG há muitos anos.\nFonte oficial
+ : https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORTA
+ NTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-04ecfb4f74cff3ae@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Olimpíada Brasileira de Astronomia e Astronáutica (OBA): Início
+  do download da prova da OBA
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: announcement\n
+ Evidência: 01/05 Data a partir da qual o professor representante da OBA n
+ a escola poderá fazer o download da prova que aplicará na forma PRESENCI
+ AL NA ESCOLA.\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_a
+ rquivos/2026/DATAS%20IMPORTANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5411235dcd73308a@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Olimpíada Brasileira de Astronomia e Astronáutica (OBA): Término
+  das inscrições de alunos e escolas na OBA
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: registration\n
+ Evidência: 01/05 Término das inscrições de alunos na OBA E OBAFOG ( a
+  inscrição é única para os 2 eventos).\nFonte oficial: https://sistema
+ .oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORTANTES%202026%20OBA
+ %20E%20OBAFOG-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ac7027f4380df14f@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Olimpíada Brasileira de Astronomia e Astronáutica (OBA): Término
+  do prazo para relacionar colaboradores da OBA
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: deadline\nEvid
+ ência: 01/05 Término do prazo para relacionar os professores colaborador
+ es\, o diretor da escola e o próprio professor representante para que rec
+ ebam seus certificados como colaboradores da OBA ou da OBAFOG.\nFonte ofic
+ ial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPO
+ RTANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-72c1b311ef113930@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:Olimpíada Brasileira de Astronomia e Astronáutica (OBA): Data de
+  realização da 29ª OBA
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: exam\nEvidênc
+ ia: 15/05 Data de realização da 29ª OBA. Não pode ser em outro dia por
+  nenhum motivo.\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob
+ _arquivos/2026/DATAS%20IMPORTANTES%202026%20OBA%20E%20OBAFOG-compactado.pd
+ f
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d15936eb5bdc153b@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260601
+SUMMARY:Olimpíada Brasileira de Astronomia e Astronáutica (OBA): Período
+  para correções dos cartões respostas da 29ª OBA
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: submission\nEv
+ idência: 18 – 31/05 Período para os professores representantes da OBA\
+ , utilizando o aplicativo\, fazerem as correções dos cartões respostas
+  das provas da 29ª OBA.\nFonte oficial: https://sistema.oba.org.br/sisglo
+ b/sisglob_arquivos/2026/DATAS%20IMPORTANTES%202026%20OBA%20E%20OBAFOG-comp
+ actado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d6ec2d6c21d1a69c@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Olimpíada Brasileira de Astronomia e Astronáutica (OBA): Data de
+  publicação dos gabaritos da 29ª OBA
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: results\nEvid
+ ência: 18/05 Data de publicação dos gabaritos das provas da 29ª OBA em
+  www.oba.org.br.\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglo
+ b_arquivos/2026/DATAS%20IMPORTANTES%202026%20OBA%20E%20OBAFOG-compactado.p
+ df
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-dc36d4fcd422fa8c@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260601
+SUMMARY:Olimpíada Brasileira de Astronomia e Astronáutica (OBA): Período
+  para correção dos nomes dos alunos da 29ª OBA
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: submission\nEv
+ idência: 18 – 31/05 Período para os professores representantes da OBA
+  corrigirem os nomes dos alunos participantes da 29ª OBA e ou da 20ª OBA
+ FOG.\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/2
+ 026/DATAS%20IMPORTANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-14a65563745199ec@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Olimpíada Brasileira de Astronomia e Astronáutica (OBA): Divulga
+ ção dos medalhistas da OBA em 2026
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: results\nEvid
+ ência: 30/06 Divulgação na extranet da OBA (www.oba.org.br/extranet) e
+  na página da OBA (www.oba.org.br) dos nomes dos alunos que ganharam meda
+ lhas na OBA e na OBAFOG em 2026.\nFonte oficial: https://sistema.oba.org.b
+ r/sisglob/sisglob_arquivos/2026/DATAS%20IMPORTANTES%202026%20OBA%20E%20OBA
+ FOG-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fccd395794e1af2a@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:Olimpíada Brasileira de Astronomia e Astronáutica (OBA): Data lim
+ ite para envio do boleto de rateio da OBA
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: deadline\nEvid
+ ência: 30/07 Data limite para a Secretaria da OBA enviar o boleto bancár
+ io para rateio das postagens dos pacotes de certificados e eventuais medal
+ has obtidas pelas escolas.\nFonte oficial: https://sistema.oba.org.br/sisg
+ lob/sisglob_arquivos/2026/DATAS%20IMPORTANTES%202026%20OBA%20E%20OBAFOG-co
+ mpactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-45ec430ab2eef4d4@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Olimpíada Brasileira de Astronomia e Astronáutica (OBA): Data lim
+ ite para pagamento do boleto de rateio da OBA
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: deadline\nEvid
+ ência: 30/09 Data limite para pagamento do boleto do rateio das postagens
+  dos pacotes contendo os certificados\, eventuais medalhas e demais brinde
+ s.\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/202
+ 6/DATAS%20IMPORTANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-48c2a085d4c81149@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Olimpíada Brasileira de Astronomia e Astronáutica (OBA): Início
+  das postagens de certificados e medalhas da OBA
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: announcement\n
+ Evidência: 01/10 Início das postagens dos pacotes contendo os certificad
+ os\, eventuais medalhas e demais brindes das Escolas que pagaram os boleto
+ s de rateio das postagens.\nFonte oficial: https://sistema.oba.org.br/sisg
+ lob/sisglob_arquivos/2026/DATAS%20IMPORTANTES%202026%20OBA%20E%20OBAFOG-co
+ mpactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

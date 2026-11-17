@@ -6,6 +6,34 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:IOAI — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-5c542cfe5e82113d@noic.com.br
+DTSTAMP:20261116T202207Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260716
+SUMMARY:IOAI: Registration for AI model participation
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  registration\nEvidência: 1 June - 15 July: allow participating organizat
+ ions to register.\nFonte oficial: https://ioai-official.org/wp-content/upl
+ oads/2026/06/IOAI%C2%B2-AI-Models-Track_Rules-Format.pdf
+URL:https://ioai-official.org/wp-content/uploads/2026/06/IOAI%C2%B2-AI-Mode
+ ls-Track_Rules-Format.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f62693d2e28b00fa@noic.com.br
+DTSTAMP:20261116T202207Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:IOAI: Technical rules published
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  announcement\nEvidência: 1 July: technical rules published\nFonte oficia
+ l: https://ioai-official.org/wp-content/uploads/2026/06/IOAI%C2%B2-AI-Mode
+ ls-Track_Rules-Format.pdf
+URL:https://ioai-official.org/wp-content/uploads/2026/06/IOAI%C2%B2-AI-Mode
+ ls-Track_Rules-Format.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-6f7bd8e314857e8f@noic.com.br
 DTSTAMP:20261004T145442Z
 DTSTART;VALUE=DATE:20260802
@@ -18,16 +46,252 @@ URL:https://ioai-official.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-a17b9942bd6b00a1@noic.com.br
+DTSTAMP:20261116T202207Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:IOAI: Competition day 1
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  round\nEvidência: 4 August: competition day 1\nFonte oficial: https://io
+ ai-official.org/wp-content/uploads/2026/06/IOAI%C2%B2-AI-Models-Track_Rule
+ s-Format.pdf
+URL:https://ioai-official.org/wp-content/uploads/2026/06/IOAI%C2%B2-AI-Mode
+ ls-Track_Rules-Format.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-65451c4e5dd64596@noic.com.br
+DTSTAMP:20261116T202207Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:IOAI: Competition day 2
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  round\nEvidência: 6 August: competition day 2\nFonte oficial: https://io
+ ai-official.org/wp-content/uploads/2026/06/IOAI%C2%B2-AI-Models-Track_Rule
+ s-Format.pdf
+URL:https://ioai-official.org/wp-content/uploads/2026/06/IOAI%C2%B2-AI-Mode
+ ls-Track_Rules-Format.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-688a5ac4cb60bcb1@noic.com.br
+DTSTAMP:20261116T202207Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:IOAI: Call for community submissions
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
+  submission\nEvidência: August 10: call for community submissions - open
+  to anyone\nFonte oficial: https://ioai-official.org/wp-content/uploads/20
+ 26/06/IOAI%C2%B2-AI-Models-Track_Rules-Format.pdf
+URL:https://ioai-official.org/wp-content/uploads/2026/06/IOAI%C2%B2-AI-Mode
+ ls-Track_Rules-Format.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-85bfdc788e645429@noic.com.br
+DTSTAMP:20261116T200130Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20261011
+SUMMARY:IOAI: EduSpace Call for Tasks
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  submission\nEvidência: 14 Sep – 10 Oct 2026 EduSpace Call for Tasks\nF
+ onte oficial: https://ioai-official.org/editions/singapore-2027/ioai-2027-
+ timeline/
+URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-93dfc446deb8e2ed@noic.com.br
+DTSTAMP:20261116T200130Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261018
+SUMMARY:IOAI: 1st Round translation & token distribution
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  other\nEvidência: 12–17 Oct 2026 EduSpace 1st Round translation & toke
+ n distribution\nFonte oficial: https://ioai-official.org/editions/singapor
+ e-2027/ioai-2027-timeline/
+URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f42165169c67a179@noic.com.br
+DTSTAMP:20261116T200130Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261125
+SUMMARY:IOAI: 1st Round application window
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  registration\nEvidência: 20 Oct – 24 Nov 2026 EduSpace 1st Round appli
+ cation window\nFonte oficial: https://ioai-official.org/editions/singapore
+ -2027/ioai-2027-timeline/
+URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-dd9924508c42423c@noic.com.br
+DTSTAMP:20261116T200130Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20270201
+SUMMARY:IOAI: Early Bird Registration
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  registration\nEvidência: 5 Nov 2026 – 31 Jan 2027 Registration Early B
+ ird Registration\nFonte oficial: https://ioai-official.org/editions/singap
+ ore-2027/ioai-2027-timeline/
+URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6071935b655a170d@noic.com.br
+DTSTAMP:20261116T200130Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:IOAI: Financial Aid – 2nd Wave
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  deadline\nEvidência: 1 Apr 2027 National Round Latest date for National
+  Round\nFonte oficial: https://ioai-official.org/editions/singapore-2027/i
+ oai-2027-timeline/
+URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fd6c7663e3152314@noic.com.br
+DTSTAMP:20261116T200130Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270502
+SUMMARY:IOAI: Late Registration
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  registration\nEvidência: 1 Apr – 1 May 2027 Registration Late Registra
+ tion\nFonte oficial: https://ioai-official.org/editions/singapore-2027/ioa
+ i-2027-timeline/
+URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d3a6adad0d2c1aa1@noic.com.br
+DTSTAMP:20261116T200130Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270520
+SUMMARY:IOAI: 2nd phase of registration
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  registration\nEvidência: 2 Apr – 19 May 2027 Registration 2nd phase of
+  registration\nFonte oficial: https://ioai-official.org/editions/singapore
+ -2027/ioai-2027-timeline/
+URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cf0288a07a29ca3d@noic.com.br
+DTSTAMP:20261116T200130Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:IOAI: National Team ready
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  selection\nEvidência: 15 Apr 2027 National Round National Team ready\nFo
+ nte oficial: https://ioai-official.org/editions/singapore-2027/ioai-2027-t
+ imeline/
+URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d78d6581d7cfb8e7@noic.com.br
+DTSTAMP:20261116T200130Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270602
+SUMMARY:IOAI: Visa\, passport and health-risk screening
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  other\nEvidência: 19 Apr – 1 Jun 2027 Visa Visa\, passport and health-
+ risk screening\nFonte oficial: https://ioai-official.org/editions/singapor
+ e-2027/ioai-2027-timeline/
+URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-80d3b81eb7ad1613@noic.com.br
+DTSTAMP:20261116T200130Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270602
+SUMMARY:IOAI: Invitation letters and V39A
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  other\nEvidência: 20 Apr – 1 Jun 2027 Visa Invitation letters and V39A
+ \nFonte oficial: https://ioai-official.org/editions/singapore-2027/ioai-20
+ 27-timeline/
+URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-dc6eebdc966a40f0@noic.com.br
+DTSTAMP:20261116T200130Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270630
+SUMMARY:IOAI: Visa applications
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  other\nEvidência: 4–29 Jun 2027 Visa Visa applications\nFonte oficial:
+  https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-dd135cf36752e5f9@noic.com.br
+DTSTAMP:20261116T200130Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270701
+SUMMARY:IOAI: Final participant and immigration information
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  other\nEvidência: 7–30 Jun 2027 Visa Final participant and immigration
+  information\nFonte oficial: https://ioai-official.org/editions/singapore-
+ 2027/ioai-2027-timeline/
+URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9066c0a8aece6fd5@noic.com.br
+DTSTAMP:20261116T200130Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:IOAI: Final agenda announced
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  announcement\nEvidência: 15 Jun 2027 Agenda and Olympiad Final agenda an
+ nounced\nFonte oficial: https://ioai-official.org/editions/singapore-2027/
+ ioai-2027-timeline/
+URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ec94c21f3042048b@noic.com.br
+DTSTAMP:20261116T200130Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270705
+SUMMARY:IOAI: Check-in\, SG Arrival Card and arrival registration
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  other\nEvidência: 21 Jun – 4 Jul 2027 Visa Check-in\, SG Arrival Card
+  and arrival registration\nFonte oficial: https://ioai-official.org/editio
+ ns/singapore-2027/ioai-2027-timeline/
+URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-09ae3a742d818558@noic.com.br
-DTSTAMP:20261101T161237Z
+DTSTAMP:20261116T200117Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270711
 SUMMARY:IOAI: 4th International Olympiad in AI (IOAI)
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 4th\nMarco: e
- xam\nEvidência: July 4th – 10th 2027 Singapore\, Republic of Singapore
-  4th International Olympiad in AI (IOAI)\nFonte oficial: https://ioai-offi
- cial.org/
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  final\nEvidência: July 4th – 10th 2027 Singapore\, Republic of Singapo
+ re 4th International Olympiad in AI (IOAI)\nFonte oficial: https://ioai-of
+ ficial.org/
 URL:https://ioai-official.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8275f62b6ef9cb42@noic.com.br
+DTSTAMP:20261116T200130Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270711
+SUMMARY:IOAI: IOAI 2027\, Singapore
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
+  final\nEvidência: 4–10 Jul 2027 Agenda and Olympiad IOAI 2027\, Singap
+ ore\nFonte oficial: https://ioai-official.org/editions/singapore-2027/ioai
+ -2027-timeline/
+URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -6,6 +6,17 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OBQJr — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-3b2f26e2ff779d33@noic.com.br
+DTSTAMP:20261116T195644Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:OBQJr: Olimpíada Brasileira de Química Júnior (OBQJr)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
+ a: 2026-06-03\nFonte oficial: https://obquimica.org/calendario
+URL:https://obquimica.org/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-956fa0b627056881@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260603

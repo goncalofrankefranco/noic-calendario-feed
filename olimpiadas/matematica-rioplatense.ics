@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Olimpíada Matemática Rioplatense — Calendário Olímpico d
+ o NOIC
+BEGIN:VEVENT
+UID:noic-35468fdeca6871d8@noic.com.br
+DTSTAMP:20261116T201332Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261211
+SUMMARY:Olimpíada Matemática Rioplatense: 33° Olimpíada Matemática Rio
+ platense
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: other\nEvidê
+ ncia: {"aclaracion": ""\, "fin_dia": 10\, "inicio_dia": 6\, "inicio_mes":
+  12\, "tachado": false\, "texto": "33° Olimpíada Matemática Rioplatense
+  "\, "tipo": "internacional"}\nFonte oficial: https://www.oma.org.ar/conte
+ nts/calendar/2026.json
+URL:https://www.oma.org.ar/contents/calendar/2026.json
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

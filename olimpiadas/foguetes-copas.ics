@@ -19,10 +19,10 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-1f5567588f05e257@noic.com.br
-DTSTAMP:20261111T172540Z
+DTSTAMP:20261116T202152Z
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260608
-SUMMARY:COPAS: COPA SUL DE FOGUETES 2026
+SUMMARY:COPAS: COPA SUL DE FOGUETES
 DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: exam\nEvidência
  : 06 E 07 DE JUNHO DE 2026\nFonte oficial: https://estelareducacional.com.
  br/copa-sul-2026/
@@ -30,39 +30,129 @@ URL:https://estelareducacional.com.br/copa-sul-2026/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-6d4244d77609f96b@noic.com.br
+DTSTAMP:20261116T202115Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:COPAS: Copa Sul de Foguetes 2026 - Primeiro Dia
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: A Copa Sul de 2026 ocorrerá em: 6 e 7 de Junho\nFonte oficial: https:/
+ /drive.google.com/file/d/1qYyt8fKuInJVK3jfqzprxicqHOjAK6Wm/view?usp=sharin
+ g
+URL:https://drive.google.com/file/d/1qYyt8fKuInJVK3jfqzprxicqHOjAK6Wm/view?
+ usp=sharing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c100286977112741@noic.com.br
+DTSTAMP:20261116T202115Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:COPAS: Copa Sul de Foguetes 2026 - Segundo Dia
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: final\nEvidênci
+ a: A Copa Sul de 2026 ocorrerá em: 6 e 7 de Junho\nFonte oficial: https:/
+ /drive.google.com/file/d/1qYyt8fKuInJVK3jfqzprxicqHOjAK6Wm/view?usp=sharin
+ g
+URL:https://drive.google.com/file/d/1qYyt8fKuInJVK3jfqzprxicqHOjAK6Wm/view?
+ usp=sharing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-e6d8f3dac68b9312@noic.com.br
-DTSTAMP:20261003T182254Z
+DTSTAMP:20261116T202137Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260622
 SUMMARY:COPAS: Copa Centro-Oeste de Foguetes 2026
 DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
- a: 20 e 21 de junho de 2026.\nFonte oficial: https://estelareducacional.co
- m.br/copa-centro-oeste-2026/
+ a: 20 E 21 DE JUNHO DE 2026\nFonte oficial: https://estelareducacional.com
+ .br/copa-centro-oeste-2026/
 URL:https://estelareducacional.com.br/copa-centro-oeste-2026/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-9bf075d94db6bdcc@noic.com.br
-DTSTAMP:20261003T182254Z
+DTSTAMP:20261116T202144Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260629
 SUMMARY:COPAS: Copa Sudeste de Foguetes 2026
 DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
- a: 27 e 28 de junho de 2026.\nFonte oficial: https://estelareducacional.co
- m.br/copa-sudeste-de-foguetes-2/
+ a: 27 E 28 DE JUNHO DE 2026\nFonte oficial: https://estelareducacional.com
+ .br/copa-sudeste-de-foguetes-2/
 URL:https://estelareducacional.com.br/copa-sudeste-de-foguetes-2/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-f6f1876b28d42297@noic.com.br
+DTSTAMP:20261116T202017Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:COPAS: Copa Sudeste de Foguetes - Dia 1
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: A Copa Sudeste de 2026 ocorrerá em: 27 e 28 de Junho\nFonte oficial: h
+ ttps://drive.google.com/file/d/1hgYJGhnNclvISKSd21cpshVuAl81KKG2/view?usp=
+ sharing
+URL:https://drive.google.com/file/d/1hgYJGhnNclvISKSd21cpshVuAl81KKG2/view?
+ usp=sharing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-74b1759696b21d86@noic.com.br
+DTSTAMP:20261116T202017Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:COPAS: Copa Sudeste de Foguetes - Dia 2
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: A Copa Sudeste de 2026 ocorrerá em: 27 e 28 de Junho\nFonte oficial: h
+ ttps://drive.google.com/file/d/1hgYJGhnNclvISKSd21cpshVuAl81KKG2/view?usp=
+ sharing
+URL:https://drive.google.com/file/d/1hgYJGhnNclvISKSd21cpshVuAl81KKG2/view?
+ usp=sharing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2dd20469a71452b4@noic.com.br
+DTSTAMP:20261116T201953Z
+DTSTART:20260725T130000Z
+DTEND:20261003T025959Z
+SUMMARY:COPAS: Período de Inscrição da Supercopa de Foguetes
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: registration\nEv
+ idência: no período compreendido entre as 10:00 do dia 25 de julho de 20
+ 26 até as 23:59h do dia 02 de outubro de 2026 (Horário de Brasília)\nFo
+ nte oficial: https://drive.google.com/file/d/1JDbkjZMfsv-DEHalsqLVYMyjXom2
+ 04Yr/view?usp=sharing
+URL:https://drive.google.com/file/d/1JDbkjZMfsv-DEHalsqLVYMyjXom204Yr/view?
+ usp=sharing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-373e67d6bc4174c5@noic.com.br
+DTSTAMP:20261116T201953Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:COPAS: Envio de Relatório de Experimento - Prêmio Giovanni Fiorav
+ anti
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: submission\nEvid
+ ência: devem enviar\, até o dia 10 de novembro de 2026\, um relatório d
+ e experimento para o e-mail copadefoguetes@gmail.com\nFonte oficial: https
+ ://drive.google.com/file/d/1JDbkjZMfsv-DEHalsqLVYMyjXom204Yr/view?usp=shar
+ ing
+URL:https://drive.google.com/file/d/1JDbkjZMfsv-DEHalsqLVYMyjXom204Yr/view?
+ usp=sharing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-cba5a85a9829d298@noic.com.br
-DTSTAMP:20261003T182254Z
+DTSTAMP:20261116T201953Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
-SUMMARY:COPAS: Supercopa de Foguetes 2026
+SUMMARY:COPAS: II Supercopa de Foguetes
 DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
- a: 20\, 21 e 22 de novembro de 2026.\nFonte oficial: https://estelareducac
- ional.com.br/supercopa-26/
-URL:https://estelareducacional.com.br/supercopa-26/
+ a: A II Supercopa de Foguetes será realizada nos dias 20\, 21 e 22 de nov
+ embro de 2026 na Universidade Federal de Alagoas (UFAL) em Maceió - AL.\n
+ Fonte oficial: https://drive.google.com/file/d/1JDbkjZMfsv-DEHalsqLVYMyjXo
+ m204Yr/view?usp=sharing
+URL:https://drive.google.com/file/d/1JDbkjZMfsv-DEHalsqLVYMyjXom204Yr/view?
+ usp=sharing
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

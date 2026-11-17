@@ -1,0 +1,260 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:TVQ — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-ac8af329d234030d@noic.com.br
+DTSTAMP:20261116T195753Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260615
+SUMMARY:TVQ: Primeira fase
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: round\nEvidênci
+ a: A primeira fase ocorrerá entre os dias 18/05 e 14/06.\nFonte oficial:
+  https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C3%
+ A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b91c583d4b0c800b@noic.com.br
+DTSTAMP:20261116T195753Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260615
+SUMMARY:TVQ: Inscrições
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: registration\nEv
+ idência: A inscrição é realizada em conjunto com a entrega das respost
+ as da primeira fase\, as quais devem ser submetidas entre os dias 18 de ma
+ io de 2026 (segunda-feira) e 14 de junho de 2026 (domingo).\nFonte oficial
+ : https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C3
+ %A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e7eb0a325adea937@noic.com.br
+DTSTAMP:20261116T195503Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260615
+SUMMARY:TVQ: Inscrição e Envio da 1ª Fase do TVQ 2026
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: registration\nEv
+ idência: as quais devem ser submetidas entre os dias 18 de maio de 2026 (
+ segunda-feira) e 14 de junho de 2026 (domingo).\nFonte oficial: https://dr
+ ive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+URL:https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-eb821267db68bc23@noic.com.br
+DTSTAMP:20261116T195753Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:TVQ: Divulgação do gabarito da primeira fase
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
+ cia: O gabarito será divulgado dia 15/06\nFonte oficial: https://sites.go
+ ogle.com/unicamp.br/torneio-virtual-de-quimica/calend%C3%A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fdb3336f1bdf1874@noic.com.br
+DTSTAMP:20261116T195753Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:TVQ: Prazo para contestação da primeira fase
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: e os alunos terão até dia 16/06 para contestarem as respostas das
+  questões.\nFonte oficial: https://sites.google.com/unicamp.br/torneio-vi
+ rtual-de-quimica/calend%C3%A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3f48f14a244d7e40@noic.com.br
+DTSTAMP:20261116T195503Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:TVQ: Divulgação do Resultado da 1ª Fase do TVQ 2026
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
+ cia: O resultado da 1a Fase será divulgado no dia 30 de junho de 2026 (te
+ rça-feira)\nFonte oficial: https://drive.google.com/file/d/1ZFLINWEebn90k
+ _hFkyopaA_8ijrI1YDJ/view
+URL:https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-65174073eb861a13@noic.com.br
+DTSTAMP:20261116T195753Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:TVQ: Resultado da primeira fase
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
+ cia: O resultado da primeira fase será publicado no dia 30/06.\nFonte ofi
+ cial: https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calen
+ d%C3%A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f1cc2c0e02b36224@noic.com.br
+DTSTAMP:20261116T195503Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260810
+SUMMARY:TVQ: Envio do Par de Questões 01 e 02 da 2ª Fase do TVQ 2026
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: submission\nEvid
+ ência: 01 e 02 03 de agosto de 2026 09 de agosto de 2026\nFonte oficial:
+  https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+URL:https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2de9be427da19264@noic.com.br
+DTSTAMP:20261116T195503Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260817
+SUMMARY:TVQ: Envio do Par de Questões 03 e 04 da 2ª Fase do TVQ 2026
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: submission\nEvid
+ ência: 03 e 04 10 de agosto de 2026 16 de agosto de 2026\nFonte oficial:
+  https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+URL:https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7f5ffbf685cf42e8@noic.com.br
+DTSTAMP:20261116T195503Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260824
+SUMMARY:TVQ: Envio do Par de Questões 05 e 06 da 2ª Fase do TVQ 2026
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: submission\nEvid
+ ência: 05 e 06 17 de agosto de 2026 23 de agosto de 2026\nFonte oficial:
+  https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+URL:https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-349ca373b8d9a867@noic.com.br
+DTSTAMP:20261116T195503Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260831
+SUMMARY:TVQ: Envio do Par de Questões 07 e 08 da 2ª Fase do TVQ 2026
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: submission\nEvid
+ ência: 07 e 08 24 de agosto de 2026 30 de agosto de 2026\nFonte oficial:
+  https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+URL:https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9bbbd19343e07551@noic.com.br
+DTSTAMP:20261116T195503Z
+DTSTART:20260831T030000Z
+DTEND:20260831T030000Z
+SUMMARY:TVQ: Divulgação do Gabarito da 2ª Fase do TVQ 2026
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
+ cia: O gabarito da 2a Fase será divulgado no dia 31 de agosto de 2026 (se
+ gunda-feira) às 00:00\nFonte oficial: https://drive.google.com/file/d/1ZF
+ LINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+URL:https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c3380cfcefac46ed@noic.com.br
+DTSTAMP:20261116T195503Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:TVQ: Divulgação do Resultado da 2ª Fase do TVQ 2026
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
+ cia: O resultado da 2a Fase será divulgado no dia 28 de setembro de 2026
+  (segunda-feira)\nFonte oficial: https://drive.google.com/file/d/1ZFLINWEe
+ bn90k_hFkyopaA_8ijrI1YDJ/view
+URL:https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d479375a35aee034@noic.com.br
+DTSTAMP:20261116T195753Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:TVQ: Resultado da segunda fase
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
+ cia: O resultado da segunda fase será publicado no dia 28/09 .\nFonte ofi
+ cial: https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calen
+ d%C3%A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-771bc589edd315d5@noic.com.br
+DTSTAMP:20261116T195753Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:TVQ: Terceira fase
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: round\nEvidênci
+ a: A terceira fase ocorrerá no dia 10/10\,\nFonte oficial: https://sites.
+ google.com/unicamp.br/torneio-virtual-de-quimica/calend%C3%A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8f16af52eb631736@noic.com.br
+DTSTAMP:20261116T195503Z
+DTSTART:20261011T170000Z
+DTEND:20261011T210000Z
+SUMMARY:TVQ: Segunda Aplicação da 3ª Fase do TVQ 2026
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
+ : Existe a possibilidade de uma segunda aplicação da 3° Fase no dia 11
+  de outubro de 2026 (domingo)\, das 14h às 18h (horário oficial de Bras
+ ília)\nFonte oficial: https://drive.google.com/file/d/1ZFLINWEebn90k_hFky
+ opaA_8ijrI1YDJ/view
+URL:https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-944cd45ac844a7f3@noic.com.br
+DTSTAMP:20261116T195753Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:TVQ: Divulgação do gabarito da terceira fase
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
+ cia: O gabarito será divulgado dia 13/10\nFonte oficial: https://sites.go
+ ogle.com/unicamp.br/torneio-virtual-de-quimica/calend%C3%A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1b1a4eef97f7906a@noic.com.br
+DTSTAMP:20261116T195753Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:TVQ: Prazo para contestação da terceira fase
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: e os alunos terão até dia 14/10 para contestarem as respostas das
+  questões.\nFonte oficial: https://sites.google.com/unicamp.br/torneio-vi
+ rtual-de-quimica/calend%C3%A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a34a45b7dc7f6798@noic.com.br
+DTSTAMP:20261116T195503Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:TVQ: Divulgação do Resultado da 3ª Fase do TVQ 2026
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
+ cia: O resultado da 3a Fase será divulgado no dia 18 de dezembro de 2026
+  (sexta-feira).\nFonte oficial: https://drive.google.com/file/d/1ZFLINWEeb
+ n90k_hFkyopaA_8ijrI1YDJ/view
+URL:https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

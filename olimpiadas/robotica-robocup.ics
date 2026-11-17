@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:RoboCup — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-3a24c199e46bd447@noic.com.br
+DTSTAMP:20261116T201428Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260707
+SUMMARY:RoboCup: RoboCup 2026 Incheon
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: final\nEvidênc
+ ia: RoboCup 2026 will take place from June 30 to July 6\, 2026\nFonte ofic
+ ial: https://www.robocup.org/events/80
+URL:https://www.robocup.org/events/80
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-284cd14163b0d885@noic.com.br
+DTSTAMP:20261116T201428Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261026
+SUMMARY:RoboCup: 2nd RoboCup Americas Super Regional (ASR) 2026 Canada
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: final\nEvidênc
+ ia: From 22 Oct 2026 To 25 Oct 2026 2nd RoboCup Americas Super Regional (A
+ SR) 2026 Canada\nFonte oficial: https://www.robocup.org/events/80
+URL:https://www.robocup.org/events/80
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-54530d4a0f3d2622@noic.com.br
+DTSTAMP:20261116T201428Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+SUMMARY:RoboCup: RoboCup Italian Open 2026 - Humanoid Soccer Workshop and G
+ ames
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: final\nEvidênc
+ ia: From 23 Oct 2026 To 25 Oct 2026 RoboCup Italian Open 2026 - Humanoid S
+ occer Workshop and Games\nFonte oficial: https://www.robocup.org/events/80
+URL:https://www.robocup.org/events/80
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-dd8918c473d918d4@noic.com.br
+DTSTAMP:20261116T201428Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270419
+SUMMARY:RoboCup: RoboCup Canada Open 2027
+DESCRIPTION:Departamento: Robótica\nEdição: 2027\nMarco: final\nEvidênc
+ ia: From 16 Apr 2027 To 18 Apr 2027 RoboCup Canada Open 2027\nFonte oficia
+ l: https://www.robocup.org/events/80
+URL:https://www.robocup.org/events/80
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

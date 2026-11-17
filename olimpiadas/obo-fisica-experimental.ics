@@ -18,6 +18,30 @@ URL:https://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-a490923ff534537e@noic.com.br
+DTSTAMP:20261117T002038Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260831
+SUMMARY:OBOFE: 1ª fase
+DESCRIPTION:Departamento: Física experimental\nEdição: 2026\nMarco: roun
+ d\nEvidência: A prova será realizada de 24/08 até 30/08.\nFonte ofici
+ al: https://noic.com.br/wp-content/uploads/2026/08/regulamento_obofe.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/08/regulamento_obofe.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2a80230afac5ea50@noic.com.br
+DTSTAMP:20261117T002038Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261005
+SUMMARY:OBOFE: 2ª fase
+DESCRIPTION:Departamento: Física experimental\nEdição: 2026\nMarco: roun
+ d\nEvidência: A prova será realizada de 28/09 até 04/10.\nFonte ofici
+ al: https://noic.com.br/wp-content/uploads/2026/08/regulamento_obofe.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/08/regulamento_obofe.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-8be5ff5cadc3ca05@noic.com.br
 DTSTAMP:20261003T190001Z
 DTSTART;VALUE=DATE:20260928

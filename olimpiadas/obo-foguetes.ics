@@ -6,6 +6,31 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OBOFog — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-10ab6db913c8dfc8@noic.com.br
+DTSTAMP:20261117T001951Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260914
+SUMMARY:OBOFog: Primeira Fase
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: II Primeira Fase (17/08 até 13/09)\nFonte oficial: https://noic.com.b
+ r/wp-content/uploads/2026/08/conteudo_obofog.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/08/conteudo_obofog.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-436558a6a6550acb@noic.com.br
+DTSTAMP:20261117T001832Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260928
+SUMMARY:OBOFog: Envio de arquivos da 1ª fase
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: submission\nEvid
+ ência: O perı́odo de envio desses arquivos será de 17/08 até 27/09\
+ nFonte oficial: https://noic.com.br/wp-content/uploads/2026/05/regulamento
+ _obofog.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_obofog.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-6d48db653c196007@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260817
@@ -16,6 +41,31 @@ DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: submission\nEvid
  ência: A data limite da primeira fase foi prorrogada até 27/09.\nFonte o
  ficial: https://www.instagram.com/projetonoic/p/DdFOu2YnE7J/
 URL:https://www.instagram.com/projetonoic/p/DdFOu2YnE7J/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7d8a6c83fd371124@noic.com.br
+DTSTAMP:20261117T002042Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261101
+SUMMARY:OBOFog: OBOFOG 2ª Fase
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: A 2ª Fase acontece de 27/09 a 31/10\nFonte oficial: https://noic.com.b
+ r/wp-content/uploads/2026/10/instrucoes.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/10/instrucoes.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1063a1edef0e9d28@noic.com.br
+DTSTAMP:20261117T001832Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261031
+SUMMARY:OBOFog: Envio do vídeo da 2ª fase
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: submission\nEvid
+ ência: O perı́odo para envio do vı́deo será de 28/09 até 30/10.\n
+ Fonte oficial: https://noic.com.br/wp-content/uploads/2026/05/regulamento_
+ obofog.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_obofog.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

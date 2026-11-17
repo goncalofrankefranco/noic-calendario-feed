@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Asian Pacific Mathematics Olympiad — Calendário Olímpico d
+ o NOIC
+BEGIN:VEVENT
+UID:noic-1255ead5811e2b0d@noic.com.br
+DTSTAMP:20261116T201332Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:Asian Pacific Mathematics Olympiad: 38ª Olimpíada Matemática de
+  la Cuenca del Pacífico - 38ª APMO
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: other\nEvidê
+ ncia: {"aclaracion": "Por la tarde"\, "inicio_dia": 9\, "inicio_mes": 3\,
+  "tachado": false\, "texto": "38ª Olimpíada Matemática de la Cuenca del
+  Pacífico - 38ª APMO "\, "tipo": "otros"}\nFonte oficial: https://www.om
+ a.org.ar/contents/calendar/2026.json
+URL:https://www.oma.org.ar/contents/calendar/2026.json
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-87bed4e80be5e508@noic.com.br
+DTSTAMP:20261117T002701Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:Asian Pacific Mathematics Olympiad: Asian Pacific Mathematics Olymp
+ iad
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: Asian Pacific Mathematics Olympiad (APMO) 09 de março de 2026\nFonte
+  oficial: https://www.obm.org.br/informacoes-gerais/calendario
+URL:https://www.obm.org.br/informacoes-gerais/calendario
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

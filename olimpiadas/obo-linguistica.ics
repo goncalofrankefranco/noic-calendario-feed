@@ -6,6 +6,20 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OBOL — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-06d3eadb0d503f22@noic.com.br
+DTSTAMP:20261117T001844Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260824
+SUMMARY:OBOL: 1ª fase
+DESCRIPTION:Departamento: Linguística\nEdição: 2026\nMarco: round\nEvid
+ ência: ii) A prova será publicada dia 17/08. iii) Os competidores poder
+ ão acessar livremente a prova durante esse perı́odo de 1 semana e deve
+ rão submeter suas respostas até o dia 23/08.\nFonte oficial: https://n
+ oic.com.br/wp-content/uploads/2026/05/regulamento_obol.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_obol.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-2543e21ad3aacaa7@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260817
@@ -15,6 +29,18 @@ DESCRIPTION:Departamento: Linguística\nEdição: 2026\nMarco: round\nEvid
  ência: Lote 1: 17/08–23/08\; OBOF\, OBOB\, OBOL e OBOR.\nFonte oficial:
   https://www.instagram.com/p/DcJ9DxMAbge/
 URL:https://www.instagram.com/p/DcJ9DxMAbge/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c1045db4d717a3b2@noic.com.br
+DTSTAMP:20261117T002017Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260824
+SUMMARY:OBOL: Prova da Primeira Fase
+DESCRIPTION:Departamento: Linguística\nEdição: 2026\nMarco: round\nEvid
+ ência: 17/08–23/08\nFonte oficial: https://noic.com.br/wp-content/uploa
+ ds/2026/08/obol.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/08/obol.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -28,6 +54,18 @@ DESCRIPTION:Departamento: Linguística\nEdição: 2026\nMarco: deadline\nEv
  o de submissões (23/08).\nFonte oficial: https://noic.com.br/wp-content/u
  ploads/2026/05/calendario_oficial.pdf
 URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5015fea500ebb74d@noic.com.br
+DTSTAMP:20261117T001844Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260928
+SUMMARY:OBOL: 2ª fase
+DESCRIPTION:Departamento: Linguística\nEdição: 2026\nMarco: round\nEvid
+ ência: iii) A prova será realizada de 21/09 até 27/09.\nFonte oficial
+ : https://noic.com.br/wp-content/uploads/2026/05/regulamento_obol.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_obol.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

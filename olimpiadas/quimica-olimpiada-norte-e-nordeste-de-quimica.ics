@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:ONNeQ — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-89a2d8d81158bb99@noic.com.br
+DTSTAMP:20261116T195644Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:ONNeQ: Prova ONNEQ (ONNEQ)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
+ : 2026-05-29\nFonte oficial: https://obquimica.org/calendario
+URL:https://obquimica.org/calendario
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

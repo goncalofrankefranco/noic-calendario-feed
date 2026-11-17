@@ -1,0 +1,275 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Olimpíada Brasileira de Neurociências (OBN) — Calendário
+  Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-03c27573feddca33@noic.com.br
+DTSTAMP:20261116T195423Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260505
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Inscrição dos alun
+ os na competição (Portal do Candidato)
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: registratio
+ n\nEvidência: - Inscrição dos alunos na competição (Portal do Candida
+ to): 1 de fevereiro a 04 de maio de 2026\nFonte oficial: https://brazilian
+ brainbee.org/programacao/
+URL:https://brazilianbrainbee.org/programacao/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a78b6995ee03db5b@noic.com.br
+DTSTAMP:20261116T195244Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Inscrições OLDN
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: registratio
+ n\nEvidência: A partir do dia 01 de fevereiro de 2026\nFonte oficial: htt
+ ps://brazilianbrainbee.org/
+URL:https://brazilianbrainbee.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4d8ed1b5cdac4eea@noic.com.br
+DTSTAMP:20261116T195442Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Homologação dos ca
+ ndidatos
+DESCRIPTION:Departamento: Neurociência\nEdição: XIV\nMarco: registration
+ \nEvidência: concluída até 03 março de 2026\nFonte oficial: https://br
+ azilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira-de-neurociencias
+ -2026/
+URL:https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira-de-
+ neurociencias-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8d05b59f9f4d95dc@noic.com.br
+DTSTAMP:20261116T195455Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Prazo para inscriç
+ ão de comitês novos manifestarem a intenção de realizarem competiçõe
+ s locais
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: deadline\nE
+ vidência: Prazo para inscrição de comitês novos manifestarem a intenç
+ ão de realizarem competições locais Até 3 de março de 2026\nFonte ofi
+ cial: https://brazilianbrainbee.org/wp-content/uploads/2026/02/2026-Edital
+ -XIV-Brazilian-Brain-Bee.docx.pdf
+URL:https://brazilianbrainbee.org/wp-content/uploads/2026/02/2026-Edital-XI
+ V-Brazilian-Brain-Bee.docx.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d0c6467fcafa2e04@noic.com.br
+DTSTAMP:20261116T195455Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Data-limite para os
+  comitê existentes manifestarem o desejo de participarem da competição
+  nacional de 2026
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: deadline\nE
+ vidência: Data-limite para os comitê existentes manifestarem o desejo de
+  participarem da competição nacional de 2026 Até 3 de março de 2026\nF
+ onte oficial: https://brazilianbrainbee.org/wp-content/uploads/2026/02/202
+ 6-Edital-XIV-Brazilian-Brain-Bee.docx.pdf
+URL:https://brazilianbrainbee.org/wp-content/uploads/2026/02/2026-Edital-XI
+ V-Brazilian-Brain-Bee.docx.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fc4c078946476966@noic.com.br
+DTSTAMP:20261116T195423Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Prazo para comunica
+ ção da intenção de realizar a competição local
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: deadline\nE
+ vidência: - Prazo para comunicação da intenção de realizar a competi
+ ção local: até 3 de março de 2026\nFonte oficial: https://brazilianbra
+ inbee.org/programacao/
+URL:https://brazilianbrainbee.org/programacao/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ce7efa688cb6f2f6@noic.com.br
+DTSTAMP:20261116T195455Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Prazo máximo para e
+ nvio de competidores selecionados pelos comitês locais
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: deadline\nE
+ vidência: Prazo máximo para envio de competidores selecionados pelos com
+ itês locais Até 6 de maio de 2026\nFonte oficial: https://brazilianbrain
+ bee.org/wp-content/uploads/2026/02/2026-Edital-XIV-Brazilian-Brain-Bee.doc
+ x.pdf
+URL:https://brazilianbrainbee.org/wp-content/uploads/2026/02/2026-Edital-XI
+ V-Brazilian-Brain-Bee.docx.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4c981f3e9aa00351@noic.com.br
+DTSTAMP:20261116T195455Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Homologação dos ca
+ ndidatos na XIV Olimpíada Brasileira de Neurociências
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: announcemen
+ t\nEvidência: Homologação dos candidatos na XIV Olimpíada Brasileira d
+ e Neurociências Até 01 de junho/2026\nFonte oficial: https://brazilianbr
+ ainbee.org/wp-content/uploads/2026/02/2026-Edital-XIV-Brazilian-Brain-Bee.
+ docx.pdf
+URL:https://brazilianbrainbee.org/wp-content/uploads/2026/02/2026-Edital-XI
+ V-Brazilian-Brain-Bee.docx.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-edc89beb5994a941@noic.com.br
+DTSTAMP:20261116T195455Z
+DTSTART:20260607T200000Z
+DTEND:20260607T200000Z
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Primeira fase da XIV
+  Olimpíada Brasileira de Neurociências
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: round\nEvid
+ ência: Primeira fase da XIV Olimpíada Brasileira de Neurociências (virt
+ ual - Portal do Candidato) 07 de junho de 2026 às 17h\nFonte oficial: htt
+ ps://brazilianbrainbee.org/wp-content/uploads/2026/02/2026-Edital-XIV-Braz
+ ilian-Brain-Bee.docx.pdf
+URL:https://brazilianbrainbee.org/wp-content/uploads/2026/02/2026-Edital-XI
+ V-Brazilian-Brain-Bee.docx.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5297e0a54f15dcb5@noic.com.br
+DTSTAMP:20261116T195423Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Realização da prim
+ eira fase
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: round\nEvid
+ ência: - Realização da primeira fase: 28 de junho de 2026\nFonte oficia
+ l: https://brazilianbrainbee.org/programacao/
+URL:https://brazilianbrainbee.org/programacao/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-586b8901a630e162@noic.com.br
+DTSTAMP:20261116T195442Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Primeira fase da eta
+ pa nacional
+DESCRIPTION:Departamento: Neurociência\nEdição: XIV\nMarco: round\nEvid
+ ência: seguida pela primeira fase da etapa nacional \, realizada de forma
+  virtual em 28 de junho de 2026\nFonte oficial: https://brazilianbrainbee.
+ org/resultado-da-xiv-olimpiada-brasileira-de-neurociencias-2026/
+URL:https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira-de-
+ neurociencias-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8d01a6d3225f9124@noic.com.br
+DTSTAMP:20261116T195455Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Homologação dos re
+ sultados da XIV Olimpíada Brasileira de Neurociências
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: results\nEv
+ idência: Homologação dos resultados da XIV Olimpíada Brasileira de Neu
+ rociências Até 11 de julho de 2026\nFonte oficial: https://brazilianbrai
+ nbee.org/wp-content/uploads/2026/02/2026-Edital-XIV-Brazilian-Brain-Bee.do
+ cx.pdf
+URL:https://brazilianbrainbee.org/wp-content/uploads/2026/02/2026-Edital-XI
+ V-Brazilian-Brain-Bee.docx.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-21db3273ccc9e7c1@noic.com.br
+DTSTAMP:20261116T195423Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260927
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Realização da fase
+  final
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: final\nEvid
+ ência: - Realização da fase final: 25 e 26 de Setembro de 2026\nFonte o
+ ficial: https://brazilianbrainbee.org/programacao/
+URL:https://brazilianbrainbee.org/programacao/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8c4d2d5ce50ac0ab@noic.com.br
+DTSTAMP:20261116T195244Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260927
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Etapa Nacional da XI
+ V Olimpíada Brasileira de Neurociências
+DESCRIPTION:Departamento: Neurociência\nEdição: XIV\nMarco: round\nEvid
+ ência: Etapa Nacional da OBN 2026 será realizada nos dias 25 e 26 de Set
+ embro\nFonte oficial: https://brazilianbrainbee.org/
+URL:https://brazilianbrainbee.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-cd56ae0e0fa7d0eb@noic.com.br
+DTSTAMP:20261116T195442Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Segunda fase online
+  - Dia 1
+DESCRIPTION:Departamento: Neurociência\nEdição: XIV\nMarco: round\nEvid
+ ência: realizada em 25\, 26 de setembro e 10 de outubro de 2026\nFonte of
+ icial: https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira
+ -de-neurociencias-2026/
+URL:https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira-de-
+ neurociencias-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f89bca2ba3fe2565@noic.com.br
+DTSTAMP:20261116T195442Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Segunda fase online
+  - Dia 2
+DESCRIPTION:Departamento: Neurociência\nEdição: XIV\nMarco: round\nEvid
+ ência: realizada em 25\, 26 de setembro e 10 de outubro de 2026\nFonte of
+ icial: https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira
+ -de-neurociencias-2026/
+URL:https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira-de-
+ neurociencias-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-82f701e9f8a8ca02@noic.com.br
+DTSTAMP:20261116T195423Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Divulgação dos res
+ ultados da XIV Olimpíada Brasileira de Neurociências
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: results\nEv
+ idência: - Divulgação dos resultados da XIV Olimpíada Brasileira de Ne
+ urociências: 28 de Setembro de 2026\nFonte oficial: https://brazilianbrai
+ nbee.org/programacao/
+URL:https://brazilianbrainbee.org/programacao/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-616ace90b984bc38@noic.com.br
+DTSTAMP:20261116T195442Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Segunda fase online
+  - Dia 3
+DESCRIPTION:Departamento: Neurociência\nEdição: XIV\nMarco: round\nEvid
+ ência: realizada em 25\, 26 de setembro e 10 de outubro de 2026\nFonte of
+ icial: https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira
+ -de-neurociencias-2026/
+URL:https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira-de-
+ neurociencias-2026/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

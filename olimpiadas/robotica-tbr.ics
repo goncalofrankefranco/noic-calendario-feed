@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Torneio Brasil de Robótica — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-23e8477e22ebb4a8@noic.com.br
+DTSTAMP:20261113T162442Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Torneio Brasil de Robótica: Atualização TBR 2026 Versão 2026.4
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: announcement\nE
+ vidência: Atualizações TBR 2026 Versão 2026.5 04/09/2026 Os Desafios P
+ ráticos foram atualizados.\nFonte oficial: http://www.torneiobrasilderobo
+ tica.com.br/
+URL:http://www.torneiobrasilderobotica.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

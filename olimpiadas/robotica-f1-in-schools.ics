@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:F1 in Schools — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-4a274e241bea2c1b@noic.com.br
+DTSTAMP:20261116T195507Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+SUMMARY:F1 in Schools: 9° Festival SESI de Robótica - STEM Racing
+DESCRIPTION:Departamento: Robótica\nEdição: 9\nMarco: final\nEvidência:
+  O evento nacional acontecerá em Salvador\, entre os dias 18 e 21 de mar
+ ço de 2027.\nFonte oficial: https://noticias.portaldaindustria.com.br/not
+ icias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-
+ sesi-de-robotica/
+URL:https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-c
+ alendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

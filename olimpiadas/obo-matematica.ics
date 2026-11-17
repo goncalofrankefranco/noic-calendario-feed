@@ -18,6 +18,18 @@ URL:https://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-937cdc63938e8dc4@noic.com.br
+DTSTAMP:20261117T001946Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260831
+SUMMARY:OBOM: 1ª fase
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: A prova será realizada de 24/08 até 30/08.\nFonte oficial: https:
+ //noic.com.br/wp-content/uploads/2026/07/OBOs_2026.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/07/OBOs_2026.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-a38096b2787d982e@noic.com.br
 DTSTAMP:20261003T184756Z
 DTSTART;VALUE=DATE:20260928
@@ -26,6 +38,18 @@ SUMMARY:OBOM: OBOM 2026 — prova da 2ª fase
 DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
  cia: OBOM 2026\, 2ª fase: a prova será realizada de 28/09 até 04/10.\nF
  onte oficial: https://noic.com.br/wp-content/uploads/2026/07/OBOs_2026.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/07/OBOs_2026.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b7a671886cea63e9@noic.com.br
+DTSTAMP:20261117T001946Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261005
+SUMMARY:OBOM: 2ª fase
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: A prova será realizada de 28/09 até 04/10.\nFonte oficial: https:
+ //noic.com.br/wp-content/uploads/2026/07/OBOs_2026.pdf
 URL:https://noic.com.br/wp-content/uploads/2026/07/OBOs_2026.pdf
 STATUS:CONFIRMED
 END:VEVENT

@@ -7,25 +7,26 @@ X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:ONIA — Calendário Olímpico do NOIC
 BEGIN:VEVENT
 UID:noic-2d4c2aa3cc176c67@noic.com.br
-DTSTAMP:20261007T164400Z
+DTSTAMP:20261017T131257Z
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
 SUMMARY:ONIA: Início das Inscrições
 DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: r
  egistration\nEvidência: Início das Inscrições : dia 08 de agosto de 20
- 26\nFonte oficial: https://www.oniabrasil.com.br/
+ 26\;\nFonte oficial: https://www.oniabrasil.com.br/
 URL:https://www.oniabrasil.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-165193e1460c037d@noic.com.br
-DTSTAMP:20261021T145603Z
-DTSTART:20260915T030000Z
-DTEND:20261012T025959Z
+DTSTAMP:20261114T161802Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20261012
 SUMMARY:ONIA: 1ª Fase: Letramento Digital
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: e
- xam\nEvidência: De 15 de setembro de 2026 (00:00) até 11 de outubro de 2
- 026 (23:59)\nFonte oficial: https://www.oniabrasil.com.br/
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3\nMarco: exa
+ m\nEvidência: 1ª Fase: Letramento Digital De 15 de setembro de 2026 (00:
+ 00) até 11 de outubro de 2026 (23:59)\nFonte oficial: https://www.oniabra
+ sil.com.br/
 URL:https://www.oniabrasil.com.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -55,25 +56,27 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-fe12afe639e7d596@noic.com.br
-DTSTAMP:20261021T145603Z
-DTSTART:20261019T030000Z
-DTEND:20261101T025959Z
-SUMMARY:ONIA: Prova da 1ª Etapa da 2ª Fase
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: e
- xam\nEvidência: Prova da 1ª Etapa da 2ª Fase : 19 de outubro (00:00) at
- é 31 de outubro (23:59)\;\nFonte oficial: https://www.oniabrasil.com.br/
+DTSTAMP:20261114T161802Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261101
+SUMMARY:ONIA: 2ª Fase - Prova da 1ª Etapa da 2ª Fase
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3\nMarco: exa
+ m\nEvidência: Prova da 1ª Etapa da 2ª Fase: 19 de outubro de 2026 (00:0
+ 0) até 31 de outubro de 2026 (23:59)\nFonte oficial: https://www.oniabras
+ il.com.br/
 URL:https://www.oniabrasil.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-a23eea4a4c54d521@noic.com.br
-DTSTAMP:20261021T145603Z
-DTSTART:20261207T030000Z
-DTEND:20261214T025959Z
-SUMMARY:ONIA: Prova da 2ª Etapa da 2ª Fase
-DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3ª\nMarco: e
- xam\nEvidência: Prova da 2ª Etapa da 2ª Fase : 07 de dezembro (00:00) a
- té 13 de dezembro (23:59).\nFonte oficial: https://www.oniabrasil.com.br/
+DTSTAMP:20261114T161802Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261214
+SUMMARY:ONIA: 2ª Fase - Prova da 2ª Etapa da 2ª Fase
+DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 3\nMarco: exa
+ m\nEvidência: Prova da 2ª Etapa da 2ª Fase: 07 de dezembro de 2026 (00:
+ 00) até 13 de dezembro de 2026 (23:59)\nFonte oficial: https://www.oniabr
+ asil.com.br/
 URL:https://www.oniabrasil.com.br/
 STATUS:CONFIRMED
 END:VEVENT

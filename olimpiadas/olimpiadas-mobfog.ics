@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:MOBFOG — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-34b808155df10597@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+SUMMARY:MOBFOG: Início das inscrições de escolas na MOBFOG
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: registration\nEv
+ idência: 23/02 Início das inscrições de escolas que nunca participaram
+  ou deixaram de participar da OBA/OBAFOG há muitos anos.\nFonte oficial:
+  https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORTAN
+ TES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-099ecc91af859cef@noic.com.br
+DTSTAMP:20261117T002352Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:MOBFOG: Data limite para inscrição dos alunos na OBA/OBAFOG
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: registration\nEv
+ idência: Data limite para inscrição dos alunos na OBA/OBAFOG: até dia
+  01/05/26.\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arqu
+ ivos/2026/REGULAMENTO%20DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%207%20-
+ %202026-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20
+ DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%207%20-%202026-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3b11969a3a4b4236@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:MOBFOG: Término das inscrições de alunos e escolas na MOBFOG
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: registration\nEv
+ idência: 01/05 Término das inscrições de alunos na OBA E OBAFOG ( a in
+ scrição é única para os 2 eventos).\nFonte oficial: https://sistema.ob
+ a.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORTANTES%202026%20OBA%20
+ E%20OBAFOG-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4785256875a7d2b5@noic.com.br
+DTSTAMP:20261117T002246Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:MOBFOG: Data limite para inscrição de novas escolas
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: registration\nEv
+ idência: Data limite para inscrição de novas escolas: até dia 01/05/20
+ 26\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/202
+ 6/REGULAMENTO%20DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%201%20-%202026-
+ compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20
+ DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%201%20-%202026-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7671c780846c3bcf@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:MOBFOG: Término do prazo para relacionar colaboradores da MOBFOG
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: 01/05 Término do prazo para relacionar os professores colaboradores
+ \, o diretor da escola e o próprio professor representante para que receb
+ am seus certificados como colaboradores da OBA ou da OBAFOG.\nFonte oficia
+ l: https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-216a55273fbefb70@noic.com.br
+DTSTAMP:20261117T002352Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:MOBFOG: Data limite para lançar os foguetes da 20ª OBAFOG
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: Data limite para lançamento de Foguetes: 15/05/2026.\nFonte oficial
+ : https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20D
+ A%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%207%20-%202026-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20
+ DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%207%20-%202026-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-374efce6dd311a98@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260601
+SUMMARY:MOBFOG: Período para digitação dos alcances dos foguetes da 20ª
+  OBAFOG
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: submission\nEvid
+ ência: 18 – 31/05 Período para os professores representantes da OBA ac
+ essarem app.oba.org.br e digitarem os ALCANCES dos foguetes dos alunos par
+ ticipantes da 20ª OBAFOG.\nFonte oficial: https://sistema.oba.org.br/sisg
+ lob/sisglob_arquivos/2026/DATAS%20IMPORTANTES%202026%20OBA%20E%20OBAFOG-co
+ mpactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-81e8c842d076a9ad@noic.com.br
+DTSTAMP:20261117T002322Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260601
+SUMMARY:MOBFOG: Período para lançar os alcances dos foguetes na plataform
+ a app.oba.org.br
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: submission\nEvid
+ ência: Período para lançar os alcances dos foguetes na plataforma app.o
+ ba.org.br: de 18/05/26 até 31/05/26.\nFonte oficial: https://sistema.oba.
+ org.br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20DA%2020%C2%AA%20OBAFOG%
+ 20PARA%20O%20MODELO%205%20-%202026-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20
+ DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%205%20-%202026-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-85cb1c45ed71a6be@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260601
+SUMMARY:MOBFOG: Período para correção dos nomes dos alunos da 20ª OBAFO
+ G
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: submission\nEvid
+ ência: 18 – 31/05 Período para os professores representantes da OBA co
+ rrigirem os nomes dos alunos participantes da 29ª OBA e ou da 20ª OBAFOG
+ .\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026
+ /DATAS%20IMPORTANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d5b5e2a521a4b1c0@noic.com.br
+DTSTAMP:20261117T002330Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260601
+SUMMARY:MOBFOG: Período para lançar os alcances dos foguetes
+DESCRIPTION:Departamento: Foguetes\nEdição: 20\nMarco: submission\nEvidê
+ ncia: Período para lançar os alcances dos foguetes na plataforma app.oba
+ .org.br: de 18/05/26 até 31/05/26\nFonte oficial: https://sistema.oba.org
+ .br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20DA%2020%C2%AA%20OBAFOG%20P
+ ARA%20O%20MODELO%206%20-%202026-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20
+ DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%206%20-%202026-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-dbc1ab10fd382faa@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:MOBFOG: Divulgação dos medalhistas da MOBFOG em 2026
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: results\nEvidên
+ cia: 30/06 Divulgação na extranet da OBA (www.oba.org.br/extranet) e na
+  página da OBA (www.oba.org.br) dos nomes dos alunos que ganharam medalha
+ s na OBA e na OBAFOG em 2026.\nFonte oficial: https://sistema.oba.org.br/s
+ isglob/sisglob_arquivos/2026/DATAS%20IMPORTANTES%202026%20OBA%20E%20OBAFOG
+ -compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7ad3044bf202929e@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:MOBFOG: Data limite para envio do boleto de rateio da MOBFOG
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: 30/07 Data limite para a Secretaria da OBA enviar o boleto bancário
+  para rateio das postagens dos pacotes de certificados e eventuais medalha
+ s obtidas pelas escolas.\nFonte oficial: https://sistema.oba.org.br/sisglo
+ b/sisglob_arquivos/2026/DATAS%20IMPORTANTES%202026%20OBA%20E%20OBAFOG-comp
+ actado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-453719abcba3609c@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:MOBFOG: Data limite para pagamento do boleto de rateio da MOBFOG
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: 30/09 Data limite para pagamento do boleto do rateio das postagens d
+ os pacotes contendo os certificados\, eventuais medalhas e demais brindes.
+ \nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/
+ DATAS%20IMPORTANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4be99d03a2450b69@noic.com.br
+DTSTAMP:20261116T195730Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:MOBFOG: Início das postagens de certificados e medalhas da MOBFOG
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: announcement\nEv
+ idência: 01/10 Início das postagens dos pacotes contendo os certificados
+ \, eventuais medalhas e demais brindes das Escolas que pagaram os boletos
+  de rateio das postagens.\nFonte oficial: https://sistema.oba.org.br/sisgl
+ ob/sisglob_arquivos/2026/DATAS%20IMPORTANTES%202026%20OBA%20E%20OBAFOG-com
+ pactado.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
+ ANTES%202026%20OBA%20E%20OBAFOG-compactado.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

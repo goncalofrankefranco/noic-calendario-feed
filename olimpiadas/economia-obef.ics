@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OBEF — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-f29efd8fa4856f49@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260622
+SUMMARY:OBEF: Período de Inscrições
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: registration\nEv
+ idência: 06/04/2026 a 21/06/2026 Período de Inscrições\nFonte oficial:
+  https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sites
+ /347/2026/09/EDITAL-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-bf27e9c4d7aa0f6c@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:OBEF: Prova Nível 1 – 1ª Fase
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: exam\nEvidência
+ : 10/08/2026 Prova Nível 1 – 1ª Fase\nFonte oficial: https://www.ufpb.
+ br/educacaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITA
+ L-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e077f64fb486c7c1@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:OBEF: Prova Nível 2 – 1ª Fase
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: exam\nEvidência
+ : 11/08/2026 Prova Nível 2 – 1ª Fase\nFonte oficial: https://www.ufpb.
+ br/educacaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITA
+ L-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-882f8c13b1c4887e@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:OBEF: Prova Nível 3 – 1ª Fase
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: exam\nEvidência
+ : 12/08/2026 Prova Nível 3 – 1ª Fase\nFonte oficial: https://www.ufpb.
+ br/educacaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITA
+ L-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2d6ea3b965c7d92c@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:OBEF: Prova Nível 4 – 1ª Fase
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: exam\nEvidência
+ : 13/08/2026 Prova Nível 4 – 1ª Fase\nFonte oficial: https://www.ufpb.
+ br/educacaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITA
+ L-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d56cebb26c096565@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:OBEF: Prova Nível 5 – 1ª Fase
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: exam\nEvidência
+ : 14/08/2026 Prova Nível 5 – 1ª Fase\nFonte oficial: https://www.ufpb.
+ br/educacaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITA
+ L-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-64da683efe220f03@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260819
+SUMMARY:OBEF: Prazo para Recurso
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: deadline\nEvidê
+ ncia: 17 a 18/08/2026 Prazo para Recurso\nFonte oficial: https://www.ufpb.
+ br/educacaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITA
+ L-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a166d346a83bea76@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:OBEF: Gabarito Preliminar
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: announcement\nEv
+ idência: 17/08/2026 Gabarito Preliminar\nFonte oficial: https://www.ufpb.
+ br/educacaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITA
+ L-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1f2666a9e0eef5c2@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:OBEF: Divulgação do Gabarito Oficial
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: announcement\nEv
+ idência: 20/08/2026 Divulgação do Gabarito Oficial\nFonte oficial: http
+ s://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sites/347/
+ 2026/09/EDITAL-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2712bfbede4a713e@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:OBEF: Resultado Preliminar
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: results\nEvidên
+ cia: 21/08/2026 Resultado Preliminar\nFonte oficial: https://www.ufpb.br/e
+ ducacaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITAL-VI
+ II-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d1387e0b0313af5e@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:OBEF: Resultado Oficial
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: results\nEvidên
+ cia: 25/08/2026 Resultado Oficial\nFonte oficial: https://www.ufpb.br/educ
+ acaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITAL-VIII-
+ OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7ac3dec8d0b9b890@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:OBEF: Provas da 2ª Fase
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: exam\nEvidência
+ : 02/09/2026 Provas da 2ª Fase\nFonte oficial: https://www.ufpb.br/educac
+ aofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITAL-VIII-OB
+ EF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-aca41ad09825593f@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:OBEF: Data limite para envio das planilhas preenchidas
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: deadline\nEvidê
+ ncia: 09/09/2026 Data limite para envio das planilhas preenchidas\nFonte o
+ ficial: https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/17
+ 9/sites/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b734589b5f66665b@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:OBEF: Gabarito Preliminar
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: announcement\nEv
+ idência: 10/09/2026 Gabarito Preliminar\nFonte oficial: https://www.ufpb.
+ br/educacaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITA
+ L-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8407908810dfec68@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:OBEF: Divulgação do Gabarito Oficial
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: announcement\nEv
+ idência: 12/09/2026 Divulgação do Gabarito Oficial\nFonte oficial: http
+ s://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sites/347/
+ 2026/09/EDITAL-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-bd52af8734a4243e@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:OBEF: Resultado Preliminar
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: results\nEvidên
+ cia: 14/09/2026 Resultado Preliminar\nFonte oficial: https://www.ufpb.br/e
+ ducacaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITAL-VI
+ II-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e4e22253945c2fe4@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260917
+SUMMARY:OBEF: Prazo para Recurso
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: deadline\nEvidê
+ ncia: 14 a 16/09/2026 Prazo para Recurso\nFonte oficial: https://www.ufpb.
+ br/educacaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITA
+ L-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4e7e34879da20d25@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:OBEF: Resultado Oficial
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: results\nEvidên
+ cia: 18/09/2026 Resultado Oficial\nFonte oficial: https://www.ufpb.br/educ
+ acaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITAL-VIII-
+ OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ec624cdd8499d4b6@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:OBEF: Provas 3ª Fase
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: exam\nEvidência
+ : 26/09/2026 Provas 3ª Fase\nFonte oficial: https://www.ufpb.br/educacaof
+ inanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITAL-VIII-OBEF-
+ 5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fcf4fa89c5865d83@noic.com.br
+DTSTAMP:20261116T195949Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:OBEF: EDITAL – VIII OBEF
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: announcement\nEv
+ idência: segunda-feira\, 28 de setembro de 2026\nFonte oficial: https://w
+ ww.ufpb.br/educacaofinanceira/edital-2026/
+URL:https://www.ufpb.br/educacaofinanceira/edital-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-af7b695f6546147d@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261002
+SUMMARY:OBEF: Prazo para Recurso
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: deadline\nEvidê
+ ncia: 30/09 a 01/10/2026 Prazo para Recurso\nFonte oficial: https://www.uf
+ pb.br/educacaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/ED
+ ITAL-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f7061b86afade7e1@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:OBEF: Gabarito Preliminar
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: announcement\nEv
+ idência: 30/09/2026 Gabarito Preliminar\nFonte oficial: https://www.ufpb.
+ br/educacaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITA
+ L-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-eedfde378964e5ee@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:OBEF: Divulgação do Gabarito Oficial
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: announcement\nEv
+ idência: 02/10/2026 Divulgação do Gabarito Oficial\nFonte oficial: http
+ s://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sites/347/
+ 2026/09/EDITAL-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6b6e07259108b332@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:OBEF: Resultado Preliminar
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: results\nEvidên
+ cia: 07/10/2026 Resultado Preliminar\nFonte oficial: https://www.ufpb.br/e
+ ducacaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITAL-VI
+ II-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a3e98b91e3ccf191@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:OBEF: Resultado Oficial
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: results\nEvidên
+ cia: 16/10/2026 Resultado Oficial\nFonte oficial: https://www.ufpb.br/educ
+ acaofinanceira/wp-content/uploads/sites/179/sites/347/2026/09/EDITAL-VIII-
+ OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d8cc74f3cd24dab3@noic.com.br
+DTSTAMP:20261116T200014Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261205
+SUMMARY:OBEF: Cerimônia de Premiação
+DESCRIPTION:Departamento: Economia\nEdição: VIII\nMarco: other\nEvidênci
+ a: De 01 a 04/12/2026* Cerimônia de Premiação\nFonte oficial: https://w
+ ww.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sites/347/2026/
+ 09/EDITAL-VIII-OBEF-5.pdf
+URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
+ es/347/2026/09/EDITAL-VIII-OBEF-5.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

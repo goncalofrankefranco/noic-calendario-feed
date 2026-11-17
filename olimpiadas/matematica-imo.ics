@@ -7,12 +7,55 @@ X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:Olimpíada Internacional de Matemática — Calendário Olímp
  ico do NOIC
 BEGIN:VEVENT
-UID:noic-f29918b305f9ff3a@noic.com.br
-DTSTAMP:20260930T161418Z
+UID:noic-a4c19683d501aea7@noic.com.br
+DTSTAMP:20261116T201332Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260328
+SUMMARY:Olimpíada Internacional de Matemática: Selección 67º Olimpíada
+  Matemática Internacional – 67th IMO
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: selection\nEv
+ idência: {"aclaracion": ""\, "fin_dia": 27\, "inicio_dia": 26\, "inicio_m
+ es": 3\, "tachado": false\, "texto": "Selección 67º Olimpíada Matemáti
+ ca Internacional – 67th IMO"\, "tipo": "selectivo"}\nFonte oficial: http
+ s://www.oma.org.ar/contents/calendar/2026.json
+URL:https://www.oma.org.ar/contents/calendar/2026.json
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-e4d8b7685e18bb29@noic.com.br
+DTSTAMP:20261117T002701Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260722
+SUMMARY:Olimpíada Internacional de Matemática: 67th International Mathema
+ tical Olympiad
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: final\nEvidê
+ ncia: 67th International Mathematical Olympiad (IMO) 9 a 21 de Julho de 20
+ 26\, Xangai\, China.\nFonte oficial: https://www.obm.org.br/informacoes-ge
+ rais/calendario
+URL:https://www.obm.org.br/informacoes-gerais/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-220765a8315d1be5@noic.com.br
+DTSTAMP:20261116T201332Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260721
+SUMMARY:Olimpíada Internacional de Matemática: 67º Olimpíada Internacio
+ nal de Matemática – 67Th IMO
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: other\nEvidê
+ ncia: {"aclaracion": "Shanghái - China "\, "fin_dia": 20\, "inicio_dia":
+  10\, "inicio_mes": 7\, "tachado": false\, "texto": "67º Olimpíada Inter
+ nacional de Matemática – 67Th IMO "\, "tipo": "internacional"}\nFonte o
+ ficial: https://www.oma.org.ar/contents/calendar/2026.json
+URL:https://www.oma.org.ar/contents/calendar/2026.json
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-22d45648c1d9e04d@noic.com.br
+DTSTAMP:20261117T002438Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260722
-SUMMARY:Olimpíada Internacional de Matemática: IMO 2026 Shanghai\, People
- 's Republic of China
+SUMMARY:Olimpíada Internacional de Matemática: IMO 2026 Shanghai
 DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
  cia: Most Recent IMO 2026 Shanghai\, People's Republic of China - July 10-
  21\, 2026\nFonte oficial: https://www.imo-official.org/
@@ -20,12 +63,37 @@ URL:https://www.imo-official.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-f29918b305f9ff3a@noic.com.br
+DTSTAMP:20261114T161508Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260722
+SUMMARY:Olimpíada Internacional de Matemática: IMO 2026 Shanghai\, People
+ 's Republic of China
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: IMO 2026 Shanghai\, People's Republic of China - July 10-21\, 2026\nF
+ onte oficial: https://www.imo-official.org/
+URL:https://www.imo-official.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-0212785b39e84fac@noic.com.br
-DTSTAMP:20260930T161418Z
+DTSTAMP:20261114T161508Z
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270727
 SUMMARY:Olimpíada Internacional de Matemática: IMO 2027 Budapest\, Hungar
  y
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: exam\nEvidên
+ cia: Upcoming IMO 2027 Budapest\, Hungary - July 16-26\, 2027\nFonte ofici
+ al: https://www.imo-official.org/
+URL:https://www.imo-official.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1be4e12cc7952fe0@noic.com.br
+DTSTAMP:20261117T002439Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270727
+SUMMARY:Olimpíada Internacional de Matemática: IMO 2027 Budapest
 DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: exam\nEvidên
  cia: Upcoming IMO 2027 Budapest\, Hungary - July 16-26\, 2027\nFonte ofici
  al: https://www.imo-official.org/

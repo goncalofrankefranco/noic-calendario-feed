@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:OIBF — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-bc15f0f23c6b90c0@noic.com.br
+DTSTAMP:20261116T195240Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20261003
+SUMMARY:OIBF: XXIX Edição da OIbF
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  A edição será realizada de 25/09 a 02/10\, em João Pessoa (PB)\nFonte
+  oficial: https://app.graxaim.org/oibf/2026/home
+URL:https://app.graxaim.org/oibf/2026/home
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

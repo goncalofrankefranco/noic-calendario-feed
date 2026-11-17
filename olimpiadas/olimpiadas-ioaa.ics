@@ -4,28 +4,30 @@ PRODID:-//NOIC//Calendario Olimpico//PT-BR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
-X-WR-CALNAME:Astronomia — Calendário Olímpico do NOIC
+X-WR-CALNAME:International Olympiad on Astronomy and Astrophysics (IOAA)
+  — Calendário Olímpico do NOIC
 BEGIN:VEVENT
 UID:noic-014055abef2e442c@noic.com.br
-DTSTAMP:20261112T205627Z
+DTSTAMP:20261117T002444Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20261006
-SUMMARY:Astronomia: 19th IOAA 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 19th\nMarco: round\nEvidên
- cia: 25.9. - 5.10. Hanoi\, Vietnam\nFonte oficial: https://www.ioaastrophy
- sics.org/
+SUMMARY:International Olympiad on Astronomy and Astrophysics (IOAA): 19th I
+ OAA 2026
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: exam\nEvidênc
+ ia: 19th IOAA 2026 25.9. - 5.10. Hanoi\, Vietnam\nFonte oficial: https://w
+ ww.ioaastrophysics.org/
 URL:https://www.ioaastrophysics.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-32600bda14f0e0e9@noic.com.br
-DTSTAMP:20261112T205627Z
+DTSTAMP:20261115T164426Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261109
-SUMMARY:Astronomia: 5th IOAA Junior 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 5th\nMarco: round\nEvidênc
- ia: November 1-8\, 2026. Ubon Ratchathani\, Thailand\nFonte oficial: https
- ://www.ioaastrophysics.org/
+SUMMARY:Astronomia: 5th IOAA Jr 2026
+DESCRIPTION:Departamento: Astronomia\nEdição: 5\nMarco: final\nEvidência
+ : November 1-8\, 2026. Ubon Ratchathani\, Thailand\nFonte oficial: https:/
+ /www.ioaastrophysics.org/
 URL:https://www.ioaastrophysics.org/
 STATUS:CONFIRMED
 END:VEVENT

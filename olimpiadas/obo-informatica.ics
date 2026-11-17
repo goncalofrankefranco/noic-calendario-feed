@@ -6,6 +6,18 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OBOI — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-3d7b05a12eca6900@noic.com.br
+DTSTAMP:20261117T001836Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260831
+SUMMARY:OBOI: 1ª fase OBOI 2026
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: A prova será realizada de 24/08 até 30/08.\nFonte oficial: htt
+ ps://noic.com.br/wp-content/uploads/2026/05/regulamento_oboi.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboi.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-a76bca8df38bc527@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260824
@@ -27,6 +39,18 @@ DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
  ência: Lote 1 da 2ª fase: 21/09–27/09\; OBOF\, OBOI\, OBOB e OBOL.\nFo
  nte oficial: https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
 URL:https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a70e2df80ab42476@noic.com.br
+DTSTAMP:20261117T001836Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260928
+SUMMARY:OBOI: 2ª fase OBOI 2026
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: A prova será realizada de 21/09 até 27/09.\nFonte oficial: htt
+ ps://noic.com.br/wp-content/uploads/2026/05/regulamento_oboi.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboi.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

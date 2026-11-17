@@ -6,6 +6,18 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OBOR — Calendário Olímpico do NOIC
 BEGIN:VEVENT
+UID:noic-a3921eec6e76c027@noic.com.br
+DTSTAMP:20261117T001943Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260824
+SUMMARY:OBOR: 1ª fase da OBOR 2026
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: A prova será realizada de 17/08 até 23/08.\nFonte oficial: https:/
+ /noic.com.br/wp-content/uploads/2026/05/regulamento_obor.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_obor.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-ce9c78b86c2207ab@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260817
@@ -19,15 +31,28 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-69d217f787ef0dd2@noic.com.br
-DTSTAMP:20261003T182254Z
+DTSTAMP:20261113T162908Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20261012
-SUMMARY:OBOR: OBOR 2026 — envio dos projetos da 2ª fase
+SUMMARY:OBOR: Envio de vídeos e projetos da 2ª fase da OBOR
 DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: submission\nEvi
- dência: OBOR: submissões contínuas de 21/09–11/10 para envio dos proj
- etos.\nFonte oficial: https://noic.com.br/wp-content/uploads/2026/05/calen
- dario_oficial.pdf
-URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+ dência: As equipes poderão enviar seus vídeos/projetos durante a janela
+  de três semanas de 21/09 até 11/10.\nFonte oficial: https://noic.com.br
+ /wp-content/uploads/2026/05/regulamento_obor.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_obor.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a46a6b186ef7459b@noic.com.br
+DTSTAMP:20261117T001943Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20261012
+SUMMARY:OBOR: 2ª fase da OBOR 2026
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: submission\nEvi
+ dência: As equipes poderão enviar seus vı́deos/projetos durante a jan
+ ela de três semanas de 21/09 até 11/10.\nFonte oficial: https://noic.c
+ om.br/wp-content/uploads/2026/05/regulamento_obor.pdf
+URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_obor.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

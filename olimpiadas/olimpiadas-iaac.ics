@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:International Astronomy and Astrophysics Competition (IAAC)
+  — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-246c639beda5c2e1@noic.com.br
+DTSTAMP:20261116T201613Z
+DTSTART:20260417T235900Z
+DTEND:20260417T235900Z
+SUMMARY:International Astronomy and Astrophysics Competition (IAAC): Qualif
+ ication Round Submission Deadline
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: submission\nEv
+ idência: time applicable to all dates in the timetable below is 23:59 UTC
+ +0. Qualification Round: Friday 17 April 2026 Submission Deadline (Qualifi
+ cation Round)\nFonte oficial: http://iaac.space/docs/IAAC_Timetable_and_De
+ adlines.pdf
+URL:http://iaac.space/docs/IAAC_Timetable_and_Deadlines.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b75118742c7aa71e@noic.com.br
+DTSTAMP:20261116T195825Z
+DTSTART:20260504T235900Z
+DTEND:20260504T235900Z
+SUMMARY:International Astronomy and Astrophysics Competition (IAAC): Qualif
+ ication Round Announcement of Results
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: results\nEvid
+ ência: time applicable to all dates in the timetable below is 23:59 UTC+0
+ . Qualification Round: Friday 17 April 2026 Submission Deadline (Qualifica
+ tion Round) Monday 4 May 2026 Announcement of Results (Qualification Round
+ )\nFonte oficial: https://www.iaac.space/docs/IAAC_Timetable_and_Deadlines
+ .pdf
+URL:https://www.iaac.space/docs/IAAC_Timetable_and_Deadlines.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1042519096d1c2bb@noic.com.br
+DTSTAMP:20261116T201613Z
+DTSTART:20260526T235900Z
+DTEND:20260526T235900Z
+SUMMARY:International Astronomy and Astrophysics Competition (IAAC): Pre-Fi
+ nal Round Registration Deadline
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: registration\n
+ Evidência: time applicable to all dates in the timetable below is 23:59 U
+ TC+0. Qualification Round: Friday 17 April 2026 Submission Deadline (Quali
+ fication Round) Monday 4 May 2026 Announcement of Results (Qualification R
+ ound) Pre-Final Round: Tuesday 26 May 2026 Registration Deadline (Pre-Fina
+ l Round)\nFonte oficial: http://iaac.space/docs/IAAC_Timetable_and_Deadlin
+ es.pdf
+URL:http://iaac.space/docs/IAAC_Timetable_and_Deadlines.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-ea011ed371ba39db@noic.com.br
+DTSTAMP:20261116T201613Z
+DTSTART:20260529T235900Z
+DTEND:20260529T235900Z
+SUMMARY:International Astronomy and Astrophysics Competition (IAAC): Pre-Fi
+ nal Round Release of Research Paper
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: other\nEvidên
+ cia: time applicable to all dates in the timetable below is 23:59 UTC+0. Q
+ ualification Round: Friday 17 April 2026 Submission Deadline (Qualificatio
+ n Round) Monday 4 May 2026 Announcement of Results (Qualification Round) P
+ re-Final Round: Tuesday 26 May 2026 Registration Deadline (Pre-Final Round
+ ) Thursday 29 May 2026 Release of Research Paper (Pre-Final Round)\nFonte
+  oficial: http://iaac.space/docs/IAAC_Timetable_and_Deadlines.pdf
+URL:http://iaac.space/docs/IAAC_Timetable_and_Deadlines.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-aab8da2a00b845a9@noic.com.br
+DTSTAMP:20261116T201613Z
+DTSTART:20260602T235900Z
+DTEND:20260602T235900Z
+SUMMARY:International Astronomy and Astrophysics Competition (IAAC): Pre-Fi
+ nal Round Submission Deadline
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: submission\nEv
+ idência: time applicable to all dates in the timetable below is 23:59 UTC
+ +0. Qualification Round: Friday 17 April 2026 Submission Deadline (Qualifi
+ cation Round) Monday 4 May 2026 Announcement of Results (Qualification Rou
+ nd) Pre-Final Round: Tuesday 26 May 2026 Registration Deadline (Pre-Final
+  Round) Thursday 29 May 2026 Release of Research Paper (Pre-Final Round) S
+ unday 2 June 2026 Submission Deadline (Pre-Final Round)\nFonte oficial: ht
+ tp://iaac.space/docs/IAAC_Timetable_and_Deadlines.pdf
+URL:http://iaac.space/docs/IAAC_Timetable_and_Deadlines.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-455edcfaee2a67d0@noic.com.br
+DTSTAMP:20261116T201613Z
+DTSTART:20260630T235900Z
+DTEND:20260630T235900Z
+SUMMARY:International Astronomy and Astrophysics Competition (IAAC): Final
+  Round Exam
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: exam\nEvidênc
+ ia: time applicable to all dates in the timetable below is 23:59 UTC+0. Qu
+ alification Round: Friday 17 April 2026 Submission Deadline (Qualification
+  Round) Monday 4 May 2026 Announcement of Results (Qualification Round) Pr
+ e-Final Round: Tuesday 26 May 2026 Registration Deadline (Pre-Final Round)
+  Thursday 29 May 2026 Release of Research Paper (Pre-Final Round) Sunday 2
+  June 2026 Submission Deadline (Pre-Final Round) Monday 15 June 2026 Annou
+ ncement of Results (Pre-Final Round) Final Round: Tuesday 30 June 2026 Day
+  of the Final Round Exam (Final Round)\nFonte oficial: http://iaac.space/d
+ ocs/IAAC_Timetable_and_Deadlines.pdf
+URL:http://iaac.space/docs/IAAC_Timetable_and_Deadlines.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0481f1be0ba5cd62@noic.com.br
+DTSTAMP:20261116T195825Z
+DTSTART:20260706T235900Z
+DTEND:20260706T235900Z
+SUMMARY:International Astronomy and Astrophysics Competition (IAAC): Pre-Fi
+ nal Round Announcement of Results
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: results\nEvid
+ ência: time applicable to all dates in the timetable below is 23:59 UTC+0
+ . Qualification Round: Friday 17 April 2026 Submission Deadline (Qualifica
+ tion Round) Monday 4 May 2026 Announcement of Results (Qualification Round
+ ) Pre-Final Round: Tuesday 26 May 2026 Registration Deadline (Pre-Final Ro
+ und) Thursday 29 May 2026 Release of Research Paper (Pre-Final Round) Sund
+ ay 2 June 2026 Submission Deadline (Pre-Final Round) Monday 15 June 2026 A
+ nnouncement of Results (Pre-Final Round) Final Round: Tuesday 30 June 2026
+  Day of the Final Round Exam (Final Round) Monday 6 July 2026 Announcement
+  of Results (Final Round)\nFonte oficial: https://www.iaac.space/docs/IAAC
+ _Timetable_and_Deadlines.pdf
+URL:https://www.iaac.space/docs/IAAC_Timetable_and_Deadlines.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
