@@ -18,18 +18,6 @@ URL:https://www.robocup.org/events/80
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-284cd14163b0d885@noic.com.br
-DTSTAMP:20261116T201428Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261026
-SUMMARY:RoboCup: 2nd RoboCup Americas Super Regional (ASR) 2026 Canada
-DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: final\nEvidênc
- ia: From 22 Oct 2026 To 25 Oct 2026 2nd RoboCup Americas Super Regional (A
- SR) 2026 Canada\nFonte oficial: https://www.robocup.org/events/80
-URL:https://www.robocup.org/events/80
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-54530d4a0f3d2622@noic.com.br
 DTSTAMP:20261116T201428Z
 DTSTART;VALUE=DATE:20261023
