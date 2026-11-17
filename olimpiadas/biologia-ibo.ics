@@ -95,15 +95,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-d9ca9f59522d3d40@noic.com.br
-DTSTAMP:20261116T195720Z
+DTSTAMP:20261117T185308Z
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260720
 SUMMARY:Olimpíada Internacional de Biologia (IBO): 37º IBO
-DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: final\nEvidênci
- a: 37º IBO\, que ocorrerá entre os dias 12 e 19 de julho de 2026 na Litu
- ânia.\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/fases-
- e-inscricoes
-URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+DESCRIPTION:Departamento: Biologia\nEdição: 37º\nMarco: exam\nEvidência
+ : 37º IBO\, que ocorrerá entre os dias 12 e 19 de julho de 2026 na Litu
+ ânia.\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/cronog
+ rama
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

@@ -31,17 +31,6 @@ URL:https://www.icho2026.uz/program
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-5a37952c97530238@noic.com.br
-DTSTAMP:20261116T195644Z
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:IChO: International Chemistry Olympiad - Uzbequistão (IChO)
-DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
- a: 2026-07-10\nFonte oficial: https://obquimica.org/calendario
-URL:https://obquimica.org/calendario
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-15f85f636b798737@noic.com.br
 DTSTAMP:20261114T161631Z
 DTSTART:20260711T103000Z
@@ -88,6 +77,19 @@ DESCRIPTION:Departamento: Química\nEdição: 58th\nMarco: final\nEvidênci
  mme\, handover of the IChO flag)\nFonte oficial: https://www.icho2026.uz/p
  rogram
 URL:https://www.icho2026.uz/program
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5a37952c97530238@noic.com.br
+DTSTAMP:20261117T185112Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:IChO: International Chemistry Olympiad - Uzbequistão (IChO)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
+ a: 2026-07-19\nFonte oficial: https://obquimica.org/calendario/index/olimp
+ iadas-cientificas-nacionais-
+URL:https://obquimica.org/calendario/index/olimpiadas-cientificas-nacionais
+ -
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

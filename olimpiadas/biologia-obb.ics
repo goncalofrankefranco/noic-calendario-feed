@@ -46,6 +46,19 @@ URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-0288aab092c8e642@noic.com.br
+DTSTAMP:20261117T185308Z
+DTSTART:20260303T120000Z
+DTEND:20260303T190000Z
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Fase 1 da XXII OBB
+DESCRIPTION:Departamento: Biologia\nEdição: XXII\nMarco: exam\nEvidência
+ : Data:somente 03/03/2026 (terça-feira – das 9h às 16h - horário de B
+ rasília)\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/cro
+ nograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-aeda2384146fb084@noic.com.br
 DTSTAMP:20261116T195720Z
 DTSTART:20260303T120000Z
@@ -180,6 +193,20 @@ URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-7bd5f4f5ad879251@noic.com.br
+DTSTAMP:20261117T185308Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Divulgação do gabarito d
+ efinitivo da fase 2
+DESCRIPTION:Departamento: Biologia\nEdição: XXII\nMarco: results\nEvidên
+ cia: A divulgação do gabarito definitivo da fase 2 será a partir do dia
+  20/03/2026\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/c
+ ronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-85ebb448a7dcc4e4@noic.com.br
 DTSTAMP:20261116T195720Z
 DTSTART;VALUE=DATE:20260320
@@ -275,6 +302,19 @@ DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: results\nEvidên
  cia: Divulgação da lista dos estudantes aptos/autorizados a fazer a prov
  a de Fase 3 A partir de 10/04/2026\nFonte oficial: https://olimpiadasdebio
  logia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5f2f55091ba8c515@noic.com.br
+DTSTAMP:20261117T185308Z
+DTSTART:20260414T130000Z
+DTEND:20260414T150000Z
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Fase 3 da XXII OBB
+DESCRIPTION:Departamento: Biologia\nEdição: XXII\nMarco: exam\nEvidência
+ : Data: 14/04/2026 (terça-feira - das 10h às 12h – Horário de Brasíl
+ ia)\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/cronogram
+ a
 URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
 STATUS:CONFIRMED
 END:VEVENT
@@ -404,6 +444,20 @@ URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-08bf94e01e14d06a@noic.com.br
+DTSTAMP:20261117T185308Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260509
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Capacitação/Seletiva par
+ a Olimpíadas Internacionais - Plataforma Virtual
+DESCRIPTION:Departamento: Biologia\nEdição: XXII\nMarco: other\nEvidênci
+ a: CAPACITAÇÃO/SELETIVA PARA OLIMPÍADAS INTERNACIONAIS (Data: 07 e 08/0
+ 5/2026 na plataforma virtual\nFonte oficial: https://olimpiadasdebiologia.
+ butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-a6f2cde594e81128@noic.com.br
 DTSTAMP:20261116T195720Z
 DTSTART;VALUE=DATE:20260507
@@ -441,6 +495,19 @@ DESCRIPTION:Departamento: Biologia\nEdição: XXII OBB\nMarco: selection\nE
  vidência: e de 11 a 16/05 na modalidade presencial\nFonte oficial: https:
  //olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
 URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d3c780f1ea0a0cc0@noic.com.br
+DTSTAMP:20261117T185308Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260517
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Capacitação/Seletiva par
+ a Olimpíadas Internacionais - Modalidade Presencial
+DESCRIPTION:Departamento: Biologia\nEdição: XXII\nMarco: other\nEvidênci
+ a: e de 11 a 16/05 na modalidade presencial)\nFonte oficial: https://olimp
+ iadasdebiologia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

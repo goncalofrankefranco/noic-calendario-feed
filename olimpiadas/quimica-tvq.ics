@@ -152,15 +152,29 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-9bbbd19343e07551@noic.com.br
-DTSTAMP:20261116T195503Z
-DTSTART:20260831T030000Z
-DTEND:20260831T030000Z
-SUMMARY:TVQ: Divulgação do Gabarito da 2ª Fase do TVQ 2026
+DTSTAMP:20261117T185339Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:TVQ: Divulgação do gabarito da segunda fase
 DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
- cia: O gabarito da 2a Fase será divulgado no dia 31 de agosto de 2026 (se
- gunda-feira) às 00:00\nFonte oficial: https://drive.google.com/file/d/1ZF
- LINWEebn90k_hFkyopaA_8ijrI1YDJ/view
-URL:https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+ cia: O gabarito será divulgado dia 31 / 08\nFonte oficial: https://sites.
+ google.com/unicamp.br/torneio-virtual-de-quimica/calend%C3%A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4b36ec6d87bace0b@noic.com.br
+DTSTAMP:20261117T185339Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:TVQ: Prazo de contestação da segunda fase
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: e os alunos terão até dia 01 / 09 para contestarem as respostas da
+ s questões.\nFonte oficial: https://sites.google.com/unicamp.br/torneio-v
+ irtual-de-quimica/calend%C3%A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -192,13 +206,27 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-771bc589edd315d5@noic.com.br
-DTSTAMP:20261116T195753Z
+DTSTAMP:20261117T185339Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:TVQ: Terceira fase
 DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: round\nEvidênci
- a: A terceira fase ocorrerá no dia 10/10\,\nFonte oficial: https://sites.
- google.com/unicamp.br/torneio-virtual-de-quimica/calend%C3%A1rio
+ a: A terceira fase ocorrerá no dia 10/10\nFonte oficial: https://sites.go
+ ogle.com/unicamp.br/torneio-virtual-de-quimica/calend%C3%A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8c369485c8991676@noic.com.br
+DTSTAMP:20261117T185339Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:TVQ: Terceira fase (motivos religiosos)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: round\nEvidênci
+ a: e no dia 11 /10 para aqueles impedidos por motivos religiosos\nFonte of
+ icial: https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/cale
+ nd%C3%A1rio
 URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
  3%A1rio
 STATUS:CONFIRMED
@@ -255,6 +283,20 @@ DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
   (sexta-feira).\nFonte oficial: https://drive.google.com/file/d/1ZFLINWEeb
  n90k_hFkyopaA_8ijrI1YDJ/view
 URL:https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a6a44cd3efa3eaaf@noic.com.br
+DTSTAMP:20261117T185339Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:TVQ: Resultado da terceira fase
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
+ cia: O resultado da terceira fase será publicado no dia 18 /12\nFonte ofi
+ cial: https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calen
+ d%C3%A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OI — Calendário Olímpico do NOIC
 BEGIN:VEVENT
-UID:noic-2480167a109f0868@noic.com.br
-DTSTAMP:20261117T002957Z
-DTSTART;VALUE=DATE:20260119
-DTEND;VALUE=DATE:20260307
-SUMMARY:OI: Inscrições (1º período)
-DESCRIPTION:Departamento: Inglês\nEdição: 2026\nMarco: registration\nEvi
- dência: Inscrições (1º período\, taxa reduzida): 19 de janeiro a 6 de
-  março de 2026\nFonte oficial: https://www.seletaeducacao.com.br/post/oi-
- 2026-tudo-sobre-a-olimpiada-de-ingles.html
-URL:https://www.seletaeducacao.com.br/post/oi-2026-tudo-sobre-a-olimpiada-d
- e-ingles.html
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-0e4db95aa8499423@noic.com.br
 DTSTAMP:20261117T002957Z
 DTSTART;VALUE=DATE:20260505
@@ -41,20 +27,6 @@ SUMMARY:OI: Gabaritos
 DESCRIPTION:Departamento: Inglês\nEdição: 2026\nMarco: announcement\nEvi
  dência: Gabaritos: 8 de maio de 2026\nFonte oficial: https://www.seletaed
  ucacao.com.br/post/oi-2026-tudo-sobre-a-olimpiada-de-ingles.html
-URL:https://www.seletaeducacao.com.br/post/oi-2026-tudo-sobre-a-olimpiada-d
- e-ingles.html
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-069ca0d183aff1cb@noic.com.br
-DTSTAMP:20261117T002957Z
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260620
-SUMMARY:OI: Período para aquisição de medalhas
-DESCRIPTION:Departamento: Inglês\nEdição: 2026\nMarco: other\nEvidência
- : Período para aquisição de medalhas: 19 de maio a 19 de junho\nFonte o
- ficial: https://www.seletaeducacao.com.br/post/oi-2026-tudo-sobre-a-olimpi
- ada-de-ingles.html
 URL:https://www.seletaeducacao.com.br/post/oi-2026-tudo-sobre-a-olimpiada-d
  e-ingles.html
 STATUS:CONFIRMED
@@ -85,6 +57,20 @@ URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-2480167a109f0868@noic.com.br
+DTSTAMP:20261117T185850Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260829
+SUMMARY:OI: 1º Período de Inscrição
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
+ ion\nEvidência: 1º Período de Inscrição: de 07/07/2026 a 28/08/2026\n
+ Fonte oficial: https://oingles.com/storage/regulations/regulamento-olimpia
+ da-de-ingles-3a-edicao1794910279.pdf
+URL:https://oingles.com/storage/regulations/regulamento-olimpiada-de-ingles
+ -3a-edicao1794910279.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-45efb65a1588c3f2@noic.com.br
 DTSTAMP:20261014T143923Z
 DTSTART;VALUE=DATE:20260707
@@ -98,30 +84,28 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-21c1f463de36b007@noic.com.br
-DTSTAMP:20261116T200542Z
+DTSTAMP:20261117T185850Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20261024
 SUMMARY:OI: 2º Período de Inscrição
 DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
- ion\nEvidência: De 29/08 a 23/10 2º Período de Inscrição\, exclusivam
- ente pelo site da OI\nFonte oficial: https://oingles.com/storage/regulatio
- ns/regulamento-olimpiada-de-ingles-3a-edicao1783436003.pdf
+ ion\nEvidência: 2º Período de Inscrição: de 29/08/2026 a 23/10/2026\n
+ Fonte oficial: https://oingles.com/storage/regulations/regulamento-olimpia
+ da-de-ingles-3a-edicao1794910279.pdf
 URL:https://oingles.com/storage/regulations/regulamento-olimpiada-de-ingles
- -3a-edicao1783436003.pdf
+ -3a-edicao1794910279.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-7ef0f2572258cfd4@noic.com.br
-DTSTAMP:20261116T200542Z
+DTSTAMP:20261112T002355Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:OI: Provas da 3ª Edição
 DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: exam\nEvi
- dência: 05/11 (quinta-feira) Aplicação das provas\nFonte oficial: https
- ://oingles.com/storage/regulations/regulamento-olimpiada-de-ingles-3a-edic
- ao1783436003.pdf
-URL:https://oingles.com/storage/regulations/regulamento-olimpiada-de-ingles
- -3a-edicao1783436003.pdf
+ dência: As provas acontecerão no dia 05 de novembro\nFonte oficial: http
+ s://oingles.com/
+URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -151,14 +135,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0e7deeebc46967f8@noic.com.br
-DTSTAMP:20261116T200538Z
+DTSTAMP:20261117T185850Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:OI: Publicação dos gabaritos das provas da 2ª Edição
-DESCRIPTION:Departamento: Inglês\nEdição: 2026\nMarco: results\nEvidênc
- ia: 07 novembro Publicação dos Gabaritos Publicação dos gabaritos das
-  provas da 2ª Edição.\nFonte oficial: https://oingles.com/calendario
-URL:https://oingles.com/calendario
+SUMMARY:OI: Publicação dos Gabaritos no site
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: results\n
+ Evidência: 07/11 Publicação dos Gabaritos no site\nFonte oficial: https
+ ://oingles.com/storage/regulations/regulamento-olimpiada-de-ingles-3a-edic
+ ao1794910279.pdf
+URL:https://oingles.com/storage/regulations/regulamento-olimpiada-de-ingles
+ -3a-edicao1794910279.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -178,28 +164,41 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-dc7a3bdedf3c9a83@noic.com.br
-DTSTAMP:20261116T200542Z
+DTSTAMP:20261117T185850Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:OI: Divulgação dos premiados
 DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: results\n
  Evidência: 17/11 Divulgação dos premiados\nFonte oficial: https://oingl
- es.com/storage/regulations/regulamento-olimpiada-de-ingles-3a-edicao178343
- 6003.pdf
+ es.com/storage/regulations/regulamento-olimpiada-de-ingles-3a-edicao179491
+ 0279.pdf
 URL:https://oingles.com/storage/regulations/regulamento-olimpiada-de-ingles
- -3a-edicao1783436003.pdf
+ -3a-edicao1794910279.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-069ca0d183aff1cb@noic.com.br
+DTSTAMP:20261117T185121Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20270116
+SUMMARY:OI: Período para aquisição de medalhas
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
+ ion\nEvidência: 24 novembro 2026 - 15 janeiro 2027 Período para aquisiç
+ ão de medalhas (Ouro\, Prata\, Bronze\, Menção Honrosa ou Participaçã
+ o)\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-27f6ac14f2f95231@noic.com.br
-DTSTAMP:20261116T200536Z
+DTSTAMP:20261117T185121Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:OI: Divulgação dos premiados com Ouro\, Prata\, Bronze e Menção
   Honrosa
-DESCRIPTION:Departamento: Inglês\nEdição: 2026\nMarco: results\nEvidênc
- ia: 24 novembro 24 novembro 2026 Divulgação dos premiados com Ouro\, Pra
- ta\, Bronze e Menção Honrosa\nFonte oficial: https://oingles.com/
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: results\n
+ Evidência: 24 novembro 2026 Divulgação dos premiados com Ouro\, Prata\,
+  Bronze e Menção Honrosa.\nFonte oficial: https://oingles.com/
 URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT

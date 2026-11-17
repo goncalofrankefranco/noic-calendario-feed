@@ -200,15 +200,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-b2badf606e2c6e75@noic.com.br
-DTSTAMP:20261116T195507Z
+DTSTAMP:20261117T185111Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270322
-SUMMARY:FIRST Tech Challenge (FTC): 9° Festival SESI de Robótica - FTC
-DESCRIPTION:Departamento: Robótica\nEdição: 9\nMarco: final\nEvidência:
-  O evento nacional acontecerá em Salvador\, entre os dias 18 e 21 de mar
- ço de 2027.\nFonte oficial: https://noticias.portaldaindustria.com.br/not
- icias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-
- sesi-de-robotica/
+SUMMARY:FIRST Tech Challenge (FTC): 9° Festival SESI de Robótica
+DESCRIPTION:Departamento: Robótica\nEdição: 2027\nMarco: final\nEvidênc
+ ia: O evento nacional acontecerá em Salvador\, entre os dias 18 e 21 de m
+ arço de 2027\nFonte oficial: https://noticias.portaldaindustria.com.br/no
+ ticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios
+ -sesi-de-robotica/
 URL:https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-c
  alendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
 STATUS:CONFIRMED

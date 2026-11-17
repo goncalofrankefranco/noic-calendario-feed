@@ -38,15 +38,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-ad92667336205dd8@noic.com.br
-DTSTAMP:20261117T002701Z
+DTSTAMP:20261117T190330Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260914
 SUMMARY:Olimpíada Ibero-Americana de Matemática: 41ª Olimpíada Ibero-am
  ericana de Matemática
-DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: final\nEvidê
- ncia: 41ª Olimpíada Ibero-americana de Matemática 6 a 13 de setembro\,
-  Buenos Aires\, Argentina\nFonte oficial: https://www.obm.org.br/informaco
- es-gerais/calendario
+DESCRIPTION:Departamento: Matemática\nEdição: 41ª Olimpíada Ibero-amer
+ icana de Matemática\nMarco: exam\nEvidência: 41ª Olimpíada Ibero-ameri
+ cana de Matemática 6 a 13 de setembro\, Buenos Aires\, Argentina\nFonte o
+ ficial: https://www.obm.org.br/informacoes-gerais/calendario
 URL:https://www.obm.org.br/informacoes-gerais/calendario
 STATUS:CONFIRMED
 END:VEVENT

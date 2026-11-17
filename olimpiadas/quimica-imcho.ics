@@ -19,13 +19,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-c8c02af709fd568e@noic.com.br
-DTSTAMP:20261116T195644Z
-DTSTART;VALUE=DATE:20260415
-DTEND;VALUE=DATE:20260416
+DTSTAMP:20261117T185112Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
 SUMMARY:IMChO: International Mendeleev Chemistry Olympiad - Rússia (IMChO)
 DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
- a: 2026-04-15\nFonte oficial: https://obquimica.org/calendario
-URL:https://obquimica.org/calendario
+ a: 2026-04-23\nFonte oficial: https://obquimica.org/calendario/index/olimp
+ iadas-cientificas-nacionais-
+URL:https://obquimica.org/calendario/index/olimpiadas-cientificas-nacionais
+ -
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

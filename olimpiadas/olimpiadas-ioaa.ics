@@ -21,13 +21,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-32600bda14f0e0e9@noic.com.br
-DTSTAMP:20261115T164426Z
+DTSTAMP:20261117T190306Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261109
-SUMMARY:Astronomia: 5th IOAA Jr 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 5\nMarco: final\nEvidência
- : November 1-8\, 2026. Ubon Ratchathani\, Thailand\nFonte oficial: https:/
- /www.ioaastrophysics.org/
+SUMMARY:International Olympiad on Astronomy and Astrophysics (IOAA): 5th Ju
+ nior Olympiad on Astronomy and Astrophysics 2026
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: final\nEvidên
+ cia: November 1-8\, 2026. Ubon Ratchathani\, Thailand\nFonte oficial: http
+ s://www.ioaastrophysics.org/
 URL:https://www.ioaastrophysics.org/
 STATUS:CONFIRMED
 END:VEVENT

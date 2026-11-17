@@ -8,15 +8,15 @@ X-WR-CALNAME:Romanian Masters in Mathematics — Calendário Olímpico do N
  OIC
 BEGIN:VEVENT
 UID:noic-5cac9af2641929cb@noic.com.br
-DTSTAMP:20261117T002701Z
+DTSTAMP:20261117T190330Z
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260301
 SUMMARY:Romanian Masters in Mathematics: 17th Romanian Masters of Mathemati
  cs (RMM)
-DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: final\nEvidê
- ncia: 17th Romanian Masters of Mathematics (RMM) 23 a 28 de fevereiro\, Bu
- carest\, Romênia\nFonte oficial: https://www.obm.org.br/informacoes-gerai
- s/calendario
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: 17th Romanian Masters of Mathematics (RMM) 23 a 28 de fevereiro\, Buc
+ arest\, Romênia\nFonte oficial: https://www.obm.org.br/informacoes-gerais
+ /calendario
 URL:https://www.obm.org.br/informacoes-gerais/calendario
 STATUS:CONFIRMED
 END:VEVENT

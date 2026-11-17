@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-38c5e95d7c3354d6@noic.com.br
-DTSTAMP:20261116T201726Z
+DTSTAMP:20261117T185713Z
 DTSTART:20261214T230000Z
 DTEND:20261214T230000Z
 SUMMARY:IYPT: Registration deadline: December 15\, 2026\, at midnight (CET)
@@ -43,14 +43,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-71b216eefa629b3c@noic.com.br
-DTSTAMP:20261116T202237Z
+DTSTAMP:20261117T185752Z
 DTSTART:20261214T230000Z
 DTEND:20261214T230000Z
-SUMMARY:IYPT: Pre-Registration Deadline for IYPT 2027
+SUMMARY:IYPT: Registration deadline: Pre-registration for IYPT 2027
 DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: deadline\nEvidên
  cia: Registration deadline: December 15\, 2026\, at midnight (CET)\nFonte
-  oficial: https://iypt.org/new-documents/
-URL:https://iypt.org/new-documents/
+  oficial: https://iypt.org/rules-of-procedure/
+URL:https://iypt.org/rules-of-procedure/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

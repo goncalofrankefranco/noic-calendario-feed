@@ -20,4 +20,19 @@ URL:https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-c
  alendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:noic-8081337db8744c7c@noic.com.br
+DTSTAMP:20261117T185111Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+SUMMARY:F1 in Schools: 9° Festival SESI de Robótica
+DESCRIPTION:Departamento: Robótica\nEdição: 2027\nMarco: final\nEvidênc
+ ia: O evento nacional acontecerá em Salvador\, entre os dias 18 e 21 de m
+ arço de 2027\nFonte oficial: https://noticias.portaldaindustria.com.br/no
+ ticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios
+ -sesi-de-robotica/
+URL:https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-c
+ alendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR

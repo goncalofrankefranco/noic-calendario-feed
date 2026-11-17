@@ -1,0 +1,514 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NOIC//Calendario Olimpico//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Sao_Paulo
+X-WR-CALNAME:Jornadas F — Calendário Olímpico do NOIC
+BEGIN:VEVENT
+UID:noic-216f22298aa6ce2f@noic.com.br
+DTSTAMP:20261117T184221Z
+DTSTART:20260728T160000Z
+DTEND:20260728T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 86
+ ª Jornada de Foguetes
+DESCRIPTION:Departamento: Foguetes\nEdição: 86ª\nMarco: deadline\nEvidê
+ ncia: O comprovante de pagamento e o envio da ficha de inscrição em exce
+ l solicitados precisam ser enviados até às 13h(horário de Brasília)do
+  dia 28 / 07 / 2026.\nFonte oficial: https://sistema.oba.org.br/sisglob/si
+ sglob_arquivos/downloads/EDITAL-TURMA-01.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-01.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a1417fbb1c912b00@noic.com.br
+DTSTAMP:20261117T184221Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260807
+SUMMARY:Jornadas F: 86ª Jornada de Foguetes – Turma 1
+DESCRIPTION:Departamento: Foguetes\nEdição: 86ª\nMarco: exam\nEvidência
+ : LOCAL E DATA DA 86a JORNADA DE FOGUETES: A 86a Jornada de Foguetes será
+  no período de 03 / 08 / 26 (segunda-feira) ao dia 06 / 08 / 26 (quinta-f
+ eira) e será realizada no Hotel Fazenda Ribeirão\nFonte oficial: https:/
+ /sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-01.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-01.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-6065b0571170a56c@noic.com.br
+DTSTAMP:20261117T184228Z
+DTSTART:20260804T160000Z
+DTEND:20260804T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 87
+ a Jornada de Foguetes Turma 2
+DESCRIPTION:Departamento: Foguetes\nEdição: 87a Jornada de Foguetes Turma
+  2\nMarco: deadline\nEvidência: O comprovante de pagamento e o envio da f
+ icha de inscrição em excel solicitados precisam ser enviados até às 13
+ h(horário de Brasília)do dia 04 / 08 / 2026.\nFonte oficial: https://sis
+ tema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-02.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-02.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-34267a252753b775@noic.com.br
+DTSTAMP:20261117T184404Z
+DTSTART:20260805T160000Z
+DTEND:20260805T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 88
+ a Jornada de Foguetes - Turma 3
+DESCRIPTION:Departamento: Foguetes\nEdição: 88a\nMarco: deadline\nEvidên
+ cia: O comprovante de pagamento e o envio da ficha de inscrição em excel
+  solicitados precisam ser enviados até às 13h(horário de Brasília)do d
+ ia 05 / 08 / 2026.\nFonte oficial: https://sistema.oba.org.br/sisglob/sisg
+ lob_arquivos/downloads/EDITAL-TURMA-03.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-03.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-01df6fb0697a1b92@noic.com.br
+DTSTAMP:20261117T184228Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260814
+SUMMARY:Jornadas F: 87a Jornada de Foguetes Turma 2
+DESCRIPTION:Departamento: Foguetes\nEdição: 87a Jornada de Foguetes Turma
+  2\nMarco: round\nEvidência: A 87a Jornada de Foguetes será no período
+  de 10 / 08 / 26 (segunda-feira) ao dia 13 / 08 / 26 (quinta-feira)\nFonte
+  oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/ED
+ ITAL-TURMA-02.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-02.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d697a9263224782e@noic.com.br
+DTSTAMP:20261117T184408Z
+DTSTART:20260811T160000Z
+DTEND:20260811T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 89
+ ª Jornada de Foguetes (Turma 4)
+DESCRIPTION:Departamento: Foguetes\nEdição: 89ª Jornada de Foguetes\nMar
+ co: deadline\nEvidência: O comprovante de pagamento e o envio da ficha de
+  inscrição em excel solicitados precisam ser enviados até às 13h(horá
+ rio de Brasília)do dia 11 / 08 / 2026.\nFonte oficial: https://sistema.ob
+ a.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-04.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-04.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1e2ab4d560ed82b1@noic.com.br
+DTSTAMP:20261117T184429Z
+DTSTART:20260812T160000Z
+DTEND:20260812T160000Z
+SUMMARY:Jornadas F: Data limite para envio do comprovante de pagamento e fi
+ cha de inscrição da 90ª Jornada de Foguetes – Turma 5
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: O comprovante de pagamento e o envio da ficha de inscrição em exce
+ l solicitados precisam ser enviados até às 13h(horário de Brasília)do
+  dia 12 / 08 / 2026.\nFonte oficial: https://sistema.oba.org.br/sisglob/si
+ sglob_arquivos/downloads/EDITAL-TURMA-05.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-05.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4a297e78b4d9e9a0@noic.com.br
+DTSTAMP:20261117T184404Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260821
+SUMMARY:Jornadas F: 88a Jornada de Foguetes - Turma 3
+DESCRIPTION:Departamento: Foguetes\nEdição: 88a\nMarco: final\nEvidência
+ : A 88a Jornada de Foguetes será no período de 17 / 08 / 26 (segunda-fei
+ ra) ao dia 20 / 08 / 26 (quinta-feira)\nFonte oficial: https://sistema.oba
+ .org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-03.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-03.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4d946d01e777f7c4@noic.com.br
+DTSTAMP:20261117T184432Z
+DTSTART:20260818T160000Z
+DTEND:20260818T160000Z
+SUMMARY:Jornadas F: Data limite para envio de comprovante de pagamento e fi
+ cha de inscrição da 91ª Jornada de Foguetes (Turma 6)
+DESCRIPTION:Departamento: Foguetes\nEdição: 91\nMarco: deadline\nEvidênc
+ ia: ARQUIVOS QUE DEVERÃO SER ENVIADOS PARA A EQUIPE ORGANIZADORA ATÉ AS
+  13H DO DIA 18 / 08 / 2026\nFonte oficial: https://sistema.oba.org.br/sisg
+ lob/sisglob_arquivos/downloads/EDITAL-TURMA-06.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-06.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-a7fa7f160070bc03@noic.com.br
+DTSTAMP:20261117T184408Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260828
+SUMMARY:Jornadas F: 89ª Jornada de Foguetes (Turma 4)
+DESCRIPTION:Departamento: Foguetes\nEdição: 89ª Jornada de Foguetes\nMar
+ co: round\nEvidência: A 89a Jornada de Foguetes será no período de 24 /
+  08 / 26 (segunda-feira) ao dia 27 / 08 / 26 (quinta-feira)\nFonte oficial
+ : https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TUR
+ MA-04.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-04.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-fb0cf16f74b51d78@noic.com.br
+DTSTAMP:20261117T184435Z
+DTSTART:20260825T160000Z
+DTEND:20260825T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 92
+ ª Jornada de Foguetes – Turma 7
+DESCRIPTION:Departamento: Foguetes\nEdição: 92a\nMarco: deadline\nEvidên
+ cia: DATA LIMITE PARA PAGAMENTO E ENVIO DOS DOCUMENTOS: Atenção: a sua i
+ nscrição só é confirmada após o pagamento do boleto e o envio da fich
+ a de inscrição em excel para o e-mail oficial do evento. O comprovante d
+ e pagamento e o envio da ficha de inscrição em excel solicitados precisa
+ m ser enviados até às 13h(horário de Brasília)do dia 25 / 08 / 2026.\n
+ Fonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloa
+ ds/EDITAL-TURMA-07.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-07.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-230b354dce43e014@noic.com.br
+DTSTAMP:20261117T184429Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260904
+SUMMARY:Jornadas F: 90ª Jornada de Foguetes – Turma 5
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: LOCAL E DATA DA 90a JORNADA DE FOGUETES: A 90a Jornada de Foguetes ser
+ á no período de 31 / 08 / 26 (segunda-feira) ao dia 03 / 09 / 26 (quinta
+ -feira)\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivo
+ s/downloads/EDITAL-TURMA-05.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-05.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4b3ab0d754a647af@noic.com.br
+DTSTAMP:20261117T184531Z
+DTSTART:20260901T160000Z
+DTEND:20260901T160000Z
+SUMMARY:Jornadas F: Data limite para envio de documentos de inscrição da
+  93a Jornada de Foguetes (Turma 8)
+DESCRIPTION:Departamento: Foguetes\nEdição: 93a\nMarco: deadline\nEvidên
+ cia: DATA LIMITE PARA PAGAMENTO E ENVIO DOS DOCUMENTOS: Atenção: a sua i
+ nscrição só é confirmada após o pagamento do boleto e o envio da fich
+ a de inscrição em excel para o e-mail oficial do evento. O comprovante d
+ e pagamento e o envio da ficha de inscrição em excel solicitados precisa
+ m ser enviados até às 13h(horário de Brasília)do dia 01 / 09 / 2026.\n
+ Fonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloa
+ ds/EDITAL-TURMA-08.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-08.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-90107fbf3fecd335@noic.com.br
+DTSTAMP:20261117T184534Z
+DTSTART:20260908T160000Z
+DTEND:20260908T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio de documentos da 94
+ ª Jornada de Foguetes (Turma 9)
+DESCRIPTION:Departamento: Foguetes\nEdição: 94\nMarco: registration\nEvid
+ ência: DATA LIMITE PARA PAGAMENTO E ENVIO DOS DOCUMENTOS: Atenção: a su
+ a inscrição só é confirmada após o pagamento do boleto e o envio da f
+ icha de inscrição em excel para o e-mail oficial do evento. O comprovant
+ e de pagamento e o envio da ficha de inscrição em excel solicitados prec
+ isam ser enviados até às 13h(horário de Brasília)do dia 08 / 09 / 2026
+ .\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/down
+ loads/EDITAL-TURMA-09.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-09.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-45b1485780c024af@noic.com.br
+DTSTAMP:20261117T184432Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260918
+SUMMARY:Jornadas F: 91ª Jornada de Foguetes (Turma 6)
+DESCRIPTION:Departamento: Foguetes\nEdição: 91\nMarco: round\nEvidência:
+  A 91a Jornada de Foguetes será no período de 14 / 09 / 26 (segunda-feir
+ a) ao dia 17 / 09 / 26 (quinta-feira)\nFonte oficial: https://sistema.oba.
+ org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-06.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-06.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b66ed9cb9d8bd646@noic.com.br
+DTSTAMP:20261117T184554Z
+DTSTART:20260915T160000Z
+DTEND:20260915T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos de in
+ scrição
+DESCRIPTION:Departamento: Foguetes\nEdição: 95a\nMarco: deadline\nEvidên
+ cia: ARQUIVOS QUE DEVERÃO SER ENVIADOS PARA A EQUIPE ORGANIZADORA ATÉ AS
+  13H DO DIA 15 / 09 / 2026:\nFonte oficial: https://sistema.oba.org.br/sis
+ glob/sisglob_arquivos/downloads/EDITAL-TURMA-10.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-10.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d30ced5ec985a43f@noic.com.br
+DTSTAMP:20261117T184435Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260925
+SUMMARY:Jornadas F: 92ª Jornada de Foguetes – Turma 7
+DESCRIPTION:Departamento: Foguetes\nEdição: 92a\nMarco: round\nEvidência
+ : LOCAL E DATA DA 92a JORNADA DE FOGUETES: A 92a Jornada de Foguetes será
+  no período de 21 / 09 / 26 (segunda-feira) ao dia 24 / 09 / 26 (quinta-f
+ eira)\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/
+ downloads/EDITAL-TURMA-07.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-07.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4d565b3da54a152c@noic.com.br
+DTSTAMP:20261117T184558Z
+DTSTART:20260922T160000Z
+DTEND:20260922T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 96
+ ª Jornada de Foguetes (Turma 11)
+DESCRIPTION:Departamento: Foguetes\nEdição: 96ª Jornada de Foguetes –
+  Turma 11 (2026)\nMarco: deadline\nEvidência: O comprovante de pagamento
+  e o envio da ficha de inscrição em excel solicitados precisam ser envia
+ dos até às 13h(horário de Brasília)do dia 22 / 09 / 2026.\nFonte ofici
+ al: https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-T
+ URMA-11.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-11.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b75ec84134cce541@noic.com.br
+DTSTAMP:20261117T184531Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261002
+SUMMARY:Jornadas F: 93a Jornada de Foguetes (Turma 8)
+DESCRIPTION:Departamento: Foguetes\nEdição: 93a\nMarco: final\nEvidência
+ : A 93a Jornada de Foguetes será no período de 28 / 09 / 26 (segunda-fei
+ ra) ao dia 01 / 10 / 26 (quinta-feira)\nFonte oficial: https://sistema.oba
+ .org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-08.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-08.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f0d6c32b2cb3d3c0@noic.com.br
+DTSTAMP:20261117T184624Z
+DTSTART:20260929T160000Z
+DTEND:20260929T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento da inscrição e envio dos d
+ ocumentos da 97ª Jornada de Foguetes (Turma 12)
+DESCRIPTION:Departamento: Foguetes\nEdição: 97a Jornada de Foguetes - Tur
+ ma 12\nMarco: registration\nEvidência: O comprovante de pagamento e o env
+ io da ficha de inscrição em excel solicitados precisam ser enviados até
+  às 13h(horário de Brasília)do dia 29 / 09 / 2026.\nFonte oficial: http
+ s://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-12.
+ pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-12.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d02ebccbfdd93780@noic.com.br
+DTSTAMP:20261117T184534Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261009
+SUMMARY:Jornadas F: 94ª Jornada de Foguetes (Turma 9)
+DESCRIPTION:Departamento: Foguetes\nEdição: 94\nMarco: round\nEvidência:
+  LOCAL E DATA DA 94a JORNADA DE FOGUETES: A 94a Jornada de Foguetes será
+  no período de 05 / 10 / 26 (segunda-feira) ao dia 08 / 10 / 26 (quinta-f
+ eira) e será realizada no Hotel Fazenda Ribeirão\nFonte oficial: https:/
+ /sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-09.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-09.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c873f287be3cbaf5@noic.com.br
+DTSTAMP:20261117T184627Z
+DTSTART:20261006T160000Z
+DTEND:20261006T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento do boleto e envio da ficha d
+ e inscrição da 98a Jornada de Foguetes (Turma 13)
+DESCRIPTION:Departamento: Foguetes\nEdição: 98a Edição - Turma 13\nMarc
+ o: deadline\nEvidência: O comprovante de pagamento e o envio da ficha de
+  inscrição em excel solicitados precisam ser enviados até às 13h(horá
+ rio de Brasília)do dia 06 / 10 / 2026.\nFonte oficial: https://sistema.ob
+ a.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-13.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-13.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c809df798f38157f@noic.com.br
+DTSTAMP:20261117T184630Z
+DTSTART:20261013T160000Z
+DTEND:20261013T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 99
+ ª Jornada de Foguetes (Turma 14)
+DESCRIPTION:Departamento: Foguetes\nEdição: 99ª Jornada de Foguetes (Tur
+ ma 14)\nMarco: deadline\nEvidência: comprovante de pagamento e o envio da
+  ficha de inscrição em excel solicitados precisam ser enviados até às
+  13h(horário de Brasília)do dia 13 / 10 / 2026\nFonte oficial: https://s
+ istema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-14.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-14.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b4c7339ca54814ec@noic.com.br
+DTSTAMP:20261117T184554Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261023
+SUMMARY:Jornadas F: 95a Jornada de Foguetes – Turma 10
+DESCRIPTION:Departamento: Foguetes\nEdição: 95a\nMarco: round\nEvidência
+ : LOCAL E DATA DA 95a JORNADA DE FOGUETES: A 95a Jornada de Foguetes será
+  no período de 19 / 10 / 26 (segunda-feira) ao dia 22 / 10 / 26 (quinta-f
+ eira)\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/
+ downloads/EDITAL-TURMA-10.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-10.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-097cec9bba58d139@noic.com.br
+DTSTAMP:20261117T184633Z
+DTSTART:20261020T160000Z
+DTEND:20261020T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos de in
+ scrição da 100ª Jornada de Foguetes (Turma 15)
+DESCRIPTION:Departamento: Foguetes\nEdição: 100ª Jornada de Foguetes (Tu
+ rma 15)\nMarco: deadline\nEvidência: ARQUIVOS QUE DEVERÃO SER ENVIADOS P
+ ARA A EQUIPE ORGANIZADORA ATÉ AS 13H DO DIA 20 / 10 / 2026\nFonte oficial
+ : https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TUR
+ MA-15.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-15.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-661db268201baaf1@noic.com.br
+DTSTAMP:20261117T184558Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261030
+SUMMARY:Jornadas F: 96ª Jornada de Foguetes (Turma 11)
+DESCRIPTION:Departamento: Foguetes\nEdição: 96ª Jornada de Foguetes –
+  Turma 11 (2026)\nMarco: round\nEvidência: A 96a Jornada de Foguetes ser
+ á no período de 26 / 10 / 26 (segunda-feira) ao dia 29 / 10 / 26 (quinta
+ -feira) e será realizada no Hotel Fazenda Ribeirão\nFonte oficial: https
+ ://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-11.p
+ df
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-11.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-53bd7dff0c286653@noic.com.br
+DTSTAMP:20261117T184635Z
+DTSTART:20261027T160000Z
+DTEND:20261027T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 10
+ 1ª Jornada de Foguetes
+DESCRIPTION:Departamento: Foguetes\nEdição: 101\nMarco: deadline\nEvidên
+ cia: DATA LIMITE PARA PAGAMENTO E ENVIO DOS DOCUMENTOS: Atenção: a sua i
+ nscrição só é confirmada após o pagamento do boleto e o envio da fich
+ a de inscrição em excel para o e-mail oficial do evento. O comprovante d
+ e pagamento e o envio da ficha de inscrição em excel solicitados precisa
+ m ser enviados até às 13h(horário de Brasília)do dia 27 / 10 / 2026.\n
+ Fonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloa
+ ds/EDITAL-TURMA-16.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-16.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-24b204715da69a88@noic.com.br
+DTSTAMP:20261117T184624Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261113
+SUMMARY:Jornadas F: 97ª Jornada de Foguetes (Turma 12)
+DESCRIPTION:Departamento: Foguetes\nEdição: 97a Jornada de Foguetes - Tur
+ ma 12\nMarco: round\nEvidência: A 97a Jornada de Foguetes será no perío
+ do de 09 / 11 / 26 (segunda-feira) ao dia 12 / 11 / 26 (quinta-feira)\nFon
+ te oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/
+ EDITAL-TURMA-12.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-12.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f952e714bd744c4d@noic.com.br
+DTSTAMP:20261117T184627Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261127
+SUMMARY:Jornadas F: 98a Jornada de Foguetes (Turma 13)
+DESCRIPTION:Departamento: Foguetes\nEdição: 98a Edição - Turma 13\nMarc
+ o: round\nEvidência: A 98a Jornada de Foguetes será no período de 23 /
+  11 / 26 (segunda-feira) ao dia 26 / 11 / 26 (quinta-feira) e será realiz
+ ada no Hotel Fazenda Ribeirão\nFonte oficial: https://sistema.oba.org.br/
+ sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-13.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-13.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3acd89497f69b7fa@noic.com.br
+DTSTAMP:20261117T184630Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261204
+SUMMARY:Jornadas F: 99ª Jornada de Foguetes (Turma 14)
+DESCRIPTION:Departamento: Foguetes\nEdição: 99ª Jornada de Foguetes (Tur
+ ma 14)\nMarco: round\nEvidência: A 99a Jornada de Foguetes será no perí
+ odo de 30 / 11 / 26 (segunda-feira) ao dia 03 / 12 / 26 (quinta-feira) e s
+ erá realizada no Hotel Fazenda Ribeirão\nFonte oficial: https://sistema.
+ oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-14.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-14.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-477bbda91349f9b5@noic.com.br
+DTSTAMP:20261117T184633Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261211
+SUMMARY:Jornadas F: 100ª Jornada de Foguetes (Turma 15)
+DESCRIPTION:Departamento: Foguetes\nEdição: 100ª Jornada de Foguetes (Tu
+ rma 15)\nMarco: round\nEvidência: LOCAL E DATA DA 100a JORNADA DE FOGUETE
+ S: A 100a Jornada de Foguetes será no período de 07 / 12 / 26 (segunda-f
+ eira) ao dia 10 / 12 / 26 (quinta-feira)\nFonte oficial: https://sistema.o
+ ba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-15.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-15.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8caa894720dd183c@noic.com.br
+DTSTAMP:20261117T184635Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261218
+SUMMARY:Jornadas F: 101ª Jornada de Foguetes – Turma 16
+DESCRIPTION:Departamento: Foguetes\nEdição: 101\nMarco: other\nEvidência
+ : LOCAL E DATA DA 101a JORNADA DE FOGUETES: A 101a Jornada de Foguetes ser
+ á no período de 14 / 12 / 26 (segunda-feira) ao dia 17 / 12 / 26 (quinta
+ -feira)\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivo
+ s/downloads/EDITAL-TURMA-16.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-16.pdf
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

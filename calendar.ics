@@ -44,6 +44,35 @@ URL:https://www.seletaeducacao.com.br/post/obli-2026-tudo-sobre-a-olimpiada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-36602c6e68ce6cd8@noic.com.br
+DTSTAMP:20261117T190353Z
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20260125
+SUMMARY:OBMF: Inscrições individuais feitas por alunos ou responsáveis:
+  1º período
+DESCRIPTION:Departamento: Economia\nEdição: 2026.1\nMarco: registration\n
+ Evidência: 1º período (R$ 29\,00/aluno): 25/11/2025 a 24/01/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-
+ olimpiada-brasileira-de-matematica-financeira.html
+URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
+ da-brasileira-de-matematica-financeira.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-72f3a8a62f1a96e4@noic.com.br
+DTSTAMP:20261117T190353Z
+DTSTART;VALUE=DATE:20251125
+DTEND;VALUE=DATE:20260409
+SUMMARY:OBMF: Inscrição de grupos de alunos feita por Escolas
+DESCRIPTION:Departamento: Economia\nEdição: 2026.1\nMarco: registration\n
+ Evidência: Ocorre em período único (25/11/2025 a 08/04/2026)\nFonte ofi
+ cial: https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olim
+ piada-brasileira-de-matematica-financeira.html
+URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
+ da-brasileira-de-matematica-financeira.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-b7657ec701fa5bcc@noic.com.br
 DTSTAMP:20261117T002853Z
 DTSTART;VALUE=DATE:20251125
@@ -114,20 +143,6 @@ URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-2480167a109f0868@noic.com.br
-DTSTAMP:20261117T002957Z
-DTSTART;VALUE=DATE:20260119
-DTEND;VALUE=DATE:20260307
-SUMMARY:OI: Inscrições (1º período)
-DESCRIPTION:Departamento: Inglês\nEdição: 2026\nMarco: registration\nEvi
- dência: Inscrições (1º período\, taxa reduzida): 19 de janeiro a 6 de
-  março de 2026\nFonte oficial: https://www.seletaeducacao.com.br/post/oi-
- 2026-tudo-sobre-a-olimpiada-de-ingles.html
-URL:https://www.seletaeducacao.com.br/post/oi-2026-tudo-sobre-a-olimpiada-d
- e-ingles.html
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-6f77b65adcdd8118@noic.com.br
 DTSTAMP:20261117T002915Z
 DTSTART;VALUE=DATE:20260125
@@ -142,28 +157,43 @@ URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-c8a7161bfd6e7ca3@noic.com.br
+DTSTAMP:20261117T190353Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260225
+SUMMARY:OBMF: Inscrições individuais feitas por alunos ou responsáveis:
+  2º período
+DESCRIPTION:Departamento: Economia\nEdição: 2026.1\nMarco: registration\n
+ Evidência: 2º período (R$ 35\,00/aluno): 25/01/2026 a 24/02/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-
+ olimpiada-brasileira-de-matematica-financeira.html
+URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
+ da-brasileira-de-matematica-financeira.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-03c27573feddca33@noic.com.br
-DTSTAMP:20261116T195423Z
+DTSTAMP:20261117T184745Z
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260505
 SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Inscrição dos alun
  os na competição (Portal do Candidato)
 DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: registratio
- n\nEvidência: - Inscrição dos alunos na competição (Portal do Candida
- to): 1 de fevereiro a 04 de maio de 2026\nFonte oficial: https://brazilian
- brainbee.org/programacao/
+ n\nEvidência: Inscrição dos alunos na competição (Portal do Candidato
+ ):1 de fevereiro a 04 de maio de 2026\nFonte oficial: https://brazilianbra
+ inbee.org/programacao/
 URL:https://brazilianbrainbee.org/programacao/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-a78b6995ee03db5b@noic.com.br
-DTSTAMP:20261116T195244Z
+DTSTAMP:20261117T184640Z
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260202
 SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Inscrições OLDN
 DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: registratio
- n\nEvidência: A partir do dia 01 de fevereiro de 2026\nFonte oficial: htt
- ps://brazilianbrainbee.org/
+ n\nEvidência: Inscrições OLDN A partir do dia 01 de fevereiro de 2026.\
+ nFonte oficial: https://brazilianbrainbee.org/
 URL:https://brazilianbrainbee.org/
 STATUS:CONFIRMED
 END:VEVENT
@@ -222,15 +252,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-5cac9af2641929cb@noic.com.br
-DTSTAMP:20261117T002701Z
+DTSTAMP:20261117T190330Z
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260301
 SUMMARY:Romanian Masters in Mathematics: 17th Romanian Masters of Mathemati
  cs (RMM)
-DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: final\nEvidê
- ncia: 17th Romanian Masters of Mathematics (RMM) 23 a 28 de fevereiro\, Bu
- carest\, Romênia\nFonte oficial: https://www.obm.org.br/informacoes-gerai
- s/calendario
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: 17th Romanian Masters of Mathematics (RMM) 23 a 28 de fevereiro\, Buc
+ arest\, Romênia\nFonte oficial: https://www.obm.org.br/informacoes-gerais
+ /calendario
 URL:https://www.obm.org.br/informacoes-gerais/calendario
 STATUS:CONFIRMED
 END:VEVENT
@@ -295,6 +325,21 @@ URL:https://www.seletaeducacao.com.br/post/obli-2026-tudo-sobre-a-olimpiada
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-7c1ab1166c2e110e@noic.com.br
+DTSTAMP:20261117T190353Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260409
+SUMMARY:OBMF: Inscrições individuais feitas por alunos ou responsáveis:
+  3º período
+DESCRIPTION:Departamento: Economia\nEdição: 2026.1\nMarco: registration\n
+ Evidência: 3º período (R$ 39\,00/aluno): 25/02/2026 a 08/04/2026\nFonte
+  oficial: https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-
+ olimpiada-brasileira-de-matematica-financeira.html
+URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
+ da-brasileira-de-matematica-financeira.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-b83078c8ff3881bb@noic.com.br
 DTSTAMP:20261116T195703Z
 DTSTART:20260303T025900Z
@@ -322,11 +367,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-4d8ed1b5cdac4eea@noic.com.br
-DTSTAMP:20261116T195442Z
+DTSTAMP:20261117T184805Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
 SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Homologação dos ca
- ndidatos
+ ndidatos na XIV Olimpíada Brasileira de Neurociências
 DESCRIPTION:Departamento: Neurociência\nEdição: XIV\nMarco: registration
  \nEvidência: concluída até 03 março de 2026\nFonte oficial: https://br
  azilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira-de-neurociencias
@@ -371,16 +416,29 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-fc4c078946476966@noic.com.br
-DTSTAMP:20261116T195423Z
+DTSTAMP:20261117T184745Z
 DTSTART;VALUE=DATE:20260303
 DTEND;VALUE=DATE:20260304
 SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Prazo para comunica
  ção da intenção de realizar a competição local
 DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: deadline\nE
- vidência: - Prazo para comunicação da intenção de realizar a competi
- ção local: até 3 de março de 2026\nFonte oficial: https://brazilianbra
- inbee.org/programacao/
+ vidência: Prazo para comunicação da intenção de realizar a competiç
+ ão local:até 3 de março de 2026\nFonte oficial: https://brazilianbrainb
+ ee.org/programacao/
 URL:https://brazilianbrainbee.org/programacao/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0288aab092c8e642@noic.com.br
+DTSTAMP:20261117T185308Z
+DTSTART:20260303T120000Z
+DTEND:20260303T190000Z
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Fase 1 da XXII OBB
+DESCRIPTION:Departamento: Biologia\nEdição: XXII\nMarco: exam\nEvidência
+ : Data:somente 03/03/2026 (terça-feira – das 9h às 16h - horário de B
+ rasília)\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/cro
+ nograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -438,7 +496,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-e92dfe8ea94f07e9@noic.com.br
-DTSTAMP:20261117T002110Z
+DTSTAMP:20261117T190002Z
 DTSTART;VALUE=DATE:20260306
 DTEND;VALUE=DATE:20260307
 SUMMARY:OBI: Abertura das inscrições da OBI 2026
@@ -532,7 +590,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-8572e76d6352724c@noic.com.br
-DTSTAMP:20261116T200103Z
+DTSTAMP:20261117T184805Z
 DTSTART;VALUE=DATE:20260312
 DTEND;VALUE=DATE:20260316
 SUMMARY:First Robotics Competition (FRC): Regional Brazil - SESI OSASCO
@@ -586,7 +644,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0cd486b86b391616@noic.com.br
-DTSTAMP:20261117T003107Z
+DTSTAMP:20261117T190409Z
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260602
 SUMMARY:OBFEP: Período Credenciamento/Inscrição de Escolas
@@ -686,6 +744,20 @@ DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
  cia: Aplicação das Provas 19/03/26 a 25/03/26\nFonte oficial: https://ww
  w.cangurudematematicabrasil.com.br/
 URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-7bd5f4f5ad879251@noic.com.br
+DTSTAMP:20261117T185308Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Divulgação do gabarito d
+ efinitivo da fase 2
+DESCRIPTION:Departamento: Biologia\nEdição: XXII\nMarco: results\nEvidên
+ cia: A divulgação do gabarito definitivo da fase 2 será a partir do dia
+  20/03/2026\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/c
+ ronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -856,7 +928,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-057a081f5670c55e@noic.com.br
-DTSTAMP:20261117T001444Z
+DTSTAMP:20261117T185652Z
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260408
 SUMMARY:OBF: Abertura do site de provas para inscrições de escolas\, estu
@@ -870,7 +942,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-5b46cd178ca70d58@noic.com.br
-DTSTAMP:20261117T001444Z
+DTSTAMP:20261117T185652Z
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260606
 SUMMARY:OBF: Período de inscrição de escolas\, estudantes e pagamento da
@@ -884,7 +956,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-a9c4f61fc5814221@noic.com.br
-DTSTAMP:20261117T001444Z
+DTSTAMP:20261117T185652Z
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260531
 SUMMARY:OBF: Período de pedido de isenção de pagamento de taxas de prova
@@ -898,7 +970,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-e2b1db57d7c51c8d@noic.com.br
-DTSTAMP:20261117T001444Z
+DTSTAMP:20261117T185652Z
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260524
 SUMMARY:OBF: Período de pedido de isenção de pagamento de taxas de inscr
@@ -925,14 +997,27 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-2ed36f2a47c1590d@noic.com.br
-DTSTAMP:20261116T201640Z
+DTSTAMP:20261117T185705Z
 DTSTART;VALUE=DATE:20260408
 DTEND;VALUE=DATE:20260511
 SUMMARY:OBECON: Inscrições 2026
 DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: registration\nEv
- idência: 08 de Abril a 10 de Maio ! Inscrições 2026\nFonte oficial: htt
- p://obecon.org/
+ idência: 08 de Abril a 10 de Maio\nFonte oficial: http://obecon.org/
 URL:http://obecon.org/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-d021fffc4653bc1e@noic.com.br
+DTSTAMP:20261117T190353Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
+SUMMARY:OBMF: Término das Inscrições
+DESCRIPTION:Departamento: Economia\nEdição: 2026.1\nMarco: deadline\nEvid
+ ência: Término das Inscrições: 08/04/2026\nFonte oficial: https://www.
+ seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpiada-brasileira-d
+ e-matematica-financeira.html
+URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
+ da-brasileira-de-matematica-financeira.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -949,15 +1034,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-4522733eccc5fdc4@noic.com.br
-DTSTAMP:20261115T164948Z
+DTSTAMP:20261117T190330Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260416
 SUMMARY:European Girls’ Mathematical Olympiad: 15th European Girls' Mathe
  matical Olympiad (EGMO)
-DESCRIPTION:Departamento: Matemática\nEdição: 15\nMarco: exam\nEvidênci
- a: 15th European Girls' Mathematical Olympiad (EGMO) 9 a 15 de abril de 20
- 26\, Bordeaux. França\nFonte oficial: https://www.obm.org.br/informacoes-
- gerais/calendario
+DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
+ cia: 15th European Girls' Mathematical Olympiad (EGMO) 9 a 15 de abril de
+  2026\, Bordeaux. França\nFonte oficial: https://www.obm.org.br/informaco
+ es-gerais/calendario
 URL:https://www.obm.org.br/informacoes-gerais/calendario
 STATUS:CONFIRMED
 END:VEVENT
@@ -1004,6 +1089,19 @@ URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-5f2f55091ba8c515@noic.com.br
+DTSTAMP:20261117T185308Z
+DTSTART:20260414T130000Z
+DTEND:20260414T150000Z
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Fase 3 da XXII OBB
+DESCRIPTION:Departamento: Biologia\nEdição: XXII\nMarco: exam\nEvidência
+ : Data: 14/04/2026 (terça-feira - das 10h às 12h – Horário de Brasíl
+ ia)\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/cronogram
+ a
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-9477b386228ff7cf@noic.com.br
 DTSTAMP:20261116T195703Z
 DTSTART:20260414T130000Z
@@ -1031,14 +1129,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-2b24b8ee515a68be@noic.com.br
-DTSTAMP:20261117T002915Z
+DTSTAMP:20261117T190353Z
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
 SUMMARY:OBMF: Aplicação da Prova - OBMF 2026.2
-DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: exam\nEvidência
- : Aplicação da Prova: 15/04/2026\nFonte oficial: https://www.seletaeduca
- cao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpiada-brasileira-de-matematic
- a-financeira.html
+DESCRIPTION:Departamento: Economia\nEdição: 2026.1\nMarco: exam\nEvidênc
+ ia: Aplicação da Prova: 15/04/2026\nFonte oficial: https://www.seletaedu
+ cacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpiada-brasileira-de-matemat
+ ica-financeira.html
 URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
  da-brasileira-de-matematica-financeira.html
 STATUS:CONFIRMED
@@ -1070,14 +1168,17 @@ URL:https://mendeleevolympiad.org/imcho60-eng
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-c8c02af709fd568e@noic.com.br
-DTSTAMP:20261116T195644Z
-DTSTART;VALUE=DATE:20260415
-DTEND;VALUE=DATE:20260416
-SUMMARY:IMChO: International Mendeleev Chemistry Olympiad - Rússia (IMChO)
-DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
- a: 2026-04-15\nFonte oficial: https://obquimica.org/calendario
-URL:https://obquimica.org/calendario
+UID:noic-1395b0f51d6bd7e1@noic.com.br
+DTSTAMP:20261117T190353Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260418
+SUMMARY:OBMF: Período de Recursos
+DESCRIPTION:Departamento: Economia\nEdição: 2026.1\nMarco: other\nEvidên
+ cia: Período de Recursos: 16/04/2026 a 17/04/2026\nFonte oficial: https:/
+ /www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpiada-brasile
+ ira-de-matematica-financeira.html
+URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
+ da-brasileira-de-matematica-financeira.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1093,20 +1194,6 @@ DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: selection\nEv
  ca del Cono Sur"\, "tipo": "selectivo"}\nFonte oficial: https://www.oma.or
  g.ar/contents/calendar/2026.json
 URL:https://www.oma.org.ar/contents/calendar/2026.json
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-94b79cdf373db69a@noic.com.br
-DTSTAMP:20261117T002915Z
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260418
-SUMMARY:OBMF: Período de Recursos - OBMF 2026.2
-DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: other\nEvidênci
- a: Período de Recursos: 16/04/2026 a 17/04/2026\nFonte oficial: https://w
- ww.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpiada-brasileir
- a-de-matematica-financeira.html
-URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
- da-brasileira-de-matematica-financeira.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1184,14 +1271,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-69955852b17624f4@noic.com.br
-DTSTAMP:20261117T002915Z
+DTSTAMP:20261117T190353Z
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
 SUMMARY:OBMF: Divulgação dos Resultados e Certificados - OBMF 2026.2
-DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: results\nEvidên
- cia: Divulgação dos Resultados e Certificados: 22/04/2026\nFonte oficial
- : https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpiad
- a-brasileira-de-matematica-financeira.html
+DESCRIPTION:Departamento: Economia\nEdição: 2026.1\nMarco: results\nEvid
+ ência: Divulgação dos Resultados e Certificados: 22/04/2026\nFonte ofic
+ ial: https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimp
+ iada-brasileira-de-matematica-financeira.html
 URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
  da-brasileira-de-matematica-financeira.html
 STATUS:CONFIRMED
@@ -1211,21 +1298,34 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-b5659bfc987e35f0@noic.com.br
-DTSTAMP:20261117T002915Z
+DTSTAMP:20261117T190353Z
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260424
-SUMMARY:OBMF: Início da Solicitação de Medalhas
-DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: other\nEvidênci
- a: Início da Solicitação de Medalhas na Loja: 23/04/2026\nFonte oficial
- : https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpiad
- a-brasileira-de-matematica-financeira.html
+SUMMARY:OBMF: Início da Solicitação de Medalhas na Loja
+DESCRIPTION:Departamento: Economia\nEdição: 2026.1\nMarco: other\nEvidên
+ cia: Início da Solicitação de Medalhas na Loja: 23/04/2026\nFonte ofici
+ al: https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpi
+ ada-brasileira-de-matematica-financeira.html
 URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
  da-brasileira-de-matematica-financeira.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-c8c02af709fd568e@noic.com.br
+DTSTAMP:20261117T185112Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:IMChO: International Mendeleev Chemistry Olympiad - Rússia (IMChO)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
+ a: 2026-04-23\nFonte oficial: https://obquimica.org/calendario/index/olimp
+ iadas-cientificas-nacionais-
+URL:https://obquimica.org/calendario/index/olimpiadas-cientificas-nacionais
+ -
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-1397afadf11485c6@noic.com.br
-DTSTAMP:20261116T200103Z
+DTSTAMP:20261117T184805Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260503
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -1238,7 +1338,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-2dbcd536b3c706bc@noic.com.br
-DTSTAMP:20261116T200103Z
+DTSTAMP:20261117T184805Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260503
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -1251,7 +1351,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-3aac0e0bb9384389@noic.com.br
-DTSTAMP:20261116T200103Z
+DTSTAMP:20261117T184805Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260503
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -1264,7 +1364,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-5722b40d6faecfdc@noic.com.br
-DTSTAMP:20261116T200103Z
+DTSTAMP:20261117T184805Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260503
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -1277,7 +1377,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-699b57fc368a5aef@noic.com.br
-DTSTAMP:20261116T200103Z
+DTSTAMP:20261117T184805Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260503
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -1290,7 +1390,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-b31c71cd87ba22df@noic.com.br
-DTSTAMP:20261116T200103Z
+DTSTAMP:20261117T184805Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260503
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -1303,7 +1403,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-d02fc56591b8b1fd@noic.com.br
-DTSTAMP:20261116T200103Z
+DTSTAMP:20261117T184805Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260503
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -1316,7 +1416,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-ea189039c72a4c44@noic.com.br
-DTSTAMP:20261116T200103Z
+DTSTAMP:20261117T184805Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260503
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -1329,7 +1429,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-ea7628216843ede6@noic.com.br
-DTSTAMP:20261116T200103Z
+DTSTAMP:20261117T184805Z
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260503
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -1395,17 +1495,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-099ecc91af859cef@noic.com.br
-DTSTAMP:20261117T002352Z
+DTSTAMP:20261117T190202Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:MOBFOG: Data limite para inscrição dos alunos na OBA/OBAFOG
 DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: registration\nEv
  idência: Data limite para inscrição dos alunos na OBA/OBAFOG: até dia
   01/05/26.\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arqu
- ivos/2026/REGULAMENTO%20DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%207%20-
+ ivos/2026/REGULAMENTO%20DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%203%20-
  %202026-compactado.pdf
 URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20
- DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%207%20-%202026-compactado.pdf
+ DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%203%20-%202026-compactado.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1489,12 +1589,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-1bf5d9ad7a5e941e@noic.com.br
-DTSTAMP:20261116T201640Z
+DTSTAMP:20261117T185705Z
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260511
 SUMMARY:OBECON: Primeira Fase
 DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: round\nEvidênci
- a: 4 a 10 de Maio 1 Primeira Fase\nFonte oficial: http://obecon.org/
+ a: 4 a 10 de Maio\nFonte oficial: http://obecon.org/
 URL:http://obecon.org/
 STATUS:CONFIRMED
 END:VEVENT
@@ -1567,18 +1667,29 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-ce7efa688cb6f2f6@noic.com.br
-DTSTAMP:20261116T195455Z
+DTSTAMP:20261117T184745Z
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
 SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Prazo máximo para e
  nvio de competidores selecionados pelos comitês locais
 DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: deadline\nE
- vidência: Prazo máximo para envio de competidores selecionados pelos com
- itês locais Até 6 de maio de 2026\nFonte oficial: https://brazilianbrain
- bee.org/wp-content/uploads/2026/02/2026-Edital-XIV-Brazilian-Brain-Bee.doc
- x.pdf
-URL:https://brazilianbrainbee.org/wp-content/uploads/2026/02/2026-Edital-XI
- V-Brazilian-Brain-Bee.docx.pdf
+ vidência: Prazo máximo para envio dos competidores locais:até 6 de maio
+  de 2026\nFonte oficial: https://brazilianbrainbee.org/programacao/
+URL:https://brazilianbrainbee.org/programacao/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-08bf94e01e14d06a@noic.com.br
+DTSTAMP:20261117T185308Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260509
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Capacitação/Seletiva par
+ a Olimpíadas Internacionais - Plataforma Virtual
+DESCRIPTION:Departamento: Biologia\nEdição: XXII\nMarco: other\nEvidênci
+ a: CAPACITAÇÃO/SELETIVA PARA OLIMPÍADAS INTERNACIONAIS (Data: 07 e 08/0
+ 5/2026 na plataforma virtual\nFonte oficial: https://olimpiadasdebiologia.
+ butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1673,6 +1784,19 @@ URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-d3c780f1ea0a0cc0@noic.com.br
+DTSTAMP:20261117T185308Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260517
+SUMMARY:Olimpíada Brasileira de Biologia (OBB): Capacitação/Seletiva par
+ a Olimpíadas Internacionais - Modalidade Presencial
+DESCRIPTION:Departamento: Biologia\nEdição: XXII\nMarco: other\nEvidênci
+ a: e de 11 a 16/05 na modalidade presencial)\nFonte oficial: https://olimp
+ iadasdebiologia.butantan.gov.br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-765608b6bf51d9da@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260512
@@ -1699,16 +1823,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-216a55273fbefb70@noic.com.br
-DTSTAMP:20261117T002352Z
+DTSTAMP:20261117T190202Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:MOBFOG: Data limite para lançar os foguetes da 20ª OBAFOG
-DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: deadline\nEvidê
- ncia: Data limite para lançamento de Foguetes: 15/05/2026.\nFonte oficial
- : https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20D
- A%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%207%20-%202026-compactado.pdf
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: Data limite para lançamento de Foguetes: 15/05/2026.\nFonte oficial: h
+ ttps://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20DA%2
+ 020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%203%20-%202026-compactado.pdf
 URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20
- DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%207%20-%202026-compactado.pdf
+ DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%203%20-%202026-compactado.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1920,20 +2044,6 @@ URL:https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-069ca0d183aff1cb@noic.com.br
-DTSTAMP:20261117T002957Z
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260620
-SUMMARY:OI: Período para aquisição de medalhas
-DESCRIPTION:Departamento: Inglês\nEdição: 2026\nMarco: other\nEvidência
- : Período para aquisição de medalhas: 19 de maio a 19 de junho\nFonte o
- ficial: https://www.seletaeducacao.com.br/post/oi-2026-tudo-sobre-a-olimpi
- ada-de-ingles.html
-URL:https://www.seletaeducacao.com.br/post/oi-2026-tudo-sobre-a-olimpiada-d
- e-ingles.html
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-1a23978eee54411d@noic.com.br
 DTSTAMP:20261117T002957Z
 DTSTART;VALUE=DATE:20260519
@@ -2042,14 +2152,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-43dc05ed89c9fbc0@noic.com.br
-DTSTAMP:20261117T002110Z
+DTSTAMP:20261117T190002Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
-SUMMARY:OBI: OBI 2026 — prazo para cadastro de escolas (Iniciação)
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: registration
- \nEvidência: Cadastro de escolas: para participação na Modalidade Inici
- ação: até 25/05/2026\nFonte oficial: https://olimpiada.ic.unicamp.br/ca
- lendario/datas_importantes
+SUMMARY:OBI: Prazo cadastro escolas Modalidade Iniciação
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Cadastro de escolas: para participação na Modalidade Iniciaç
+ ão: até 25/05/2026\nFonte oficial: https://olimpiada.ic.unicamp.br/calen
+ dario/datas_importantes
 URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
 STATUS:CONFIRMED
 END:VEVENT
@@ -2081,15 +2191,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0e0b909991f93188@noic.com.br
-DTSTAMP:20261117T002110Z
+DTSTAMP:20261117T190002Z
 DTSTART:20260526T210000Z
 DTEND:20260526T210000Z
-SUMMARY:OBI: Último dia para inscrição de competidores da Modalidade Ini
- ciação
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: registration
- \nEvidência: Inscrição de competidores(as): para participação na Moda
- lidade Iniciação: até 26/05/2026\, 18:00\nFonte oficial: https://olimpi
- ada.ic.unicamp.br/calendario/datas_importantes
+SUMMARY:OBI: Prazo inscrição competidores Modalidade Iniciação
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: Inscrição de competidores(as): para participação na Modalida
+ de Iniciação: até 26/05/2026\, 18:00\nFonte oficial: https://olimpiada.
+ ic.unicamp.br/calendario/datas_importantes
 URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
 STATUS:CONFIRMED
 END:VEVENT
@@ -2121,6 +2230,19 @@ DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
  l Júnior 27 a 29/05/2026 (quarta-feira a sexta-feira) uma hora horário
   à escolha da escola\nFonte oficial: https://olimpiada.ic.unicamp.br/cale
  ndario/datas_importantes
+URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-599fc56fb6b00ed8@noic.com.br
+DTSTAMP:20261117T190002Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260530
+SUMMARY:OBI: OBI 2026 — prova da Fase 1 (Iniciação)
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Fase 1 (Local) Modalidade Dia Duração Horário Iniciação Níve
+ l Júnior 27 a 29/05/2026\nFonte oficial: https://olimpiada.ic.unicamp.br/
+ calendario/datas_importantes
 URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
 STATUS:CONFIRMED
 END:VEVENT
@@ -2178,6 +2300,19 @@ DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: exam\nEvidência
  LE5_87emf0HmDFMTY/edit?usp=sharing
 URL:https://docs.google.com/document/d/1U59rGgCvIyJ3uBdcHR-eQw0sxwLE5_87emf
  0HmDFMTY/edit?usp=sharing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-12928c8c10a6c861@noic.com.br
+DTSTAMP:20261117T184745Z
+DTSTART:20260531T170000Z
+DTEND:20260531T170000Z
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Realização da Olim
+ píada Local Descentralizada
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: exam\nEvid
+ ência: Realização da Olimpíada Local Descentralizada:31 de maio de 202
+ 6 às 17h\nFonte oficial: https://brazilianbrainbee.org/programacao/
+URL:https://brazilianbrainbee.org/programacao/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2239,22 +2374,6 @@ DESCRIPTION:Departamento: Geografia\nEdição: 2026.2\nMarco: registration\
  nEvidência: Ocorre em período único: 01/06/2026 a 09/09/2026\nFonte ofi
  cial: https://www.seletaeducacao.com.br/obgp
 URL:https://www.seletaeducacao.com.br/obgp
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-4c981f3e9aa00351@noic.com.br
-DTSTAMP:20261116T195455Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260602
-SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Homologação dos ca
- ndidatos na XIV Olimpíada Brasileira de Neurociências
-DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: announcemen
- t\nEvidência: Homologação dos candidatos na XIV Olimpíada Brasileira d
- e Neurociências Até 01 de junho/2026\nFonte oficial: https://brazilianbr
- ainbee.org/wp-content/uploads/2026/02/2026-Edital-XIV-Brazilian-Brain-Bee.
- docx.pdf
-URL:https://brazilianbrainbee.org/wp-content/uploads/2026/02/2026-Edital-XI
- V-Brazilian-Brain-Bee.docx.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2392,17 +2511,6 @@ URL:http://iaac.space/docs/IAAC_Timetable_and_Deadlines.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-3b2f26e2ff779d33@noic.com.br
-DTSTAMP:20261116T195644Z
-DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260604
-SUMMARY:OBQJr: Olimpíada Brasileira de Química Júnior (OBQJr)
-DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
- a: 2026-06-03\nFonte oficial: https://obquimica.org/calendario
-URL:https://obquimica.org/calendario
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-956fa0b627056881@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20260603
@@ -2417,14 +2525,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-13385c0a4fe0bb4a@noic.com.br
-DTSTAMP:20261117T002110Z
+DTSTAMP:20261117T190002Z
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260607
-SUMMARY:OBI: OBI 2026 — prazo para cadastro de escolas (Programação)
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: registration
- \nEvidência: para participação na Modalidade Programação: até 06/06/
- 2026\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/datas_impo
- rtantes
+SUMMARY:OBI: Prazo cadastro escolas Modalidade Programação
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: para participação na Modalidade Programação: até 06/06/2026
+ \nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/datas_importan
+ tes
 URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
 STATUS:CONFIRMED
 END:VEVENT
@@ -2541,15 +2649,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-b650b4a90696e965@noic.com.br
-DTSTAMP:20261117T002110Z
+DTSTAMP:20261117T190002Z
 DTSTART:20260608T210000Z
 DTEND:20260608T210000Z
-SUMMARY:OBI: Inscrição de competidores para a Modalidade Programação da
-  OBI 2026
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: registration
- \nEvidência: para participação na Modalidade Programação: até 08/06/
- 2026\, 18:00\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/da
- tas_importantes
+SUMMARY:OBI: Prazo inscrição competidores Modalidade Programação
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: para participação na Modalidade Programação: até 08/06/2026
+ \, 18:00\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/datas_
+ importantes
 URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
 STATUS:CONFIRMED
 END:VEVENT
@@ -2581,15 +2688,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-25a10eda683a9479@noic.com.br
-DTSTAMP:20261003T182254Z
+DTSTAMP:20261117T190002Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260613
 SUMMARY:OBI: OBI 2026 — prova da Fase 1 (Programação)
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
- ência: Prova da Fase 1\, Modalidade Programação\; período de 10 a 12 d
- e junho.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_co
- mpleto
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+ ência: Programação Nível Mirim 10 a 12/06/2026 (quarta-feira a sexta-f
+ eira)\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/datas_imp
+ ortantes
+URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2636,19 +2743,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-3f01d6e3f3a85877@noic.com.br
-DTSTAMP:20261116T201840Z
+DTSTAMP:20261117T185652Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
-SUMMARY:OBF: 1ª Fase da OBF 2026 - Dia 1
-DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
-  1ª fase: 12 e 13/06\nFonte oficial: http://www.sbfisica.org.br/v1/olimpi
- ada/
-URL:http://www.sbfisica.org.br/v1/olimpiada/
+SUMMARY:OBF: Prova da 1ª Fase 12/06
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: round\nEvidência
+ : 12/06 Prova da 1ª Fase (online).\nFonte oficial: https://www1.fisica.or
+ g.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-6e210e316c9a642b@noic.com.br
-DTSTAMP:20261117T001429Z
+DTSTAMP:20261117T185622Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
 SUMMARY:OBF: Prazo de Inscrição da 1ª Fase da OBF 2026
@@ -2672,6 +2779,18 @@ URL:https://eupho.ee/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-b4800de4fe6eafde@noic.com.br
+DTSTAMP:20261117T185652Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260614
+SUMMARY:OBF: Prova da 1ª Fase 12/06 a 13/06
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: round\nEvidência
+ : de 12/06 a 13/06\nFonte oficial: https://www1.fisica.org.br/olimpiada/20
+ 26/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-21ce91075b3a7357@noic.com.br
 DTSTAMP:20261116T201840Z
 DTSTART;VALUE=DATE:20260613
@@ -2684,13 +2803,40 @@ URL:http://www.sbfisica.org.br/v1/olimpiada/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-d82121406f76e7ba@noic.com.br
+DTSTAMP:20261116T195423Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Divulgação dos res
+ ultados da Olimpíada Local Descentralizada
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: results\nEv
+ idência: - Divulgação dos resultados da Olimpíada Local Descentralizad
+ a: 13 de junho de 2026\nFonte oficial: https://brazilianbrainbee.org/progr
+ amacao/
+URL:https://brazilianbrainbee.org/programacao/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f43bc158fd7e6d4a@noic.com.br
+DTSTAMP:20261117T184745Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Homologação dos co
+ mpetidores nacionais
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: results\nEv
+ idência: Homologação dos competidores nacionais:13 de junho de 2026\nFo
+ nte oficial: https://brazilianbrainbee.org/programacao/
+URL:https://brazilianbrainbee.org/programacao/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-7b53a978ccb22d97@noic.com.br
-DTSTAMP:20261116T201640Z
+DTSTAMP:20261117T185705Z
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
 SUMMARY:OBECON: Segunda Fase
 DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: round\nEvidênci
- a: 14 de Junho 2 Segunda Fase\nFonte oficial: http://obecon.org/
+ a: 14 de Junho\nFonte oficial: http://obecon.org/
 URL:http://obecon.org/
 STATUS:CONFIRMED
 END:VEVENT
@@ -2815,6 +2961,21 @@ URL:https://opengeo.msu.ru/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-35228c8615a6a0b5@noic.com.br
+DTSTAMP:20261117T185622Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:OBF: Prova da 1ª Fase da OBF 2026 (Dia 1)
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  A prova da 1ª Fase da Olimpíada Brasileira de Física (OBF) 2026 será
+  realizada nos dias 19 e 20 de junho de 2026\nFonte oficial: https://www1.
+ fisica.org.br/olimpiada/2026/index.php/16-obf/387-mudanca-da-data-da-prova
+ -da-1-fase-e-prazo-de-inscricao-prorrogado
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/16-obf/387-mudanca-
+ da-data-da-prova-da-1-fase-e-prazo-de-inscricao-prorrogado
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-532aa43d237d0b60@noic.com.br
 DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260619
@@ -2844,36 +3005,21 @@ URL:https://www1.fisica.org.br/olimpiada/2026/index.php/16-obf/387-mudanca-
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-b76f0de10beb01ef@noic.com.br
-DTSTAMP:20261115T164943Z
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260621
-SUMMARY:OBF: Prova da 1ª Fase da OBF 2026
-DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
-  A prova da 1ª Fase da Olimpíada Brasileira de Física (OBF) 2026 será
-  realizada nos dias 19 e 20 de junho de 2026 .\nFonte oficial: https://www
- 1.fisica.org.br/olimpiada/2026/index.php/16-obf/387-mudanca-da-data-da-pro
- va-da-1-fase-e-prazo-de-inscricao-prorrogado
-URL:https://www1.fisica.org.br/olimpiada/2026/index.php/16-obf/387-mudanca-
- da-data-da-prova-da-1-fase-e-prazo-de-inscricao-prorrogado
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-376c90c27cd2cbd8@noic.com.br
-DTSTAMP:20261117T001444Z
+DTSTAMP:20261117T185652Z
 DTSTART:20260619T100000Z
 DTEND:20260621T025900Z
-SUMMARY:OBF: Prova da 1ª Fase - Dia 2
-DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
-  19/06 a 20/06 Intervalo de 4 horas dentro do período que começa às 7h0
- 0 (BRT) de 19/06 e termina às 23h59 de 20/06.\nFonte oficial: https://www
- 1.fisica.org.br/olimpiada/2026/index.php/calendario
+SUMMARY:OBF: Prova da 1ª Fase da OBF 2026 (Dia 2)
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: round\nEvidência
+ : 19/06 a 20/06 Intervalo de 4 horas dentro do período que começa às 7h
+ 00 (BRT) de 19/06 e termina às 23h59 de 20/06.\nFonte oficial: https://ww
+ w1.fisica.org.br/olimpiada/2026/index.php/calendario
 URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-3b2c399200438beb@noic.com.br
-DTSTAMP:20261117T001444Z
+DTSTAMP:20261117T185652Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
 SUMMARY:OBF: Divulgação dos gabaritos da 1ª fase
@@ -2884,8 +3030,23 @@ URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-3b7cf1abd399e7aa@noic.com.br
+DTSTAMP:20261117T185652Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260701
+SUMMARY:OBF: Preenchimento no sistema pelo Coordenador Local da OBF de term
+ o de compromisso
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: submission\nEvid
+ ência: Preenchimento no sistema pelo Coordenador Local da OBF (responsáv
+ el pela inscrição da escola na OBF) de termo de compromisso em sediar Ap
+ licação de Prova da 2ª Fase. de 20/06 a 30/06\nFonte oficial: https://w
+ ww1.fisica.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-9f7793a5ea963bd6@noic.com.br
-DTSTAMP:20261117T002110Z
+DTSTAMP:20261117T190002Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
 SUMMARY:OII: OII 2026
@@ -2988,6 +3149,18 @@ URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-e98e08cc97a40b9f@noic.com.br
+DTSTAMP:20261117T185652Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:OBF: Limite de pedido de revisão dos gabaritos da 1ª fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: deadline\nEvidên
+ cia: Limite de pedido de revisão dos gabaritos da 1ª fase. 25/06\nFonte
+  oficial: https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-0e3bbd2a8316820e@noic.com.br
 DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260626
@@ -3038,7 +3211,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-b793c318ce07bb30@noic.com.br
-DTSTAMP:20261117T001444Z
+DTSTAMP:20261117T185652Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
 SUMMARY:OBF: Divulgação das pontuações da 1ª fase na área restrita do
@@ -3052,7 +3225,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-f1008c5680c8a301@noic.com.br
-DTSTAMP:20261116T201233Z
+DTSTAMP:20261117T185406Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
 SUMMARY:Olimpíada Brasileira de Ciências (OBC): Prova da Segunda Fase OBC
@@ -3079,28 +3252,28 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-5297e0a54f15dcb5@noic.com.br
-DTSTAMP:20261116T195423Z
+DTSTAMP:20261117T184745Z
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Realização da prim
  eira fase
 DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: round\nEvid
- ência: - Realização da primeira fase: 28 de junho de 2026\nFonte oficia
- l: https://brazilianbrainbee.org/programacao/
+ ência: Realização da primeira fase:28 de junho de 2026\nFonte oficial:
+  https://brazilianbrainbee.org/programacao/
 URL:https://brazilianbrainbee.org/programacao/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-586b8901a630e162@noic.com.br
-DTSTAMP:20261116T195442Z
+DTSTAMP:20261117T184805Z
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Primeira fase da eta
- pa nacional
+ pa nacional da XIV Olimpíada Brasileira de Neurociências
 DESCRIPTION:Departamento: Neurociência\nEdição: XIV\nMarco: round\nEvid
- ência: seguida pela primeira fase da etapa nacional \, realizada de forma
-  virtual em 28 de junho de 2026\nFonte oficial: https://brazilianbrainbee.
- org/resultado-da-xiv-olimpiada-brasileira-de-neurociencias-2026/
+ ência: primeira fase da etapa nacional\, realizada de forma virtual em 28
+ de junho de 2026\nFonte oficial: https://brazilianbrainbee.org/resultado-d
+ a-xiv-olimpiada-brasileira-de-neurociencias-2026/
 URL:https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira-de-
  neurociencias-2026/
 STATUS:CONFIRMED
@@ -3138,7 +3311,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-291bab6f41d06dea@noic.com.br
-DTSTAMP:20261117T001444Z
+DTSTAMP:20261117T185652Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
 SUMMARY:OBF: Publicação das notas de corte para a 2ª fase
@@ -3298,7 +3471,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-c7d45cb0542f32fd@noic.com.br
-DTSTAMP:20261117T001444Z
+DTSTAMP:20261117T185652Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260808
 SUMMARY:OBF: Período para pagamento da taxa da 2ª fase
@@ -3379,6 +3552,20 @@ DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
  ion\nEvidência: 07 julho 2026 - 23 outubro 2026 Abertura das inscrições
   para a 3ª Edição da OI.\nFonte oficial: https://oingles.com/
 URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-2480167a109f0868@noic.com.br
+DTSTAMP:20261117T185850Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260829
+SUMMARY:OI: 1º Período de Inscrição
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
+ ion\nEvidência: 1º Período de Inscrição: de 07/07/2026 a 28/08/2026\n
+ Fonte oficial: https://oingles.com/storage/regulations/regulamento-olimpia
+ da-de-ingles-3a-edicao1794910279.pdf
+URL:https://oingles.com/storage/regulations/regulamento-olimpiada-de-ingles
+ -3a-edicao1794910279.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3497,14 +3684,17 @@ URL:https://www.icho2026.uz/program
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-5a37952c97530238@noic.com.br
-DTSTAMP:20261116T195644Z
+UID:noic-da88d505fca71f57@noic.com.br
+DTSTAMP:20261117T190353Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260711
-SUMMARY:IChO: International Chemistry Olympiad - Uzbequistão (IChO)
-DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
- a: 2026-07-10\nFonte oficial: https://obquimica.org/calendario
-URL:https://obquimica.org/calendario
+SUMMARY:OBMF: Prazo Final para Solicitação de Medalhas
+DESCRIPTION:Departamento: Economia\nEdição: 2026.1\nMarco: deadline\nEvid
+ ência: Prazo Final para Solicitação de Medalhas: 10/07/2026\nFonte ofic
+ ial: https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimp
+ iada-brasileira-de-matematica-financeira.html
+URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
+ da-brasileira-de-matematica-financeira.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3518,20 +3708,6 @@ DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
  cia: IMO 2026 Shanghai\, People's Republic of China - July 10-21\, 2026\nF
  onte oficial: https://www.imo-official.org/
 URL:https://www.imo-official.org/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-f45b61e67baf21e0@noic.com.br
-DTSTAMP:20261117T002915Z
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:OBMF: Prazo Final para Solicitação de Medalhas - OBMF 2026.2
-DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: deadline\nEvidê
- ncia: Prazo Final para Solicitação de Medalhas: 10/07/2026\nFonte oficia
- l: https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
- da-brasileira-de-matematica-financeira.html
-URL:https://www.seletaeducacao.com.br/post/obmf-2026-1-tudo-sobre-a-olimpia
- da-brasileira-de-matematica-financeira.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3602,15 +3778,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-d9ca9f59522d3d40@noic.com.br
-DTSTAMP:20261116T195720Z
+DTSTAMP:20261117T185308Z
 DTSTART;VALUE=DATE:20260712
 DTEND;VALUE=DATE:20260720
 SUMMARY:Olimpíada Internacional de Biologia (IBO): 37º IBO
-DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: final\nEvidênci
- a: 37º IBO\, que ocorrerá entre os dias 12 e 19 de julho de 2026 na Litu
- ânia.\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/fases-
- e-inscricoes
-URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+DESCRIPTION:Departamento: Biologia\nEdição: 37º\nMarco: exam\nEvidência
+ : 37º IBO\, que ocorrerá entre os dias 12 e 19 de julho de 2026 na Litu
+ ânia.\nFonte oficial: https://olimpiadasdebiologia.butantan.gov.br/cronog
+ rama
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3648,6 +3824,19 @@ DESCRIPTION:Departamento: Química\nEdição: 58th\nMarco: final\nEvidênci
  mme\, handover of the IChO flag)\nFonte oficial: https://www.icho2026.uz/p
  rogram
 URL:https://www.icho2026.uz/program
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5a37952c97530238@noic.com.br
+DTSTAMP:20261117T185112Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:IChO: International Chemistry Olympiad - Uzbequistão (IChO)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
+ a: 2026-07-19\nFonte oficial: https://obquimica.org/calendario/index/olimp
+ iadas-cientificas-nacionais-
+URL:https://obquimica.org/calendario/index/olimpiadas-cientificas-nacionais
+ -
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3691,15 +3880,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-2a35d080f2f6c502@noic.com.br
-DTSTAMP:20261117T001444Z
+DTSTAMP:20261117T185652Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260818
 SUMMARY:OBF: Escolha pelo estudante no sistema do local de prova da 2ª Fas
  e
 DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: registration\nEvi
  dência: Escolha pelo estudante no sistema do local de prova da 2ª Fase (
- CA/F2). de 22/07 a 17/08\nFonte oficial: https://www1.fisica.org.br/olimpi
- ada/2026/index.php/calendario
+ CA/F2). de 22/07 a 17/08 Apenas para estudantes inscritos individualmente
+  ou de escolas que não se credenciaram como CA/F2.\nFonte oficial: https:
+ //www1.fisica.org.br/olimpiada/2026/index.php/calendario
 URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
 STATUS:CONFIRMED
 END:VEVENT
@@ -3716,6 +3906,22 @@ DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: registration\nEv
  04Yr/view?usp=sharing
 URL:https://drive.google.com/file/d/1JDbkjZMfsv-DEHalsqLVYMyjXom204Yr/view?
  usp=sharing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-216f22298aa6ce2f@noic.com.br
+DTSTAMP:20261117T184221Z
+DTSTART:20260728T160000Z
+DTEND:20260728T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 86
+ ª Jornada de Foguetes
+DESCRIPTION:Departamento: Foguetes\nEdição: 86ª\nMarco: deadline\nEvidê
+ ncia: O comprovante de pagamento e o envio da ficha de inscrição em exce
+ l solicitados precisam ser enviados até às 13h(horário de Brasília)do
+  dia 28 / 07 / 2026.\nFonte oficial: https://sistema.oba.org.br/sisglob/si
+ sglob_arquivos/downloads/EDITAL-TURMA-01.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-01.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3893,6 +4099,21 @@ URL:http://www.obmep.org.br/calendario.htm
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-a1417fbb1c912b00@noic.com.br
+DTSTAMP:20261117T184221Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260807
+SUMMARY:Jornadas F: 86ª Jornada de Foguetes – Turma 1
+DESCRIPTION:Departamento: Foguetes\nEdição: 86ª\nMarco: exam\nEvidência
+ : LOCAL E DATA DA 86a JORNADA DE FOGUETES: A 86a Jornada de Foguetes será
+  no período de 03 / 08 / 26 (segunda-feira) ao dia 06 / 08 / 26 (quinta-f
+ eira) e será realizada no Hotel Fazenda Ribeirão\nFonte oficial: https:/
+ /sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-01.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-01.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-f1cc2c0e02b36224@noic.com.br
 DTSTAMP:20261116T195503Z
 DTSTART;VALUE=DATE:20260803
@@ -3957,16 +4178,48 @@ URL:https://ioai-official.org/wp-content/uploads/2026/06/IOAI%C2%B2-AI-Mode
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-6065b0571170a56c@noic.com.br
+DTSTAMP:20261117T184228Z
+DTSTART:20260804T160000Z
+DTEND:20260804T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 87
+ a Jornada de Foguetes Turma 2
+DESCRIPTION:Departamento: Foguetes\nEdição: 87a Jornada de Foguetes Turma
+  2\nMarco: deadline\nEvidência: O comprovante de pagamento e o envio da f
+ icha de inscrição em excel solicitados precisam ser enviados até às 13
+ h(horário de Brasília)do dia 04 / 08 / 2026.\nFonte oficial: https://sis
+ tema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-02.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-02.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-34267a252753b775@noic.com.br
+DTSTAMP:20261117T184404Z
+DTSTART:20260805T160000Z
+DTEND:20260805T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 88
+ a Jornada de Foguetes - Turma 3
+DESCRIPTION:Departamento: Foguetes\nEdição: 88a\nMarco: deadline\nEvidên
+ cia: O comprovante de pagamento e o envio da ficha de inscrição em excel
+  solicitados precisam ser enviados até às 13h(horário de Brasília)do d
+ ia 05 / 08 / 2026.\nFonte oficial: https://sistema.oba.org.br/sisglob/sisg
+ lob_arquivos/downloads/EDITAL-TURMA-03.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-03.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-3b0a2ccbd60a0ec1@noic.com.br
-DTSTAMP:20261003T182254Z
+DTSTAMP:20261117T190002Z
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260808
 SUMMARY:OBI: OBI 2026 — prova da Fase 2 (Iniciação)
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
- ência: Prova da Fase 2\, Modalidade Iniciação\; período de 6 a 7 de ag
- osto.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_compl
- eto
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+ ência: Fase 2 (Estadual) Modalidade Dia Duração Horário Iniciação N
+ ível Júnior 06 a 07/08/2026\nFonte oficial: https://olimpiada.ic.unicamp
+ .br/calendario/datas_importantes
+URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4075,7 +4328,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-f98f0a54b7e2370b@noic.com.br
-DTSTAMP:20261117T002110Z
+DTSTAMP:20261117T190002Z
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260817
 SUMMARY:IOI: IOI 2026
@@ -4084,6 +4337,21 @@ DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: final\nEvid
  nt\, Uzbekistan\, de 09 de agosto a 16 de agosto.\nFonte oficial: https://
  olimpiada.ic.unicamp.br/calendario/datas_importantes
 URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-01df6fb0697a1b92@noic.com.br
+DTSTAMP:20261117T184228Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260814
+SUMMARY:Jornadas F: 87a Jornada de Foguetes Turma 2
+DESCRIPTION:Departamento: Foguetes\nEdição: 87a Jornada de Foguetes Turma
+  2\nMarco: round\nEvidência: A 87a Jornada de Foguetes será no período
+  de 10 / 08 / 26 (segunda-feira) ao dia 13 / 08 / 26 (quinta-feira)\nFonte
+  oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/ED
+ ITAL-TURMA-02.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-02.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4194,6 +4462,22 @@ URL:https://www.ufpb.br/educacaofinanceira/wp-content/uploads/sites/179/sit
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-d697a9263224782e@noic.com.br
+DTSTAMP:20261117T184408Z
+DTSTART:20260811T160000Z
+DTEND:20260811T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 89
+ ª Jornada de Foguetes (Turma 4)
+DESCRIPTION:Departamento: Foguetes\nEdição: 89ª Jornada de Foguetes\nMar
+ co: deadline\nEvidência: O comprovante de pagamento e o envio da ficha de
+  inscrição em excel solicitados precisam ser enviados até às 13h(horá
+ rio de Brasília)do dia 11 / 08 / 2026.\nFonte oficial: https://sistema.ob
+ a.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-04.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-04.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-2176af635a7b6832@noic.com.br
 DTSTAMP:20261116T200510Z
 DTSTART;VALUE=DATE:20260812
@@ -4223,10 +4507,10 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-b4d049be4c90fd1d@noic.com.br
-DTSTAMP:20261117T003107Z
+DTSTAMP:20261117T190409Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-SUMMARY:OBFEP: Prova (nas escolas) da 1ª Fase
+SUMMARY:OBFEP: Prova da 1ª Fase
 DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
   12 de agosto (quarta-feira)\, em todos os turnos\nFonte oficial: https://
  www1.fisica.org.br/~obfep/calendario-2026/
@@ -4246,6 +4530,34 @@ DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: selection\nEv
   Olimpíada Iberoamericana de Matemática - 41ª OIM "\, "tipo": "selectiv
  o"}\nFonte oficial: https://www.oma.org.ar/contents/calendar/2026.json
 URL:https://www.oma.org.ar/contents/calendar/2026.json
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-feb2120ee670cf6c@noic.com.br
+DTSTAMP:20261117T190402Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:OBFEP: Prova (nas escolas) da 1ª Fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: exam\nEvidência:
+  Prova (nas escolas) da 1ª Fase 12 de agosto (quarta-feira)\, em todos os
+  turnos\nFonte oficial: https://www1.fisica.org.br/~obfep/calendario-2026
+URL:https://www1.fisica.org.br/~obfep/calendario-2026
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-1e2ab4d560ed82b1@noic.com.br
+DTSTAMP:20261117T184429Z
+DTSTART:20260812T160000Z
+DTEND:20260812T160000Z
+SUMMARY:Jornadas F: Data limite para envio do comprovante de pagamento e fi
+ cha de inscrição da 90ª Jornada de Foguetes – Turma 5
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: O comprovante de pagamento e o envio da ficha de inscrição em exce
+ l solicitados precisam ser enviados até às 13h(horário de Brasília)do
+  dia 12 / 08 / 2026.\nFonte oficial: https://sistema.oba.org.br/sisglob/si
+ sglob_arquivos/downloads/EDITAL-TURMA-05.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-05.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4278,7 +4590,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0a619e173f342855@noic.com.br
-DTSTAMP:20261117T003107Z
+DTSTAMP:20261117T190409Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:OBFEP: Divulgação do gabarito da prova da 1ª Fase
@@ -4401,6 +4713,20 @@ DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: round\nEvidência
  : A prova será realizada de 17/08 até 23/08.\nFonte oficial: https://noi
  c.com.br/wp-content/uploads/2026/08/regulamebto_obof.pdf
 URL:https://noic.com.br/wp-content/uploads/2026/08/regulamebto_obof.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4a297e78b4d9e9a0@noic.com.br
+DTSTAMP:20261117T184404Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260821
+SUMMARY:Jornadas F: 88a Jornada de Foguetes - Turma 3
+DESCRIPTION:Departamento: Foguetes\nEdição: 88a\nMarco: final\nEvidência
+ : A 88a Jornada de Foguetes será no período de 17 / 08 / 26 (segunda-fei
+ ra) ao dia 20 / 08 / 26 (quinta-feira)\nFonte oficial: https://sistema.oba
+ .org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-03.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-03.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4581,6 +4907,21 @@ URL:https://obgeografia.com.br/wp-content/uploads/2026/03/Regulamento_11OBG
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-4d946d01e777f7c4@noic.com.br
+DTSTAMP:20261117T184432Z
+DTSTART:20260818T160000Z
+DTEND:20260818T160000Z
+SUMMARY:Jornadas F: Data limite para envio de comprovante de pagamento e fi
+ cha de inscrição da 91ª Jornada de Foguetes (Turma 6)
+DESCRIPTION:Departamento: Foguetes\nEdição: 91\nMarco: deadline\nEvidênc
+ ia: ARQUIVOS QUE DEVERÃO SER ENVIADOS PARA A EQUIPE ORGANIZADORA ATÉ AS
+  13H DO DIA 18 / 08 / 2026\nFonte oficial: https://sistema.oba.org.br/sisg
+ lob/sisglob_arquivos/downloads/EDITAL-TURMA-06.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-06.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-e76eb1cb4bafbd18@noic.com.br
 DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260819
@@ -4648,15 +4989,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-43a76099082cf45d@noic.com.br
-DTSTAMP:20261003T182254Z
+DTSTAMP:20261117T190002Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260822
 SUMMARY:OBI: OBI 2026 — prova da Fase 2 (Programação)
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
- ência: Prova da Fase 2\, Modalidade Programação\; período de 20 a 21 d
- e agosto.\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/obi_c
- ompleto
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+ ência: Programação Nível Mirim 20 a 21/08/2026 (quinta-feira a sexta-f
+ eira)\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/datas_imp
+ ortantes
+URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4702,7 +5043,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-37f6dded927a5216@noic.com.br
-DTSTAMP:20261117T001444Z
+DTSTAMP:20261117T185652Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
 SUMMARY:OBF: Publicação das respostas gabarito da 2ª fase
@@ -4710,6 +5051,19 @@ DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
  ia: Publicação das respostas gabarito da 2ª fase. 21/08\nFonte oficial:
   https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
 URL:https://www1.fisica.org.br/olimpiada/2026/index.php/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3b2f26e2ff779d33@noic.com.br
+DTSTAMP:20261117T185112Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:OBQJr: Olimpíada Brasileira de Química Júnior (OBQJr)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
+ a: 2026-08-21\nFonte oficial: https://obquimica.org/calendario/index/olimp
+ iadas-cientificas-nacionais-
+URL:https://obquimica.org/calendario/index/olimpiadas-cientificas-nacionais
+ -
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4849,6 +5203,21 @@ URL:https://www.instagram.com/projetonoic/p/Dco8SHqAe8A/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-a7fa7f160070bc03@noic.com.br
+DTSTAMP:20261117T184408Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260828
+SUMMARY:Jornadas F: 89ª Jornada de Foguetes (Turma 4)
+DESCRIPTION:Departamento: Foguetes\nEdição: 89ª Jornada de Foguetes\nMar
+ co: round\nEvidência: A 89a Jornada de Foguetes será no período de 24 /
+  08 / 26 (segunda-feira) ao dia 27 / 08 / 26 (quinta-feira)\nFonte oficial
+ : https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TUR
+ MA-04.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-04.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-02103765fcd8d101@noic.com.br
 DTSTAMP:20261112T205649Z
 DTSTART;VALUE=DATE:20260825
@@ -4877,12 +5246,37 @@ URL:https://www1.fisica.org.br/~obfep/calendario-2026
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-a932b8c8ad8d9976@noic.com.br
+DTSTAMP:20261117T190409Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:OBFEP: Cadastro de alunos que fizeram a 1ª fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: deadline\nEvidên
+ cia: Até 25 de agosto\nFonte oficial: https://www1.fisica.org.br/~obfep/c
+ alendario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-aac325737ad40489@noic.com.br
 DTSTAMP:20261117T003107Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260907
 SUMMARY:OBFEP: Período de confirmação\, pelos Coordenadores Estaduais\,
   dos Centros de Aplicação (CA)\, para a 2ª Fase
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: other\nEvidência
+ : De 25 de agosto a 06 de setembro\nFonte oficial: https://www1.fisica.org
+ .br/~obfep/calendario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-bafcc760615e4cfd@noic.com.br
+DTSTAMP:20261117T190409Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260907
+SUMMARY:OBFEP: Período de confirmação dos Centros de Aplicação para a
+  2ª Fase
 DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: other\nEvidência
  : De 25 de agosto a 06 de setembro\nFonte oficial: https://www1.fisica.org
  .br/~obfep/calendario-2026/
@@ -4917,13 +5311,31 @@ URL:https://www1.fisica.org.br/~obfep/calendario-2026/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-fb0cf16f74b51d78@noic.com.br
+DTSTAMP:20261117T184435Z
+DTSTART:20260825T160000Z
+DTEND:20260825T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 92
+ ª Jornada de Foguetes – Turma 7
+DESCRIPTION:Departamento: Foguetes\nEdição: 92a\nMarco: deadline\nEvidên
+ cia: DATA LIMITE PARA PAGAMENTO E ENVIO DOS DOCUMENTOS: Atenção: a sua i
+ nscrição só é confirmada após o pagamento do boleto e o envio da fich
+ a de inscrição em excel para o e-mail oficial do evento. O comprovante d
+ e pagamento e o envio da ficha de inscrição em excel solicitados precisa
+ m ser enviados até às 13h(horário de Brasília)do dia 25 / 08 / 2026.\n
+ Fonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloa
+ ds/EDITAL-TURMA-07.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-07.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-3aa0828139abeefb@noic.com.br
-DTSTAMP:20261117T003107Z
+DTSTAMP:20261117T190409Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-SUMMARY:OBFEP: Data máxima para divulgação pela Comissão da OBFEP do n
- úmero mínimo de acertos necessários para o estudante ser classificado p
- ara a 2ª Fase
+SUMMARY:OBFEP: Divulgação da relação dos alunos classificados para a 2
+ ª Fase
 DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
  ia: Até 27 de agosto\nFonte oficial: https://www1.fisica.org.br/~obfep/ca
  lendario-2026/
@@ -4941,21 +5353,6 @@ DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: exam\nEvidênci
  a: Desafios — 1ª Fase 27 — 29 agosto\nFonte oficial: http://www.oncie
  ncias.org/
 URL:http://www.onciencias.org/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-853ba1c62403c855@noic.com.br
-DTSTAMP:20261117T003100Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:OBFEP: Divulgação dos classificados para a 2ª Fase
-DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
- ia: Data máxima para divulgação pela Comissão da OBFEP do número mín
- imo de acertos necessários para o estudante ser classificado para a 2ª F
- ase e a relação dos alunos classificados para coordenadores e escolas At
- é 27 de agosto\nFonte oficial: https://www1.fisica.org.br/~obfep/calendar
- io-2026
-URL:https://www1.fisica.org.br/~obfep/calendario-2026
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -5036,21 +5433,21 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-21c1f463de36b007@noic.com.br
-DTSTAMP:20261116T200542Z
+DTSTAMP:20261117T185850Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20261024
 SUMMARY:OI: 2º Período de Inscrição
 DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
- ion\nEvidência: De 29/08 a 23/10 2º Período de Inscrição\, exclusivam
- ente pelo site da OI\nFonte oficial: https://oingles.com/storage/regulatio
- ns/regulamento-olimpiada-de-ingles-3a-edicao1783436003.pdf
+ ion\nEvidência: 2º Período de Inscrição: de 29/08/2026 a 23/10/2026\n
+ Fonte oficial: https://oingles.com/storage/regulations/regulamento-olimpia
+ da-de-ingles-3a-edicao1794910279.pdf
 URL:https://oingles.com/storage/regulations/regulamento-olimpiada-de-ingles
- -3a-edicao1783436003.pdf
+ -3a-edicao1794910279.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-30a61fed76e01d3d@noic.com.br
-DTSTAMP:20261117T003100Z
+DTSTAMP:20261117T190402Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20261024
 SUMMARY:OBFEP: Período para recebimento do Termo de Consentimento
@@ -5149,6 +5546,21 @@ URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboc.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-230b354dce43e014@noic.com.br
+DTSTAMP:20261117T184429Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260904
+SUMMARY:Jornadas F: 90ª Jornada de Foguetes – Turma 5
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: LOCAL E DATA DA 90a JORNADA DE FOGUETES: A 90a Jornada de Foguetes ser
+ á no período de 31 / 08 / 26 (segunda-feira) ao dia 03 / 09 / 26 (quinta
+ -feira)\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivo
+ s/downloads/EDITAL-TURMA-05.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-05.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-588004976472c207@noic.com.br
 DTSTAMP:20261117T001953Z
 DTSTART;VALUE=DATE:20260831
@@ -5198,15 +5610,28 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-92be219b07ad8175@noic.com.br
-DTSTAMP:20261116T195720Z
+DTSTAMP:20261117T185308Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260906
 SUMMARY:Olimpíada Ibero-Americana de Biologia (OIAB): 19º OIAB
-DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: final\nEvidênci
- a: 19º OIAB\, que ocorrerá no Brasil entre os dias 31 de agosto e 05 de
-  setembro de 2026.\nFonte oficial: https://olimpiadasdebiologia.butantan.g
- ov.br/fases-e-inscricoes
-URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+DESCRIPTION:Departamento: Biologia\nEdição: 19º\nMarco: exam\nEvidência
+ : 19º OIAB\, que ocorrerá no Brasil entre os dias 31 de agosto e 05 de s
+ etembro de 2026.\nFonte oficial: https://olimpiadasdebiologia.butantan.gov
+ .br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-9bbbd19343e07551@noic.com.br
+DTSTAMP:20261117T185339Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:TVQ: Divulgação do gabarito da segunda fase
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
+ cia: O gabarito será divulgado dia 31 / 08\nFonte oficial: https://sites.
+ google.com/unicamp.br/torneio-virtual-de-quimica/calend%C3%A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -5260,27 +5685,28 @@ URL:https://www.instagram.com/projetonoic/p/DcuBzlwAdXS/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-9bbbd19343e07551@noic.com.br
-DTSTAMP:20261116T195503Z
-DTSTART:20260831T030000Z
-DTEND:20260831T030000Z
-SUMMARY:TVQ: Divulgação do Gabarito da 2ª Fase do TVQ 2026
-DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
- cia: O gabarito da 2a Fase será divulgado no dia 31 de agosto de 2026 (se
- gunda-feira) às 00:00\nFonte oficial: https://drive.google.com/file/d/1ZF
- LINWEebn90k_hFkyopaA_8ijrI1YDJ/view
-URL:https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
+UID:noic-4b36ec6d87bace0b@noic.com.br
+DTSTAMP:20261117T185339Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:TVQ: Prazo de contestação da segunda fase
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: e os alunos terão até dia 01 / 09 para contestarem as respostas da
+ s questões.\nFonte oficial: https://sites.google.com/unicamp.br/torneio-v
+ irtual-de-quimica/calend%C3%A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-837935851d1c7a80@noic.com.br
-DTSTAMP:20261117T002212Z
+DTSTAMP:20261117T190157Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:OLITEF: Fim das Inscrições
-DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: registration\nEv
- idência: Fim das Inscrições 01/09/2026\nFonte oficial: https://olitef.c
- om.br/
+DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: deadline\nEvidê
+ ncia: Fim das Inscrições 01/09/2026\nFonte oficial: https://olitef.com.b
+ r/
 URL:https://olitef.com.br/
 STATUS:CONFIRMED
 END:VEVENT
@@ -5320,6 +5746,25 @@ DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: other\nEvidên
  cia: 1 September 2026 Academic season starts\nFonte oficial: https://www.t
  eeneagle.org/english-calendar
 URL:https://www.teeneagle.org/english-calendar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4b3ab0d754a647af@noic.com.br
+DTSTAMP:20261117T184531Z
+DTSTART:20260901T160000Z
+DTEND:20260901T160000Z
+SUMMARY:Jornadas F: Data limite para envio de documentos de inscrição da
+  93a Jornada de Foguetes (Turma 8)
+DESCRIPTION:Departamento: Foguetes\nEdição: 93a\nMarco: deadline\nEvidên
+ cia: DATA LIMITE PARA PAGAMENTO E ENVIO DOS DOCUMENTOS: Atenção: a sua i
+ nscrição só é confirmada após o pagamento do boleto e o envio da fich
+ a de inscrição em excel para o e-mail oficial do evento. O comprovante d
+ e pagamento e o envio da ficha de inscrição em excel solicitados precisa
+ m ser enviados até às 13h(horário de Brasília)do dia 01 / 09 / 2026.\n
+ Fonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloa
+ ds/EDITAL-TURMA-08.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-08.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -5415,15 +5860,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-ad92667336205dd8@noic.com.br
-DTSTAMP:20261117T002701Z
+DTSTAMP:20261117T190330Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260914
 SUMMARY:Olimpíada Ibero-Americana de Matemática: 41ª Olimpíada Ibero-am
  ericana de Matemática
-DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: final\nEvidê
- ncia: 41ª Olimpíada Ibero-americana de Matemática 6 a 13 de setembro\,
-  Buenos Aires\, Argentina\nFonte oficial: https://www.obm.org.br/informaco
- es-gerais/calendario
+DESCRIPTION:Departamento: Matemática\nEdição: 41ª Olimpíada Ibero-amer
+ icana de Matemática\nMarco: exam\nEvidência: 41ª Olimpíada Ibero-ameri
+ cana de Matemática 6 a 13 de setembro\, Buenos Aires\, Argentina\nFonte o
+ ficial: https://www.obm.org.br/informacoes-gerais/calendario
 URL:https://www.obm.org.br/informacoes-gerais/calendario
 STATUS:CONFIRMED
 END:VEVENT
@@ -5452,6 +5897,20 @@ URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboch.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-21135e74e5f8f8ec@noic.com.br
+DTSTAMP:20261116T201238Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20261003
+SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
+  Matemática (OBM) Divulgação dos convocados e seleção dos polos de ap
+ licação
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª OBM\nMarco: selection
+ \nEvidência: 7 de setembro a 2 de outubro\nFonte oficial: https://www.obm
+ .org.br/informacoes-gerais/calendario/
+URL:https://www.obm.org.br/informacoes-gerais/calendario/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-36beb61c53e69738@noic.com.br
 DTSTAMP:20261117T001814Z
 DTSTART;VALUE=DATE:20260907
@@ -5465,16 +5924,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-3afb4f6999b9a4f3@noic.com.br
-DTSTAMP:20261117T002701Z
+DTSTAMP:20261115T164610Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20261003
-SUMMARY:Olimpíada Brasileira de Matemática: 48ª OBM - Divulgação dos c
- onvocados e seleção dos polos de aplicação
-DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: selection\nEv
- idência: Divulgação dos convocados e seleção dos polos de aplicação
-  7 de setembro a 2 de outubro\nFonte oficial: https://www.obm.org.br/infor
- macoes-gerais/calendario
-URL:https://www.obm.org.br/informacoes-gerais/calendario
+SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
+  Matemática (OBM) - Divulgação dos convocados e seleção dos polos de
+  aplicação
+DESCRIPTION:Departamento: Matemática\nEdição: 48\nMarco: selection\nEvid
+ ência: Divulgação dos convocados e seleção dos polos de aplicação 7
+  de setembro a 2 de outubro\nFonte oficial: https://www.obm.org.br/informa
+ coes-gerais/calendario/
+URL:https://www.obm.org.br/informacoes-gerais/calendario/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -5553,7 +6013,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-8d6694c581b6b964@noic.com.br
-DTSTAMP:20261117T002212Z
+DTSTAMP:20261117T190157Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:OLITEF: Realização da Prova
@@ -5564,15 +6024,34 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-e7216ea3ffb6f14c@noic.com.br
-DTSTAMP:20261117T002110Z
+DTSTAMP:20261117T190002Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-SUMMARY:OBI: Cadastro de escolas para a Competição Feminina da OBI 2026
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: registration
- \nEvidência: para participação na Competição Feminina da OBI (CF-OBI)
- : até 08/09/2026\nFonte oficial: https://olimpiada.ic.unicamp.br/calendar
- io/datas_importantes
+SUMMARY:OBI: Prazo cadastro escolas CF-OBI
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
+ idência: para participação na Competição Feminina da OBI (CF-OBI): at
+ é 08/09/2026\nFonte oficial: https://olimpiada.ic.unicamp.br/calendario/d
+ atas_importantes
 URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-90107fbf3fecd335@noic.com.br
+DTSTAMP:20261117T184534Z
+DTSTART:20260908T160000Z
+DTEND:20260908T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio de documentos da 94
+ ª Jornada de Foguetes (Turma 9)
+DESCRIPTION:Departamento: Foguetes\nEdição: 94\nMarco: registration\nEvid
+ ência: DATA LIMITE PARA PAGAMENTO E ENVIO DOS DOCUMENTOS: Atenção: a su
+ a inscrição só é confirmada após o pagamento do boleto e o envio da f
+ icha de inscrição em excel para o e-mail oficial do evento. O comprovant
+ e de pagamento e o envio da ficha de inscrição em excel solicitados prec
+ isam ser enviados até às 13h(horário de Brasília)do dia 08 / 09 / 2026
+ .\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/down
+ loads/EDITAL-TURMA-09.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-09.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -5618,7 +6097,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-d5828cc2e71c86eb@noic.com.br
-DTSTAMP:20261117T002212Z
+DTSTAMP:20261117T190157Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260913
 SUMMARY:OLITEF: Datas alternativas da Prova
@@ -5694,14 +6173,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-3a7791d80c63c7f3@noic.com.br
-DTSTAMP:20261112T205649Z
+DTSTAMP:20261117T190002Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-SUMMARY:OBI: Prova da CF-OBI
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
- ncia: Prova da CF-OBI2025\, Competição Feminina\nFonte oficial: https://
- olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+SUMMARY:OBI: Prova CF-OBI 2026
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Competição Feminina da OBI (CF-OBI) Modalidade Dia Duração Hor
+ ário Programação Nível Mirim 11/09/2026\nFonte oficial: https://olimpi
+ ada.ic.unicamp.br/calendario/datas_importantes
+URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -5732,20 +6212,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-bcc2dec262853692@noic.com.br
-DTSTAMP:20261117T001427Z
+DTSTAMP:20261117T185612Z
 DTSTART:20260913T025900Z
 DTEND:20260913T025900Z
-SUMMARY:OBF: Envio das Respostas da 2ª Fase
+SUMMARY:OBF: Envio das Respostas da 2ª Fase da OBF 2026
 DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: submission\nEvid
  ência: O formulário deve ser preenchido até as 23h59 (horário de Bras
- ília) do dia 12/09 .\nFonte oficial: https://www1.fisica.org.br/olimpiada
- /2026/
+ ília) do dia 12/09\nFonte oficial: https://www1.fisica.org.br/olimpiada/2
+ 026/
 URL:https://www1.fisica.org.br/olimpiada/2026/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-59676fa737daa39f@noic.com.br
-DTSTAMP:20261116T201233Z
+DTSTAMP:20261117T185406Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:IJSO: Prova da Seletiva da IJSO
@@ -5766,6 +6246,20 @@ DESCRIPTION:Departamento: Ciências\nEdição: 2026\nMarco: results\nEvidê
  ncia: A lista da OBOC\, por exemplo\, sai até dia 13/09.\nFonte oficial:
   https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
 URL:https://noic.com.br/wp-content/uploads/2026/05/calendario_oficial.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-45b1485780c024af@noic.com.br
+DTSTAMP:20261117T184432Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260918
+SUMMARY:Jornadas F: 91ª Jornada de Foguetes (Turma 6)
+DESCRIPTION:Departamento: Foguetes\nEdição: 91\nMarco: round\nEvidência:
+  A 91a Jornada de Foguetes será no período de 14 / 09 / 26 (segunda-feir
+ a) ao dia 17 / 09 / 26 (quinta-feira)\nFonte oficial: https://sistema.oba.
+ org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-06.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-06.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -5872,6 +6366,21 @@ URL:https://www.oniabrasil.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-b66ed9cb9d8bd646@noic.com.br
+DTSTAMP:20261117T184554Z
+DTSTART:20260915T160000Z
+DTEND:20260915T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos de in
+ scrição
+DESCRIPTION:Departamento: Foguetes\nEdição: 95a\nMarco: deadline\nEvidên
+ cia: ARQUIVOS QUE DEVERÃO SER ENVIADOS PARA A EQUIPE ORGANIZADORA ATÉ AS
+  13H DO DIA 15 / 09 / 2026:\nFonte oficial: https://sistema.oba.org.br/sis
+ glob/sisglob_arquivos/downloads/EDITAL-TURMA-10.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-10.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-14452e8e743ee32c@noic.com.br
 DTSTAMP:20261115T163834Z
 DTSTART;VALUE=DATE:20260916
@@ -5967,7 +6476,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-70af10db2bac9f0d@noic.com.br
-DTSTAMP:20261117T001444Z
+DTSTAMP:20261117T185652Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:OBF: Divulgação de notas de classificação para 3ª fase
@@ -5994,7 +6503,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-9273c3d50a53119a@noic.com.br
-DTSTAMP:20261117T001444Z
+DTSTAMP:20261117T185652Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:OBF: Limite para divulgação dos Centros de Aplicação da 3ª Fas
@@ -6129,6 +6638,21 @@ URL:https://www.instagram.com/projetonoic/p/DdmzSUBmIL4/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-d30ced5ec985a43f@noic.com.br
+DTSTAMP:20261117T184435Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260925
+SUMMARY:Jornadas F: 92ª Jornada de Foguetes – Turma 7
+DESCRIPTION:Departamento: Foguetes\nEdição: 92a\nMarco: round\nEvidência
+ : LOCAL E DATA DA 92a JORNADA DE FOGUETES: A 92a Jornada de Foguetes será
+  no período de 21 / 09 / 26 (segunda-feira) ao dia 24 / 09 / 26 (quinta-f
+ eira)\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/
+ downloads/EDITAL-TURMA-07.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-07.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-f057900acf002d16@noic.com.br
 DTSTAMP:20261113T183040Z
 DTSTART;VALUE=DATE:20260921
@@ -6150,6 +6674,23 @@ DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
   other\nEvidência: 22/09 — 23/10 Treinamento II\nFonte oficial: https:/
  /ambiente.olimpiadadeia.ceia.digital/
 URL:https://ambiente.olimpiadadeia.ceia.digital/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-4d565b3da54a152c@noic.com.br
+DTSTAMP:20261117T184558Z
+DTSTART:20260922T160000Z
+DTEND:20260922T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 96
+ ª Jornada de Foguetes (Turma 11)
+DESCRIPTION:Departamento: Foguetes\nEdição: 96ª Jornada de Foguetes –
+  Turma 11 (2026)\nMarco: deadline\nEvidência: O comprovante de pagamento
+  e o envio da ficha de inscrição em excel solicitados precisam ser envia
+ dos até às 13h(horário de Brasília)do dia 22 / 09 / 2026.\nFonte ofici
+ al: https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-T
+ URMA-11.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-11.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -6220,27 +6761,28 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-21db3273ccc9e7c1@noic.com.br
-DTSTAMP:20261116T195423Z
+DTSTAMP:20261117T184745Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260927
 SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Realização da fase
   final
 DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: final\nEvid
- ência: - Realização da fase final: 25 e 26 de Setembro de 2026\nFonte o
- ficial: https://brazilianbrainbee.org/programacao/
+ ência: Realização da fase final:25 e 26 de Setembro de 2026\nFonte ofic
+ ial: https://brazilianbrainbee.org/programacao/
 URL:https://brazilianbrainbee.org/programacao/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-8c4d2d5ce50ac0ab@noic.com.br
-DTSTAMP:20261116T195244Z
+DTSTAMP:20261117T184640Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260927
 SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Etapa Nacional da XI
  V Olimpíada Brasileira de Neurociências
-DESCRIPTION:Departamento: Neurociência\nEdição: XIV\nMarco: round\nEvid
- ência: Etapa Nacional da OBN 2026 será realizada nos dias 25 e 26 de Set
- embro\nFonte oficial: https://brazilianbrainbee.org/
+DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: round\nEvid
+ ência: Comunicado oficial: Etapa Nacional da OBN 2026 será realizada nos
+  dias 25 e 26 de Setembro\, em formato virtual\nFonte oficial: https://bra
+ zilianbrainbee.org/
 URL:https://brazilianbrainbee.org/
 STATUS:CONFIRMED
 END:VEVENT
@@ -6282,15 +6824,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-cd56ae0e0fa7d0eb@noic.com.br
-DTSTAMP:20261116T195442Z
+DTSTAMP:20261117T184805Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Segunda fase online
   - Dia 1
 DESCRIPTION:Departamento: Neurociência\nEdição: XIV\nMarco: round\nEvid
- ência: realizada em 25\, 26 de setembro e 10 de outubro de 2026\nFonte of
- icial: https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira
- -de-neurociencias-2026/
+ ência: segunda fase online\, realizada em 25\, 26de setembro e 10 de outu
+ bro de 2026\nFonte oficial: https://brazilianbrainbee.org/resultado-da-xiv
+ -olimpiada-brasileira-de-neurociencias-2026/
 URL:https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira-de-
  neurociencias-2026/
 STATUS:CONFIRMED
@@ -6336,15 +6878,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-f89bca2ba3fe2565@noic.com.br
-DTSTAMP:20261116T195442Z
+DTSTAMP:20261117T184805Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Segunda fase online
   - Dia 2
 DESCRIPTION:Departamento: Neurociência\nEdição: XIV\nMarco: round\nEvid
- ência: realizada em 25\, 26 de setembro e 10 de outubro de 2026\nFonte of
- icial: https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira
- -de-neurociencias-2026/
+ ência: segunda fase online\, realizada em 25\, 26de setembro e 10 de outu
+ bro de 2026\nFonte oficial: https://brazilianbrainbee.org/resultado-da-xiv
+ -olimpiada-brasileira-de-neurociencias-2026/
 URL:https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira-de-
  neurociencias-2026/
 STATUS:CONFIRMED
@@ -6364,15 +6906,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-9b2695fde08e79c7@noic.com.br
-DTSTAMP:20261003T182254Z
+DTSTAMP:20261117T190002Z
 DTSTART:20260926T130000Z
 DTEND:20260926T150000Z
 SUMMARY:OBI: OBI 2026 — prova da Fase 3 (Iniciação)
-DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: exam\nEvidê
- ncia: Prova da Fase 3\, Modalidade Iniciação\; Inic. Júnior\, Nível 1
-  e Nível 2: 10:00–12:00 (horário de Brasília).\nFonte oficial: https:
- //olimpiada.ic.unicamp.br/calendario/obi_completo
-URL:https://olimpiada.ic.unicamp.br/calendario/obi_completo
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: final\nEvid
+ ência: Fase 3 (Nacional) Modalidade Horário Dia Iniciação Nível Júni
+ or 10:00-12:00 26/09/2026\nFonte oficial: https://olimpiada.ic.unicamp.br/
+ calendario/datas_importantes
+URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -6427,15 +6969,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-82f701e9f8a8ca02@noic.com.br
-DTSTAMP:20261116T195423Z
+DTSTAMP:20261117T184745Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Divulgação dos res
  ultados da XIV Olimpíada Brasileira de Neurociências
 DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: results\nEv
- idência: - Divulgação dos resultados da XIV Olimpíada Brasileira de Ne
- urociências: 28 de Setembro de 2026\nFonte oficial: https://brazilianbrai
- nbee.org/programacao/
+ idência: Divulgação dos resultados da XIV Olimpíada Brasileira de Neur
+ ociências:28 de Setembro de 2026\nFonte oficial: https://brazilianbrainbe
+ e.org/programacao/
 URL:https://brazilianbrainbee.org/programacao/
 STATUS:CONFIRMED
 END:VEVENT
@@ -6462,6 +7004,20 @@ DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: exam\nEvidên
  cia: OBOM 2026\, 2ª fase: a prova será realizada de 28/09 até 04/10.\nF
  onte oficial: https://noic.com.br/wp-content/uploads/2026/07/OBOs_2026.pdf
 URL:https://noic.com.br/wp-content/uploads/2026/07/OBOs_2026.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-b75ec84134cce541@noic.com.br
+DTSTAMP:20261117T184531Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261002
+SUMMARY:Jornadas F: 93a Jornada de Foguetes (Turma 8)
+DESCRIPTION:Departamento: Foguetes\nEdição: 93a\nMarco: final\nEvidência
+ : A 93a Jornada de Foguetes será no período de 28 / 09 / 26 (segunda-fei
+ ra) ao dia 01 / 10 / 26 (quinta-feira)\nFonte oficial: https://sistema.oba
+ .org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-08.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-08.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -6552,6 +7108,23 @@ DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2026\nMarco:
   correta.\nFonte oficial: https://www.instagram.com/projetonoic/p/Dd2KbbbA
  YaD/
 URL:https://www.instagram.com/projetonoic/p/Dd2KbbbAYaD/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f0d6c32b2cb3d3c0@noic.com.br
+DTSTAMP:20261117T184624Z
+DTSTART:20260929T160000Z
+DTEND:20260929T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento da inscrição e envio dos d
+ ocumentos da 97ª Jornada de Foguetes (Turma 12)
+DESCRIPTION:Departamento: Foguetes\nEdição: 97a Jornada de Foguetes - Tur
+ ma 12\nMarco: registration\nEvidência: O comprovante de pagamento e o env
+ io da ficha de inscrição em excel solicitados precisam ser enviados até
+  às 13h(horário de Brasília)do dia 29 / 09 / 2026.\nFonte oficial: http
+ s://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-12.
+ pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-12.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -6683,6 +7256,35 @@ URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/DATAS%20IMPORT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-94b79cdf373db69a@noic.com.br
+DTSTAMP:20261116T201907Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261003
+SUMMARY:OBMF: Período de Recursos - OBMF 2026.2
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: submission\nEv
+ idência: Período de Recursos 01/10/2026 a 02/10/2026\nFonte oficial: htt
+ ps://docs.google.com/document/d/1sTdwEOgzgkkcJNg3ge88TxaHb65QiYOCJuJy0EnmU
+ Ok/edit?usp=sharing
+URL:https://docs.google.com/document/d/1sTdwEOgzgkkcJNg3ge88TxaHb65QiYOCJuJ
+ y0EnmUOk/edit?usp=sharing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-598c35bc2c66d7ef@noic.com.br
+DTSTAMP:20261117T190330Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
+  Matemática (OBM) Prazo final para o preenchimento do formulário de conf
+ irmação
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª OBM\nMarco: deadline\
+ nEvidência: Prazo final para o preenchimento do formulário de confirmaç
+ ão. 2 de outubro\nFonte oficial: https://www.obm.org.br/informacoes-gerai
+ s/calendario
+URL:https://www.obm.org.br/informacoes-gerais/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-8cd218f19872e118@noic.com.br
 DTSTAMP:20261116T201428Z
 DTSTART;VALUE=DATE:20261002
@@ -6697,16 +7299,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-cbf0cf74e000eaec@noic.com.br
-DTSTAMP:20261117T002701Z
+DTSTAMP:20261115T164610Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Olimpíada Brasileira de Matemática: 48ª OBM - Prazo final para o
-  preenchimento do formulário de confirmação
-DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: deadline\nEvi
- dência: Prazo final para o preenchimento do formulário de confirmação.
+SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
+  Matemática (OBM) - Prazo final para o preenchimento do formulário de co
+ nfirmação
+DESCRIPTION:Departamento: Matemática\nEdição: 48\nMarco: deadline\nEvid
+ ência: Prazo final para o preenchimento do formulário de confirmação.
   2 de outubro\nFonte oficial: https://www.obm.org.br/informacoes-gerais/ca
- lendario
-URL:https://www.obm.org.br/informacoes-gerais/calendario
+ lendario/
+URL:https://www.obm.org.br/informacoes-gerais/calendario/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -6755,6 +7358,18 @@ DTEND:20261003T150000Z
 SUMMARY:OBI: Fase 3 (Nacional) - Programação Mirim\, Júnior e Nível 1 O
  BI 2026
 DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: round\nEvid
+ ência: Programação Nível Mirim 8:00-12:00 03/10/2026 (sábado)\nFonte
+  oficial: https://olimpiada.ic.unicamp.br/calendario/datas_importantes
+URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-78f07af20ce9ac37@noic.com.br
+DTSTAMP:20261117T190002Z
+DTSTART:20261003T110000Z
+DTEND:20261003T150000Z
+SUMMARY:OBI: OBI 2026 Fase 3 Programação Mirim
+DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: final\nEvid
  ência: Programação Nível Mirim 8:00-12:00 03/10/2026 (sábado)\nFonte
   oficial: https://olimpiada.ic.unicamp.br/calendario/datas_importantes
 URL:https://olimpiada.ic.unicamp.br/calendario/datas_importantes
@@ -6875,6 +7490,21 @@ URL:https://noic.com.br/wp-content/uploads/2026/05/regulamento_oboa.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-d02ebccbfdd93780@noic.com.br
+DTSTAMP:20261117T184534Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261009
+SUMMARY:Jornadas F: 94ª Jornada de Foguetes (Turma 9)
+DESCRIPTION:Departamento: Foguetes\nEdição: 94\nMarco: round\nEvidência:
+  LOCAL E DATA DA 94a JORNADA DE FOGUETES: A 94a Jornada de Foguetes será
+  no período de 05 / 10 / 26 (segunda-feira) ao dia 08 / 10 / 26 (quinta-f
+ eira) e será realizada no Hotel Fazenda Ribeirão\nFonte oficial: https:/
+ /sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-09.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-09.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-ddde06b4009e2c1f@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART;VALUE=DATE:20261005
@@ -6950,6 +7580,22 @@ DESCRIPTION:Departamento: Informática\nEdição: 2026\nMarco: deadline\nEv
  te dos Coordenadores 06/Outubro/2026\nFonte oficial: https://olimpiada.ic.
  unicamp.br/
 URL:https://olimpiada.ic.unicamp.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c873f287be3cbaf5@noic.com.br
+DTSTAMP:20261117T184627Z
+DTSTART:20261006T160000Z
+DTEND:20261006T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento do boleto e envio da ficha d
+ e inscrição da 98a Jornada de Foguetes (Turma 13)
+DESCRIPTION:Departamento: Foguetes\nEdição: 98a Edição - Turma 13\nMarc
+ o: deadline\nEvidência: O comprovante de pagamento e o envio da ficha de
+  inscrição em excel solicitados precisam ser enviados até às 13h(horá
+ rio de Brasília)do dia 06 / 10 / 2026.\nFonte oficial: https://sistema.ob
+ a.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-13.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-13.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -7033,14 +7679,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-b05c2d829f4319b6@noic.com.br
-DTSTAMP:20261114T161814Z
+DTSTAMP:20261117T185705Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261012
 SUMMARY:OBECON: Terceira Fase
 DESCRIPTION:Departamento: Economia\nEdição: 2026\nMarco: final\nEvidênci
- a: 8 a 11 de Outubro 3 Terceira Fase\nFonte oficial: https://www.obecon.or
- g.br/
-URL:https://www.obecon.org.br/
+ a: 8 a 11 de Outubro\nFonte oficial: http://obecon.org/
+URL:http://obecon.org/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -7059,7 +7704,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-422d91e207726f66@noic.com.br
-DTSTAMP:20261116T201238Z
+DTSTAMP:20261117T190330Z
 DTSTART:20261008T170000Z
 DTEND:20261008T170000Z
 SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
@@ -7067,8 +7712,8 @@ SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
 DESCRIPTION:Departamento: Matemática\nEdição: 48ª OBM\nMarco: exam\nEvi
  dência: 8 de outubro de 2026 (quinta-feira) Primeiro dia - níveis 1\, 2\
  , 3 e universitário 14h00 (horário de Brasília)\nFonte oficial: https:/
- /www.obm.org.br/informacoes-gerais/calendario/
-URL:https://www.obm.org.br/informacoes-gerais/calendario/
+ /www.obm.org.br/informacoes-gerais/calendario
+URL:https://www.obm.org.br/informacoes-gerais/calendario
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -7167,7 +7812,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-aba9d8f74b396e68@noic.com.br
-DTSTAMP:20261116T201238Z
+DTSTAMP:20261117T190330Z
 DTSTART:20261009T170000Z
 DTEND:20261009T170000Z
 SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
@@ -7175,34 +7820,34 @@ SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
 DESCRIPTION:Departamento: Matemática\nEdição: 48ª OBM\nMarco: exam\nEvi
  dência: 9 de outubro de 2026 (sexta-feira) Segundo dia - níveis 2\, 3 e
   universitário 14h00 (horário de Brasília)\nFonte oficial: https://www.
- obm.org.br/informacoes-gerais/calendario/
-URL:https://www.obm.org.br/informacoes-gerais/calendario/
+ obm.org.br/informacoes-gerais/calendario
+URL:https://www.obm.org.br/informacoes-gerais/calendario
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-616ace90b984bc38@noic.com.br
-DTSTAMP:20261116T195442Z
+DTSTAMP:20261117T184805Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Segunda fase online
-  - Dia 3
-DESCRIPTION:Departamento: Neurociência\nEdição: XIV\nMarco: round\nEvid
- ência: realizada em 25\, 26 de setembro e 10 de outubro de 2026\nFonte of
- icial: https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira
- -de-neurociencias-2026/
+  (Dia 3) da XIV Olimpíada Brasileira de Neurociências
+DESCRIPTION:Departamento: Neurociência\nEdição: XIV\nMarco: final\nEvid
+ ência: segunda fase online\, realizada em 25\, 26de setembro e 10 de outu
+ bro de 2026\nFonte oficial: https://brazilianbrainbee.org/resultado-da-xiv
+ -olimpiada-brasileira-de-neurociencias-2026/
 URL:https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira-de-
  neurociencias-2026/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-771bc589edd315d5@noic.com.br
-DTSTAMP:20261116T195753Z
+DTSTAMP:20261117T185339Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:TVQ: Terceira fase
 DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: round\nEvidênci
- a: A terceira fase ocorrerá no dia 10/10\,\nFonte oficial: https://sites.
- google.com/unicamp.br/torneio-virtual-de-quimica/calend%C3%A1rio
+ a: A terceira fase ocorrerá no dia 10/10\nFonte oficial: https://sites.go
+ ogle.com/unicamp.br/torneio-virtual-de-quimica/calend%C3%A1rio
 URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
  3%A1rio
 STATUS:CONFIRMED
@@ -7217,6 +7862,20 @@ DESCRIPTION:Departamento: Artes\nEdição: 2026\nMarco: results\nEvidência
  : 7) Divulgação das respostas esperadas: 10/10\nFonte oficial: https://n
  oic.com.br/?page_id=89787
 URL:https://noic.com.br/?page_id=89787
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-8c369485c8991676@noic.com.br
+DTSTAMP:20261117T185339Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:TVQ: Terceira fase (motivos religiosos)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: round\nEvidênci
+ a: e no dia 11 /10 para aqueles impedidos por motivos religiosos\nFonte of
+ icial: https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/cale
+ nd%C3%A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -7297,17 +7956,6 @@ URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-dccf2730aed3e726@noic.com.br
-DTSTAMP:20261116T195644Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:OIAQ: Olimpíada Iberoamericana de Química - Fortaleza (OIAQ)
-DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
- a: 2026-10-13\nFonte oficial: https://obquimica.org/calendario
-URL:https://obquimica.org/calendario
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-e9e36b82ea5bda10@noic.com.br
 DTSTAMP:20261116T200518Z
 DTSTART;VALUE=DATE:20261013
@@ -7317,6 +7965,22 @@ DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: exam\nEvidência
  : 13–19 de outubro de 2026\nFonte oficial: https://oiaqfortaleza.com/reg
  ulamento
 URL:https://oiaqfortaleza.com/regulamento
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-c809df798f38157f@noic.com.br
+DTSTAMP:20261117T184630Z
+DTSTART:20261013T160000Z
+DTEND:20261013T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 99
+ ª Jornada de Foguetes (Turma 14)
+DESCRIPTION:Departamento: Foguetes\nEdição: 99ª Jornada de Foguetes (Tur
+ ma 14)\nMarco: deadline\nEvidência: comprovante de pagamento e o envio da
+  ficha de inscrição em excel solicitados precisam ser enviados até às
+  13h(horário de Brasília)do dia 13 / 10 / 2026\nFonte oficial: https://s
+ istema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-14.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-14.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -7464,28 +8128,28 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-1cc983cb6bf15b8e@noic.com.br
-DTSTAMP:20261116T195818Z
+DTSTAMP:20261117T185359Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:FIRST LEGO League (FLL): Evento Nacional de Celebração
 DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: final\nEvidênc
  ia: Evento Nacional de Celebração Rio de Janeiro\, Barra Olímpica 17 de
-  outubro de 2026\nFonte oficial: https://www-firstlegoleague-com-br.filesu
- sr.com/html/3a1650_226506c76232ee282bb8a451725f6106.html
+  outubro de 2026 sábado\nFonte oficial: https://www-firstlegoleague-com-b
+ r.filesusr.com/html/3a1650_226506c76232ee282bb8a451725f6106.html
 URL:https://www-firstlegoleague-com-br.filesusr.com/html/3a1650_226506c7623
  2ee282bb8a451725f6106.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-25215dce687a1153@noic.com.br
-DTSTAMP:20261116T195818Z
+DTSTAMP:20261117T185359Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:FIRST LEGO League (FLL): Showcase Rio de Janeiro
-DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: other\nEvidênc
- ia: Showcase Rio de Janeiro\, Barra Olímpica 17 de outubro de 2026\nFonte
-  oficial: https://www-firstlegoleague-com-br.filesusr.com/html/3a1650_2265
- 06c76232ee282bb8a451725f6106.html
+DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
+ ia: Showcase Rio de Janeiro\, Barra Olímpica 17 de outubro de 2026 sábad
+ o\nFonte oficial: https://www-firstlegoleague-com-br.filesusr.com/html/3a1
+ 650_226506c76232ee282bb8a451725f6106.html
 URL:https://www-firstlegoleague-com-br.filesusr.com/html/3a1650_226506c7623
  2ee282bb8a451725f6106.html
 STATUS:CONFIRMED
@@ -7528,6 +8192,32 @@ URL:https://oiaqfortaleza.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-b4c7339ca54814ec@noic.com.br
+DTSTAMP:20261117T184554Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261023
+SUMMARY:Jornadas F: 95a Jornada de Foguetes – Turma 10
+DESCRIPTION:Departamento: Foguetes\nEdição: 95a\nMarco: round\nEvidência
+ : LOCAL E DATA DA 95a JORNADA DE FOGUETES: A 95a Jornada de Foguetes será
+  no período de 19 / 10 / 26 (segunda-feira) ao dia 22 / 10 / 26 (quinta-f
+ eira)\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/
+ downloads/EDITAL-TURMA-10.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-10.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-dccf2730aed3e726@noic.com.br
+DTSTAMP:20261117T185112Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:OIAQ: Olimpíada Iberoamericana de Química - Fortaleza (OIAQ)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
+ a: 2026-10-19\nFonte oficial: https://obquimica.org/calendario/
+URL:https://obquimica.org/calendario/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-fe12afe639e7d596@noic.com.br
 DTSTAMP:20261114T161802Z
 DTSTART;VALUE=DATE:20261019
@@ -7551,6 +8241,22 @@ DESCRIPTION:Departamento: Inteligência Artificial\nEdição: 2027\nMarco:
  cation window\nFonte oficial: https://ioai-official.org/editions/singapore
  -2027/ioai-2027-timeline/
 URL:https://ioai-official.org/editions/singapore-2027/ioai-2027-timeline/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-097cec9bba58d139@noic.com.br
+DTSTAMP:20261117T184633Z
+DTSTART:20261020T160000Z
+DTEND:20261020T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos de in
+ scrição da 100ª Jornada de Foguetes (Turma 15)
+DESCRIPTION:Departamento: Foguetes\nEdição: 100ª Jornada de Foguetes (Tu
+ rma 15)\nMarco: deadline\nEvidência: ARQUIVOS QUE DEVERÃO SER ENVIADOS P
+ ARA A EQUIPE ORGANIZADORA ATÉ AS 13H DO DIA 20 / 10 / 2026\nFonte oficial
+ : https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TUR
+ MA-15.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-15.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -7691,6 +8397,22 @@ URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-661db268201baaf1@noic.com.br
+DTSTAMP:20261117T184558Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261030
+SUMMARY:Jornadas F: 96ª Jornada de Foguetes (Turma 11)
+DESCRIPTION:Departamento: Foguetes\nEdição: 96ª Jornada de Foguetes –
+  Turma 11 (2026)\nMarco: round\nEvidência: A 96a Jornada de Foguetes ser
+ á no período de 26 / 10 / 26 (segunda-feira) ao dia 29 / 10 / 26 (quinta
+ -feira) e será realizada no Hotel Fazenda Ribeirão\nFonte oficial: https
+ ://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-11.p
+ df
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-11.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-2fb8d0e6c056f0a4@noic.com.br
 DTSTAMP:20261005T183849Z
 DTSTART;VALUE=DATE:20261027
@@ -7700,6 +8422,25 @@ DESCRIPTION:Departamento: Inglês\nEdição: 2026-27\nMarco: exam\nEvidênc
  ia: Level 1 Exam Date 2: 27 th October 2026\nFonte oficial: https://sofwor
  ld.org/ieo
 URL:https://sofworld.org/ieo
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-53bd7dff0c286653@noic.com.br
+DTSTAMP:20261117T184635Z
+DTSTART:20261027T160000Z
+DTEND:20261027T160000Z
+SUMMARY:Jornadas F: Data limite para pagamento e envio dos documentos da 10
+ 1ª Jornada de Foguetes
+DESCRIPTION:Departamento: Foguetes\nEdição: 101\nMarco: deadline\nEvidên
+ cia: DATA LIMITE PARA PAGAMENTO E ENVIO DOS DOCUMENTOS: Atenção: a sua i
+ nscrição só é confirmada após o pagamento do boleto e o envio da fich
+ a de inscrição em excel para o e-mail oficial do evento. O comprovante d
+ e pagamento e o envio da ficha de inscrição em excel solicitados precisa
+ m ser enviados até às 13h(horário de Brasília)do dia 27 / 10 / 2026.\n
+ Fonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloa
+ ds/EDITAL-TURMA-16.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-16.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -7798,7 +8539,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-14ec43969ed88de4@noic.com.br
-DTSTAMP:20261117T002212Z
+DTSTAMP:20261117T190157Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:OLITEF: Resultados da Olimpíada
@@ -7917,13 +8658,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-32600bda14f0e0e9@noic.com.br
-DTSTAMP:20261115T164426Z
+DTSTAMP:20261117T190306Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261109
-SUMMARY:Astronomia: 5th IOAA Jr 2026
-DESCRIPTION:Departamento: Astronomia\nEdição: 5\nMarco: final\nEvidência
- : November 1-8\, 2026. Ubon Ratchathani\, Thailand\nFonte oficial: https:/
- /www.ioaastrophysics.org/
+SUMMARY:International Olympiad on Astronomy and Astrophysics (IOAA): 5th Ju
+ nior Olympiad on Astronomy and Astrophysics 2026
+DESCRIPTION:Departamento: Astronomia\nEdição: 2026\nMarco: final\nEvidên
+ cia: November 1-8\, 2026. Ubon Ratchathani\, Thailand\nFonte oficial: http
+ s://www.ioaastrophysics.org/
 URL:https://www.ioaastrophysics.org/
 STATUS:CONFIRMED
 END:VEVENT
@@ -8044,32 +8786,44 @@ URL:https://www1.fisica.org.br/~obfep/calendario-2026/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-600bf20c81e5ab7e@noic.com.br
-DTSTAMP:20261117T003100Z
+UID:noic-4e58e4e521413a96@noic.com.br
+DTSTAMP:20261117T190402Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:OBFEP: Data máxima para postagem dos Cadernos de Resolução (CA)
-DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: submission\nEvid
- ência: Data máxima para o professor responsável pela OBFEP em cada sede
-  (CA) postar nos Correios (por SEDEX) os Cadernos de Resolução das prova
- s da 2ª Fase\, as folhas de presença oficiais e recibos e declarações
-  CNPq para a Coordenação Estadual 05 de novembro\nFonte oficial: https:/
- /www1.fisica.org.br/~obfep/calendario-2026
+SUMMARY:OBFEP: Data máxima de postagem dos documentos da 2ª Fase pelas se
+ des
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: deadline\nEvidên
+ cia: Data máxima para o professor responsável pela OBFEP em cada sede (C
+ A) postar nos Correios (por SEDEX) os Cadernos de Resolução das provas d
+ a 2ª Fase\, as folhas de presença oficiais e recibos e declarações CNP
+ q para a Coordenação Estadual 05 de novembro\nFonte oficial: https://www
+ 1.fisica.org.br/~obfep/calendario-2026
 URL:https://www1.fisica.org.br/~obfep/calendario-2026
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-600bf20c81e5ab7e@noic.com.br
+DTSTAMP:20261117T190409Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:OBFEP: Data máxima para postagem dos Cadernos de Resolução nos C
+ orreios
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: deadline\nEvidên
+ cia: 05 de novembro\nFonte oficial: https://www1.fisica.org.br/~obfep/cale
+ ndario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-7ef0f2572258cfd4@noic.com.br
-DTSTAMP:20261116T200542Z
+DTSTAMP:20261112T002355Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:OI: Provas da 3ª Edição
 DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: exam\nEvi
- dência: 05/11 (quinta-feira) Aplicação das provas\nFonte oficial: https
- ://oingles.com/storage/regulations/regulamento-olimpiada-de-ingles-3a-edic
- ao1783436003.pdf
-URL:https://oingles.com/storage/regulations/regulamento-olimpiada-de-ingles
- -3a-edicao1783436003.pdf
+ dência: As provas acontecerão no dia 05 de novembro\nFonte oficial: http
+ s://oingles.com/
+URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -8165,14 +8919,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-0e7deeebc46967f8@noic.com.br
-DTSTAMP:20261116T200538Z
+DTSTAMP:20261117T185850Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:OI: Publicação dos gabaritos das provas da 2ª Edição
-DESCRIPTION:Departamento: Inglês\nEdição: 2026\nMarco: results\nEvidênc
- ia: 07 novembro Publicação dos Gabaritos Publicação dos gabaritos das
-  provas da 2ª Edição.\nFonte oficial: https://oingles.com/calendario
-URL:https://oingles.com/calendario
+SUMMARY:OI: Publicação dos Gabaritos no site
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: results\n
+ Evidência: 07/11 Publicação dos Gabaritos no site\nFonte oficial: https
+ ://oingles.com/storage/regulations/regulamento-olimpiada-de-ingles-3a-edic
+ ao1794910279.pdf
+URL:https://oingles.com/storage/regulations/regulamento-olimpiada-de-ingles
+ -3a-edicao1794910279.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -8237,6 +8993,21 @@ DESCRIPTION:Departamento: Economia\nEdição: 2027\nMarco: registration\nEv
  picas-ufc-unesp-medalhas-seleta.html
 URL:https://www.seletaeducacao.com.br/post/vagas-olimpicas-ufc-unesp-medalh
  as-seleta.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-24b204715da69a88@noic.com.br
+DTSTAMP:20261117T184624Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261113
+SUMMARY:Jornadas F: 97ª Jornada de Foguetes (Turma 12)
+DESCRIPTION:Departamento: Foguetes\nEdição: 97a Jornada de Foguetes - Tur
+ ma 12\nMarco: round\nEvidência: A 97a Jornada de Foguetes será no perío
+ do de 09 / 11 / 26 (segunda-feira) ao dia 12 / 11 / 26 (quinta-feira)\nFon
+ te oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/
+ EDITAL-TURMA-12.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-12.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -8324,17 +9095,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-1f5af5dcb428cb24@noic.com.br
-DTSTAMP:20261117T003100Z
+DTSTAMP:20261117T190409Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:OBFEP: Data máxima para envio à Comissão da OBFEP
-DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: submission\nEvid
- ência: Data máxima para cada coordenador(a) estadual encaminhar (SEDEX)
-  para a Comissão da OBFEP os Cadernos de Resolução\, as folhas de prese
- nça oficiais e os originais da planilha e dos recibos e declarações CNP
- q 13 de novembro\nFonte oficial: https://www1.fisica.org.br/~obfep/calenda
- rio-2026
-URL:https://www1.fisica.org.br/~obfep/calendario-2026
+SUMMARY:OBFEP: Data máxima para encaminhamento dos documentos à Comissão
+  da OBFEP
+DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: deadline\nEvidên
+ cia: 13 de novembro\nFonte oficial: https://www1.fisica.org.br/~obfep/cale
+ ndario-2026/
+URL:https://www1.fisica.org.br/~obfep/calendario-2026/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -8418,16 +9187,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-dc7a3bdedf3c9a83@noic.com.br
-DTSTAMP:20261116T200542Z
+DTSTAMP:20261117T185850Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:OI: Divulgação dos premiados
 DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: results\n
  Evidência: 17/11 Divulgação dos premiados\nFonte oficial: https://oingl
- es.com/storage/regulations/regulamento-olimpiada-de-ingles-3a-edicao178343
- 6003.pdf
+ es.com/storage/regulations/regulamento-olimpiada-de-ingles-3a-edicao179491
+ 0279.pdf
 URL:https://oingles.com/storage/regulations/regulamento-olimpiada-de-ingles
- -3a-edicao1783436003.pdf
+ -3a-edicao1794910279.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -8536,15 +9305,43 @@ URL:https://obgeografia.com.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-f952e714bd744c4d@noic.com.br
+DTSTAMP:20261117T184627Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261127
+SUMMARY:Jornadas F: 98a Jornada de Foguetes (Turma 13)
+DESCRIPTION:Departamento: Foguetes\nEdição: 98a Edição - Turma 13\nMarc
+ o: round\nEvidência: A 98a Jornada de Foguetes será no período de 23 /
+  11 / 26 (segunda-feira) ao dia 26 / 11 / 26 (quinta-feira) e será realiz
+ ada no Hotel Fazenda Ribeirão\nFonte oficial: https://sistema.oba.org.br/
+ sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-13.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-13.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-069ca0d183aff1cb@noic.com.br
+DTSTAMP:20261117T185121Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20270116
+SUMMARY:OI: Período para aquisição de medalhas
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: registrat
+ ion\nEvidência: 24 novembro 2026 - 15 janeiro 2027 Período para aquisiç
+ ão de medalhas (Ouro\, Prata\, Bronze\, Menção Honrosa ou Participaçã
+ o)\nFonte oficial: https://oingles.com/
+URL:https://oingles.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-27f6ac14f2f95231@noic.com.br
-DTSTAMP:20261116T200536Z
+DTSTAMP:20261117T185121Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:OI: Divulgação dos premiados com Ouro\, Prata\, Bronze e Menção
   Honrosa
-DESCRIPTION:Departamento: Inglês\nEdição: 2026\nMarco: results\nEvidênc
- ia: 24 novembro 24 novembro 2026 Divulgação dos premiados com Ouro\, Pra
- ta\, Bronze e Menção Honrosa\nFonte oficial: https://oingles.com/
+DESCRIPTION:Departamento: Inglês\nEdição: 3ª Edição\nMarco: results\n
+ Evidência: 24 novembro 2026 Divulgação dos premiados com Ouro\, Prata\,
+  Bronze e Menção Honrosa.\nFonte oficial: https://oingles.com/
 URL:https://oingles.com/
 STATUS:CONFIRMED
 END:VEVENT
@@ -8613,6 +9410,35 @@ DESCRIPTION:Departamento: Robótica\nEdição: 2026\nMarco: round\nEvidênc
  /26 - 11/29/26\nFonte oficial: https://ftc-events.firstinspires.org/2026/r
  egion/BR
 URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f45b61e67baf21e0@noic.com.br
+DTSTAMP:20261116T201907Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:OBMF: Prazo Final para Solicitação de Medalhas - OBMF 2026.2
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: deadline\nEvid
+ ência: Prazo Final para Solicitação de Medalhas 27/11/2026\nFonte ofici
+ al: https://docs.google.com/document/d/1sTdwEOgzgkkcJNg3ge88TxaHb65QiYOCJu
+ Jy0EnmUOk/edit?usp=sharing
+URL:https://docs.google.com/document/d/1sTdwEOgzgkkcJNg3ge88TxaHb65QiYOCJuJ
+ y0EnmUOk/edit?usp=sharing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-3acd89497f69b7fa@noic.com.br
+DTSTAMP:20261117T184630Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261204
+SUMMARY:Jornadas F: 99ª Jornada de Foguetes (Turma 14)
+DESCRIPTION:Departamento: Foguetes\nEdição: 99ª Jornada de Foguetes (Tur
+ ma 14)\nMarco: round\nEvidência: A 99a Jornada de Foguetes será no perí
+ odo de 30 / 11 / 26 (segunda-feira) ao dia 03 / 12 / 26 (quinta-feira) e s
+ erá realizada no Hotel Fazenda Ribeirão\nFonte oficial: https://sistema.
+ oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-14.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-14.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -8880,7 +9706,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-5f0e0c89b50f2c57@noic.com.br
-DTSTAMP:20261117T002110Z
+DTSTAMP:20261117T190002Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261213
 SUMMARY:OBI: Semana Olímpica da OBI 2026
@@ -8920,15 +9746,30 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-38711e4005bddfd1@noic.com.br
-DTSTAMP:20261117T002701Z
+DTSTAMP:20261117T190330Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261210
-SUMMARY:Olimpíada Brasileira de Matemática: 48ª OBM - Pedidos de revisã
- o de nota
-DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: submission\nE
- vidência: Pedidos de revisão de nota 7 a 9 de dezembro\nFonte oficial: h
- ttps://www.obm.org.br/informacoes-gerais/calendario
+SUMMARY:Olimpíada Brasileira de Matemática: 48ª Olimpíada Brasileira de
+  Matemática (OBM) Pedidos de revisão de nota
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª OBM\nMarco: other\nEv
+ idência: Pedidos de revisão de nota 7 a 9 de dezembro\nFonte oficial: ht
+ tps://www.obm.org.br/informacoes-gerais/calendario
 URL:https://www.obm.org.br/informacoes-gerais/calendario
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-477bbda91349f9b5@noic.com.br
+DTSTAMP:20261117T184633Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261211
+SUMMARY:Jornadas F: 100ª Jornada de Foguetes (Turma 15)
+DESCRIPTION:Departamento: Foguetes\nEdição: 100ª Jornada de Foguetes (Tu
+ rma 15)\nMarco: round\nEvidência: LOCAL E DATA DA 100a JORNADA DE FOGUETE
+ S: A 100a Jornada de Foguetes será no período de 07 / 12 / 26 (segunda-f
+ eira) ao dia 10 / 12 / 26 (quinta-feira)\nFonte oficial: https://sistema.o
+ ba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TURMA-15.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-15.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -8972,15 +9813,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-3703e0f0fcdd683e@noic.com.br
-DTSTAMP:20261117T003107Z
+DTSTAMP:20261117T190402Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:OBFEP: Divulgação dos resultados finais da OBFEP 2026 (3ª e 4ª
-  séries)
+SUMMARY:OBFEP: Divulgação dos resultados finais - 3ª e 4ª séries
 DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
- ia: 3ª e 4ª séries: até 11/12/2026\nFonte oficial: https://www1.fisica
- .org.br/~obfep/calendario-2026/
-URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+ ia: Divulgação dos resultados finais da OBFEP 2026 3ª e 4ª séries: at
+ é 11/12/2026\nFonte oficial: https://www1.fisica.org.br/~obfep/calendario
+ -2026
+URL:https://www1.fisica.org.br/~obfep/calendario-2026
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -9022,6 +9863,21 @@ URL:https://www.obm.org.br/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-8caa894720dd183c@noic.com.br
+DTSTAMP:20261117T184635Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261218
+SUMMARY:Jornadas F: 101ª Jornada de Foguetes – Turma 16
+DESCRIPTION:Departamento: Foguetes\nEdição: 101\nMarco: other\nEvidência
+ : LOCAL E DATA DA 101a JORNADA DE FOGUETES: A 101a Jornada de Foguetes ser
+ á no período de 14 / 12 / 26 (segunda-feira) ao dia 17 / 12 / 26 (quinta
+ -feira)\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arquivo
+ s/downloads/EDITAL-TURMA-16.pdf
+URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/downloads/EDITAL-TU
+ RMA-16.pdf
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-e315a638ed86c0f4@noic.com.br
 DTSTAMP:20261116T201238Z
 DTSTART;VALUE=DATE:20261214
@@ -9037,7 +9893,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-38c5e95d7c3354d6@noic.com.br
-DTSTAMP:20261116T201726Z
+DTSTAMP:20261117T185713Z
 DTSTART:20261214T230000Z
 DTEND:20261214T230000Z
 SUMMARY:IYPT: Registration deadline: December 15\, 2026\, at midnight (CET)
@@ -9049,14 +9905,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-71b216eefa629b3c@noic.com.br
-DTSTAMP:20261116T202237Z
+DTSTAMP:20261117T185752Z
 DTSTART:20261214T230000Z
 DTEND:20261214T230000Z
-SUMMARY:IYPT: Pre-Registration Deadline for IYPT 2027
+SUMMARY:IYPT: Registration deadline: Pre-registration for IYPT 2027
 DESCRIPTION:Departamento: Física\nEdição: 2027\nMarco: deadline\nEvidên
  cia: Registration deadline: December 15\, 2026\, at midnight (CET)\nFonte
-  oficial: https://iypt.org/new-documents/
-URL:https://iypt.org/new-documents/
+  oficial: https://iypt.org/rules-of-procedure/
+URL:https://iypt.org/rules-of-procedure/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -9100,6 +9956,20 @@ URL:https://drive.google.com/file/d/1ZFLINWEebn90k_hFkyopaA_8ijrI1YDJ/view
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-a6a44cd3efa3eaaf@noic.com.br
+DTSTAMP:20261117T185339Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:TVQ: Resultado da terceira fase
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: results\nEvidên
+ cia: O resultado da terceira fase será publicado no dia 18 /12\nFonte ofi
+ cial: https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calen
+ d%C3%A1rio
+URL:https://sites.google.com/unicamp.br/torneio-virtual-de-quimica/calend%C
+ 3%A1rio
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-abd629624d751931@noic.com.br
 DTSTAMP:20261117T002617Z
 DTSTART;VALUE=DATE:20261218
@@ -9137,15 +10007,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-3a9ff51ae3030fa3@noic.com.br
-DTSTAMP:20261117T003107Z
+DTSTAMP:20261117T190402Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
-SUMMARY:OBFEP: Divulgação dos resultados finais da OBFEP 2026 (Demais sé
- ries)
+SUMMARY:OBFEP: Divulgação dos resultados finais - Demais séries
 DESCRIPTION:Departamento: Física\nEdição: 2026\nMarco: results\nEvidênc
  ia: Demais séries: até 11/01/2027\nFonte oficial: https://www1.fisica.or
- g.br/~obfep/calendario-2026/
-URL:https://www1.fisica.org.br/~obfep/calendario-2026/
+ g.br/~obfep/calendario-2026
+URL:https://www1.fisica.org.br/~obfep/calendario-2026
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -9313,7 +10182,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-74b9d40aac4078ae@noic.com.br
-DTSTAMP:20261117T003107Z
+DTSTAMP:20261117T190409Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:OBFEP: Divulgação dos resultados de ilustração da OBFEP 2026
@@ -9337,7 +10206,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-bddffb3718797d9b@noic.com.br
-DTSTAMP:20261116T200106Z
+DTSTAMP:20261117T184811Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270308
 SUMMARY:First Robotics Competition (FRC): Regional Brazil - SESI Indaiatuba
@@ -9373,15 +10242,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-3408dc72d7a206e9@noic.com.br
-DTSTAMP:20261116T195507Z
+DTSTAMP:20261117T185111Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270322
 SUMMARY:FIRST LEGO League (FLL): 9° Festival SESI de Robótica - FLLC
-DESCRIPTION:Departamento: Robótica\nEdição: 9\nMarco: final\nEvidência:
-  O evento nacional acontecerá em Salvador\, entre os dias 18 e 21 de mar
- ço de 2027.\nFonte oficial: https://noticias.portaldaindustria.com.br/not
- icias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-
- sesi-de-robotica/
+DESCRIPTION:Departamento: Robótica\nEdição: 2027\nMarco: final\nEvidênc
+ ia: O evento nacional acontecerá em Salvador\, entre os dias 18 e 21 de m
+ arço de 2027\nFonte oficial: https://noticias.portaldaindustria.com.br/no
+ ticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios
+ -sesi-de-robotica/
 URL:https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-c
  alendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
 STATUS:CONFIRMED
@@ -9414,8 +10283,23 @@ URL:https://ftc-events.firstinspires.org/2026/region/BR
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-8081337db8744c7c@noic.com.br
+DTSTAMP:20261117T185111Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+SUMMARY:F1 in Schools: 9° Festival SESI de Robótica
+DESCRIPTION:Departamento: Robótica\nEdição: 2027\nMarco: final\nEvidênc
+ ia: O evento nacional acontecerá em Salvador\, entre os dias 18 e 21 de m
+ arço de 2027\nFonte oficial: https://noticias.portaldaindustria.com.br/no
+ ticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios
+ -sesi-de-robotica/
+URL:https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-c
+ alendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-9c07d09276142c33@noic.com.br
-DTSTAMP:20261116T200106Z
+DTSTAMP:20261117T184811Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270322
 SUMMARY:First Robotics Competition (FRC): Regional Brazil - Festival SESI d
@@ -9428,31 +10312,30 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-b2badf606e2c6e75@noic.com.br
-DTSTAMP:20261116T195507Z
+DTSTAMP:20261117T185111Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270322
-SUMMARY:FIRST Tech Challenge (FTC): 9° Festival SESI de Robótica - FTC
-DESCRIPTION:Departamento: Robótica\nEdição: 9\nMarco: final\nEvidência:
-  O evento nacional acontecerá em Salvador\, entre os dias 18 e 21 de mar
- ço de 2027.\nFonte oficial: https://noticias.portaldaindustria.com.br/not
- icias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-
- sesi-de-robotica/
+SUMMARY:FIRST Tech Challenge (FTC): 9° Festival SESI de Robótica
+DESCRIPTION:Departamento: Robótica\nEdição: 2027\nMarco: final\nEvidênc
+ ia: O evento nacional acontecerá em Salvador\, entre os dias 18 e 21 de m
+ arço de 2027\nFonte oficial: https://noticias.portaldaindustria.com.br/no
+ ticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios
+ -sesi-de-robotica/
 URL:https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-c
  alendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-b89e5adab52f21e7@noic.com.br
-DTSTAMP:20261116T195507Z
+DTSTAMP:20261117T185111Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270322
-SUMMARY:First Robotics Competition (FRC): 9° Festival SESI de Robótica -
-  FRC
-DESCRIPTION:Departamento: Robótica\nEdição: 9\nMarco: final\nEvidência:
-  O evento nacional acontecerá em Salvador\, entre os dias 18 e 21 de mar
- ço de 2027.\nFonte oficial: https://noticias.portaldaindustria.com.br/not
- icias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios-
- sesi-de-robotica/
+SUMMARY:First Robotics Competition (FRC): 9° Festival SESI de Robótica
+DESCRIPTION:Departamento: Robótica\nEdição: 2027\nMarco: final\nEvidênc
+ ia: O evento nacional acontecerá em Salvador\, entre os dias 18 e 21 de m
+ arço de 2027\nFonte oficial: https://noticias.portaldaindustria.com.br/no
+ ticias/educacao/confira-o-calendario-de-competicoes-regionais-dos-torneios
+ -sesi-de-robotica/
 URL:https://noticias.portaldaindustria.com.br/noticias/educacao/confira-o-c
  alendario-de-competicoes-regionais-dos-torneios-sesi-de-robotica/
 STATUS:CONFIRMED
@@ -9657,7 +10540,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-33f046e33df1f5f1@noic.com.br
-DTSTAMP:20261116T200106Z
+DTSTAMP:20261117T184811Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270502
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -9670,7 +10553,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-3f6da8971b5d072a@noic.com.br
-DTSTAMP:20261116T200106Z
+DTSTAMP:20261117T184811Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270502
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -9683,7 +10566,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-6af51e10b2703a81@noic.com.br
-DTSTAMP:20261116T200106Z
+DTSTAMP:20261117T184811Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270502
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -9696,7 +10579,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-92624cb45c8b4e7f@noic.com.br
-DTSTAMP:20261116T200106Z
+DTSTAMP:20261117T184811Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270502
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -9709,7 +10592,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-cd9c28d8dda8d88c@noic.com.br
-DTSTAMP:20261116T200106Z
+DTSTAMP:20261117T184811Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270502
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -9722,7 +10605,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-d01e998be2bee489@noic.com.br
-DTSTAMP:20261116T200106Z
+DTSTAMP:20261117T184811Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270502
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -9735,7 +10618,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-e30359e81e6f1c20@noic.com.br
-DTSTAMP:20261116T200106Z
+DTSTAMP:20261117T184811Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270502
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -9748,7 +10631,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-e3ca306ec0a58f13@noic.com.br
-DTSTAMP:20261116T200106Z
+DTSTAMP:20261117T184811Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270502
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti
@@ -9762,7 +10645,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-f610ec17600924c5@noic.com.br
-DTSTAMP:20261116T200106Z
+DTSTAMP:20261117T184811Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270502
 SUMMARY:First Robotics Competition (FRC): FIRST Championship - FIRST Roboti

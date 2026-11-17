@@ -22,17 +22,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-099ecc91af859cef@noic.com.br
-DTSTAMP:20261117T002352Z
+DTSTAMP:20261117T190202Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:MOBFOG: Data limite para inscrição dos alunos na OBA/OBAFOG
 DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: registration\nEv
  idência: Data limite para inscrição dos alunos na OBA/OBAFOG: até dia
   01/05/26.\nFonte oficial: https://sistema.oba.org.br/sisglob/sisglob_arqu
- ivos/2026/REGULAMENTO%20DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%207%20-
+ ivos/2026/REGULAMENTO%20DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%203%20-
  %202026-compactado.pdf
 URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20
- DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%207%20-%202026-compactado.pdf
+ DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%203%20-%202026-compactado.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -83,16 +83,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-216a55273fbefb70@noic.com.br
-DTSTAMP:20261117T002352Z
+DTSTAMP:20261117T190202Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:MOBFOG: Data limite para lançar os foguetes da 20ª OBAFOG
-DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: deadline\nEvidê
- ncia: Data limite para lançamento de Foguetes: 15/05/2026.\nFonte oficial
- : https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20D
- A%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%207%20-%202026-compactado.pdf
+DESCRIPTION:Departamento: Foguetes\nEdição: 2026\nMarco: round\nEvidênci
+ a: Data limite para lançamento de Foguetes: 15/05/2026.\nFonte oficial: h
+ ttps://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20DA%2
+ 020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%203%20-%202026-compactado.pdf
 URL:https://sistema.oba.org.br/sisglob/sisglob_arquivos/2026/REGULAMENTO%20
- DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%207%20-%202026-compactado.pdf
+ DA%2020%C2%AA%20OBAFOG%20PARA%20O%20MODELO%203%20-%202026-compactado.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

@@ -6,17 +6,6 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:America/Sao_Paulo
 X-WR-CALNAME:OIAQ — Calendário Olímpico do NOIC
 BEGIN:VEVENT
-UID:noic-dccf2730aed3e726@noic.com.br
-DTSTAMP:20261116T195644Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:OIAQ: Olimpíada Iberoamericana de Química - Fortaleza (OIAQ)
-DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
- a: 2026-10-13\nFonte oficial: https://obquimica.org/calendario
-URL:https://obquimica.org/calendario
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-e9e36b82ea5bda10@noic.com.br
 DTSTAMP:20261116T200518Z
 DTSTART;VALUE=DATE:20261013
@@ -38,6 +27,17 @@ DESCRIPTION:Departamento: Química\nEdição: 30\nMarco: results\nEvidênci
  a: Premiação em 19 de outubro Medalhas da OIAQ e prêmios\nFonte oficial
  : https://oiaqfortaleza.com/
 URL:https://oiaqfortaleza.com/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-dccf2730aed3e726@noic.com.br
+DTSTAMP:20261117T185112Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:OIAQ: Olimpíada Iberoamericana de Química - Fortaleza (OIAQ)
+DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
+ a: 2026-10-19\nFonte oficial: https://obquimica.org/calendario/
+URL:https://obquimica.org/calendario/
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

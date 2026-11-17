@@ -21,15 +21,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-92be219b07ad8175@noic.com.br
-DTSTAMP:20261116T195720Z
+DTSTAMP:20261117T185308Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260906
 SUMMARY:Olimpíada Ibero-Americana de Biologia (OIAB): 19º OIAB
-DESCRIPTION:Departamento: Biologia\nEdição: 2026\nMarco: final\nEvidênci
- a: 19º OIAB\, que ocorrerá no Brasil entre os dias 31 de agosto e 05 de
-  setembro de 2026.\nFonte oficial: https://olimpiadasdebiologia.butantan.g
- ov.br/fases-e-inscricoes
-URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
+DESCRIPTION:Departamento: Biologia\nEdição: 19º\nMarco: exam\nEvidência
+ : 19º OIAB\, que ocorrerá no Brasil entre os dias 31 de agosto e 05 de s
+ etembro de 2026.\nFonte oficial: https://olimpiadasdebiologia.butantan.gov
+ .br/cronograma
+URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
