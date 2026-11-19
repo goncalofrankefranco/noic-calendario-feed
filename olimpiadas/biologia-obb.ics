@@ -444,20 +444,6 @@ URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-08bf94e01e14d06a@noic.com.br
-DTSTAMP:20261117T185308Z
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260509
-SUMMARY:Olimpíada Brasileira de Biologia (OBB): Capacitação/Seletiva par
- a Olimpíadas Internacionais - Plataforma Virtual
-DESCRIPTION:Departamento: Biologia\nEdição: XXII\nMarco: other\nEvidênci
- a: CAPACITAÇÃO/SELETIVA PARA OLIMPÍADAS INTERNACIONAIS (Data: 07 e 08/0
- 5/2026 na plataforma virtual\nFonte oficial: https://olimpiadasdebiologia.
- butantan.gov.br/cronograma
-URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-a6f2cde594e81128@noic.com.br
 DTSTAMP:20261116T195720Z
 DTSTART;VALUE=DATE:20260507
@@ -495,19 +481,6 @@ DESCRIPTION:Departamento: Biologia\nEdição: XXII OBB\nMarco: selection\nE
  vidência: e de 11 a 16/05 na modalidade presencial\nFonte oficial: https:
  //olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
 URL:https://olimpiadasdebiologia.butantan.gov.br/fases-e-inscricoes
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-d3c780f1ea0a0cc0@noic.com.br
-DTSTAMP:20261117T185308Z
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260517
-SUMMARY:Olimpíada Brasileira de Biologia (OBB): Capacitação/Seletiva par
- a Olimpíadas Internacionais - Modalidade Presencial
-DESCRIPTION:Departamento: Biologia\nEdição: XXII\nMarco: other\nEvidênci
- a: e de 11 a 16/05 na modalidade presencial)\nFonte oficial: https://olimp
- iadasdebiologia.butantan.gov.br/cronograma
-URL:https://olimpiadasdebiologia.butantan.gov.br/cronograma
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

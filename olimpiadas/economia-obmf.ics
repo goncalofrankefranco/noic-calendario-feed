@@ -322,6 +322,19 @@ URL:https://www.seletaeducacao.com.br/obmf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-c6518c641bdc66d9@noic.com.br
+DTSTAMP:20261116T201907Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:OBMF: Aplicação da Prova - OBMF 2026.2
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: exam\nEvidênc
+ ia: Prova online 30/09/2026\nFonte oficial: https://docs.google.com/docume
+ nt/d/1sTdwEOgzgkkcJNg3ge88TxaHb65QiYOCJuJy0EnmUOk/edit?usp=sharing
+URL:https://docs.google.com/document/d/1sTdwEOgzgkkcJNg3ge88TxaHb65QiYOCJuJ
+ y0EnmUOk/edit?usp=sharing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-94b79cdf373db69a@noic.com.br
 DTSTAMP:20261116T201907Z
 DTSTART;VALUE=DATE:20261001
@@ -331,6 +344,19 @@ DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: submission\nEv
  idência: Período de Recursos 01/10/2026 a 02/10/2026\nFonte oficial: htt
  ps://docs.google.com/document/d/1sTdwEOgzgkkcJNg3ge88TxaHb65QiYOCJuJy0EnmU
  Ok/edit?usp=sharing
+URL:https://docs.google.com/document/d/1sTdwEOgzgkkcJNg3ge88TxaHb65QiYOCJuJ
+ y0EnmUOk/edit?usp=sharing
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-935d8b1f913b44d7@noic.com.br
+DTSTAMP:20261116T201907Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:OBMF: Divulgação dos Resultados e Certificados - OBMF 2026.2
+DESCRIPTION:Departamento: Economia\nEdição: 2026.2\nMarco: results\nEvid
+ ência: Resultados 07/10/2026\nFonte oficial: https://docs.google.com/docu
+ ment/d/1sTdwEOgzgkkcJNg3ge88TxaHb65QiYOCJuJy0EnmUOk/edit?usp=sharing
 URL:https://docs.google.com/document/d/1sTdwEOgzgkkcJNg3ge88TxaHb65QiYOCJuJ
  y0EnmUOk/edit?usp=sharing
 STATUS:CONFIRMED

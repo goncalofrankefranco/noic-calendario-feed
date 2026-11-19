@@ -173,6 +173,19 @@ URL:https://ftc-events.firstinspires.org/2026/region/BR
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-1ba4eb330cb5efd1@noic.com.br
+DTSTAMP:20261118T181555Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270131
+SUMMARY:FIRST Tech Challenge (FTC): Seletiva Regional- Paraíba
+DESCRIPTION:Departamento: Robótica\nEdição: 2027\nMarco: round\nEvidênc
+ ia: BRCGQ2 Seletiva Regional- Paraíba Campina Grande\, PB\, Brazil 1/29/2
+ 7 - 1/30/27\nFonte oficial: https://ftc-events.firstinspires.org/2026/regi
+ on/BR
+URL:https://ftc-events.firstinspires.org/2026/region/BR
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-51033f063e2922bc@noic.com.br
 DTSTAMP:20261116T200115Z
 DTSTART;VALUE=DATE:20270130

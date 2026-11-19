@@ -41,4 +41,77 @@ DESCRIPTION:Departamento: Matemática\nEdição: 2026\nMarco: results\nEvid
 URL:https://www.cangurudematematicabrasil.com.br/
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:noic-c22f89053a0bad33@noic.com.br
+DTSTAMP:20261118T181947Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Canguru de Matemática: Início das inscrições Canguru de Matemá
+ tica 2027
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: registration\
+ nEvidência: Inscrições 17/11/2026\nFonte oficial: https://www.cangurude
+ matematicabrasil.com.br/
+URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-eca3c1d6e217deca@noic.com.br
+DTSTAMP:20261118T181947Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Canguru de Matemática: Aplicação das Provas - Data oficial
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: exam\nEvidên
+ cia: Aplicação das Provas Data oficial 18/03/2027\nFonte oficial: https:
+ //www.cangurudematematicabrasil.com.br/
+URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-19ccab5378a73288@noic.com.br
+DTSTAMP:20261118T181947Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270325
+SUMMARY:Canguru de Matemática: Aplicação das Provas - Período estendido
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: exam\nEvidên
+ cia: Ou de 19 a 24/03/2027\nFonte oficial: https://www.cangurudematematica
+ brasil.com.br/
+URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-0578d686f405e092@noic.com.br
+DTSTAMP:20261118T181947Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Canguru de Matemática: Abertura da venda de medalhas Canguru 2027
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: other\nEvidê
+ ncia: Venda de Medalhas 01/06/2027\nFonte oficial: https://www.cangurudema
+ tematicabrasil.com.br/
+URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-5a8f428d16b39c25@noic.com.br
+DTSTAMP:20261118T181947Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Canguru de Matemática: Divulgação dos Resultados
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: results\nEvid
+ ência: Resultados 01/06/2027\nFonte oficial: https://www.cangurudematemat
+ icabrasil.com.br/
+URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noic-f9ebf66199f392a3@noic.com.br
+DTSTAMP:20261118T181947Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:Canguru de Matemática: Relatórios de Desempenho
+DESCRIPTION:Departamento: Matemática\nEdição: 2027\nMarco: results\nEvid
+ ência: Relatórios de Desempenho 10/08/2027\nFonte oficial: https://www.c
+ angurudematematicabrasil.com.br/
+URL:https://www.cangurudematematicabrasil.com.br/
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR

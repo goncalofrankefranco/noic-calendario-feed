@@ -19,19 +19,6 @@ URL:https://obquimica.org/noticias/informacoes-importantes-prova-obqjr-2026
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:noic-3b2f26e2ff779d33@noic.com.br
-DTSTAMP:20261117T185112Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:OBQJr: Olimpíada Brasileira de Química Júnior (OBQJr)
-DESCRIPTION:Departamento: Química\nEdição: 2026\nMarco: other\nEvidênci
- a: 2026-08-21\nFonte oficial: https://obquimica.org/calendario/index/olimp
- iadas-cientificas-nacionais-
-URL:https://obquimica.org/calendario/index/olimpiadas-cientificas-nacionais
- -
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:noic-e4e77030b708dc9f@noic.com.br
 DTSTAMP:20261003T182254Z
 DTSTART:20260821T110000Z

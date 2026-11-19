@@ -269,6 +269,19 @@ URL:https://www.obm.org.br/informacoes-gerais/calendario
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:noic-56889179f5ea92b6@noic.com.br
+DTSTAMP:20261117T002627Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261210
+SUMMARY:Olimpíada Brasileira de Matemática: 48ª OBM: Pedidos de revisão
+  de nota
+DESCRIPTION:Departamento: Matemática\nEdição: 48ª\nMarco: results\nEvid
+ ência: 48ª Olimpíada Brasileira de Matemática (OBM) Pedidos de revisã
+ o de nota 7 a 9 de dezembro\nFonte oficial: https://www.obm.org.br/
+URL:https://www.obm.org.br/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:noic-1c04287ede37366b@noic.com.br
 DTSTAMP:20261115T164612Z
 DTSTART;VALUE=DATE:20261214

@@ -110,31 +110,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-12928c8c10a6c861@noic.com.br
-DTSTAMP:20261117T184745Z
-DTSTART:20260531T170000Z
-DTEND:20260531T170000Z
+DTSTAMP:20261119T002017Z
+DTSTART:20260531T200000Z
+DTEND:20260531T200000Z
 SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Realização da Olim
  píada Local Descentralizada
 DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: exam\nEvid
- ência: Realização da Olimpíada Local Descentralizada:31 de maio de 202
- 6 às 17h\nFonte oficial: https://brazilianbrainbee.org/programacao/
+ ência: Realização da Olimpíada Local Descentralizada: 31 de maio de 20
+ 26 às 17h\nFonte oficial: https://brazilianbrainbee.org/programacao/
 URL:https://brazilianbrainbee.org/programacao/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-edc89beb5994a941@noic.com.br
-DTSTAMP:20261116T195455Z
-DTSTART:20260607T200000Z
-DTEND:20260607T200000Z
-SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Primeira fase da XIV
-  Olimpíada Brasileira de Neurociências
-DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: round\nEvid
- ência: Primeira fase da XIV Olimpíada Brasileira de Neurociências (virt
- ual - Portal do Candidato) 07 de junho de 2026 às 17h\nFonte oficial: htt
- ps://brazilianbrainbee.org/wp-content/uploads/2026/02/2026-Edital-XIV-Braz
- ilian-Brain-Bee.docx.pdf
-URL:https://brazilianbrainbee.org/wp-content/uploads/2026/02/2026-Edital-XI
- V-Brazilian-Brain-Bee.docx.pdf
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -166,30 +150,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:noic-5297e0a54f15dcb5@noic.com.br
-DTSTAMP:20261117T184745Z
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Realização da prim
- eira fase
+DTSTAMP:20261119T002017Z
+DTSTART:20260628T200000Z
+DTEND:20260628T200000Z
+SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Primeira fase nacion
+ al da XIV OBN (virtual)
 DESCRIPTION:Departamento: Neurociência\nEdição: 2026\nMarco: round\nEvid
- ência: Realização da primeira fase:28 de junho de 2026\nFonte oficial:
-  https://brazilianbrainbee.org/programacao/
-URL:https://brazilianbrainbee.org/programacao/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:noic-586b8901a630e162@noic.com.br
-DTSTAMP:20261117T184805Z
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-SUMMARY:Olimpíada Brasileira de Neurociências (OBN): Primeira fase da eta
- pa nacional da XIV Olimpíada Brasileira de Neurociências
-DESCRIPTION:Departamento: Neurociência\nEdição: XIV\nMarco: round\nEvid
- ência: primeira fase da etapa nacional\, realizada de forma virtual em 28
- de junho de 2026\nFonte oficial: https://brazilianbrainbee.org/resultado-d
- a-xiv-olimpiada-brasileira-de-neurociencias-2026/
-URL:https://brazilianbrainbee.org/resultado-da-xiv-olimpiada-brasileira-de-
- neurociencias-2026/
+ ência: a Primeira Etapa da Fase Nacional da XIV Olimpíada Brasileira de
+  Neurociências será realizada em nova data: 28 de junho de 2026\, às 17
+ h\, pelo Portal do Candidato\nFonte oficial: https://brazilianbrainbee.org
+ /comunicado-oficial-adiamento-da-primeira-etapa-da-fase-nacional-da-xiv-ol
+ impiada-brasileira-de-neurociencias/
+URL:https://brazilianbrainbee.org/comunicado-oficial-adiamento-da-primeira-
+ etapa-da-fase-nacional-da-xiv-olimpiada-brasileira-de-neurociencias/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
